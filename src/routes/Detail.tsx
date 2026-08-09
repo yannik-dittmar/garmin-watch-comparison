@@ -1,6 +1,7 @@
 import { useEffect, useMemo, useState } from 'react';
 import { Link, useParams } from 'react-router-dom';
 import { useCatalog } from '../app/CatalogProvider';
+import { formatSnapshot } from '../app/Layout';
 import { MAX_COMPARE, useCatalogState } from '../app/state';
 import { useFavourites } from '../app/favourites';
 import { loadModelDetail } from '../data/load';
@@ -242,7 +243,7 @@ export function DetailRoute() {
             <p className="mt-3 text-xs text-ink-muted">
               Erfasst am{' '}
               <span className="num">
-                {new Date((detail ?? summary)!.fetchedAt).toLocaleString('de-DE')}
+                {formatSnapshot((detail ?? summary)!.fetchedAt)}
               </span>{' '}
               ·{' '}
               <a
@@ -380,13 +381,6 @@ export function DetailRoute() {
                 ))}
               </ul>
             </section>
-          )}
-
-          {detail && detail.missingImages.length > 0 && (
-            <p className="mt-4 text-xs text-ink-muted">
-              <span className="num">{detail.missingImages.length}</span> von Garmin veröffentlichte
-              Bilder konnten beim Erfassen nicht geladen werden.
-            </p>
           )}
         </div>
       </div>

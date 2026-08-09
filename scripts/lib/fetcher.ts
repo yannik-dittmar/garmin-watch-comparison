@@ -12,6 +12,8 @@ import { ALLOWED_HOSTS, HTTP_CACHE } from './paths.js';
  *   resumable and a re-run cheap
  * - a hard host allowlist: anything outside www.garmin.com / res.garmin.com throws,
  *   so "official sources only" is enforced by the code rather than by discipline
+ * - a per-run cookie jar, so a run is one session rather than ~108 unrelated
+ *   first-time visitors (design D7)
  */
 
 const USER_AGENT =
@@ -58,6 +60,37 @@ async function exists(file: string): Promise<boolean> {
 
 const sleep = (ms: number) => new Promise((r) => setTimeout(r, ms));
 
+/**
+ * Storage and replay, per host, for the lifetime of one run — deliberately not a
+ * cookie library. Cloudflare's `__cf_bm` is the cookie that matters here, and the
+ * pipeline talks to two known hosts over a few minutes, so domain matching, path
+ * scoping and expiry would be machinery with nothing to do (design D7).
+ */
+class CookieJar {
+  private readonly byHost = new Map<string, Map<string, string>>();
+
+  /** `set-cookie` values, as returned by `Headers.getSetCookie()`. */
+  store(host: string, setCookies: readonly string[]): void {
+    if (setCookies.length === 0) return;
+    const jar = this.byHost.get(host) ?? new Map<string, string>();
+    for (const line of setCookies) {
+      // Only the first `name=value` pair is the cookie; the rest are attributes.
+      const [pair] = line.split(';');
+      const eq = pair.indexOf('=');
+      if (eq <= 0) continue;
+      jar.set(pair.slice(0, eq).trim(), pair.slice(eq + 1).trim());
+    }
+    this.byHost.set(host, jar);
+  }
+
+  /** The `Cookie` header for a host, or null when nothing has been set yet. */
+  header(host: string): string | null {
+    const jar = this.byHost.get(host);
+    if (!jar || jar.size === 0) return null;
+    return [...jar].map(([name, value]) => `${name}=${value}`).join('; ');
+  }
+}
+
 export class Fetcher {
   private readonly concurrency: number;
   private readonly delayMs: number;
@@ -68,6 +101,7 @@ export class Fetcher {
   private active = 0;
   private queue: Array<() => void> = [];
   private lastStart = 0;
+  private readonly cookies = new CookieJar();
 
   /** Every request the run made — the audit trail for the provenance scenario. */
   readonly log: FetchStat[] = [];
@@ -136,7 +170,7 @@ export class Fetcher {
 
   /** Fetch as bytes. Cached responses never touch the network. */
   async raw(url: string, accept = '*/*'): Promise<{ body: Buffer; contentType: string }> {
-    this.assertAllowed(url);
+    const { host } = this.assertAllowed(url);
 
     const cached = await this.readCache(url);
     if (cached) {
@@ -157,6 +191,7 @@ export class Fetcher {
         try {
           const controller = new AbortController();
           const timer = setTimeout(() => controller.abort(), this.timeoutMs);
+          const cookie = this.cookies.header(host);
           let res: Response;
           try {
             res = await fetch(url, {
@@ -164,6 +199,7 @@ export class Fetcher {
                 'User-Agent': USER_AGENT,
                 Accept: accept,
                 'Accept-Language': 'de-DE,de;q=0.9,en;q=0.6',
+                ...(cookie ? { Cookie: cookie } : {}),
               },
               signal: controller.signal,
               redirect: 'follow',
@@ -171,6 +207,9 @@ export class Fetcher {
           } finally {
             clearTimeout(timer);
           }
+          // Stored before the status is judged: a 429 or a challenge is exactly
+          // the response that carries the cookie the retry needs to present.
+          this.cookies.store(host, res.headers.getSetCookie());
 
           if (res.status === 429 || res.status >= 500) {
             const retryAfter = Number(res.headers.get('retry-after'));

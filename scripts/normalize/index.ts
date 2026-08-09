@@ -5,6 +5,7 @@ import { ensureDirs, DATA, LOCALE, MODELS, RAW_PRODUCTS, REPORTS, STORE_CODE } f
 import { cleanLabel } from './field-map.js';
 import { deriveLineage } from './lineage.js';
 import { normalizeRows } from './normalize.js';
+import { assertImageHost } from '../lib/images.js';
 import { FIELD_IDS } from '../../src/data/schema.js';
 import type { CatalogModel, ModelDetail, RawProduct, SnapshotMeta } from '../../src/data/contract.js';
 
@@ -74,6 +75,16 @@ async function main(): Promise<void> {
     const { specs, consumed } = normalizeRows(product.specs);
     const lineage = deriveLineage(product.name);
 
+    // Last writer before publication, so the host constraint is asserted once
+    // more here rather than trusted from ingestion (design D9).
+    assertImageHost(product.id, [
+      ...product.images,
+      ...product.variants.flatMap((v) => v.images),
+    ]);
+    if (product.images.length === 0) {
+      reporter.add('image-failure', `${product.id} ${product.name}`, 'Garmin publishes no image for this model');
+    }
+
     for (const row of product.specs) {
       const label = cleanLabel(row.label);
       if (consumed.has(label)) continue;
@@ -115,7 +126,6 @@ async function main(): Promise<void> {
       specs,
       sourceUrl: product.sourceUrl,
       fetchedAt: product.fetchedAt,
-      missingImages: product.missingImages ?? [],
     });
   }
 

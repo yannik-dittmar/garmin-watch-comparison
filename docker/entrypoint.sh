@@ -13,17 +13,19 @@ cd /app
 say() { echo "==> $*"; }
 
 if [ "${REFRESH:-0}" = "1" ] || [ ! -f data/catalog.json ]; then
+  # The response cache has no TTL, so a stored price is served forever. A refresh
+  # that reused it could not detect the change it exists to detect, which is why
+  # REFRESH=1 bypasses it and a first fetch (with no cache to speak of) does not
+  # need to (design D8).
   if [ "${REFRESH:-0}" = "1" ]; then
-    say "REFRESH=1 — refetching the snapshot from garmin.com"
+    say "REFRESH=1 — refetching the snapshot from garmin.com, ignoring the response cache"
+    npm run ingest -- --no-cache
   else
     say "no snapshot at data/catalog.json — fetching one from garmin.com"
-    say "expect 10-15 minutes: the fetchers are rate-limited on purpose"
+    say "expect a few minutes: the fetchers are rate-limited on purpose"
+    npm run ingest
   fi
 
-  # Order matters: images rewrites the remote URLs in data/raw/products/*.json to
-  # local paths, and normalize reads those records afterwards.
-  npm run ingest
-  npm run images
   npm run normalize
 
   # A new snapshot invalidates the bundle it was baked into.

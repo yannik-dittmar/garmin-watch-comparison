@@ -1,7 +1,12 @@
 /*
- * Self-hosted so the built site renders identically with no network (design D10,
- * `catalog-ingestion` — static runtime). Files are copied out of the @fontsource
- * packages into public/fonts/; both are OFL, licences sit beside them.
+ * Loaded from jsDelivr's npm mirror rather than shipped with the site, so the repo
+ * and the image carry no binary font assets. The files are the @fontsource packages'
+ * own woff2s — the same bytes that used to be vendored into public/fonts/ — pinned to
+ * @5.3.0 so an upstream release cannot silently change the rendering. Both families
+ * are OFL; the licences travel inside the packages.
+ *
+ * This is the one runtime dependency on an outside host: with jsDelivr unreachable the
+ * site still works, but `font-display: swap` leaves it in the fallback stack.
  *
  * latin-ext is not optional here: `fēnix` needs U+0113 and the German ẞ lives there too.
  */
@@ -13,7 +18,7 @@
   font-display: swap;
   font-weight: 100 900;
   font-stretch: 62% 125%;
-  src: url('/fonts/archivo-latin-standard-normal.woff2') format('woff2-variations');
+  src: url('https://cdn.jsdelivr.net/npm/@fontsource-variable/archivo@5.3.0/files/archivo-latin-standard-normal.woff2') format('woff2-variations');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC,
     U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215,
     U+FEFF, U+FFFD;
@@ -24,7 +29,7 @@
   font-display: swap;
   font-weight: 100 900;
   font-stretch: 62% 125%;
-  src: url('/fonts/archivo-latin-ext-standard-normal.woff2') format('woff2-variations');
+  src: url('https://cdn.jsdelivr.net/npm/@fontsource-variable/archivo@5.3.0/files/archivo-latin-ext-standard-normal.woff2') format('woff2-variations');
   unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304,
     U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB,
     U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
@@ -36,7 +41,7 @@
   font-style: normal;
   font-display: swap;
   font-weight: 400;
-  src: url('/fonts/ibm-plex-sans-latin-400-normal.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/npm/@fontsource/ibm-plex-sans@5.3.0/files/ibm-plex-sans-latin-400-normal.woff2') format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC,
     U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215,
     U+FEFF, U+FFFD;
@@ -46,7 +51,7 @@
   font-style: normal;
   font-display: swap;
   font-weight: 400;
-  src: url('/fonts/ibm-plex-sans-latin-ext-400-normal.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/npm/@fontsource/ibm-plex-sans@5.3.0/files/ibm-plex-sans-latin-ext-400-normal.woff2') format('woff2');
   unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304,
     U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB,
     U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
@@ -56,7 +61,7 @@
   font-style: normal;
   font-display: swap;
   font-weight: 500;
-  src: url('/fonts/ibm-plex-sans-latin-500-normal.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/npm/@fontsource/ibm-plex-sans@5.3.0/files/ibm-plex-sans-latin-500-normal.woff2') format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC,
     U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215,
     U+FEFF, U+FFFD;
@@ -66,7 +71,7 @@
   font-style: normal;
   font-display: swap;
   font-weight: 500;
-  src: url('/fonts/ibm-plex-sans-latin-ext-500-normal.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/npm/@fontsource/ibm-plex-sans@5.3.0/files/ibm-plex-sans-latin-ext-500-normal.woff2') format('woff2');
   unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304,
     U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB,
     U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
@@ -76,7 +81,7 @@
   font-style: normal;
   font-display: swap;
   font-weight: 600;
-  src: url('/fonts/ibm-plex-sans-latin-600-normal.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/npm/@fontsource/ibm-plex-sans@5.3.0/files/ibm-plex-sans-latin-600-normal.woff2') format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC,
     U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215,
     U+FEFF, U+FFFD;
@@ -86,7 +91,7 @@
   font-style: normal;
   font-display: swap;
   font-weight: 600;
-  src: url('/fonts/ibm-plex-sans-latin-ext-600-normal.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/npm/@fontsource/ibm-plex-sans@5.3.0/files/ibm-plex-sans-latin-ext-600-normal.woff2') format('woff2');
   unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304,
     U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB,
     U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
@@ -96,7 +101,7 @@
   font-style: normal;
   font-display: swap;
   font-weight: 700;
-  src: url('/fonts/ibm-plex-sans-latin-700-normal.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/npm/@fontsource/ibm-plex-sans@5.3.0/files/ibm-plex-sans-latin-700-normal.woff2') format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC,
     U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215,
     U+FEFF, U+FFFD;
@@ -106,7 +111,7 @@
   font-style: normal;
   font-display: swap;
   font-weight: 700;
-  src: url('/fonts/ibm-plex-sans-latin-ext-700-normal.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/npm/@fontsource/ibm-plex-sans@5.3.0/files/ibm-plex-sans-latin-ext-700-normal.woff2') format('woff2');
   unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304,
     U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB,
     U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
@@ -118,7 +123,7 @@
   font-style: normal;
   font-display: swap;
   font-weight: 400;
-  src: url('/fonts/ibm-plex-mono-latin-400-normal.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/npm/@fontsource/ibm-plex-mono@5.3.0/files/ibm-plex-mono-latin-400-normal.woff2') format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC,
     U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215,
     U+FEFF, U+FFFD;
@@ -128,7 +133,7 @@
   font-style: normal;
   font-display: swap;
   font-weight: 400;
-  src: url('/fonts/ibm-plex-mono-latin-ext-400-normal.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/npm/@fontsource/ibm-plex-mono@5.3.0/files/ibm-plex-mono-latin-ext-400-normal.woff2') format('woff2');
   unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304,
     U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB,
     U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
@@ -138,7 +143,7 @@
   font-style: normal;
   font-display: swap;
   font-weight: 500;
-  src: url('/fonts/ibm-plex-mono-latin-500-normal.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/npm/@fontsource/ibm-plex-mono@5.3.0/files/ibm-plex-mono-latin-500-normal.woff2') format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC,
     U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215,
     U+FEFF, U+FFFD;
@@ -148,7 +153,7 @@
   font-style: normal;
   font-display: swap;
   font-weight: 500;
-  src: url('/fonts/ibm-plex-mono-latin-ext-500-normal.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/npm/@fontsource/ibm-plex-mono@5.3.0/files/ibm-plex-mono-latin-ext-500-normal.woff2') format('woff2');
   unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304,
     U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB,
     U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
@@ -158,7 +163,7 @@
   font-style: normal;
   font-display: swap;
   font-weight: 600;
-  src: url('/fonts/ibm-plex-mono-latin-600-normal.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/npm/@fontsource/ibm-plex-mono@5.3.0/files/ibm-plex-mono-latin-600-normal.woff2') format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC,
     U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215,
     U+FEFF, U+FFFD;
@@ -168,7 +173,7 @@
   font-style: normal;
   font-display: swap;
   font-weight: 600;
-  src: url('/fonts/ibm-plex-mono-latin-ext-600-normal.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/npm/@fontsource/ibm-plex-mono@5.3.0/files/ibm-plex-mono-latin-ext-600-normal.woff2') format('woff2');
   unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304,
     U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB,
     U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;

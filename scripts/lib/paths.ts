@@ -11,7 +11,6 @@ export const HTTP_CACHE = path.join(RAW, '.http-cache');
 export const MODELS = path.join(DATA, 'models');
 export const REPORTS = path.join(DATA, 'reports');
 export const PUBLIC = path.join(ROOT, 'public');
-export const IMG = path.join(PUBLIC, 'img');
 export const FIXTURES = path.join(ROOT, 'tests', 'fixtures');
 
 export const LOCALE = 'de-DE';
@@ -23,6 +22,13 @@ export const GARMIN_RES = 'https://res.garmin.com';
 
 /** The only hosts ingestion is allowed to contact (`catalog-ingestion` — provenance). */
 export const ALLOWED_HOSTS = new Set(['www.garmin.com', 'res.garmin.com']);
+
+/**
+ * The only host a published image URL may point at (`catalog-ingestion` — remote
+ * image references). Images are referenced rather than mirrored, so this is what
+ * the visitor's browser will actually contact.
+ */
+export const IMAGE_HOST = 'res.garmin.com';
 
 export async function ensureDirs(...dirs: string[]): Promise<void> {
   for (const dir of dirs) await mkdir(dir, { recursive: true });

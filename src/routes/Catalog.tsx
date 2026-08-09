@@ -1,5 +1,6 @@
 import { useMemo, useState } from 'react';
 import { useCatalog } from '../app/CatalogProvider';
+import { formatSnapshot } from '../app/Layout';
 import { useCatalogState } from '../app/state';
 import { useFavourites } from '../app/favourites';
 import { FilterRail } from '../components/FilterRail';
@@ -164,7 +165,7 @@ export function CatalogRoute() {
                 {' '}
                 · Preise mit Stand{' '}
                 <span className="num">
-                  {new Date(catalog.meta.generatedAt).toLocaleDateString('de-DE')}
+                  {formatSnapshot(catalog.meta.generatedAt, false)}
                 </span>
               </>
             )}

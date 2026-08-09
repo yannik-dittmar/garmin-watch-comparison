@@ -64,9 +64,11 @@ function snapshotAssets(): Plugin {
 }
 
 export default defineConfig({
-  // Root-relative: the app fetches its snapshot with `fetch('/data/…')`, so it needs an
-  // http origin either way (`vite preview` or any static server). HashRouter still means
-  // no server-side SPA rewrite is required.
+  // The default is the Docker target, where nginx serves at the domain root. It is not
+  // a constant: the Pages build overrides it with `--base=/<repo>/`, because a project
+  // page is served from a subdirectory (design D5). Everything downstream already
+  // respects it — `src/data/load.ts` resolves the snapshot through
+  // `import.meta.env.BASE_URL`, and HashRouter needs no server-side rewrite either way.
   base: '/',
   plugins: [react(), tailwindcss(), snapshotAssets()],
   build: {

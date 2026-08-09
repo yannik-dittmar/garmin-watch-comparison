@@ -1,0 +1,8 @@
+# Crawling is deliberately allowed. The pages carry
+# <meta name="robots" content="noindex, nofollow">, and a crawler that is blocked
+# here never fetches the page and so never reads that instruction — the URL can
+# still end up indexed from an external link. Allowing the fetch is what makes the
+# noindex readable (design D12).
+
+User-agent: *
+Allow: /

@@ -1,41 +1,40 @@
-# Garmin Watch Index
+# Garmin Smartwatch Vergleich
 
-A private, offline comparison site over Garmin's current wrist smartwatch catalog.
+A static comparison site over Garmin's current wrist smartwatch catalog, published to
+GitHub Pages and refreshed by a scheduled workflow.
 
 garmin.com spreads ~100 wrist models across a dozen category pages, its own compare tool
 caps out at a handful of watches, and each model's ~260-row spec table can only be read one
-product at a time. This builds a local snapshot of the whole catalog and puts it in one
-screen: faceted browse, a 2–4 model comparison matrix, a full per-model spec dump, and five
+product at a time. This builds a snapshot of the whole catalog and puts it in one screen:
+faceted browse, a 2–4 model comparison matrix, a full per-model spec dump, and five
 analysis views.
 
-A full snapshot is **83 models, 190 variants, 1 641 images**, locale `de-DE`, store `DE`.
-It is generated, not committed — the first run builds it.
+Current snapshot: **83 models, 190 variants**, locale `de-DE`, store `DE`.
 
-> **Private use only.** Garmin's text, specifications and imagery are reproduced here for
-> personal use. This site is not to be published, and it is not affiliated with Garmin.
+> **Unofficial.** Not affiliated with, endorsed by, or connected to Garmin. Product names,
+> specifications and imagery are Garmin's property and are shown for comparison only, with
+> no guarantee of accuracy or currency. The site carries the full disclaimer at `#/legal`
+> and is marked `noindex`.
 
 ## Requirements
 
 - **Node.js ≥ 22.12** (or 20.19+) and npm — Vite 7's engine requirement
-- Network access to `www.garmin.com` and `res.garmin.com`, but only when refreshing the
-  snapshot. The site itself never contacts Garmin.
-- ~120 MB of disk for the snapshot and imagery, plus ~96 MB if you keep the HTTP cache
+- Network access to `www.garmin.com` when refreshing the snapshot
+- ~110 MB of disk for the snapshot, of which ~96 MB is the optional HTTP cache
+
+**The site is not offline-capable.** Catalog data — every model, spec and price — is served
+from the site's own origin, but the browser loads product imagery from `res.garmin.com` and
+web fonts from `cdn.jsdelivr.net` directly. Both are stated in the disclaimer. Without them
+the site still works: imagery falls back to a labelled placeholder and type falls back to
+the system stack.
 
 ## Quick start
 
-```bash
-docker compose up      # http://localhost:8080
-```
-
-That is the whole workflow. The container finds no snapshot on the first run, scrapes one,
-builds the site from it and serves it — 10 to 15 minutes, with progress in the log. It lands
-on the `./data` and `./public/img` mounts, so every later `up` serves in seconds.
-
-Or with Node directly:
+The snapshot is committed (`data/catalog.json`, `data/meta.json`, `data/models/`), so you
+can go straight to the site:
 
 ```bash
 npm install
-npm run ingest && npm run images && npm run normalize   # first run only
 npm run dev            # http://localhost:5173
 ```
 
@@ -46,25 +45,23 @@ npm run build
 npm run preview        # http://localhost:4173
 ```
 
-**The repository carries no snapshot.** `data/` and `public/img/` are generated and
-git-ignored: scraped third-party content is not source, and 61 MB of imagery that changes on
-every refresh is not something git should be storing. Both are rebuilt by the pipeline.
-
 `npm run dev` serves the snapshot straight from `data/`; the build copies the three things
 the site actually reads (`catalog.json`, `meta.json`, `models/`) into `dist/data/`.
 
 ## Refreshing the snapshot
 
-Three stages, in this order. Only the first two touch the network.
+Two stages, in this order. Only the first touches the network.
 
 ```bash
 npm run ingest         # garmin.com  → data/raw/**
-npm run images         # res.garmin.com → public/img/**
 npm run normalize      # data/raw/**  → data/catalog.json, data/models/*.json
 ```
 
 A full refresh from a cold cache takes a few minutes; re-running `normalize` after a
 field-map change takes seconds and never re-fetches anything.
+
+Imagery is referenced, not downloaded: ingestion keeps Garmin's own `res.garmin.com` URLs
+in the records, and both stages fail the run if an image URL is ever on another host.
 
 ### Useful flags
 
@@ -94,9 +91,7 @@ Coverage is run output, not debug logging. After a refresh, check:
 | `data/reports/unmapped-labels.json` | Raw spec labels no normalized field consumed, classified `universal` / `candidate` / `niche`. A `candidate` is worth adding to the field map. |
 | `data/reports/sparse-fields.json` | Normalized fields empty for most models. A genuinely rare feature belongs here; a common one means a label pattern stopped matching. |
 | `data/reports/ingest.json` | Fetch failures and every product excluded from the catalog, with its reason. |
-| `data/reports/images.json` | Images that failed to download after retries. |
-
-`data/README.md` documents every generated file and which stage produces it.
+| `data/reports/normalize.json` | Regression-guard problems, plus models Garmin publishes no image for. |
 
 ## Tests
 
@@ -110,40 +105,93 @@ is not. The fixtures in `tests/fixtures/` cover one hazard each: a page carrying
 models at once, a qualified `Ja (…)`, a textual `Nein`, the multi-mode battery block,
 German decimal commas, and a model missing a whole section.
 
-## Docker
+## Deployment
 
-One image, one container, one command:
+GitHub Pages is the primary deployment; Docker below is a local option.
 
-```bash
-docker compose up                  # http://localhost:8080
-docker compose up --build          # after a code change
-REFRESH=1 docker compose up        # refetch the snapshot first
+`.github/workflows/scrape-and-publish.yml` is the whole cycle in one file: scrape →
+normalize → regression guard → commit the snapshot → build → deploy. It runs on a daily
+schedule, on `workflow_dispatch`, and on pushes that touch site code — where it skips the
+scrape entirely and republishes from the committed snapshot, so a CSS change never contacts
+Garmin.
+
+Two jobs, not one. `scrape` needs `contents: write` and nothing else; `publish` needs
+`pages: write` and `id-token: write`. They hand off through an artifact rather than a second
+checkout, so the build uses exactly what the scrape produced instead of racing its push.
+
+A project page is served from a subdirectory, so the base path is a build argument rather
+than a constant — `vite build --base=/<repo>/` in CI, plain `vite build` (base `/`) for
+Docker. `HashRouter` means no rewrite rules are needed either way.
+
+**Failure is safe.** The regression guard in `normalize` exits non-zero rather than
+overwriting a snapshot that got worse, so a blocked or broken scrape fails the run, publishes
+nothing, and leaves visitors on the last good deploy.
+
+To set it up: enable Pages with **Source: GitHub Actions**, run the workflow once via
+`workflow_dispatch`, then uncomment the `schedule:` block.
+
+### If Cloudflare blocks the scrape
+
+GitHub's runners are Azure datacenter ranges, and `www.garmin.com` runs Cloudflare bot
+management. If a `workflow_dispatch` run fails at the ingest step, move that job — and only
+that job — to a machine on a residential connection. It is one line:
+
+```yaml
+jobs:
+  scrape:
+    runs-on: ubuntu-latest      # → self-hosted
 ```
 
-`docker/entrypoint.sh` decides what a start means: no `data/catalog.json` (or `REFRESH=1`)
-means scrape, build, serve; otherwise straight to serve. nginx then gzips the snapshot
-(`catalog.json` is ~1 MB raw, ~37 KB gzipped) and pins the hashed assets and fonts for a year.
+Nothing else changes: `publish` stays on a GitHub runner, and the artifact handoff between
+them is why the two can live on different machines at all.
 
-Node stays in the runtime image rather than being dropped after a build stage, because the
-scrape has to happen before the build: `vite.config.ts` copies the snapshot into `dist/data/`,
-so a bundle built without one would serve an empty site.
+## Docker
 
-The `./data` and `./public/img` mounts are what make the scrape a one-time cost. They also
-carry `data/raw/.http-cache`, so a first run that fails partway resumes from the cache
-instead of refetching everything.
+```bash
+docker compose up site                    # http://localhost:8080
+```
 
-> Not yet run against a Docker daemon — this environment has none. Treat the first build as
-> unverified.
+One image, one container: Node and nginx both live in it, because the snapshot is baked into
+the bundle at build time (`vite.config.ts` copies `data/` into `dist/data/`), so the site
+cannot be built until the snapshot exists. On a cold volume that ordering can only be
+satisfied at container start — which is what `docker/entrypoint.sh` does.
+
+nginx gzips the snapshot (`catalog.json` is ~1 MB raw, ~37 KB gzipped) and pins the hashed
+assets for a year. It serves neither fonts nor imagery: both are fetched by the client from
+jsDelivr and `res.garmin.com`. Without those hosts the site still works — the system font
+stack and the labelled placeholder stand in.
+
+**The container needs a snapshot, and makes one if it finds none.** With the snapshot
+committed, `./data` is already populated and the first start serves in seconds. An empty
+mount makes it scrape garmin.com first:
+
+```bash
+docker compose up                         # scrapes only if data/catalog.json is absent
+REFRESH=1 docker compose up               # refetch first, ignoring the response cache
+```
+
+The `./data` mount is what makes the snapshot and its response cache survive the container.
+Without it every restart would scrape from scratch.
+
+To build and run the image directly:
+
+```bash
+docker build -t garmin-watch-index .
+docker run --rm -p 8080:80 -v "$PWD/data:/app/data" garmin-watch-index
+```
+
+> Not yet run against a Docker daemon — this environment has none. The Dockerfile is
+> written against the same commands used above, but treat the first build as unverified.
 
 ## Layout
 
 ```
 scripts/ingest/      stage 1   fetch     → data/raw/**            (cached, resumable)
-scripts/images/      stage 2b  download  → public/img/<id>/*.jpg
 scripts/normalize/   stage 2   map       → data/catalog.json, data/models/<id>.json
 src/data/            the frozen contract + the comparison schema
 src/                 the site (routes, charts, components)
-data/                generated snapshot, git-ignored (only its README is tracked)
+data/                generated; the normalized half is committed, data/raw/ is not
+.github/workflows/   the scheduled refresh and the Pages deploy
 tests/               parser tests + HTML fixtures
 ```
 

@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Produces a reproducible local snapshot of Garmin's current wrist-smartwatch catalog — model list, full published specifications, pricing, and imagery — sourced exclusively from official garmin.com endpoints, so the comparison site can run entirely offline against frozen data.
+Produces a reproducible local snapshot of Garmin's current wrist-smartwatch catalog — model list, full published specifications, pricing, and imagery — sourced exclusively from official garmin.com endpoints, so the comparison site serves all catalog content from frozen local data. Web fonts are the one exception and are fetched from a CDN; nothing else the site displays depends on a remote host.
 
 ## Requirements
 

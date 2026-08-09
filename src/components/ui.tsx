@@ -93,8 +93,18 @@ export function Price({ price, prefix }: { price: PriceValue | null; prefix?: st
 /* ------------------------------------------------------------------ */
 
 /**
- * Local images only. A model whose image could not be captured gets a labelled
- * placeholder rather than a broken image (`watch-detail` — images shown).
+ * The single owner of how a product image is loaded (design D10). Imagery is
+ * referenced from res.garmin.com rather than mirrored, so whether an image exists
+ * is no longer knowable when the snapshot is built: both "the snapshot records no
+ * image" and "the browser could not load it" resolve to the same labelled
+ * placeholder here (`catalog-ingestion` — unreachable imagery degrades
+ * gracefully; `watch-detail` — referenced image fails to load).
+ *
+ * The failure is remembered per URL rather than per mount, so the detail view's
+ * hero image recovers when the reader selects a variant whose image does load.
+ *
+ * `loading="lazy"` is load-bearing on the catalog grid: ~83 remote images at
+ * ~33 KB of WebP each is a first paint nobody should pay for up front.
  */
 export function ModelImage({
   src,
@@ -105,17 +115,17 @@ export function ModelImage({
   alt: string;
   className?: string;
 }) {
-  const [failed, setFailed] = useState(false);
+  const [failedUrl, setFailedUrl] = useState<string | null>(null);
   const url = imageUrl(src);
 
-  if (!url || failed) {
+  if (!url || failedUrl === url) {
     return (
       <div
         role="img"
-        aria-label={`${alt} — kein Bild erfasst`}
+        aria-label={`${alt} — kein Bild verfügbar`}
         className={`flex items-center justify-center border border-dashed border-rule bg-panel-sunken text-center text-[11px] text-ink-muted ${className}`}
       >
-        kein Bild erfasst
+        kein Bild verfügbar
       </div>
     );
   }
@@ -125,7 +135,7 @@ export function ModelImage({
       alt={alt}
       loading="lazy"
       decoding="async"
-      onError={() => setFailed(true)}
+      onError={() => setFailedUrl(url)}
       className={className}
     />
   );

@@ -1,4 +1,4 @@
-import { NavLink, Outlet, useLocation } from 'react-router-dom';
+import { Link, NavLink, Outlet, useLocation } from 'react-router-dom';
 import { useCatalog } from './CatalogProvider';
 import { useCatalogState } from './state';
 import { useTheme } from './theme';
@@ -17,21 +17,51 @@ const THEME_LABEL = {
   dark: 'Dunkel',
 } as const;
 
+/** Zero-padded, so the header's date and the footer's timestamp agree on shape. */
+export function formatSnapshot(iso: string, withTime = true): string {
+  return new Date(iso).toLocaleString('de-DE', {
+    day: '2-digit',
+    month: '2-digit',
+    year: 'numeric',
+    ...(withTime ? { hour: '2-digit', minute: '2-digit' } : {}),
+  });
+}
+
 function SnapshotDate() {
   const { catalog } = useCatalog();
   if (!catalog) return null;
-  const date = new Date(catalog.meta.generatedAt);
   return (
     <span className="num text-xs text-ink-muted">
-      Stand {date.toLocaleDateString('de-DE', { day: '2-digit', month: '2-digit', year: 'numeric' })}
+      Stand {formatSnapshot(catalog.meta.generatedAt, false)}
     </span>
+  );
+}
+
+/**
+ * Every price on the site is one store's price at one moment, and the footer is
+ * on every route, so this is where that scope is stated (`site-publication` —
+ * data is dated and scoped). The currency is read from the snapshot rather than
+ * assumed, so a store change cannot leave the label lying.
+ */
+function PriceProvenance() {
+  const { catalog } = useCatalog();
+  const currency = catalog?.models.find((model) => model.price)?.price?.currency ?? 'EUR';
+  return (
+    <p>
+      Alle Preise: Store{' '}
+      <span className="num">{catalog?.meta.storeCode ?? 'DE'}</span> (Deutschland), Locale{' '}
+      <span className="num">{catalog?.meta.locale ?? 'de-DE'}</span>, Währung{' '}
+      <span className="num">{currency}</span> — Momentaufnahme vom{' '}
+      <span className="num">{catalog ? formatSnapshot(catalog.meta.generatedAt) : '—'}</span>
+      . Preise sind zu diesem Zeitpunkt eingefroren und werden nicht live abgefragt.
+    </p>
   );
 }
 
 export function Layout() {
   const { search } = useCatalogState();
   const { choice, cycle } = useTheme();
-  const { catalog, status } = useCatalog();
+  const { status } = useCatalog();
   const location = useLocation();
 
   const navClass = ({ isActive }: { isActive: boolean }) =>
@@ -52,7 +82,7 @@ export function Layout() {
         <div className="mx-auto max-w-[1600px] px-4 sm:px-6">
           <div className="flex flex-wrap items-center gap-x-6 gap-y-2 py-3">
             <NavLink to={{ pathname: '/', search }} className="display text-lg leading-none">
-              GARMIN WATCH INDEX
+              GARMIN SMARTWATCH VERGLEICH
             </NavLink>
             <nav aria-label="Hauptnavigation" className="flex items-end gap-1 border-b border-transparent">
               <NavLink to={{ pathname: '/', search }} end className={navClass}>
@@ -81,17 +111,20 @@ export function Layout() {
       </header>
 
       <main id="inhalt" className="flex-1">
-        {status === 'loading' && (
+        {/* The disclaimer has to be reachable even when the snapshot is not:
+            it is the one view that says nothing about the catalog. */}
+        {status !== 'ready' && location.pathname === '/legal' && <Outlet />}
+        {status === 'loading' && location.pathname !== '/legal' && (
           <p className="mx-auto max-w-[1600px] px-4 py-16 text-ink-muted sm:px-6">
             Katalog wird geladen …
           </p>
         )}
-        {status === 'error' && (
+        {status === 'error' && location.pathname !== '/legal' && (
           <div className="mx-auto max-w-[1600px] px-4 py-16 sm:px-6">
             <h1 className="display text-xl">Der Katalog konnte nicht geladen werden</h1>
             <p className="mt-2 max-w-prose text-ink-muted">
               Die Momentaufnahme unter <code>data/catalog.json</code> fehlt oder ist unlesbar. Erzeuge
-              sie mit <code>npm run ingest &amp;&amp; npm run images &amp;&amp; npm run normalize</code>.
+              sie mit <code>npm run ingest &amp;&amp; npm run normalize</code>.
             </p>
           </div>
         )}
@@ -105,21 +138,18 @@ export function Layout() {
           <p>
             Daten, Texte und Bilder stammen ausschließlich von{' '}
             <span className="num">www.garmin.com</span> und{' '}
-            <span className="num">res.garmin.com</span>, Locale{' '}
-            <span className="num">{catalog?.meta.locale ?? 'de-DE'}</span>, Store{' '}
-            <span className="num">{catalog?.meta.storeCode ?? 'DE'}</span>.
+            <span className="num">res.garmin.com</span>.
           </p>
+          <PriceProvenance />
           <p>
-            Momentaufnahme vom{' '}
-            <span className="num">
-              {catalog ? new Date(catalog.meta.generatedAt).toLocaleString('de-DE') : '—'}
-            </span>{' '}
-            — Preise und Verfügbarkeit sind zu diesem Zeitpunkt eingefroren und werden nicht live
-            abgefragt.
-          </p>
-          <p>
-            Wiedergabe ausschließlich zum privaten Gebrauch. Diese Seite ist nicht zur
-            Veröffentlichung bestimmt und steht in keiner Verbindung zu Garmin.
+            <strong className="font-medium text-ink">Inoffiziell.</strong> Diese Seite steht in
+            keiner Verbindung zu Garmin und wird von Garmin weder betrieben noch unterstützt.
+            Produktnamen, Spezifikationen und Bilder sind Eigentum von Garmin. Preise und
+            Angaben ohne Gewähr — vor einem Kauf auf{' '}
+            <span className="num">garmin.com</span> prüfen.{' '}
+            <Link to={{ pathname: '/legal' }} className="text-accent underline underline-offset-2">
+              Vollständiger Hinweis
+            </Link>
           </p>
         </div>
       </footer>

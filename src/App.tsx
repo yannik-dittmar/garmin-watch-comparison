@@ -5,6 +5,7 @@ import { CatalogRoute } from './routes/Catalog';
 import { CompareRoute } from './routes/Compare';
 import { DetailRoute } from './routes/Detail';
 import { ChartsRoute } from './routes/Charts';
+import { LegalRoute } from './routes/Legal';
 
 /**
  * Routing (task 7.1).
@@ -22,6 +23,7 @@ export function App() {
             <Route path="/vergleich" element={<CompareRoute />} />
             <Route path="/modell/:id" element={<DetailRoute />} />
             <Route path="/diagramme" element={<ChartsRoute />} />
+            <Route path="/legal" element={<LegalRoute />} />
             <Route path="*" element={<Navigate to="/" replace />} />
           </Route>
         </Routes>

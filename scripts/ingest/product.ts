@@ -6,6 +6,7 @@ import {
   type Bootstrap,
   type BootstrapSku,
 } from './bootstrap.js';
+import { assertImageHost } from '../lib/images.js';
 import { LOCALE, STORE_CODE } from '../lib/paths.js';
 import type { Price, ProductIndexEntry, RawProduct, Variant } from '../../src/data/contract.js';
 
@@ -65,7 +66,9 @@ export function buildRawProduct(
     .map(toVariant)
     .sort((a, b) => a.partNumber.localeCompare(b.partNumber));
 
+  // Already the deduplicated union of every variant's images, so this covers both.
   const modelImages = [...new Set(variants.flatMap((v) => v.images))];
+  assertImageHost(productId, modelImages);
 
   return {
     id: productId,

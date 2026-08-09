@@ -128,7 +128,7 @@ export interface Variant {
   /** Colour / case / band name as published, e.g. `Schiefergrau mit schwarzem Armband`. */
   name: string;
   price: Price | null;
-  /** Local paths under `/img/…`; never a remote URL (`catalog-ingestion` — localised images). */
+  /** Absolute `res.garmin.com` URLs; any other host fails the run (`catalog-ingestion` — remote image references). */
   images: string[];
 }
 
@@ -154,7 +154,7 @@ export interface CatalogModel {
   name: string;
   lineage: ModelLineage;
   price: Price | null;
-  /** Local path to the card image, or null when no image was captured. */
+  /** `res.garmin.com` URL of the card image, or null when Garmin publishes none. */
   image: string | null;
   /** Every Garmin category the product was enumerated from. */
   categories: string[];
@@ -174,6 +174,7 @@ export interface ModelDetail {
   name: string;
   lineage: ModelLineage;
   price: Price | null;
+  /** Absolute `res.garmin.com` URLs, loaded by the browser at render time. */
   images: string[];
   variants: Variant[];
   boxContents: string[];
@@ -182,8 +183,6 @@ export interface ModelDetail {
   specs: NormalizedSpecs;
   sourceUrl: string;
   fetchedAt: string;
-  /** Images Garmin published that could not be downloaded (run report mirror). */
-  missingImages: string[];
 }
 
 /* ------------------------------------------------------------------ */
@@ -221,8 +220,8 @@ export interface RawProduct {
   specs: RawSpecRow[];
   variants: Variant[];
   boxContents: string[];
+  /** Union of the variants' `res.garmin.com` URLs, in variant order. */
   images: string[];
-  missingImages?: string[];
   /** Short marketing description, if published. Never a source of spec values. */
   description?: string;
 }
@@ -276,7 +275,7 @@ export interface RunReportEntry {
 }
 
 export interface RunReport {
-  stage: 'ingest' | 'images' | 'normalize';
+  stage: 'ingest' | 'normalize';
   startedAt: string;
   finishedAt: string;
   entries: RunReportEntry[];

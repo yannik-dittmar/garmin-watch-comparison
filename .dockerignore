@@ -3,12 +3,10 @@ node_modules
 dist
 *.tsbuildinfo
 
-# Runtime state, not build input: the scraped snapshot, its ~96 MB response cache
-# and the downloaded imagery. The container produces these on first start and the
-# compose volumes keep them; sending them to the daemon would dominate the build
-# context. Neither is in git either.
+# Runtime state, not build input: the snapshot and its ~96 MB response cache reach
+# the container through the compose volume, so sending them to the daemon would
+# dominate the build context for nothing.
 data
-public/img
 
 # Not part of the application
 .git
