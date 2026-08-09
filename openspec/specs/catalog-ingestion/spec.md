@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Produces a reproducible local snapshot of Garmin's current wrist-smartwatch catalog — model list, full published specifications, pricing, and imagery — sourced exclusively from official garmin.com endpoints, so the comparison site serves all catalog content from frozen local data. Web fonts are the one exception and are fetched from a CDN; nothing else the site displays depends on a remote host.
+Produces a reproducible snapshot of Garmin's current wrist-smartwatch catalog — model list, full published specifications, pricing, and image references — sourced exclusively from official garmin.com endpoints, so the comparison site serves all catalog content from frozen local data. Imagery is referenced from Garmin's own CDN rather than copied, and web fonts are fetched from a pinned CDN; those two hosts are the only remote dependencies the published pages have.
 
 ## Requirements
 
@@ -65,26 +65,31 @@ For every included model the snapshot SHALL contain the complete specification s
 - **WHEN** a price is published for a model or SKU
 - **THEN** it is stored with its numeric value and currency code
 
-### Requirement: Local image assets
+### Requirement: Remote image references
 
-Product imagery SHALL be downloaded from Garmin and stored locally, and the site SHALL reference only the local copies.
+Product imagery SHALL be referenced by its URL on Garmin's image CDN rather than copied into the snapshot, and every referenced image URL MUST be on that CDN.
 
-#### Scenario: Images are localised
+#### Scenario: Image URLs are recorded, not downloaded
 
 - **WHEN** ingestion completes
-- **THEN** every model has at least one locally stored product image
-- **AND** no page of the built site requests an image from a remote host
+- **THEN** every model's image references are absolute URLs on `res.garmin.com`
+- **AND** no image bytes were downloaded or stored by the pipeline
 
-#### Scenario: Image download failure is non-fatal
+#### Scenario: Foreign image host is rejected
 
-- **WHEN** an image download fails after retries
-- **THEN** ingestion continues
-- **AND** the model is recorded as missing that image
-- **AND** the failure appears in the run report
+- **WHEN** an image URL for any model or SKU is not on `res.garmin.com`
+- **THEN** the run fails rather than writing that URL into the snapshot
+
+#### Scenario: Model without imagery is recorded, not fatal
+
+- **WHEN** Garmin publishes no image for a model
+- **THEN** the model is recorded with no image references
+- **AND** the omission appears in the run report
+- **AND** the run continues
 
 ### Requirement: Polite, resumable fetching
 
-The ingestion process SHALL rate-limit its requests, cache raw responses, and be safely re-runnable.
+The ingestion process SHALL rate-limit its requests, cache raw responses, maintain session continuity across a run, and be safely re-runnable.
 
 #### Scenario: Requests are rate limited
 
@@ -102,6 +107,18 @@ The ingestion process SHALL rate-limit its requests, cache raw responses, and be
 - **THEN** already-fetched products are not fetched again
 - **AND** the run completes the remaining products
 
+#### Scenario: Session cookies persist across a run
+
+- **WHEN** an upstream response sets a cookie
+- **THEN** subsequent requests in the same run send it back
+- **AND** the run is not treated as a series of unrelated first-time visitors
+
+#### Scenario: An unattended refresh must not serve cached prices
+
+- **WHEN** ingestion runs as part of an automated refresh whose purpose is to detect changes
+- **THEN** it fetches from Garmin rather than reusing the stored response cache
+- **AND** the cache is never a substitute for a refresh, because stored responses do not expire
+
 ### Requirement: Snapshot integrity and freshness metadata
 
 Each snapshot SHALL record when it was taken, and SHALL only replace a previous snapshot when it is at least as complete.
@@ -117,11 +134,23 @@ Each snapshot SHALL record when it was taken, and SHALL only replace a previous 
 - **WHEN** a new run yields fewer models than the existing snapshot, or fails to fetch specs for models that previously had them
 - **THEN** the run reports the regression and does not silently overwrite the existing dataset
 
-### Requirement: Browser never contacts Garmin
+### Requirement: Permitted runtime hosts
 
-The published site SHALL be a static artifact that reads only the local snapshot.
+The published site SHALL read all catalog content from its own snapshot, and SHALL contact remote hosts only for imagery and web fonts.
 
-#### Scenario: Static runtime
+#### Scenario: Catalog data is local
 
 - **WHEN** the built site is loaded with no network access to garmin.com
-- **THEN** the catalog, all specifications, and all images render correctly
+- **THEN** the model list, every specification, every price, and all snapshot metadata render correctly
+
+#### Scenario: Only imagery and fonts are remote
+
+- **WHEN** the requests a published page issues are inspected
+- **THEN** the only remote hosts contacted are `res.garmin.com` for product imagery and the pinned font CDN for typefaces
+- **AND** no request for catalog data leaves the site's own origin
+
+#### Scenario: Unreachable imagery degrades gracefully
+
+- **WHEN** a referenced image cannot be loaded
+- **THEN** the page still renders its catalog content
+- **AND** a labelled placeholder occupies the image's place
