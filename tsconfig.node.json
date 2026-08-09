@@ -16,7 +16,6 @@
   },
   "include": [
     "scripts",
-    "tests",
     "vite.config.ts",
     "src/data/contract.ts",
     "src/data/schema.ts"

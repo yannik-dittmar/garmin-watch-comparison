@@ -3,7 +3,7 @@ import path from 'node:path';
 import { describe, expect, it } from 'vitest';
 import { extractBootstrap, selectSkusForProduct, specSku, productIdsOnPage } from '../scripts/ingest/bootstrap.js';
 import { parseBoxContents, parseSpecTable } from '../scripts/ingest/specs.js';
-import { buildRawProduct } from '../scripts/ingest/product.js';
+import { buildRawProduct, toVariant } from '../scripts/ingest/product.js';
 import { normalizeRows } from '../scripts/normalize/normalize.js';
 import { deriveLineage, generationRank } from '../scripts/normalize/lineage.js';
 import {
@@ -82,6 +82,56 @@ describe('bootstrap block selection', () => {
     expect(product.specs.length).toBeGreaterThan(100);
     expect(product.variants.length).toBeGreaterThan(1);
     expect(product.variants.every((v) => /^\d{3}-\d{5}-\d{2}$/.test(v.partNumber))).toBe(true);
+  });
+
+  /**
+   * The image references the fixture yields, in the shape the site consumes:
+   * Garmin's own `defaultImage` first, both renditions on `res.garmin.com`, no
+   * duplicates (`catalog-ingestion` — thumbnail reference accompanies the
+   * full-size reference).
+   */
+  it('records each image as a full/thumb pair, default image first', () => {
+    const product = buildRawProduct(FR170, 'Forerunner 170', bootstrap, { sourceUrl: 'https://x' });
+    const variant = product.variants[0];
+    expect(variant.images.length).toBeGreaterThan(0);
+
+    const defaultImage =
+      selectSkusForProduct(bootstrap, FR170).find((sku) => sku.partNumber === variant.partNumber)!
+        .images!.defaultImage!.image;
+    expect(variant.images[0].full).toBe(defaultImage);
+
+    for (const image of product.images) {
+      expect(new URL(image.full).host).toBe('res.garmin.com');
+      expect(image.thumb).toBe(image.full.replace(/-lg(\.\w+)$/, '-sm$1'));
+      expect(new URL(image.thumb!).host).toBe('res.garmin.com');
+    }
+    expect(new Set(product.images.map((i) => i.full)).size).toBe(product.images.length);
+  });
+
+  /** A media asset that is not a still image is dropped, and the drop is reported. */
+  it('excludes a non-image asset and reports it', () => {
+    const excluded: string[] = [];
+    const variant = toVariant(
+      {
+        productId: FR170,
+        productName: 'Forerunner 170',
+        partNumber: '010-03920-99',
+        images: {
+          defaultImage: { image: 'https://res.garmin.com/de_DE/products/010-03920-99/v/cf-lg.jpg' },
+          gallery: [
+            { image: 'https://res.garmin.com/de_DE/products/010-03920-99/v/sc-21-lg-x.v2-Garmin.Web.mp4' },
+          ],
+        },
+      },
+      FR170,
+      (url) => excluded.push(url),
+    );
+    expect(variant.images.map((i) => i.full)).toEqual([
+      'https://res.garmin.com/de_DE/products/010-03920-99/v/cf-lg.jpg',
+    ]);
+    expect(excluded).toEqual([
+      'https://res.garmin.com/de_DE/products/010-03920-99/v/sc-21-lg-x.v2-Garmin.Web.mp4',
+    ]);
   });
 
   it('captures price with currency and box contents', () => {

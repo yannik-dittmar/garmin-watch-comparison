@@ -28,6 +28,11 @@ web fonts from `cdn.jsdelivr.net` directly. Both are stated in the disclaimer. W
 the site still works: imagery falls back to a labelled placeholder and type falls back to
 the system stack.
 
+Imagery is loaded in two renditions, both from `res.garmin.com`: the detail view's gallery
+shows the 600 px asset for the image on display and the 150 px one for each thumbnail in the
+contact sheet, so paging through a variant's set costs one full-size fetch per image looked
+at rather than one per image published.
+
 ## Quick start
 
 The snapshot is committed (`data/catalog.json`, `data/meta.json`, `data/models/`), so you
@@ -61,7 +66,9 @@ A full refresh from a cold cache takes a few minutes; re-running `normalize` aft
 field-map change takes seconds and never re-fetches anything.
 
 Imagery is referenced, not downloaded: ingestion keeps Garmin's own `res.garmin.com` URLs
-in the records, and both stages fail the run if an image URL is ever on another host.
+in the records — a full-size URL and, where the CDN publishes one, its 150 px sibling — and
+both stages fail the run if an image URL is ever on another host. Media that is not a still
+image is dropped at the boundary and reported instead of being published as a broken image.
 
 ### Useful flags
 

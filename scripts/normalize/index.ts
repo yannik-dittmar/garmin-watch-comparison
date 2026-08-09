@@ -76,11 +76,14 @@ async function main(): Promise<void> {
     const lineage = deriveLineage(product.name);
 
     // Last writer before publication, so the host constraint is asserted once
-    // more here rather than trusted from ingestion (design D9).
-    assertImageHost(product.id, [
-      ...product.images,
-      ...product.variants.flatMap((v) => v.images),
-    ]);
+    // more here rather than trusted from ingestion (design D9). Both renditions
+    // are checked: the thumbnail is a URL the browser will contact too.
+    assertImageHost(
+      product.id,
+      [...product.images, ...product.variants.flatMap((v) => v.images)].flatMap((image) =>
+        image.thumb === null ? [image.full] : [image.full, image.thumb],
+      ),
+    );
     if (product.images.length === 0) {
       reporter.add('image-failure', `${product.id} ${product.name}`, 'Garmin publishes no image for this model');
     }
@@ -105,7 +108,9 @@ async function main(): Promise<void> {
       name: product.name,
       lineage,
       price: product.price,
-      image: product.images[0] ?? null,
+      // The catalog card carries one URL, not the pair: the grid shows a single
+      // image per model and nothing there loads a thumbnail rendition.
+      image: product.images[0]?.full ?? null,
       categories: product.categories,
       partNumbers: product.variants.map((v) => v.partNumber),
       variantCount: product.variants.length,

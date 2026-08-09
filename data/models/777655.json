@@ -13,20 +13,62 @@
     "formatted": "459,99 €"
   },
   "images": [
-    "https://res.garmin.com/en/products/010-02638-30/v/cf-lg-acb00aca-fb92-4980-8f8c-e07d21dbc4f6.jpg",
-    "https://res.garmin.com/en/products/010-02638-30/v/rf-lg-b9170992-c951-490f-bd87-319bc4c8a001.jpg",
-    "https://res.garmin.com/en/products/010-02638-30/v/lf-lg-a5140a54-bf69-4786-b2da-c7c0bf928dfb.jpg",
-    "https://res.garmin.com/en/products/010-02638-30/v/pd-01-lg-a0fad9e0-7599-43fa-8fb7-c69f221a8ef8.jpg",
-    "https://res.garmin.com/en/products/010-02638-30/v/pd-02-lg-aa06a250-a2a9-47e9-9172-347085a46c8f.jpg",
-    "https://res.garmin.com/en/products/010-02638-30/v/pd-03-lg-c0c3277e-32a7-4f76-b442-d35043617fbb.jpg",
-    "https://res.garmin.com/en/products/010-02638-30/v/pd-04-lg-c96ec9ca-ed2d-4151-9c36-3d727bed11e3.jpg",
-    "https://res.garmin.com/en/products/010-02638-31/v/cf-lg-bf343f70-484b-489b-b7ee-75707dc02d05.jpg",
-    "https://res.garmin.com/en/products/010-02638-31/v/rf-lg-21c49104-63a6-49ce-b8dc-d924d1307a3c.jpg",
-    "https://res.garmin.com/en/products/010-02638-31/v/lf-lg-f53b2d38-984d-4e73-9849-1e8b9f13402c.jpg",
-    "https://res.garmin.com/en/products/010-02638-31/v/pd-01-lg-1475d8c0-19e1-429b-a93b-7e6e4cdae1f7.jpg",
-    "https://res.garmin.com/en/products/010-02638-31/v/pd-02-lg-0dfb2ea7-7fda-4b0a-88b5-331f7ce6690c.jpg",
-    "https://res.garmin.com/en/products/010-02638-31/v/pd-03-lg-995ab3b4-04b2-4d33-8015-4ba4151ba62a.jpg",
-    "https://res.garmin.com/en/products/010-02638-31/v/pd-04-lg-47f57da4-6b66-4247-9670-91fa7cac14bf.jpg"
+    {
+      "full": "https://res.garmin.com/en/products/010-02638-30/v/cf-lg-acb00aca-fb92-4980-8f8c-e07d21dbc4f6.jpg",
+      "thumb": null
+    },
+    {
+      "full": "https://res.garmin.com/en/products/010-02638-30/v/rf-lg-b9170992-c951-490f-bd87-319bc4c8a001.jpg",
+      "thumb": null
+    },
+    {
+      "full": "https://res.garmin.com/en/products/010-02638-30/v/lf-lg-a5140a54-bf69-4786-b2da-c7c0bf928dfb.jpg",
+      "thumb": null
+    },
+    {
+      "full": "https://res.garmin.com/en/products/010-02638-30/v/pd-01-lg-a0fad9e0-7599-43fa-8fb7-c69f221a8ef8.jpg",
+      "thumb": null
+    },
+    {
+      "full": "https://res.garmin.com/en/products/010-02638-30/v/pd-02-lg-aa06a250-a2a9-47e9-9172-347085a46c8f.jpg",
+      "thumb": null
+    },
+    {
+      "full": "https://res.garmin.com/en/products/010-02638-30/v/pd-03-lg-c0c3277e-32a7-4f76-b442-d35043617fbb.jpg",
+      "thumb": null
+    },
+    {
+      "full": "https://res.garmin.com/en/products/010-02638-30/v/pd-04-lg-c96ec9ca-ed2d-4151-9c36-3d727bed11e3.jpg",
+      "thumb": null
+    },
+    {
+      "full": "https://res.garmin.com/en/products/010-02638-31/v/cf-lg-bf343f70-484b-489b-b7ee-75707dc02d05.jpg",
+      "thumb": null
+    },
+    {
+      "full": "https://res.garmin.com/en/products/010-02638-31/v/rf-lg-21c49104-63a6-49ce-b8dc-d924d1307a3c.jpg",
+      "thumb": null
+    },
+    {
+      "full": "https://res.garmin.com/en/products/010-02638-31/v/lf-lg-f53b2d38-984d-4e73-9849-1e8b9f13402c.jpg",
+      "thumb": null
+    },
+    {
+      "full": "https://res.garmin.com/en/products/010-02638-31/v/pd-01-lg-1475d8c0-19e1-429b-a93b-7e6e4cdae1f7.jpg",
+      "thumb": null
+    },
+    {
+      "full": "https://res.garmin.com/en/products/010-02638-31/v/pd-02-lg-0dfb2ea7-7fda-4b0a-88b5-331f7ce6690c.jpg",
+      "thumb": null
+    },
+    {
+      "full": "https://res.garmin.com/en/products/010-02638-31/v/pd-03-lg-995ab3b4-04b2-4d33-8015-4ba4151ba62a.jpg",
+      "thumb": null
+    },
+    {
+      "full": "https://res.garmin.com/en/products/010-02638-31/v/pd-04-lg-47f57da4-6b66-4247-9670-91fa7cac14bf.jpg",
+      "thumb": null
+    }
   ],
   "variants": [
     {
@@ -39,13 +81,34 @@
         "formatted": "459,99 €"
       },
       "images": [
-        "https://res.garmin.com/en/products/010-02638-30/v/cf-lg-acb00aca-fb92-4980-8f8c-e07d21dbc4f6.jpg",
-        "https://res.garmin.com/en/products/010-02638-30/v/rf-lg-b9170992-c951-490f-bd87-319bc4c8a001.jpg",
-        "https://res.garmin.com/en/products/010-02638-30/v/lf-lg-a5140a54-bf69-4786-b2da-c7c0bf928dfb.jpg",
-        "https://res.garmin.com/en/products/010-02638-30/v/pd-01-lg-a0fad9e0-7599-43fa-8fb7-c69f221a8ef8.jpg",
-        "https://res.garmin.com/en/products/010-02638-30/v/pd-02-lg-aa06a250-a2a9-47e9-9172-347085a46c8f.jpg",
-        "https://res.garmin.com/en/products/010-02638-30/v/pd-03-lg-c0c3277e-32a7-4f76-b442-d35043617fbb.jpg",
-        "https://res.garmin.com/en/products/010-02638-30/v/pd-04-lg-c96ec9ca-ed2d-4151-9c36-3d727bed11e3.jpg"
+        {
+          "full": "https://res.garmin.com/en/products/010-02638-30/v/cf-lg-acb00aca-fb92-4980-8f8c-e07d21dbc4f6.jpg",
+          "thumb": null
+        },
+        {
+          "full": "https://res.garmin.com/en/products/010-02638-30/v/rf-lg-b9170992-c951-490f-bd87-319bc4c8a001.jpg",
+          "thumb": null
+        },
+        {
+          "full": "https://res.garmin.com/en/products/010-02638-30/v/lf-lg-a5140a54-bf69-4786-b2da-c7c0bf928dfb.jpg",
+          "thumb": null
+        },
+        {
+          "full": "https://res.garmin.com/en/products/010-02638-30/v/pd-01-lg-a0fad9e0-7599-43fa-8fb7-c69f221a8ef8.jpg",
+          "thumb": null
+        },
+        {
+          "full": "https://res.garmin.com/en/products/010-02638-30/v/pd-02-lg-aa06a250-a2a9-47e9-9172-347085a46c8f.jpg",
+          "thumb": null
+        },
+        {
+          "full": "https://res.garmin.com/en/products/010-02638-30/v/pd-03-lg-c0c3277e-32a7-4f76-b442-d35043617fbb.jpg",
+          "thumb": null
+        },
+        {
+          "full": "https://res.garmin.com/en/products/010-02638-30/v/pd-04-lg-c96ec9ca-ed2d-4151-9c36-3d727bed11e3.jpg",
+          "thumb": null
+        }
       ]
     },
     {
@@ -58,13 +121,34 @@
         "formatted": "459,99 €"
       },
       "images": [
-        "https://res.garmin.com/en/products/010-02638-31/v/cf-lg-bf343f70-484b-489b-b7ee-75707dc02d05.jpg",
-        "https://res.garmin.com/en/products/010-02638-31/v/rf-lg-21c49104-63a6-49ce-b8dc-d924d1307a3c.jpg",
-        "https://res.garmin.com/en/products/010-02638-31/v/lf-lg-f53b2d38-984d-4e73-9849-1e8b9f13402c.jpg",
-        "https://res.garmin.com/en/products/010-02638-31/v/pd-01-lg-1475d8c0-19e1-429b-a93b-7e6e4cdae1f7.jpg",
-        "https://res.garmin.com/en/products/010-02638-31/v/pd-02-lg-0dfb2ea7-7fda-4b0a-88b5-331f7ce6690c.jpg",
-        "https://res.garmin.com/en/products/010-02638-31/v/pd-03-lg-995ab3b4-04b2-4d33-8015-4ba4151ba62a.jpg",
-        "https://res.garmin.com/en/products/010-02638-31/v/pd-04-lg-47f57da4-6b66-4247-9670-91fa7cac14bf.jpg"
+        {
+          "full": "https://res.garmin.com/en/products/010-02638-31/v/cf-lg-bf343f70-484b-489b-b7ee-75707dc02d05.jpg",
+          "thumb": null
+        },
+        {
+          "full": "https://res.garmin.com/en/products/010-02638-31/v/rf-lg-21c49104-63a6-49ce-b8dc-d924d1307a3c.jpg",
+          "thumb": null
+        },
+        {
+          "full": "https://res.garmin.com/en/products/010-02638-31/v/lf-lg-f53b2d38-984d-4e73-9849-1e8b9f13402c.jpg",
+          "thumb": null
+        },
+        {
+          "full": "https://res.garmin.com/en/products/010-02638-31/v/pd-01-lg-1475d8c0-19e1-429b-a93b-7e6e4cdae1f7.jpg",
+          "thumb": null
+        },
+        {
+          "full": "https://res.garmin.com/en/products/010-02638-31/v/pd-02-lg-0dfb2ea7-7fda-4b0a-88b5-331f7ce6690c.jpg",
+          "thumb": null
+        },
+        {
+          "full": "https://res.garmin.com/en/products/010-02638-31/v/pd-03-lg-995ab3b4-04b2-4d33-8015-4ba4151ba62a.jpg",
+          "thumb": null
+        },
+        {
+          "full": "https://res.garmin.com/en/products/010-02638-31/v/pd-04-lg-47f57da4-6b66-4247-9670-91fa7cac14bf.jpg",
+          "thumb": null
+        }
       ]
     }
   ],
@@ -2338,5 +2422,5 @@
     }
   },
   "sourceUrl": "https://www.garmin.com/de-DE/p/777655/",
-  "fetchedAt": "2026-08-09T16:22:58.776Z"
+  "fetchedAt": "2026-08-09T17:05:00.645Z"
 }

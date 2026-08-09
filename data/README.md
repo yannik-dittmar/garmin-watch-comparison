@@ -29,6 +29,23 @@ Imagery is **referenced, not downloaded**. Ingestion keeps Garmin's own `res.gar
 URLs in the records, and both stages fail the run if an image URL is on any other host, so
 a changed upstream cannot inject a third-party image host into the published pages.
 
+Each reference is a `ProductImage`, not a bare URL:
+
+```json
+{ "full": "…/v/cf-lg.jpg", "thumb": "…/v/cf-sm.jpg" }
+```
+
+`full` is the 600 px rendition the detail view shows; `thumb` is the CDN's 150 px rendition
+of the same asset, derived by rewriting an exact trailing `-lg` token in the basename. It is
+`null` where no such name can be formed — the 88 assets whose basename carries a UUID suffix
+have no `-sm` sibling on the CDN — and readers fall back to `full` for those thumbnails.
+Both URLs are re-checked against `res.garmin.com` in normalization.
+
+Media that is not a still image is **not** recorded as an image reference. An entry whose
+extension is outside `.jpg`/`.jpeg`/`.png`/`.webp` — today exactly one, an mp4 on the
+fēnix 7 Pro page — is dropped at the ingest boundary and listed in `data/reports/ingest.json`
+as an `excluded` entry; the run continues.
+
 ## Files
 
 ### `data/raw/` — stage 1, verbatim upstream data
@@ -56,7 +73,7 @@ output, not debug logging, and are reviewed on every refresh (task 12.1).
 
 | File | Contents |
 |---|---|
-| `ingest.json` | `RunReport` — fetch failures, and every product excluded from the catalog with its reason. |
+| `ingest.json` | `RunReport` — fetch failures, every product excluded from the catalog with its reason, and every media asset dropped for not being a still image. |
 | `discovery-gap.json` | Watch-named products present in `getDisplayableProducts` (the 1185-product master list) but absent from the category union. A non-empty file means discovery missed a category. |
 | `unmapped-labels.json` | Raw spec row labels that no normalized field consumed, with the models they occur on. |
 | `sparse-fields.json` | Normalized fields empty for an unusually high share of models — the signature of a label pattern that stopped matching. |

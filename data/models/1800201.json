@@ -13,9 +13,18 @@
     "formatted": "599,99 €"
   },
   "images": [
-    "https://res.garmin.com/en/products/010-03398-00/v/cf-lg.jpg",
-    "https://res.garmin.com/en/products/010-03398-00/g/cf-lg.jpg",
-    "https://res.garmin.com/en/products/010-03398-01/v/cf-lg.jpg"
+    {
+      "full": "https://res.garmin.com/en/products/010-03398-00/v/cf-lg.jpg",
+      "thumb": "https://res.garmin.com/en/products/010-03398-00/v/cf-sm.jpg"
+    },
+    {
+      "full": "https://res.garmin.com/en/products/010-03398-00/g/cf-lg.jpg",
+      "thumb": "https://res.garmin.com/en/products/010-03398-00/g/cf-sm.jpg"
+    },
+    {
+      "full": "https://res.garmin.com/en/products/010-03398-01/v/cf-lg.jpg",
+      "thumb": "https://res.garmin.com/en/products/010-03398-01/v/cf-sm.jpg"
+    }
   ],
   "variants": [
     {
@@ -28,8 +37,14 @@
         "formatted": "599,99 €"
       },
       "images": [
-        "https://res.garmin.com/en/products/010-03398-00/v/cf-lg.jpg",
-        "https://res.garmin.com/en/products/010-03398-00/g/cf-lg.jpg"
+        {
+          "full": "https://res.garmin.com/en/products/010-03398-00/v/cf-lg.jpg",
+          "thumb": "https://res.garmin.com/en/products/010-03398-00/v/cf-sm.jpg"
+        },
+        {
+          "full": "https://res.garmin.com/en/products/010-03398-00/g/cf-lg.jpg",
+          "thumb": "https://res.garmin.com/en/products/010-03398-00/g/cf-sm.jpg"
+        }
       ]
     },
     {
@@ -42,8 +57,14 @@
         "formatted": "599,99 €"
       },
       "images": [
-        "https://res.garmin.com/en/products/010-03398-01/v/cf-lg.jpg",
-        "https://res.garmin.com/en/products/010-03398-00/g/cf-lg.jpg"
+        {
+          "full": "https://res.garmin.com/en/products/010-03398-01/v/cf-lg.jpg",
+          "thumb": "https://res.garmin.com/en/products/010-03398-01/v/cf-sm.jpg"
+        },
+        {
+          "full": "https://res.garmin.com/en/products/010-03398-00/g/cf-lg.jpg",
+          "thumb": "https://res.garmin.com/en/products/010-03398-00/g/cf-sm.jpg"
+        }
       ]
     }
   ],
@@ -2229,5 +2250,5 @@
     }
   },
   "sourceUrl": "https://www.garmin.com/de-DE/p/819761/",
-  "fetchedAt": "2026-08-09T16:22:58.926Z"
+  "fetchedAt": "2026-08-09T17:05:00.895Z"
 }

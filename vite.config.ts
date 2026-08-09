@@ -76,7 +76,12 @@ export default defineConfig({
     chunkSizeWarningLimit: 900,
   },
   test: {
+    // Node by default — the pipeline is the bulk of the suite. The component
+    // tests opt into jsdom per file, and the gallery's `<dialog>` behaviour is
+    // checked in a real browser instead, because jsdom implements no dialog.
     environment: 'node',
-    include: ['tests/**/*.test.ts'],
+    include: ['tests/**/*.test.{ts,tsx}'],
+    testTimeout: 30_000,
+    hookTimeout: 60_000,
   },
 });

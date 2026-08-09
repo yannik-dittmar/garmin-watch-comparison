@@ -121,6 +121,23 @@ export type NormalizedSpecs = Record<FieldId, NormalizedValue>;
 /* Models                                                              */
 /* ------------------------------------------------------------------ */
 
+/**
+ * One product image, referenced twice at the two sizes the site loads.
+ *
+ * `thumb` is the CDN's 150 px rendition of the same asset, named by rewriting the
+ * full-size URL's size suffix (design G2). It is `null` when the CDN publishes
+ * none — the 88 assets whose basename carries a UUID suffix have no `-sm`
+ * sibling, and inventing one would produce a URL guaranteed to 404. A reader of
+ * this shape falls back to `full` for the thumbnail rather than treating `null`
+ * as a missing image.
+ */
+export interface ProductImage {
+  /** Absolute `res.garmin.com` URL of the 600 px rendition. */
+  full: string;
+  /** The 150 px rendition on the same host, or null when the CDN publishes none. */
+  thumb: string | null;
+}
+
 export interface Variant {
   /** Garmin SKU / product id of the variant. */
   sku: string;
@@ -128,8 +145,12 @@ export interface Variant {
   /** Colour / case / band name as published, e.g. `Schiefergrau mit schwarzem Armband`. */
   name: string;
   price: Price | null;
-  /** Absolute `res.garmin.com` URLs; any other host fails the run (`catalog-ingestion` — remote image references). */
-  images: string[];
+  /**
+   * Every image Garmin publishes for this SKU, in Garmin's own order with its
+   * `defaultImage` first. All URLs are absolute and on `res.garmin.com`; any
+   * other host fails the run (`catalog-ingestion` — remote image references).
+   */
+  images: ProductImage[];
 }
 
 export interface ModelLineage {
@@ -174,8 +195,11 @@ export interface ModelDetail {
   name: string;
   lineage: ModelLineage;
   price: Price | null;
-  /** Absolute `res.garmin.com` URLs, loaded by the browser at render time. */
-  images: string[];
+  /**
+   * The union of the variants' images, in variant order. Loaded by the browser
+   * at render time from `res.garmin.com`; nothing is mirrored into the snapshot.
+   */
+  images: ProductImage[];
   variants: Variant[];
   boxContents: string[];
   /** Every row Garmin published, in source order, grouped as published. */
@@ -220,8 +244,8 @@ export interface RawProduct {
   specs: RawSpecRow[];
   variants: Variant[];
   boxContents: string[];
-  /** Union of the variants' `res.garmin.com` URLs, in variant order. */
-  images: string[];
+  /** Union of the variants' `res.garmin.com` image references, in variant order. */
+  images: ProductImage[];
   /** Short marketing description, if published. Never a source of spec values. */
   description?: string;
 }

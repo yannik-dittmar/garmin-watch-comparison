@@ -1,0 +1,25 @@
+{
+  // The suite spans both worlds: the pipeline tests are Node, the gallery test
+  // renders React into jsdom, and the overlay test evaluates DOM code inside a
+  // real browser page. It therefore needs `node` types and the DOM lib at once —
+  // which is exactly what the two other projects deliberately keep apart.
+  "compilerOptions": {
+    "target": "ES2023",
+    "lib": ["ES2023", "DOM", "DOM.Iterable"],
+    "module": "ESNext",
+    "moduleResolution": "bundler",
+    "jsx": "react-jsx",
+    // `vite/client` because the component tests pull in `src/data/load.ts`,
+    // which resolves the snapshot through `import.meta.env.BASE_URL`.
+    "types": ["node", "vite/client"],
+    "strict": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "verbatimModuleSyntax": true,
+    "isolatedModules": true,
+    "resolveJsonModule": true,
+    "skipLibCheck": true,
+    "noEmit": true
+  },
+  "include": ["tests"]
+}

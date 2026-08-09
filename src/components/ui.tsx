@@ -1,5 +1,11 @@
 import { useState } from 'react';
-import type { CatalogModel, NormalizedValue, Price as PriceValue, SpecValue } from '../data/contract';
+import type {
+  CatalogModel,
+  NormalizedValue,
+  Price as PriceValue,
+  ProductImage,
+  SpecValue,
+} from '../data/contract';
 import { triState } from '../data/contract';
 import { formatValue, type SpecField } from '../data/schema';
 import { imageUrl } from '../data/load';
@@ -105,18 +111,35 @@ export function Price({ price, prefix }: { price: PriceValue | null; prefix?: st
  *
  * `loading="lazy"` is load-bearing on the catalog grid: ~83 remote images at
  * ~33 KB of WebP each is a first paint nobody should pay for up front.
+ *
+ * A `ProductImage` may be passed instead of a URL, together with the rendition
+ * wanted: `thumb` picks the CDN's 150 px asset and falls back to the full-size
+ * one where the CDN publishes none. That fallback is not a failure — it is the
+ * `null` case of the contract — so it resolves before the single failure path
+ * below, which stays the only owner of "this image could not be shown".
  */
+export type ImageSource = string | ProductImage | null;
+
+function renditionUrl(src: ImageSource, size: 'full' | 'thumb'): string | null {
+  if (!src) return null;
+  if (typeof src === 'string') return src;
+  return size === 'thumb' ? (src.thumb ?? src.full) : src.full;
+}
+
 export function ModelImage({
   src,
   alt,
+  size = 'full',
   className = '',
 }: {
-  src: string | null;
+  src: ImageSource;
   alt: string;
+  /** Which rendition to load; `thumb` falls back to the full-size URL. */
+  size?: 'full' | 'thumb';
   className?: string;
 }) {
   const [failedUrl, setFailedUrl] = useState<string | null>(null);
-  const url = imageUrl(src);
+  const url = imageUrl(renditionUrl(src, size));
 
   if (!url || failedUrl === url) {
     return (

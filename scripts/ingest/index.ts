@@ -128,7 +128,9 @@ async function main(): Promise<void> {
       continue;
     }
     try {
-      const product = buildFromIndexEntry(entry, source.bootstrap, source.pageUrl);
+      const product = buildFromIndexEntry(entry, source.bootstrap, source.pageUrl, (subject, detail) =>
+        reporter.add('excluded', subject, detail),
+      );
       if (product.specs.length === 0) {
         reporter.add('note', `${entry.id} ${entry.name}`, 'no specification rows captured');
       }

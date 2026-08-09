@@ -48,6 +48,9 @@
   --focus: #0b6fa4;
   --selection: #cfe2ee;
   --shadow-none: none;
+  /* Backdrop behind the enlarged image. Mixed from the page rather than pure
+     black: a #000 scrim under this palette reads as another product's chrome. */
+  --scrim: color-mix(in srgb, var(--page) 8%, #000 92%);
 
   /* Type */
   --font-display: 'Archivo Variable', ui-sans-serif, system-ui, sans-serif;
@@ -89,6 +92,7 @@
 
     --focus: #4fb3e0;
     --selection: #17323f;
+    --scrim: color-mix(in srgb, var(--page) 8%, #000 92%);
 
     color-scheme: dark;
   }
@@ -121,6 +125,7 @@
 
   --focus: #4fb3e0;
   --selection: #17323f;
+  --scrim: color-mix(in srgb, var(--page) 8%, #000 92%);
 
   color-scheme: dark;
 }

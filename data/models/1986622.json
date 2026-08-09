@@ -13,8 +13,14 @@
     "formatted": "1.199,99 €"
   },
   "images": [
-    "https://res.garmin.com/de_DE/products/010-03198-51/v/cf-lg.jpg",
-    "https://res.garmin.com/de_DE/products/010-03198-51/g/cf-lg.jpg"
+    {
+      "full": "https://res.garmin.com/de_DE/products/010-03198-51/v/cf-lg.jpg",
+      "thumb": "https://res.garmin.com/de_DE/products/010-03198-51/v/cf-sm.jpg"
+    },
+    {
+      "full": "https://res.garmin.com/de_DE/products/010-03198-51/g/cf-lg.jpg",
+      "thumb": "https://res.garmin.com/de_DE/products/010-03198-51/g/cf-sm.jpg"
+    }
   ],
   "variants": [
     {
@@ -27,8 +33,14 @@
         "formatted": "1.199,99 €"
       },
       "images": [
-        "https://res.garmin.com/de_DE/products/010-03198-51/v/cf-lg.jpg",
-        "https://res.garmin.com/de_DE/products/010-03198-51/g/cf-lg.jpg"
+        {
+          "full": "https://res.garmin.com/de_DE/products/010-03198-51/v/cf-lg.jpg",
+          "thumb": "https://res.garmin.com/de_DE/products/010-03198-51/v/cf-sm.jpg"
+        },
+        {
+          "full": "https://res.garmin.com/de_DE/products/010-03198-51/g/cf-lg.jpg",
+          "thumb": "https://res.garmin.com/de_DE/products/010-03198-51/g/cf-sm.jpg"
+        }
       ]
     }
   ],
@@ -3027,5 +3039,5 @@
     }
   },
   "sourceUrl": "https://www.garmin.com/de-DE/p/1908596/",
-  "fetchedAt": "2026-08-09T16:22:59.193Z"
+  "fetchedAt": "2026-08-09T17:05:01.323Z"
 }

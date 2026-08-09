@@ -8,6 +8,7 @@ import { loadModelDetail } from '../data/load';
 import type { ModelDetail, RawSpecRow } from '../data/contract';
 import { HEADLINE_FIELDS } from '../data/schema';
 import { ModelImage, Price, SpecValueView, TriStateMark } from '../components/ui';
+import { VariantGallery } from '../components/Gallery';
 import { foldText } from '../lib/catalog';
 
 /**
@@ -66,7 +67,17 @@ export function DetailRoute() {
   const [specQuery, setSpecQuery] = useState('');
   const [collapsed, setCollapsed] = useState<Record<string, boolean>>({});
   const [variantIndex, setVariantIndex] = useState(0);
+  // Two indices, one reset rule (design G4): the sets differ in length and image
+  // 3 of one variant has no relationship to image 3 of another, so re-pointing
+  // the gallery means returning to the newly selected variant's first frame.
+  const [imageIndex, setImageIndex] = useState(0);
+  const [overlayOpen, setOverlayOpen] = useState(false);
   const [notice, setNotice] = useState<string | null>(null);
+
+  const selectVariant = (index: number) => {
+    setVariantIndex(index);
+    setImageIndex(0);
+  };
 
   const summary = id ? byId.get(id) : undefined;
   const selected = id ? state.selection.includes(id) : false;
@@ -110,7 +121,6 @@ export function DetailRoute() {
   }
 
   const variant = detail?.variants[variantIndex];
-  const heroImage = variant?.images[0] ?? detail?.images[0] ?? summary?.image ?? null;
   const price = variant?.price ?? detail?.price ?? summary?.price ?? null;
 
   return (
@@ -121,11 +131,25 @@ export function DetailRoute() {
 
       <div className="mt-2 grid gap-6 lg:grid-cols-[minmax(0,340px)_minmax(0,1fr)]">
         <div>
-          <ModelImage
-            src={heroImage}
-            alt={summary?.name ?? detail?.name ?? 'Modell'}
-            className="mx-auto h-64 w-full max-w-[320px] object-contain"
-          />
+          {/* Until the detail file lands there is no image set to page through,
+              only the catalog card's single URL. */}
+          {detail ? (
+            <VariantGallery
+              images={variant?.images ?? detail.images}
+              index={imageIndex}
+              onIndexChange={setImageIndex}
+              open={overlayOpen}
+              onOpenChange={setOverlayOpen}
+              modelName={detail.name}
+              variantName={detail.variants.length > 1 ? variant?.name : null}
+            />
+          ) : (
+            <ModelImage
+              src={summary?.image ?? null}
+              alt={summary?.name ?? 'Modell'}
+              className="mx-auto h-64 w-full max-w-[320px] object-contain"
+            />
+          )}
 
           {detail && detail.variants.length > 1 && (
             <section className="panel mt-4 p-3">
@@ -137,7 +161,7 @@ export function DetailRoute() {
                   <li key={entry.partNumber}>
                     <button
                       type="button"
-                      onClick={() => setVariantIndex(index)}
+                      onClick={() => selectVariant(index)}
                       aria-pressed={index === variantIndex}
                       className={`w-full border px-2 py-1 text-left text-xs ${
                         index === variantIndex
