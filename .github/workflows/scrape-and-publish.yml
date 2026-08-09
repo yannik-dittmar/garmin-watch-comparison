@@ -13,11 +13,12 @@
 name: Scrape and publish
 
 on:
-  # Enabled once the workflow has been exercised through workflow_dispatch and
-  # Pages is confirmed working (task 8.8 / 10.6). 04:17 UTC is off-peak and
-  # deliberately not on the hour, where every cron on GitHub queues at once.
-  # schedule:
-  #   - cron: '17 4 * * *'
+  # 04:17 UTC is off-peak and deliberately not on the hour, where every cron on
+  # GitHub queues at once and the start drifts furthest. Enabled after a
+  # workflow_dispatch run confirmed a GitHub-hosted runner can scrape garmin.com
+  # without being blocked (design D2's open question, now closed).
+  schedule:
+    - cron: '17 4 * * *'
   workflow_dispatch:
     inputs:
       skip_scrape:

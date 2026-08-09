@@ -74,8 +74,8 @@
 ## 10. Verification
 
 - [x] 10.1 `npm run test` and `npm run build` both pass
-- [ ] 10.2 Trigger the workflow via `workflow_dispatch` and confirm the scrape completes from a GitHub-hosted runner without being blocked by Cloudflare — if blocked, switch the `scrape` job to a self-hosted runner and re-run — *needs a GitHub remote; none is configured*
-- [ ] 10.3 Enable Pages and confirm the deployed site renders under `/<repo>/`: catalog grid, a detail view, comparison, charts, and the legal route — *all five verified against a `--base=/some-repo/` build served from a subdirectory locally; the Pages deploy itself is untried*
+- [x] 10.2 Trigger the workflow via `workflow_dispatch` and confirm the scrape completes from a GitHub-hosted runner without being blocked by Cloudflare — if blocked, switch the `scrape` job to a self-hosted runner and re-run — *run 31323579069: ingest, normalize, hotlink check, commit and deploy all succeeded on `ubuntu-latest`. Cloudflare did not block; the self-hosted fallback is not needed*
+- [x] 10.3 Enable Pages and confirm the deployed site renders under `/<repo>/`: catalog grid, a detail view, comparison, charts, and the legal route — *all five verified on the live deploy; Pages source must be **GitHub Actions**, not "Deploy from a branch"*
 - [x] 10.4 Confirm in the browser's network panel that the only remote hosts contacted are `res.garmin.com` and `cdn.jsdelivr.net`, and that no catalog request leaves the site's origin
 - [x] 10.5 Confirm images are served as WebP by content negotiation
-- [ ] 10.6 Enable the `schedule` trigger and confirm the next run commits and republishes on its own — *depends on 10.2*
+- [ ] 10.6 Enable the `schedule` trigger and confirm the next run commits and republishes on its own — *enabled at 04:17 UTC daily; the unattended run has not happened yet. The same path already succeeded under `workflow_dispatch` (10.2), so only the cron firing is unproven*
