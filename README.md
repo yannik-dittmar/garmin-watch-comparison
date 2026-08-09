@@ -93,6 +93,8 @@ Coverage is run output, not debug logging. After a refresh, check:
 | `data/reports/ingest.json` | Fetch failures and every product excluded from the catalog, with its reason. |
 | `data/reports/normalize.json` | Regression-guard problems, plus models Garmin publishes no image for. |
 
+`data/README.md` documents every generated file and which stage produces it.
+
 ## Tests
 
 ```bash
