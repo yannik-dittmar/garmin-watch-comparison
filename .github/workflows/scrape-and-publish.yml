@@ -19,6 +19,11 @@ on:
   # schedule:
   #   - cron: '17 4 * * *'
   workflow_dispatch:
+    inputs:
+      skip_scrape:
+        description: 'Publish from the committed snapshot without scraping garmin.com'
+        type: boolean
+        default: false
   push:
     branches: [main]
     # Site code only. A CSS change republishes from the committed snapshot; it
@@ -44,9 +49,11 @@ jobs:
     # ── The swappable line (design D2). Change to `self-hosted` if Cloudflare
     #    rejects GitHub's IP ranges; nothing else in this file changes.
     runs-on: ubuntu-latest
-    # Skipped on a code-only push: that trigger republishes from the snapshot
-    # already in git and contacts nobody.
-    if: github.event_name != 'push'
+    # Skipped on a code-only push, which republishes from the snapshot already in
+    # git and contacts nobody — and skippable by hand, which is how you get a
+    # deploy out while the scrape is broken or being debugged. `inputs` is null on
+    # a schedule, so the daily run always scrapes.
+    if: github.event_name != 'push' && inputs.skip_scrape != true
     permissions:
       contents: write
     steps:

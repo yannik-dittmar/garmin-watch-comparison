@@ -127,8 +127,14 @@ Docker. `HashRouter` means no rewrite rules are needed either way.
 overwriting a snapshot that got worse, so a blocked or broken scrape fails the run, publishes
 nothing, and leaves visitors on the last good deploy.
 
-To set it up: enable Pages with **Source: GitHub Actions**, run the workflow once via
-`workflow_dispatch`, then uncomment the `schedule:` block.
+To set it up: enable Pages with **Source: GitHub Actions** — *not* "Deploy from a branch",
+which publishes the repository tree as-is and serves the unbuilt `index.html`, leaving the
+browser asking for `/src/main.tsx`. Then run the workflow once via `workflow_dispatch` and
+uncomment the `schedule:` block.
+
+`workflow_dispatch` takes a **Publish from the committed snapshot without scraping** tick
+box. Use it to get a deploy out without touching garmin.com — the snapshot in git is the
+build input either way.
 
 ### If Cloudflare blocks the scrape
 
