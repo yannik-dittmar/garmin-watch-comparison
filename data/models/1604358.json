@@ -1,0 +1,1046 @@
+{
+  "id": "1604358",
+  "name": "Approach S44",
+  "lineage": {
+    "family": "Approach",
+    "generation": "S44",
+    "generationRank": null,
+    "qualifier": null
+  },
+  "price": {
+    "amount": 279.99,
+    "currency": "EUR",
+    "formatted": "279,99 €"
+  },
+  "images": [
+    "https://res.garmin.com/en/products/010-03009-00/v/cf-lg.jpg",
+    "https://res.garmin.com/en/products/010-03009-00/v/rf-lg.jpg",
+    "https://res.garmin.com/en/products/010-03009-00/v/lf-lg.jpg",
+    "https://res.garmin.com/en/products/010-03009-00/v/pd-01-lg.jpg",
+    "https://res.garmin.com/en/products/010-03009-00/v/pd-02-lg.jpg",
+    "https://res.garmin.com/en/products/010-03009-00/v/pd-03-lg.jpg",
+    "https://res.garmin.com/en/products/010-03009-00/v/pd-04-lg.jpg",
+    "https://res.garmin.com/en/products/010-03009-00/v/pd-05-lg.jpg",
+    "https://res.garmin.com/en/products/010-03009-00/v/pd-06-lg.jpg",
+    "https://res.garmin.com/en/products/010-03009-00/v/pd-08-lg.jpg",
+    "https://res.garmin.com/en/products/010-03009-00/v/pd-09-lg.jpg",
+    "https://res.garmin.com/en/products/010-03009-00/v/pd-10-lg.jpg",
+    "https://res.garmin.com/en/products/010-03009-01/v/cf-lg.jpg",
+    "https://res.garmin.com/en/products/010-03009-01/v/rf-lg.jpg",
+    "https://res.garmin.com/en/products/010-03009-01/v/lf-lg.jpg",
+    "https://res.garmin.com/en/products/010-03009-01/v/pd-01-lg.jpg",
+    "https://res.garmin.com/en/products/010-03009-01/v/pd-02-lg.jpg",
+    "https://res.garmin.com/en/products/010-03009-01/v/pd-03-lg.jpg",
+    "https://res.garmin.com/en/products/010-03009-01/v/pd-04-lg.jpg",
+    "https://res.garmin.com/en/products/010-03009-01/v/pd-05-lg.jpg",
+    "https://res.garmin.com/en/products/010-03009-01/v/pd-06-lg.jpg",
+    "https://res.garmin.com/en/products/010-03009-01/v/pd-08-lg.jpg",
+    "https://res.garmin.com/en/products/010-03009-01/v/pd-09-lg.jpg",
+    "https://res.garmin.com/en/products/010-03009-01/v/pd-10-lg.jpg"
+  ],
+  "variants": [
+    {
+      "sku": "010-03009-00",
+      "partNumber": "010-03009-00",
+      "name": "Schwarz/Silber Aluminium mit Schnellwechsel-Silikon-Armband 20 mm",
+      "price": {
+        "amount": 279.99,
+        "currency": "EUR",
+        "formatted": "279,99 €"
+      },
+      "images": [
+        "https://res.garmin.com/en/products/010-03009-00/v/cf-lg.jpg",
+        "https://res.garmin.com/en/products/010-03009-00/v/rf-lg.jpg",
+        "https://res.garmin.com/en/products/010-03009-00/v/lf-lg.jpg",
+        "https://res.garmin.com/en/products/010-03009-00/v/pd-01-lg.jpg",
+        "https://res.garmin.com/en/products/010-03009-00/v/pd-02-lg.jpg",
+        "https://res.garmin.com/en/products/010-03009-00/v/pd-03-lg.jpg",
+        "https://res.garmin.com/en/products/010-03009-00/v/pd-04-lg.jpg",
+        "https://res.garmin.com/en/products/010-03009-00/v/pd-05-lg.jpg",
+        "https://res.garmin.com/en/products/010-03009-00/v/pd-06-lg.jpg",
+        "https://res.garmin.com/en/products/010-03009-00/v/pd-08-lg.jpg",
+        "https://res.garmin.com/en/products/010-03009-00/v/pd-09-lg.jpg",
+        "https://res.garmin.com/en/products/010-03009-00/v/pd-10-lg.jpg"
+      ]
+    },
+    {
+      "sku": "010-03009-01",
+      "partNumber": "010-03009-01",
+      "name": "Twilight/Silber Aluminium mit Schnellwechsel-Silikon-Armband 20 mm",
+      "price": {
+        "amount": 279.99,
+        "currency": "EUR",
+        "formatted": "279,99 €"
+      },
+      "images": [
+        "https://res.garmin.com/en/products/010-03009-01/v/cf-lg.jpg",
+        "https://res.garmin.com/en/products/010-03009-01/v/rf-lg.jpg",
+        "https://res.garmin.com/en/products/010-03009-01/v/lf-lg.jpg",
+        "https://res.garmin.com/en/products/010-03009-01/v/pd-01-lg.jpg",
+        "https://res.garmin.com/en/products/010-03009-01/v/pd-02-lg.jpg",
+        "https://res.garmin.com/en/products/010-03009-01/v/pd-03-lg.jpg",
+        "https://res.garmin.com/en/products/010-03009-01/v/pd-04-lg.jpg",
+        "https://res.garmin.com/en/products/010-03009-01/v/pd-05-lg.jpg",
+        "https://res.garmin.com/en/products/010-03009-01/v/pd-06-lg.jpg",
+        "https://res.garmin.com/en/products/010-03009-01/v/pd-08-lg.jpg",
+        "https://res.garmin.com/en/products/010-03009-01/v/pd-09-lg.jpg",
+        "https://res.garmin.com/en/products/010-03009-01/v/pd-10-lg.jpg"
+      ]
+    }
+  ],
+  "boxContents": [
+    "Approach S44 Smarte Golfuhr",
+    "Lade-/Datenkabel",
+    "Dokumentation"
+  ],
+  "rawSpecs": [
+    {
+      "section": "Innovative Funktionen",
+      "label": "Akkulaufzeit (Smartwatch-Modus)",
+      "value": "Bis zu 10 Tage",
+      "valueKind": "text",
+      "order": 0
+    },
+    {
+      "section": "Innovative Funktionen",
+      "label": "Displaytyp der Smartwatch",
+      "value": "AMOLED; optional Always-On Display",
+      "valueKind": "text",
+      "order": 1
+    },
+    {
+      "section": "Innovative Funktionen",
+      "label": "Touchdisplay",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 2
+    },
+    {
+      "section": "Innovative Funktionen",
+      "label": "Wasserdichtigkeit",
+      "value": "Schwimmen, 5 ATM",
+      "valueKind": "text",
+      "order": 3
+    },
+    {
+      "section": "Allgemein",
+      "label": "Armbandmaterial",
+      "value": "Silikon",
+      "valueKind": "text",
+      "order": 4
+    },
+    {
+      "section": "Allgemein",
+      "label": "Displayglas",
+      "value": "Corning® Gorilla® Glass 3",
+      "valueKind": "text",
+      "order": 5
+    },
+    {
+      "section": "Allgemein",
+      "label": "Material der Lünette",
+      "value": "Eloxiertes Aluminium",
+      "valueKind": "text",
+      "order": 6
+    },
+    {
+      "section": "Allgemein",
+      "label": "Schnellwechsel-Armbänder",
+      "value": "Ja (20 mm, Industriestandard)",
+      "valueKind": "text",
+      "order": 7
+    },
+    {
+      "section": "Allgemein",
+      "label": "Physische Größe",
+      "value": "43 x 43 x 11,4 mm\nFür einen Handgelenkumfang von 125 bis 202 mm",
+      "valueKind": "text",
+      "order": 8
+    },
+    {
+      "section": "Allgemein",
+      "label": "Gewicht",
+      "value": "42 g",
+      "valueKind": "text",
+      "order": 9
+    },
+    {
+      "section": "Allgemein",
+      "label": "Anzeigegröße",
+      "value": "30,4 mm (1,2-Zoll) Durchmesser",
+      "valueKind": "text",
+      "order": 10
+    },
+    {
+      "section": "Allgemein",
+      "label": "Anzeigeauflösung",
+      "value": "390 x 390 Pixel",
+      "valueKind": "text",
+      "order": 11
+    },
+    {
+      "section": "Allgemein",
+      "label": "Farbdisplay",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 12
+    },
+    {
+      "section": "Allgemein",
+      "label": "Zwei Schriftgrößen",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 13
+    },
+    {
+      "section": "Allgemein",
+      "label": "Akkulaufzeit",
+      "value": "Smartwatch-Modus: Bis zu 10 Tage\nGPS-Modus: Bis zu 15 Stunden (mit Standard-Displayeinstellungen: Gestenaktivierung im Smartwatch-Modus und ständig eingeschaltet beim Golfen)",
+      "valueKind": "text",
+      "order": 14
+    },
+    {
+      "section": "Allgemein",
+      "label": "Ladeverfahren",
+      "value": "Proprietäre Garmin-Ladeklemme",
+      "valueKind": "text",
+      "order": 15
+    },
+    {
+      "section": "Allgemein",
+      "label": "Speicher/Protokoll",
+      "value": "4 GB",
+      "valueKind": "text",
+      "order": 16
+    },
+    {
+      "section": "Uhrfunktionen",
+      "label": "Uhrzeit/Datum",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 17
+    },
+    {
+      "section": "Uhrfunktionen",
+      "label": "GPS-Uhrzeit­synchronisierung",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 18
+    },
+    {
+      "section": "Uhrfunktionen",
+      "label": "Automatische Sommerzeit",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 19
+    },
+    {
+      "section": "Uhrfunktionen",
+      "label": "Wecker",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 20
+    },
+    {
+      "section": "Uhrfunktionen",
+      "label": "Timer",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 21
+    },
+    {
+      "section": "Uhrfunktionen",
+      "label": "Stoppuhr",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 22
+    },
+    {
+      "section": "Uhrfunktionen",
+      "label": "Zeiten für Sonnenaufgang und Sonnenuntergang",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 23
+    },
+    {
+      "section": "Sensoren",
+      "label": "GPS",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 24
+    },
+    {
+      "section": "Sensoren",
+      "label": "GLONASS",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 25
+    },
+    {
+      "section": "Sensoren",
+      "label": "Galileo",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 26
+    },
+    {
+      "section": "Sensoren",
+      "label": "Kompass",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 27
+    },
+    {
+      "section": "Sensoren",
+      "label": "Gyroskop",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 28
+    },
+    {
+      "section": "Sensoren",
+      "label": "Beschleunigungs­messer",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 29
+    },
+    {
+      "section": "Sensoren",
+      "label": "Sensor für das Umgebungslicht",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 30
+    },
+    {
+      "section": "Tägliche Smart-Funktionen",
+      "label": "Telefon suchen",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 31
+    },
+    {
+      "section": "Tägliche Smart-Funktionen",
+      "label": "Mein Garmin-Gerät suchen (hilft beim Finden verloren gegangener Geräte)",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 32
+    },
+    {
+      "section": "Tägliche Smart-Funktionen",
+      "label": "Konnektivität",
+      "value": "BLUETOOTH® LE",
+      "valueKind": "text",
+      "order": 33
+    },
+    {
+      "section": "Tägliche Smart-Funktionen",
+      "label": "Erhalte Smart Notifications",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 34
+    },
+    {
+      "section": "Tägliche Smart-Funktionen",
+      "label": "SMS-Antwort/Anruf per SMS ablehnen (nur Android™)",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 35
+    },
+    {
+      "section": "Tägliche Smart-Funktionen",
+      "label": "Smart Notifications mit Bilddarstellung auf der Smartwatch (nur Android™)",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 36
+    },
+    {
+      "section": "Tägliche Smart-Funktionen",
+      "label": "Kalender",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 37
+    },
+    {
+      "section": "Tägliche Smart-Funktionen",
+      "label": "Wetter",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 38
+    },
+    {
+      "section": "Tägliche Smart-Funktionen",
+      "label": "Einstellungssynchronisierung in Echtzeit mit Garmin Connect™ Mobile",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 39
+    },
+    {
+      "section": "Tägliche Smart-Funktionen",
+      "label": "Musikfunktionen",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 40
+    },
+    {
+      "section": "Tägliche Smart-Funktionen",
+      "label": "Kompatibel mit Garmin Connect™ Mobile",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 41
+    },
+    {
+      "section": "Tägliche Smart-Funktionen",
+      "label": "Smartphone-Kompatibilität",
+      "value": "iPhone®, Android™",
+      "valueKind": "text",
+      "order": 42
+    },
+    {
+      "section": "Tägliche Smart-Funktionen",
+      "label": "Passwort",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 43
+    },
+    {
+      "section": "Aktivitätsprofile",
+      "label": "INDOOR-LAUFEN",
+      "value": "Hallenbahn",
+      "valueKind": "text",
+      "order": 44
+    },
+    {
+      "section": "Aktivitätsprofile",
+      "label": "Laufen im Freien",
+      "value": "Laufen",
+      "valueKind": "text",
+      "order": 45
+    },
+    {
+      "section": "Aktivitätsprofile",
+      "label": "Verfügbare Outdoor-Freizeitprofile",
+      "value": "Golf",
+      "valueKind": "text",
+      "order": 46
+    },
+    {
+      "section": "Aktivitätsprofile",
+      "label": "Verfügbare Fahrradprofile",
+      "value": "Radfahren, Indoor-Radfahren",
+      "valueKind": "text",
+      "order": 47
+    },
+    {
+      "section": "Sicherheits- und Trackingfunktionen",
+      "label": "Unfall-Benachrichtigung während bestimmter Aktivitäten",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 48
+    },
+    {
+      "section": "Sicherheits- und Trackingfunktionen",
+      "label": "Unfallbenachrichtigung auf dem Smartphone bei Wearables",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 49
+    },
+    {
+      "section": "Sicherheits- und Trackingfunktionen",
+      "label": "Notfallhilfe",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 50
+    },
+    {
+      "section": "Aktivitätsfunktionen",
+      "label": "Schrittzähler",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 51
+    },
+    {
+      "section": "Aktivitätsfunktionen",
+      "label": "Inaktivitätsalarme",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 52
+    },
+    {
+      "section": "Aktivitätsfunktionen",
+      "label": "Automatisches Ziel (lernt, wie aktiv der Benutzer ist und weist ein Tagesziel Schritte zu)",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 53
+    },
+    {
+      "section": "Aktivitätsfunktionen",
+      "label": "Kalorienverbrauch",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 54
+    },
+    {
+      "section": "Aktivitätsfunktionen",
+      "label": "Zurückgelegte Strecke",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 55
+    },
+    {
+      "section": "Aktivitätsfunktionen",
+      "label": "Intensitätsminuten",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 56
+    },
+    {
+      "section": "Aktivitätsfunktionen",
+      "label": "TrueUp™",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 57
+    },
+    {
+      "section": "Aktivitätsfunktionen",
+      "label": "Move IQ™",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 58
+    },
+    {
+      "section": "Trainings-, Planungs- und Analysefunktionen",
+      "label": "Anpassbare Datenseiten",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 59
+    },
+    {
+      "section": "Trainings-, Planungs- und Analysefunktionen",
+      "label": "GPS-Geschwindigkeit und -Distanz",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 60
+    },
+    {
+      "section": "Trainings-, Planungs- und Analysefunktionen",
+      "label": "Auto Pause®",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 61
+    },
+    {
+      "section": "Trainings-, Planungs- und Analysefunktionen",
+      "label": "Auto Lap®",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 62
+    },
+    {
+      "section": "Trainings-, Planungs- und Analysefunktionen",
+      "label": "DISPLAY- UND/ODER TASTENSPERRE",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 63
+    },
+    {
+      "section": "Lauffunktionen",
+      "label": "GPS-basierte Daten zu Distanz, Zeit und Pace",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 64
+    },
+    {
+      "section": "Lauffunktionen",
+      "label": "Schrittfrequenz (Echtzeitanzahl der Schritte pro Minute)",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 65
+    },
+    {
+      "section": "Golffunktionen",
+      "label": "Vorinstalliert mit 43.000 Golfplätzen weltweit",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 66
+    },
+    {
+      "section": "Golffunktionen",
+      "label": "Entfernung zum vorderen, mittleren und hinteren Bereich des Grüns",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 67
+    },
+    {
+      "section": "Golffunktionen",
+      "label": "Entfernung zu Layups/Doglegs",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 68
+    },
+    {
+      "section": "Golffunktionen",
+      "label": "Schlagweitenmessung (berechnet die genaue Distanz für auf dem Platz gespielte Schläge)",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 69
+    },
+    {
+      "section": "Golffunktionen",
+      "label": "Digitale Scorecard",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 70
+    },
+    {
+      "section": "Golffunktionen",
+      "label": "Benutzerdefinierte Ziele",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 71
+    },
+    {
+      "section": "Golffunktionen",
+      "label": "Statistikspeicherung (Schläge, Putts pro Runde, Grüns und Fairway-Treffer )",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 72
+    },
+    {
+      "section": "Golffunktionen",
+      "label": "Garmin AutoShot™",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 73
+    },
+    {
+      "section": "Golffunktionen",
+      "label": "Vollständige Vektorkarte",
+      "value": "Ja (mit Garmin Golf Mitgliedschaft)",
+      "valueKind": "text",
+      "order": 74
+    },
+    {
+      "section": "Golffunktionen",
+      "label": "Automatische CourseView-Updates",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 75
+    },
+    {
+      "section": "Golffunktionen",
+      "label": "ANSICHT GRÜN MIT MÖGLICHKEIT ZUR MANUELLEN POSITIONIERUNG DER FAHNE",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 76
+    },
+    {
+      "section": "Golffunktionen",
+      "label": "Hindernisse und Golfplatzziele",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 77
+    },
+    {
+      "section": "Golffunktionen",
+      "label": "PinPointer",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 78
+    },
+    {
+      "section": "Golffunktionen",
+      "label": "PlaysLike-Distanz",
+      "value": "Ja (mit Garmin Golf Mitgliedschaft)",
+      "valueKind": "text",
+      "order": 79
+    },
+    {
+      "section": "Golffunktionen",
+      "label": "Touch-Zielauswahl (auf dem Display auf ein Ziel tippen, um Distanz zu einem Punkt zu erhalten)",
+      "value": "Ja (mit Garmin Golf Mitgliedschaft)",
+      "valueKind": "text",
+      "order": 80
+    },
+    {
+      "section": "Golffunktionen",
+      "label": "Handicap-Scoring",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 81
+    },
+    {
+      "section": "Golffunktionen",
+      "label": "SwingTempo (misst das Verhältnis zwischen der Zeit für den Rückschwung und den Durchschwung)",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 82
+    },
+    {
+      "section": "Golffunktionen",
+      "label": "Rundentimer/Gesamtwerte",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 83
+    },
+    {
+      "section": "Golffunktionen",
+      "label": "Kompatibel mit automatischer Speicherung von Schlägern (Zubehör erforderlich)",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 84
+    },
+    {
+      "section": "Golffunktionen",
+      "label": "Kompatibel mit automatischer Aufzeichnung von Golfschlägen mit CT1 (Zubehör erforderlich)",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 85
+    },
+    {
+      "section": "Golffunktionen",
+      "label": "Kompatibel mit Garmin Golf-App",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 86
+    },
+    {
+      "section": "Golffunktionen",
+      "label": "Verwendbar bei Turnieren",
+      "value": "Ja (bei aktiviertem Turniermodus)",
+      "valueKind": "text",
+      "order": 87
+    },
+    {
+      "section": "Golffunktionen",
+      "label": "Konturen des Grüns (mit Garmin Golf-Mitgliedschaft)",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 88
+    },
+    {
+      "section": "Radfahrfunktionen",
+      "label": "Zeit- oder Distanz-Alarm (Wenn du einen voreingestellten Wert erreichst, ertönt ein Alarm)",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 89
+    },
+    {
+      "section": "Sicherheits- und rechtliche Informationen",
+      "label": "EU Data Act Informationen - Smartwatches, Fitness Gesundheitsgeräte und Produkte für die Herzfrequenzmessung (HRM)",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 90
+    }
+  ],
+  "specs": {
+    "caseDimensions": {
+      "kind": "dimensions",
+      "value": {
+        "widthMm": 43,
+        "heightMm": 43,
+        "thicknessMm": 11.4
+      },
+      "source": "43 x 43 x 11,4 mm\nFür einen Handgelenkumfang von 125 bis 202 mm"
+    },
+    "caseSize": {
+      "kind": "number",
+      "value": 43,
+      "unit": "mm",
+      "bound": "exact",
+      "source": "43 x 43 x 11,4 mm\nFür einen Handgelenkumfang von 125 bis 202 mm"
+    },
+    "caseThickness": {
+      "kind": "number",
+      "value": 11.4,
+      "unit": "mm",
+      "bound": "exact",
+      "source": "43 x 43 x 11,4 mm\nFür einen Handgelenkumfang von 125 bis 202 mm"
+    },
+    "weight": {
+      "kind": "number",
+      "value": 42,
+      "unit": "g",
+      "bound": "exact",
+      "source": "42 g"
+    },
+    "wristRange": {
+      "kind": "text",
+      "text": "Für einen Handgelenkumfang von 125 bis 202 mm",
+      "source": "43 x 43 x 11,4 mm\nFür einen Handgelenkumfang von 125 bis 202 mm"
+    },
+    "displayType": {
+      "kind": "text",
+      "text": "AMOLED; optional Always-On Display",
+      "source": "AMOLED; optional Always-On Display"
+    },
+    "displaySize": {
+      "kind": "number",
+      "value": 30.4,
+      "unit": "mm",
+      "bound": "exact",
+      "source": "30,4 mm (1,2-Zoll) Durchmesser"
+    },
+    "displayResolution": {
+      "kind": "resolution",
+      "value": {
+        "width": 390,
+        "height": 390
+      },
+      "source": "390 x 390 Pixel"
+    },
+    "touchscreen": {
+      "kind": "flag",
+      "state": "supported",
+      "source": "yes"
+    },
+    "colorDisplay": {
+      "kind": "flag",
+      "state": "supported",
+      "source": "yes"
+    },
+    "lensMaterial": {
+      "kind": "text",
+      "text": "Corning® Gorilla® Glass 3",
+      "source": "Corning® Gorilla® Glass 3"
+    },
+    "bezelMaterial": {
+      "kind": "text",
+      "text": "Eloxiertes Aluminium",
+      "source": "Eloxiertes Aluminium"
+    },
+    "caseMaterial": {
+      "kind": "not-published"
+    },
+    "bandMaterial": {
+      "kind": "text",
+      "text": "Silikon",
+      "source": "Silikon"
+    },
+    "bandWidth": {
+      "kind": "number",
+      "value": 20,
+      "unit": "mm",
+      "bound": "exact",
+      "source": "Ja (20 mm, Industriestandard)"
+    },
+    "waterRating": {
+      "kind": "water",
+      "value": {
+        "label": "Schwimmen, 5 ATM",
+        "standard": "ATM",
+        "value": 5
+      },
+      "source": "Schwimmen, 5 ATM"
+    },
+    "battery": {
+      "kind": "battery",
+      "modes": [
+        {
+          "id": "smartwatch-modus",
+          "label": "Smartwatch-Modus",
+          "role": "smartwatch",
+          "hours": 240,
+          "bound": "up-to",
+          "solar": false,
+          "sourceText": "Smartwatch-Modus: Bis zu 10 Tage"
+        },
+        {
+          "id": "gps-modus",
+          "label": "GPS-Modus",
+          "role": "gps-only",
+          "hours": 15,
+          "bound": "up-to",
+          "solar": false,
+          "sourceText": "GPS-Modus: Bis zu 15 Stunden (mit Standard-Displayeinstellungen: Gestenaktivierung im Smartwatch-Modus und ständig eingeschaltet beim Golfen)"
+        }
+      ],
+      "source": "Smartwatch-Modus: Bis zu 10 Tage\nGPS-Modus: Bis zu 15 Stunden (mit Standard-Displayeinstellungen: Gestenaktivierung im Smartwatch-Modus und ständig eingeschaltet beim Golfen)"
+    },
+    "batterySmartwatchHours": {
+      "kind": "number",
+      "value": 240,
+      "unit": "h",
+      "bound": "up-to",
+      "source": "Bis zu 10 Tage"
+    },
+    "batteryGpsHours": {
+      "kind": "number",
+      "value": 15,
+      "unit": "h",
+      "bound": "up-to",
+      "source": "GPS-Modus: Bis zu 15 Stunden (mit Standard-Displayeinstellungen: Gestenaktivierung im Smartwatch-Modus und ständig eingeschaltet beim Golfen)"
+    },
+    "solarCharging": {
+      "kind": "not-published"
+    },
+    "ultraTrac": {
+      "kind": "not-published"
+    },
+    "charging": {
+      "kind": "text",
+      "text": "Proprietäre Garmin-Ladeklemme",
+      "source": "Proprietäre Garmin-Ladeklemme"
+    },
+    "batteryType": {
+      "kind": "not-published"
+    },
+    "memory": {
+      "kind": "number",
+      "value": 4,
+      "unit": "GB",
+      "bound": "exact",
+      "source": "4 GB"
+    },
+    "gnssMultiband": {
+      "kind": "not-published"
+    },
+    "gnssSystems": {
+      "kind": "list",
+      "items": [
+        "GPS",
+        "GLONASS",
+        "Galileo"
+      ],
+      "source": "GPS, GLONASS, Galileo"
+    },
+    "satIq": {
+      "kind": "not-published"
+    },
+    "sensors": {
+      "kind": "list",
+      "items": [
+        "Kompass",
+        "Gyroskop",
+        "Beschleunigungsmesser",
+        "Sensor für das Umgebungslicht"
+      ],
+      "source": "Kompass, Gyroskop, Beschleunigungsmesser, Sensor für das Umgebungslicht"
+    },
+    "barometricAltimeter": {
+      "kind": "not-published"
+    },
+    "compass": {
+      "kind": "flag",
+      "state": "supported",
+      "source": "yes"
+    },
+    "gyroscope": {
+      "kind": "flag",
+      "state": "supported",
+      "source": "yes"
+    },
+    "thermometer": {
+      "kind": "not-published"
+    },
+    "connectivity": {
+      "kind": "list",
+      "items": [
+        "BLUETOOTH® LE"
+      ],
+      "source": "BLUETOOTH® LE"
+    },
+    "wifi": {
+      "kind": "not-published"
+    },
+    "speakerMic": {
+      "kind": "not-published"
+    },
+    "voiceAssistant": {
+      "kind": "not-published"
+    },
+    "lte": {
+      "kind": "not-published"
+    },
+    "satelliteMessaging": {
+      "kind": "not-published"
+    },
+    "smartNotifications": {
+      "kind": "flag",
+      "state": "supported",
+      "source": "yes"
+    },
+    "messengerApp": {
+      "kind": "not-published"
+    },
+    "musicStorage": {
+      "kind": "not-published"
+    },
+    "musicPlayback": {
+      "kind": "not-published"
+    },
+    "garminPay": {
+      "kind": "not-published"
+    },
+    "preloadedMaps": {
+      "kind": "flag",
+      "state": "supported",
+      "qualifier": "mit Garmin Golf Mitgliedschaft",
+      "source": "Ja (mit Garmin Golf Mitgliedschaft)"
+    },
+    "downloadableMaps": {
+      "kind": "not-published"
+    },
+    "pointToPointNavigation": {
+      "kind": "not-published"
+    },
+    "ledFlashlight": {
+      "kind": "not-published"
+    },
+    "tracBack": {
+      "kind": "not-published"
+    },
+    "elevationProfile": {
+      "kind": "not-published"
+    },
+    "connectIq": {
+      "kind": "not-published"
+    },
+    "wristHeartRate": {
+      "kind": "not-published"
+    },
+    "pulseOx": {
+      "kind": "not-published"
+    },
+    "ecgApp": {
+      "kind": "not-published"
+    },
+    "sleepScore": {
+      "kind": "not-published"
+    },
+    "bodyBattery": {
+      "kind": "not-published"
+    },
+    "hrvStatus": {
+      "kind": "not-published"
+    },
+    "trainingReadiness": {
+      "kind": "not-published"
+    },
+    "vo2max": {
+      "kind": "not-published"
+    },
+    "healthSnapshot": {
+      "kind": "not-published"
+    },
+    "womensHealth": {
+      "kind": "not-published"
+    },
+    "stressTracking": {
+      "kind": "not-published"
+    },
+    "sleepCoach": {
+      "kind": "not-published"
+    },
+    "trainingLoad": {
+      "kind": "not-published"
+    },
+    "runningDynamics": {
+      "kind": "not-published"
+    },
+    "pacePro": {
+      "kind": "not-published"
+    }
+  },
+  "sourceUrl": "https://www.garmin.com/de-DE/p/1604358/",
+  "fetchedAt": "2026-08-09T16:02:37.963Z"
+}

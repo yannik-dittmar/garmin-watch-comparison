@@ -1,0 +1,2042 @@
+{
+  "id": "1915560",
+  "name": "Forerunner 170",
+  "lineage": {
+    "family": "Forerunner",
+    "generation": "170",
+    "generationRank": 170,
+    "qualifier": null
+  },
+  "price": {
+    "amount": 299.99,
+    "currency": "EUR",
+    "formatted": "299,99 €"
+  },
+  "images": [
+    "https://res.garmin.com/de_DE/products/010-03920-00/v/cf-lg.jpg",
+    "https://res.garmin.com/de_DE/products/010-03920-00/v/rf-lg.jpg",
+    "https://res.garmin.com/de_DE/products/010-03920-00/v/lf-lg.jpg",
+    "https://res.garmin.com/de_DE/products/010-03920-00/v/pd-01-lg.jpg",
+    "https://res.garmin.com/en_GB/products/010-03920-00/v/pd-02-lg.jpg",
+    "https://res.garmin.com/de_DE/products/010-03920-00/v/pd-03-lg.jpg",
+    "https://res.garmin.com/en_GB/products/010-03920-00/v/pd-04-lg.jpg",
+    "https://res.garmin.com/de_DE/products/010-03920-01/v/cf-lg.jpg",
+    "https://res.garmin.com/de_DE/products/010-03920-01/v/rf-lg.jpg",
+    "https://res.garmin.com/de_DE/products/010-03920-01/v/lf-lg.jpg",
+    "https://res.garmin.com/de_DE/products/010-03920-01/v/pd-01-lg.jpg",
+    "https://res.garmin.com/en_GB/products/010-03920-01/v/pd-02-lg.jpg",
+    "https://res.garmin.com/de_DE/products/010-03920-01/v/pd-03-lg.jpg",
+    "https://res.garmin.com/en_GB/products/010-03920-01/v/pd-04-lg.jpg"
+  ],
+  "variants": [
+    {
+      "sku": "010-03920-00",
+      "partNumber": "010-03920-00",
+      "name": "Schwarz mit Schnellwechsel-Armband 20 mm Silikon Schwarz/Amp Yellow",
+      "price": {
+        "amount": 299.99,
+        "currency": "EUR",
+        "formatted": "299,99 €"
+      },
+      "images": [
+        "https://res.garmin.com/de_DE/products/010-03920-00/v/cf-lg.jpg",
+        "https://res.garmin.com/de_DE/products/010-03920-00/v/rf-lg.jpg",
+        "https://res.garmin.com/de_DE/products/010-03920-00/v/lf-lg.jpg",
+        "https://res.garmin.com/de_DE/products/010-03920-00/v/pd-01-lg.jpg",
+        "https://res.garmin.com/en_GB/products/010-03920-00/v/pd-02-lg.jpg",
+        "https://res.garmin.com/de_DE/products/010-03920-00/v/pd-03-lg.jpg",
+        "https://res.garmin.com/en_GB/products/010-03920-00/v/pd-04-lg.jpg"
+      ]
+    },
+    {
+      "sku": "010-03920-01",
+      "partNumber": "010-03920-01",
+      "name": "Steinweiss mit Schnellwechsel-Armband 20 mm Silikon Steinweiss/Cloud Blue",
+      "price": {
+        "amount": 299.99,
+        "currency": "EUR",
+        "formatted": "299,99 €"
+      },
+      "images": [
+        "https://res.garmin.com/de_DE/products/010-03920-01/v/cf-lg.jpg",
+        "https://res.garmin.com/de_DE/products/010-03920-01/v/rf-lg.jpg",
+        "https://res.garmin.com/de_DE/products/010-03920-01/v/lf-lg.jpg",
+        "https://res.garmin.com/de_DE/products/010-03920-01/v/pd-01-lg.jpg",
+        "https://res.garmin.com/en_GB/products/010-03920-01/v/pd-02-lg.jpg",
+        "https://res.garmin.com/de_DE/products/010-03920-01/v/pd-03-lg.jpg",
+        "https://res.garmin.com/en_GB/products/010-03920-01/v/pd-04-lg.jpg"
+      ]
+    }
+  ],
+  "boxContents": [
+    "Forerunner 170",
+    "Ladekabel",
+    "Dokumentation"
+  ],
+  "rawSpecs": [
+    {
+      "section": "Innovative Funktionen",
+      "label": "Sleep Score und Insights",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 0
+    },
+    {
+      "section": "Innovative Funktionen",
+      "label": "Akkulaufzeit (Smartwatch-Modus)",
+      "value": "Bis zu 10 Tage",
+      "valueKind": "text",
+      "order": 1
+    },
+    {
+      "section": "Innovative Funktionen",
+      "label": "Pulse Ox Daten für die Sauerstoffsättigung des Bluts",
+      "value": "Ja (gelegentlich sowie optional ganztägig und beim Schlafen)",
+      "valueKind": "text",
+      "order": 2
+    },
+    {
+      "section": "Innovative Funktionen",
+      "label": "Garmin Pay™",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 3
+    },
+    {
+      "section": "Innovative Funktionen",
+      "label": "Trainingsbereitschaft",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 4
+    },
+    {
+      "section": "Innovative Funktionen",
+      "label": "Trainingszustand",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 5
+    },
+    {
+      "section": "Innovative Funktionen",
+      "label": "Displaytyp der Smartwatch",
+      "value": "AMOLED; optional Always-On Display",
+      "valueKind": "text",
+      "order": 6
+    },
+    {
+      "section": "Innovative Funktionen",
+      "label": "Touchdisplay",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 7
+    },
+    {
+      "section": "Innovative Funktionen",
+      "label": "Wasserdichtigkeit",
+      "value": "Schwimmen, 5 ATM",
+      "valueKind": "text",
+      "order": 8
+    },
+    {
+      "section": "Allgemein",
+      "label": "Armbandmaterial",
+      "value": "Silikon",
+      "valueKind": "text",
+      "order": 9
+    },
+    {
+      "section": "Allgemein",
+      "label": "Displayglas",
+      "value": "Chemisch verstärktes Glas",
+      "valueKind": "text",
+      "order": 10
+    },
+    {
+      "section": "Allgemein",
+      "label": "Material der Lünette",
+      "value": "Faserverstärktes Polymer",
+      "valueKind": "text",
+      "order": 11
+    },
+    {
+      "section": "Allgemein",
+      "label": "Schnellwechsel-Armbänder",
+      "value": "Ja (20 mm, Industriestandard)",
+      "valueKind": "text",
+      "order": 12
+    },
+    {
+      "section": "Allgemein",
+      "label": "Physische Größe",
+      "value": "42,6 x 42,6 x 11,9 mm\nFür einen Handgelenkumfang von 126-203 mm",
+      "valueKind": "text",
+      "order": 13
+    },
+    {
+      "section": "Allgemein",
+      "label": "Gewicht",
+      "value": "41 g",
+      "valueKind": "text",
+      "order": 14
+    },
+    {
+      "section": "Allgemein",
+      "label": "Anzeigegröße",
+      "value": "30,4 mm (1,2-Zoll) Durchmesser",
+      "valueKind": "text",
+      "order": 15
+    },
+    {
+      "section": "Allgemein",
+      "label": "Anzeigeauflösung",
+      "value": "390 x 390 Pixel",
+      "valueKind": "text",
+      "order": 16
+    },
+    {
+      "section": "Allgemein",
+      "label": "Farbdisplay",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 17
+    },
+    {
+      "section": "Allgemein",
+      "label": "Zwei Schriftgrößen",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 18
+    },
+    {
+      "section": "Allgemein",
+      "label": "Batterietyp",
+      "value": "Lithium-Ionen",
+      "valueKind": "text",
+      "order": 19
+    },
+    {
+      "section": "Allgemein",
+      "label": "Akkulaufzeit",
+      "value": "Smartwatch-Modus: Bis zu 10 Tage (4 Tage bei fortwährend eingeschaltetem Display)\nEnergiespar-Modus: Bis zu 19 Tage\nGNSS-Modus nur mit GPS: Bis zu 20 Stunden\nGNSS-Modus mit allen Systemen: Bis zu 14 Stunden",
+      "valueKind": "text",
+      "order": 20
+    },
+    {
+      "section": "Allgemein",
+      "label": "Ladeverfahren",
+      "value": "Proprietäre Garmin-Ladeklemme",
+      "valueKind": "text",
+      "order": 21
+    },
+    {
+      "section": "Allgemein",
+      "label": "Speicher/Protokoll",
+      "value": "4 GB",
+      "valueKind": "text",
+      "order": 22
+    },
+    {
+      "section": "Uhrfunktionen",
+      "label": "Uhrzeit/Datum",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 23
+    },
+    {
+      "section": "Uhrfunktionen",
+      "label": "GPS-Uhrzeit­synchronisierung",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 24
+    },
+    {
+      "section": "Uhrfunktionen",
+      "label": "Automatische Sommerzeit",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 25
+    },
+    {
+      "section": "Uhrfunktionen",
+      "label": "Wecker",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 26
+    },
+    {
+      "section": "Uhrfunktionen",
+      "label": "Intelligenter Weckalarm",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 27
+    },
+    {
+      "section": "Uhrfunktionen",
+      "label": "Timer",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 28
+    },
+    {
+      "section": "Uhrfunktionen",
+      "label": "Stoppuhr",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 29
+    },
+    {
+      "section": "Uhrfunktionen",
+      "label": "Zeiten für Sonnenaufgang und Sonnenuntergang",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 30
+    },
+    {
+      "section": "Gesundheits- und Fitnessfunktionen",
+      "label": "Herzfrequenz (konstant, jede Sekunde)",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 31
+    },
+    {
+      "section": "Gesundheits- und Fitnessfunktionen",
+      "label": "Ruheherzfrequenz",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 32
+    },
+    {
+      "section": "Gesundheits- und Fitnessfunktionen",
+      "label": "Alarme für abnormale Herzfrequenz",
+      "value": "Ja (hoch und niedrig)",
+      "valueKind": "text",
+      "order": 33
+    },
+    {
+      "section": "Gesundheits- und Fitnessfunktionen",
+      "label": "Atemfrequenz",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 34
+    },
+    {
+      "section": "Gesundheits- und Fitnessfunktionen",
+      "label": "Fitnessalter",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 35
+    },
+    {
+      "section": "Gesundheits- und Fitnessfunktionen",
+      "label": "Body Battery™ - Energiereserven",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 36
+    },
+    {
+      "section": "Gesundheits- und Fitnessfunktionen",
+      "label": "Stresslevelmessung",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 37
+    },
+    {
+      "section": "Gesundheits- und Fitnessfunktionen",
+      "label": "Entspannungserinnerungen",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 38
+    },
+    {
+      "section": "Gesundheits- und Fitnessfunktionen",
+      "label": "Entspannungstimer",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 39
+    },
+    {
+      "section": "Gesundheits- und Fitnessfunktionen",
+      "label": "Atemübungen",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 40
+    },
+    {
+      "section": "Gesundheits- und Fitnessfunktionen",
+      "label": "Schlafanalyse",
+      "value": "Ja (fortgeschritten)",
+      "valueKind": "text",
+      "order": 41
+    },
+    {
+      "section": "Gesundheits- und Fitnessfunktionen",
+      "label": "Schlafcoach",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 42
+    },
+    {
+      "section": "Gesundheits- und Fitnessfunktionen",
+      "label": "Veränderung des atemmusters",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 43
+    },
+    {
+      "section": "Gesundheits- und Fitnessfunktionen",
+      "label": "Erkennung von Nickerchen",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 44
+    },
+    {
+      "section": "Gesundheits- und Fitnessfunktionen",
+      "label": "Flüssigkeitsaufnahme",
+      "value": "Ja (in Garmin Connect™ und optional im Connect IQ™-Widget)",
+      "valueKind": "text",
+      "order": 45
+    },
+    {
+      "section": "Gesundheits- und Fitnessfunktionen",
+      "label": "Frauengesundheit",
+      "value": "Ja (in Garmin Connect™ und optional im Connect IQ™-Widget)",
+      "valueKind": "text",
+      "order": 46
+    },
+    {
+      "section": "Gesundheits- und Fitnessfunktionen",
+      "label": "Health Snapshot™",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 47
+    },
+    {
+      "section": "Gesundheits- und Fitnessfunktionen",
+      "label": "Lifestyle Logging",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 48
+    },
+    {
+      "section": "Gesundheits- und Fitnessfunktionen",
+      "label": "Health Status",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 49
+    },
+    {
+      "section": "Sensoren",
+      "label": "GPS",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 50
+    },
+    {
+      "section": "Sensoren",
+      "label": "GLONASS",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 51
+    },
+    {
+      "section": "Sensoren",
+      "label": "Galileo",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 52
+    },
+    {
+      "section": "Sensoren",
+      "label": "Garmin Elevate™ -Technologie für die Herzfrequenzmessung am Handgelenk",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 53
+    },
+    {
+      "section": "Sensoren",
+      "label": "Pulsoximeter-Akklimatisierung",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 54
+    },
+    {
+      "section": "Sensoren",
+      "label": "Barometrischer Höhenmesser",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 55
+    },
+    {
+      "section": "Sensoren",
+      "label": "Kompass",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 56
+    },
+    {
+      "section": "Sensoren",
+      "label": "Gyroskop",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 57
+    },
+    {
+      "section": "Sensoren",
+      "label": "Beschleunigungs­messer",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 58
+    },
+    {
+      "section": "Sensoren",
+      "label": "Thermometer",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 59
+    },
+    {
+      "section": "Sensoren",
+      "label": "Sensor für das Umgebungslicht",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 60
+    },
+    {
+      "section": "Tägliche Smart-Funktionen",
+      "label": "Telefon suchen",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 61
+    },
+    {
+      "section": "Tägliche Smart-Funktionen",
+      "label": "Mein Garmin-Gerät suchen (hilft beim Finden verloren gegangener Geräte)",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 62
+    },
+    {
+      "section": "Tägliche Smart-Funktionen",
+      "label": "'Mein Telefon suchen' während einer GPS-Aktivität",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 63
+    },
+    {
+      "section": "Tägliche Smart-Funktionen",
+      "label": "Konnektivität",
+      "value": "Bluetooth®, ANT+®",
+      "valueKind": "text",
+      "order": 64
+    },
+    {
+      "section": "Tägliche Smart-Funktionen",
+      "label": "Connect IQ™ (downloadbare Displaydesigns, Datenfelder und Apps)",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 65
+    },
+    {
+      "section": "Tägliche Smart-Funktionen",
+      "label": "CONNECT IQ™-STORE AUF DEM GERÄT",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 66
+    },
+    {
+      "section": "Tägliche Smart-Funktionen",
+      "label": "Erhalte Smart Notifications",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 67
+    },
+    {
+      "section": "Tägliche Smart-Funktionen",
+      "label": "SMS-Antwort/Anruf per SMS ablehnen (nur Android™)",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 68
+    },
+    {
+      "section": "Tägliche Smart-Funktionen",
+      "label": "Smart Notifications mit Bilddarstellung auf der Smartwatch (nur Android™)",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 69
+    },
+    {
+      "section": "Tägliche Smart-Funktionen",
+      "label": "Morgenbericht",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 70
+    },
+    {
+      "section": "Tägliche Smart-Funktionen",
+      "label": "Abendbericht",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 71
+    },
+    {
+      "section": "Tägliche Smart-Funktionen",
+      "label": "Kalender",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 72
+    },
+    {
+      "section": "Tägliche Smart-Funktionen",
+      "label": "Wetter",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 73
+    },
+    {
+      "section": "Tägliche Smart-Funktionen",
+      "label": "Einstellungssynchronisierung in Echtzeit mit Garmin Connect™ Mobile",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 74
+    },
+    {
+      "section": "Tägliche Smart-Funktionen",
+      "label": "Energiesparmodus: Anpassbarer Energiespar-Uhrmodus",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 75
+    },
+    {
+      "section": "Tägliche Smart-Funktionen",
+      "label": "Musikfunktionen",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 76
+    },
+    {
+      "section": "Tägliche Smart-Funktionen",
+      "label": "Kompatibel mit Garmin Messenger-App",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 77
+    },
+    {
+      "section": "Tägliche Smart-Funktionen",
+      "label": "SMART-TRAINER-BEDIENUNG",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 78
+    },
+    {
+      "section": "Tägliche Smart-Funktionen",
+      "label": "Kompatibel mit Garmin Connect™ Mobile",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 79
+    },
+    {
+      "section": "Tägliche Smart-Funktionen",
+      "label": "Smartphone-Kompatibilität",
+      "value": "iPhone®, Android™",
+      "valueKind": "text",
+      "order": 80
+    },
+    {
+      "section": "Tägliche Smart-Funktionen",
+      "label": "Aktien Tracker",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 81
+    },
+    {
+      "section": "Tägliche Smart-Funktionen",
+      "label": "Farbwechsel",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 82
+    },
+    {
+      "section": "Tägliche Smart-Funktionen",
+      "label": "Red Shift Modus",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 83
+    },
+    {
+      "section": "Tägliche Smart-Funktionen",
+      "label": "Garmin Share",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 84
+    },
+    {
+      "section": "Tägliche Smart-Funktionen",
+      "label": "Passwort",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 85
+    },
+    {
+      "section": "Tägliche Smart-Funktionen",
+      "label": "Taschenrechner",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 86
+    },
+    {
+      "section": "Tägliche Smart-Funktionen",
+      "label": "Farbfilter",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 87
+    },
+    {
+      "section": "Tägliche Smart-Funktionen",
+      "label": "Stündlicher Alarm",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 88
+    },
+    {
+      "section": "Trainings und Trainingspläne",
+      "label": "Tägliche Trainingsempfehlungen – Laufen (basierend auf Pace und Herzfrequenz)",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 89
+    },
+    {
+      "section": "Trainings und Trainingspläne",
+      "label": "Garmin Running Coach",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 90
+    },
+    {
+      "section": "Trainings und Trainingspläne",
+      "label": "Garmin Running Coach Expert*innen",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 91
+    },
+    {
+      "section": "Trainings und Trainingspläne",
+      "label": "Garmin Cycling Coach",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 92
+    },
+    {
+      "section": "Trainings und Trainingspläne",
+      "label": "Garmin Coach – Vordefinierte Radfahrpläne",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 93
+    },
+    {
+      "section": "Trainings und Trainingspläne",
+      "label": "Garmin Coach – Krafttraining",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 94
+    },
+    {
+      "section": "Trainings und Trainingspläne",
+      "label": "Garmin Fitness Coach",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 95
+    },
+    {
+      "section": "Trainings und Trainingspläne",
+      "label": "Cardiotrainings",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 96
+    },
+    {
+      "section": "Trainings und Trainingspläne",
+      "label": "Krafttrainings",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 97
+    },
+    {
+      "section": "Trainings und Trainingspläne",
+      "label": "HIIT-Training",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 98
+    },
+    {
+      "section": "Trainings und Trainingspläne",
+      "label": "Yoga-Workouts",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 99
+    },
+    {
+      "section": "Trainings und Trainingspläne",
+      "label": "Pilates-Trainingseinheiten",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 100
+    },
+    {
+      "section": "Trainings und Trainingspläne",
+      "label": "Grafische Darstellung der trainierten Muskelgruppen",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 101
+    },
+    {
+      "section": "Aktivitätsprofile",
+      "label": "Verfügbare Fitnessstudio-Aktivitätsprofile",
+      "value": "Krafttraining, HIIT, Cardio, Crosstrainer, Stepper, Treppensteigen, Seilspringen",
+      "valueKind": "text",
+      "order": 102
+    },
+    {
+      "section": "Aktivitätsprofile",
+      "label": "HEALTH",
+      "value": "Gehen, Pilates, Yoga, Indoor-Gehen, Mobilität, Atemübungen",
+      "valueKind": "text",
+      "order": 103
+    },
+    {
+      "section": "Aktivitätsprofile",
+      "label": "INDOOR-LAUFEN",
+      "value": "Laufband, Hallenbahn, Virtuelles Lauftraining",
+      "valueKind": "text",
+      "order": 104
+    },
+    {
+      "section": "Aktivitätsprofile",
+      "label": "Laufen im Freien",
+      "value": "Laufen, Laufbahn, Trailrunning, Ultra Run, Extremhindernislauf",
+      "valueKind": "text",
+      "order": 105
+    },
+    {
+      "section": "Aktivitätsprofile",
+      "label": "Verfügbare Outdoor-Freizeitprofile",
+      "value": "Wandern, Rucking, Bergsteigen, Reiten, Disc Golf, Bogenschießen",
+      "valueKind": "text",
+      "order": 106
+    },
+    {
+      "section": "Aktivitätsprofile",
+      "label": "Verfügbare Fahrradprofile",
+      "value": "Radfahren, Rennradfahren, Mountainbiken, Gravel-Bike-Fahren, Pendeln mit dem Fahrrad, Tourenfahren, E-Bike-Fahren, E-Mountainbike-Fahren, Indoor-Radfahren, Cyclocross",
+      "valueKind": "text",
+      "order": 107
+    },
+    {
+      "section": "Aktivitätsprofile",
+      "label": "Verfügbare Schwimmprofile",
+      "value": "Schwimmbadschwimmen, Freiwasserschwimmen",
+      "valueKind": "text",
+      "order": 108
+    },
+    {
+      "section": "Aktivitätsprofile",
+      "label": "Auf dem Wasser",
+      "value": "Stand-Up-Paddle, Rudern, Kajakfahren, Schnorcheln",
+      "valueKind": "text",
+      "order": 109
+    },
+    {
+      "section": "Aktivitätsprofile",
+      "label": "Motorsport",
+      "value": "Motorradfahren, Overlanding, Motorcrossing, Geländefahrzeugfahren, Schneemobilfahren",
+      "valueKind": "text",
+      "order": 110
+    },
+    {
+      "section": "Aktivitätsprofile",
+      "label": "Schlägersportarten",
+      "value": "Tennis, Pickleball, Badminton, Squash, Tischtennis, Padel, Paddle-Tennis, Racquetball",
+      "valueKind": "text",
+      "order": 111
+    },
+    {
+      "section": "Aktivitätsprofile",
+      "label": "Schnee und Winter",
+      "value": "Skifahren, Snowboarden, Klassischer Langlauf, Langlauf Freistil, Eislaufen, Schneeschuh",
+      "valueKind": "text",
+      "order": 112
+    },
+    {
+      "section": "Aktivitätsprofile",
+      "label": "Sport-Apps",
+      "value": "Basketball, Volleyball, Feldhockey, Eishockey, Fußball, Football, Lacrosse, Rugby, Ultimate Frisbee, Cricket, Softball, Baseball",
+      "valueKind": "text",
+      "order": 113
+    },
+    {
+      "section": "Aktivitätsprofile",
+      "label": "Im Ring",
+      "value": "Boxen, Mixed Martial Arts",
+      "valueKind": "text",
+      "order": 114
+    },
+    {
+      "section": "Aktivitätsprofile",
+      "label": "Andere Aktivitätsprofile",
+      "value": "Inlineskaten",
+      "valueKind": "text",
+      "order": 115
+    },
+    {
+      "section": "Sicherheits- und Trackingfunktionen",
+      "label": "Unfall-Benachrichtigung während bestimmter Aktivitäten",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 116
+    },
+    {
+      "section": "Sicherheits- und Trackingfunktionen",
+      "label": "Unfallbenachrichtigung auf dem Smartphone bei Wearables",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 117
+    },
+    {
+      "section": "Sicherheits- und Trackingfunktionen",
+      "label": "Notfallhilfe",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 118
+    },
+    {
+      "section": "Sicherheits- und Trackingfunktionen",
+      "label": "Live-Eventfreigabe",
+      "value": "Nur Android™",
+      "valueKind": "text",
+      "order": 119
+    },
+    {
+      "section": "Aktivitätsfunktionen",
+      "label": "Schrittzähler",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 120
+    },
+    {
+      "section": "Aktivitätsfunktionen",
+      "label": "Inaktivitätsalarme",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 121
+    },
+    {
+      "section": "Aktivitätsfunktionen",
+      "label": "Inaktivitätsalarm Bewegungsoptionen",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 122
+    },
+    {
+      "section": "Aktivitätsfunktionen",
+      "label": "Automatisches Ziel (lernt, wie aktiv der Benutzer ist und weist ein Tagesziel Schritte zu)",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 123
+    },
+    {
+      "section": "Aktivitätsfunktionen",
+      "label": "Kalorienverbrauch",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 124
+    },
+    {
+      "section": "Aktivitätsfunktionen",
+      "label": "Stockwerke hochgestiegen",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 125
+    },
+    {
+      "section": "Aktivitätsfunktionen",
+      "label": "Zurückgelegte Strecke",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 126
+    },
+    {
+      "section": "Aktivitätsfunktionen",
+      "label": "Intensitätsminuten",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 127
+    },
+    {
+      "section": "Aktivitätsfunktionen",
+      "label": "TrueUp™",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 128
+    },
+    {
+      "section": "Aktivitätsfunktionen",
+      "label": "Move IQ™",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 129
+    },
+    {
+      "section": "Aktivitätsfunktionen",
+      "label": "Application Garmin Connect ™ Challenges",
+      "value": "Ja (optionale Connect IQ-App)",
+      "valueKind": "text",
+      "order": 130
+    },
+    {
+      "section": "Aktivitätsfunktionen",
+      "label": "Automatischer Wiederholungszähler",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 131
+    },
+    {
+      "section": "Trainings-, Planungs- und Analysefunktionen",
+      "label": "Optimierte Intervalle (u. a. offene Wiederholungen, Intervalldatenseite, Erholungsseite und automatische Erkennung)",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 132
+    },
+    {
+      "section": "Trainings-, Planungs- und Analysefunktionen",
+      "label": "Anpassbare Datenseiten",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 133
+    },
+    {
+      "section": "Trainings-, Planungs- und Analysefunktionen",
+      "label": "Herunterladbare Trainingspläne",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 134
+    },
+    {
+      "section": "Trainings-, Planungs- und Analysefunktionen",
+      "label": "Routenführung auf Strecken",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 135
+    },
+    {
+      "section": "Trainings-, Planungs- und Analysefunktionen",
+      "label": "Herzfrequenz-Bereiche",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 136
+    },
+    {
+      "section": "Trainings-, Planungs- und Analysefunktionen",
+      "label": "Herzfrequenzalarme",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 137
+    },
+    {
+      "section": "Trainings-, Planungs- und Analysefunktionen",
+      "label": "Herzfrequenz-Kalorien",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 138
+    },
+    {
+      "section": "Trainings-, Planungs- und Analysefunktionen",
+      "label": "% HF max.",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 139
+    },
+    {
+      "section": "Trainings-, Planungs- und Analysefunktionen",
+      "label": "% RHF",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 140
+    },
+    {
+      "section": "Trainings-, Planungs- und Analysefunktionen",
+      "label": "Erholungszeit",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 141
+    },
+    {
+      "section": "Trainings-, Planungs- und Analysefunktionen",
+      "label": "Automatische maximale Herzfrequenz",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 142
+    },
+    {
+      "section": "Trainings-, Planungs- und Analysefunktionen",
+      "label": "WETTKAMPF KALENDER",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 143
+    },
+    {
+      "section": "Trainings-, Planungs- und Analysefunktionen",
+      "label": "HFV Status",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 144
+    },
+    {
+      "section": "Trainings-, Planungs- und Analysefunktionen",
+      "label": "Herzfrequenzübertragung (überträgt Herzfrequenzdaten über ANT+™ an gekoppelte Geräte)",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 145
+    },
+    {
+      "section": "Trainings-, Planungs- und Analysefunktionen",
+      "label": "Atemfrequenz (während des Trainings)",
+      "value": "Ja (mit kompatiblem Zubehör)",
+      "valueKind": "text",
+      "order": 146
+    },
+    {
+      "section": "Trainings-, Planungs- und Analysefunktionen",
+      "label": "GPS-Geschwindigkeit und -Distanz",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 147
+    },
+    {
+      "section": "Trainings-, Planungs- und Analysefunktionen",
+      "label": "Anpassbare Aktivitätsprofile",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 148
+    },
+    {
+      "section": "Trainings-, Planungs- und Analysefunktionen",
+      "label": "Auto Pause®",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 149
+    },
+    {
+      "section": "Trainings-, Planungs- und Analysefunktionen",
+      "label": "Intervalltraining",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 150
+    },
+    {
+      "section": "Trainings-, Planungs- und Analysefunktionen",
+      "label": "Erweiterte Trainings",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 151
+    },
+    {
+      "section": "Trainings-, Planungs- und Analysefunktionen",
+      "label": "HRM Laufpace und -distanz",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 152
+    },
+    {
+      "section": "Trainings-, Planungs- und Analysefunktionen",
+      "label": "Auto Lap®",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 153
+    },
+    {
+      "section": "Trainings-, Planungs- und Analysefunktionen",
+      "label": "Manuelle Runde",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 154
+    },
+    {
+      "section": "Trainings-, Planungs- und Analysefunktionen",
+      "label": "Erholungs-Timer",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 155
+    },
+    {
+      "section": "Trainings-, Planungs- und Analysefunktionen",
+      "label": "Anpassbare Rundenalarme",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 156
+    },
+    {
+      "section": "Trainings-, Planungs- und Analysefunktionen",
+      "label": "VO2max (Laufen)",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 157
+    },
+    {
+      "section": "Trainings-, Planungs- und Analysefunktionen",
+      "label": "VO2max (Trailrunning)",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 158
+    },
+    {
+      "section": "Trainings-, Planungs- und Analysefunktionen",
+      "label": "Belastungsverhältnis",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 159
+    },
+    {
+      "section": "Trainings-, Planungs- und Analysefunktionen",
+      "label": "Trainingsbelastung",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 160
+    },
+    {
+      "section": "Trainings-, Planungs- und Analysefunktionen",
+      "label": "Trainingsbelastungsfokus",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 161
+    },
+    {
+      "section": "Trainings-, Planungs- und Analysefunktionen",
+      "label": "Training Effect",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 162
+    },
+    {
+      "section": "Trainings-, Planungs- und Analysefunktionen",
+      "label": "Training Effect (anaerob)",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 163
+    },
+    {
+      "section": "Trainings-, Planungs- und Analysefunktionen",
+      "label": "Hauptnutzen (Training Effect-Bezeichnungen)",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 164
+    },
+    {
+      "section": "Trainings-, Planungs- und Analysefunktionen",
+      "label": "Anpassbare Alarme",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 165
+    },
+    {
+      "section": "Trainings-, Planungs- und Analysefunktionen",
+      "label": "Sprachhinweise",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 166
+    },
+    {
+      "section": "Trainings-, Planungs- und Analysefunktionen",
+      "label": "Endzeit",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 167
+    },
+    {
+      "section": "Trainings-, Planungs- und Analysefunktionen",
+      "label": "Virtual Racer™",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 168
+    },
+    {
+      "section": "Trainings-, Planungs- und Analysefunktionen",
+      "label": "DISPLAY- UND/ODER TASTENSPERRE",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 169
+    },
+    {
+      "section": "Trainings-, Planungs- und Analysefunktionen",
+      "label": "Kurzbefehle",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 170
+    },
+    {
+      "section": "Trainings-, Planungs- und Analysefunktionen",
+      "label": "Aktivitätenprotokoll auf der Uhr",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 171
+    },
+    {
+      "section": "Trainings-, Planungs- und Analysefunktionen",
+      "label": "Physio TrueUp",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 172
+    },
+    {
+      "section": "Trainings-, Planungs- und Analysefunktionen",
+      "label": "Einheitlicher Trainingszustand",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 173
+    },
+    {
+      "section": "Lauffunktionen",
+      "label": "GPS-basierte Daten zu Distanz, Zeit und Pace",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 174
+    },
+    {
+      "section": "Lauffunktionen",
+      "label": "Laufeffizienz",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 175
+    },
+    {
+      "section": "Lauffunktionen",
+      "label": "Vertikale Bewegung und vertikales Verhältnis",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 176
+    },
+    {
+      "section": "Lauffunktionen",
+      "label": "Bodenkontaktzeit und Balance der Bodenkontaktzeit",
+      "value": "Ja (mit kompatiblem Zubehör)",
+      "valueKind": "text",
+      "order": 177
+    },
+    {
+      "section": "Lauffunktionen",
+      "label": "Schrittlänge (Echtzeit)",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 178
+    },
+    {
+      "section": "Lauffunktionen",
+      "label": "Schrittfrequenz (Echtzeitanzahl der Schritte pro Minute)",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 179
+    },
+    {
+      "section": "Lauffunktionen",
+      "label": "Laufleistung",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 180
+    },
+    {
+      "section": "Lauffunktionen",
+      "label": "An die Neigung angepasste Pace",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 181
+    },
+    {
+      "section": "Lauffunktionen",
+      "label": "PacePro™-Pace-Strategien",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 182
+    },
+    {
+      "section": "Lauffunktionen",
+      "label": "Lauftrainings",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 183
+    },
+    {
+      "section": "Lauffunktionen",
+      "label": "Quickstart Training",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 184
+    },
+    {
+      "section": "Lauffunktionen",
+      "label": "Laufzeit-Prognose",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 185
+    },
+    {
+      "section": "Lauffunktionen",
+      "label": "Strecken- und wetterspezifische Lauf-Prognose",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 186
+    },
+    {
+      "section": "Lauffunktionen",
+      "label": "Kompatibel mit Laufsensor",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 187
+    },
+    {
+      "section": "Lauffunktionen",
+      "label": "Laufen-/Gehen-/Stehen-Erkennung",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 188
+    },
+    {
+      "section": "Outdoor-Freizeitfunktionen",
+      "label": "UltraTrac-Modus",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 189
+    },
+    {
+      "section": "Outdoor-Freizeitfunktionen",
+      "label": "Höhenprofil",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 190
+    },
+    {
+      "section": "Outdoor-Freizeitfunktionen",
+      "label": "Distanz zum Ziel",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 191
+    },
+    {
+      "section": "Outdoor-Freizeitfunktionen",
+      "label": "Vertikalgeschwindigkeit",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 192
+    },
+    {
+      "section": "Outdoor-Freizeitfunktionen",
+      "label": "Anstieg/Abstieg gesamt",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 193
+    },
+    {
+      "section": "Outdoor-Freizeitfunktionen",
+      "label": "Erholungstimer (nur Ultralauf)",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 194
+    },
+    {
+      "section": "Outdoor-Freizeitfunktionen",
+      "label": "Erholungstimer",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 195
+    },
+    {
+      "section": "Outdoor-Freizeitfunktionen",
+      "label": "Zukünftiges Höhenprofil",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 196
+    },
+    {
+      "section": "Outdoor-Freizeitfunktionen",
+      "label": "Sonnen- und Mondkalender",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 197
+    },
+    {
+      "section": "Mapping & Navigation",
+      "label": "Punkt-zu-Punkt-Navigation",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 198
+    },
+    {
+      "section": "Mapping & Navigation",
+      "label": "Trackaufzeichnung in Echtzeit",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 199
+    },
+    {
+      "section": "Mapping & Navigation",
+      "label": "Zurück zum Start",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 200
+    },
+    {
+      "section": "Mapping & Navigation",
+      "label": "TracBack®",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 201
+    },
+    {
+      "section": "Mapping & Navigation",
+      "label": "POIs entlang der Route",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 202
+    },
+    {
+      "section": "Radfahrfunktionen",
+      "label": "Strecken (zum Antreten gegen vorherige Aktivitäten)",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 203
+    },
+    {
+      "section": "Radfahrfunktionen",
+      "label": "Runde und maximale Rundenleistung beim Radfahren (mit Leistungsmesser)",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 204
+    },
+    {
+      "section": "Radfahrfunktionen",
+      "label": "Antreten gegen Aktivitäten",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 205
+    },
+    {
+      "section": "Radfahrfunktionen",
+      "label": "Zeit- oder Distanz-Alarm (Wenn du einen voreingestellten Wert erreichst, ertönt ein Alarm)",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 206
+    },
+    {
+      "section": "Radfahrfunktionen",
+      "label": "Kompatibel mit Vector™ und Rally™ (Leistungsmesser)",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 207
+    },
+    {
+      "section": "Radfahrfunktionen",
+      "label": "Kompatibel mit Varia™-Radar (rückwärtiges Radar)",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 208
+    },
+    {
+      "section": "Radfahrfunktionen",
+      "label": "Kompatibel mit Varia™-Fahrradlichtern",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 209
+    },
+    {
+      "section": "Radfahrfunktionen",
+      "label": "Kompatibel mit Varia Frontlicht inkl. integrierter Kamera",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 210
+    },
+    {
+      "section": "Radfahrfunktionen",
+      "label": "Unterstützung für Geschwindigkeits- und Trittfrequenzsensor (mit Sensor)",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 211
+    },
+    {
+      "section": "Radfahrfunktionen",
+      "label": "Mit Leistungsmessgeräten kompatibel (Anzeige von Leistungsdaten von kompatiblen ANT™ + -Leistungsmessern dritter Anbieter)",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 212
+    },
+    {
+      "section": "Schwimmfunktionen",
+      "label": "Freiwasser-Schwimmfunktionen (Distanz, Pace, Anzahl der Züge/Zugzahl, Kalorienverbrauch)",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 213
+    },
+    {
+      "section": "Schwimmfunktionen",
+      "label": "Schwimmbadfunktionen (Bahnen, Distanz, Pace, Anzahl der Züge/Zugzahl, Kalorienverbrauch)",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 214
+    },
+    {
+      "section": "Schwimmfunktionen",
+      "label": "Schwimmstilerkennung (Kraulschwimmen, Rückenschwimmen, Brustschwimmen, Schmetterlingsschwimmen)",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 215
+    },
+    {
+      "section": "Schwimmfunktionen",
+      "label": "Übungsaufzeichnung",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 216
+    },
+    {
+      "section": "Schwimmfunktionen",
+      "label": "Einfacher Erholungs-Timer (zählt von 0 aufwärts)",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 217
+    },
+    {
+      "section": "Schwimmfunktionen",
+      "label": "Erholungs-Timer mit \"Wiederholung ein\"",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 218
+    },
+    {
+      "section": "Schwimmfunktionen",
+      "label": "Auto-Erholung (nur Schwimmbadschwimmen)",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 219
+    },
+    {
+      "section": "Schwimmfunktionen",
+      "label": "Zeit- und Distanzalarme",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 220
+    },
+    {
+      "section": "Schwimmfunktionen",
+      "label": "Countdown-Start",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 221
+    },
+    {
+      "section": "Schwimmfunktionen",
+      "label": "Schwimmtrainings",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 222
+    },
+    {
+      "section": "Schwimmfunktionen",
+      "label": "Herzfrequenzmessung am Handgelenk unter Wasser",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 223
+    },
+    {
+      "section": "Schwimmfunktionen",
+      "label": "Herzfrequenz von externem Herzfrequenz-Brustgurt (Echtzeitdaten während Erholungsphasen, Statistiken für Intervalle und Einheiten während Erholungsphasen, automatisches Herunterladen von Herzfrequenzdaten nach dem Schwimmen)",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 224
+    },
+    {
+      "section": "Sicherheits- und rechtliche Informationen",
+      "label": "EU Data Act Informationen - Smartwatches, Fitness Gesundheitsgeräte und Produkte für die Herzfrequenzmessung (HRM)",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 225
+    }
+  ],
+  "specs": {
+    "caseDimensions": {
+      "kind": "dimensions",
+      "value": {
+        "widthMm": 42.6,
+        "heightMm": 42.6,
+        "thicknessMm": 11.9
+      },
+      "source": "42,6 x 42,6 x 11,9 mm\nFür einen Handgelenkumfang von 126-203 mm"
+    },
+    "caseSize": {
+      "kind": "number",
+      "value": 42.6,
+      "unit": "mm",
+      "bound": "exact",
+      "source": "42,6 x 42,6 x 11,9 mm\nFür einen Handgelenkumfang von 126-203 mm"
+    },
+    "caseThickness": {
+      "kind": "number",
+      "value": 11.9,
+      "unit": "mm",
+      "bound": "exact",
+      "source": "42,6 x 42,6 x 11,9 mm\nFür einen Handgelenkumfang von 126-203 mm"
+    },
+    "weight": {
+      "kind": "number",
+      "value": 41,
+      "unit": "g",
+      "bound": "exact",
+      "source": "41 g"
+    },
+    "wristRange": {
+      "kind": "text",
+      "text": "Für einen Handgelenkumfang von 126-203 mm",
+      "source": "42,6 x 42,6 x 11,9 mm\nFür einen Handgelenkumfang von 126-203 mm"
+    },
+    "displayType": {
+      "kind": "text",
+      "text": "AMOLED; optional Always-On Display",
+      "source": "AMOLED; optional Always-On Display"
+    },
+    "displaySize": {
+      "kind": "number",
+      "value": 30.4,
+      "unit": "mm",
+      "bound": "exact",
+      "source": "30,4 mm (1,2-Zoll) Durchmesser"
+    },
+    "displayResolution": {
+      "kind": "resolution",
+      "value": {
+        "width": 390,
+        "height": 390
+      },
+      "source": "390 x 390 Pixel"
+    },
+    "touchscreen": {
+      "kind": "flag",
+      "state": "supported",
+      "source": "yes"
+    },
+    "colorDisplay": {
+      "kind": "flag",
+      "state": "supported",
+      "source": "yes"
+    },
+    "lensMaterial": {
+      "kind": "text",
+      "text": "Chemisch verstärktes Glas",
+      "source": "Chemisch verstärktes Glas"
+    },
+    "bezelMaterial": {
+      "kind": "text",
+      "text": "Faserverstärktes Polymer",
+      "source": "Faserverstärktes Polymer"
+    },
+    "caseMaterial": {
+      "kind": "not-published"
+    },
+    "bandMaterial": {
+      "kind": "text",
+      "text": "Silikon",
+      "source": "Silikon"
+    },
+    "bandWidth": {
+      "kind": "number",
+      "value": 20,
+      "unit": "mm",
+      "bound": "exact",
+      "source": "Ja (20 mm, Industriestandard)"
+    },
+    "waterRating": {
+      "kind": "water",
+      "value": {
+        "label": "Schwimmen, 5 ATM",
+        "standard": "ATM",
+        "value": 5
+      },
+      "source": "Schwimmen, 5 ATM"
+    },
+    "battery": {
+      "kind": "battery",
+      "modes": [
+        {
+          "id": "smartwatch-modus",
+          "label": "Smartwatch-Modus",
+          "role": "smartwatch",
+          "hours": 240,
+          "bound": "up-to",
+          "solar": false,
+          "sourceText": "Smartwatch-Modus: Bis zu 10 Tage (4 Tage bei fortwährend eingeschaltetem Display)"
+        },
+        {
+          "id": "energiespar-modus",
+          "label": "Energiespar-Modus",
+          "role": "battery-saver",
+          "hours": 456,
+          "bound": "up-to",
+          "solar": false,
+          "sourceText": "Energiespar-Modus: Bis zu 19 Tage"
+        },
+        {
+          "id": "gnss-modus-nur-mit-gps",
+          "label": "GNSS-Modus nur mit GPS",
+          "role": "gps-only",
+          "hours": 20,
+          "bound": "up-to",
+          "solar": false,
+          "sourceText": "GNSS-Modus nur mit GPS: Bis zu 20 Stunden"
+        },
+        {
+          "id": "gnss-modus-mit-allen-systemen",
+          "label": "GNSS-Modus mit allen Systemen",
+          "role": "gps-only",
+          "hours": 14,
+          "bound": "up-to",
+          "solar": false,
+          "sourceText": "GNSS-Modus mit allen Systemen: Bis zu 14 Stunden"
+        }
+      ],
+      "source": "Smartwatch-Modus: Bis zu 10 Tage (4 Tage bei fortwährend eingeschaltetem Display)\nEnergiespar-Modus: Bis zu 19 Tage\nGNSS-Modus nur mit GPS: Bis zu 20 Stunden\nGNSS-Modus mit allen Systemen: Bis zu 14 Stunden"
+    },
+    "batterySmartwatchHours": {
+      "kind": "number",
+      "value": 240,
+      "unit": "h",
+      "bound": "up-to",
+      "source": "Bis zu 10 Tage"
+    },
+    "batteryGpsHours": {
+      "kind": "number",
+      "value": 20,
+      "unit": "h",
+      "bound": "up-to",
+      "source": "GNSS-Modus nur mit GPS: Bis zu 20 Stunden"
+    },
+    "solarCharging": {
+      "kind": "not-published"
+    },
+    "ultraTrac": {
+      "kind": "flag",
+      "state": "supported",
+      "source": "yes"
+    },
+    "charging": {
+      "kind": "text",
+      "text": "Proprietäre Garmin-Ladeklemme",
+      "source": "Proprietäre Garmin-Ladeklemme"
+    },
+    "batteryType": {
+      "kind": "text",
+      "text": "Lithium-Ionen",
+      "source": "Lithium-Ionen"
+    },
+    "memory": {
+      "kind": "number",
+      "value": 4,
+      "unit": "GB",
+      "bound": "exact",
+      "source": "4 GB"
+    },
+    "gnssMultiband": {
+      "kind": "not-published"
+    },
+    "gnssSystems": {
+      "kind": "list",
+      "items": [
+        "GPS",
+        "GLONASS",
+        "Galileo"
+      ],
+      "source": "GPS, GLONASS, Galileo"
+    },
+    "satIq": {
+      "kind": "not-published"
+    },
+    "sensors": {
+      "kind": "list",
+      "items": [
+        "Garmin Elevate™ -Technologie für die Herzfrequenzmessung am Handgelenk",
+        "Pulsoximeter-Akklimatisierung",
+        "Barometrischer Höhenmesser",
+        "Kompass",
+        "Gyroskop",
+        "Beschleunigungsmesser",
+        "Thermometer",
+        "Sensor für das Umgebungslicht"
+      ],
+      "source": "Garmin Elevate™ -Technologie für die Herzfrequenzmessung am Handgelenk, Pulsoximeter-Akklimatisierung, Barometrischer Höhenmesser, Kompass, Gyroskop, Beschleunigungsmesser, Thermometer, Sensor für das Umgebungslicht"
+    },
+    "barometricAltimeter": {
+      "kind": "flag",
+      "state": "supported",
+      "source": "yes"
+    },
+    "compass": {
+      "kind": "flag",
+      "state": "supported",
+      "source": "yes"
+    },
+    "gyroscope": {
+      "kind": "flag",
+      "state": "supported",
+      "source": "yes"
+    },
+    "thermometer": {
+      "kind": "flag",
+      "state": "supported",
+      "source": "yes"
+    },
+    "connectivity": {
+      "kind": "list",
+      "items": [
+        "Bluetooth®",
+        "ANT+®"
+      ],
+      "source": "Bluetooth®, ANT+®"
+    },
+    "wifi": {
+      "kind": "not-published"
+    },
+    "speakerMic": {
+      "kind": "not-published"
+    },
+    "voiceAssistant": {
+      "kind": "not-published"
+    },
+    "lte": {
+      "kind": "not-published"
+    },
+    "satelliteMessaging": {
+      "kind": "not-published"
+    },
+    "smartNotifications": {
+      "kind": "flag",
+      "state": "supported",
+      "source": "yes"
+    },
+    "messengerApp": {
+      "kind": "flag",
+      "state": "supported",
+      "source": "yes"
+    },
+    "musicStorage": {
+      "kind": "not-published"
+    },
+    "musicPlayback": {
+      "kind": "not-published"
+    },
+    "garminPay": {
+      "kind": "flag",
+      "state": "supported",
+      "source": "yes"
+    },
+    "preloadedMaps": {
+      "kind": "not-published"
+    },
+    "downloadableMaps": {
+      "kind": "not-published"
+    },
+    "pointToPointNavigation": {
+      "kind": "flag",
+      "state": "supported",
+      "source": "yes"
+    },
+    "ledFlashlight": {
+      "kind": "not-published"
+    },
+    "tracBack": {
+      "kind": "flag",
+      "state": "supported",
+      "source": "yes"
+    },
+    "elevationProfile": {
+      "kind": "flag",
+      "state": "supported",
+      "source": "yes"
+    },
+    "connectIq": {
+      "kind": "flag",
+      "state": "supported",
+      "source": "yes"
+    },
+    "wristHeartRate": {
+      "kind": "flag",
+      "state": "supported",
+      "source": "yes"
+    },
+    "pulseOx": {
+      "kind": "flag",
+      "state": "supported",
+      "qualifier": "gelegentlich sowie optional ganztägig und beim Schlafen",
+      "source": "Ja (gelegentlich sowie optional ganztägig und beim Schlafen)"
+    },
+    "ecgApp": {
+      "kind": "not-published"
+    },
+    "sleepScore": {
+      "kind": "flag",
+      "state": "supported",
+      "source": "yes"
+    },
+    "bodyBattery": {
+      "kind": "flag",
+      "state": "supported",
+      "source": "yes"
+    },
+    "hrvStatus": {
+      "kind": "flag",
+      "state": "supported",
+      "source": "yes"
+    },
+    "trainingReadiness": {
+      "kind": "flag",
+      "state": "supported",
+      "source": "yes"
+    },
+    "vo2max": {
+      "kind": "flag",
+      "state": "supported",
+      "source": "yes"
+    },
+    "healthSnapshot": {
+      "kind": "flag",
+      "state": "supported",
+      "source": "yes"
+    },
+    "womensHealth": {
+      "kind": "flag",
+      "state": "supported",
+      "qualifier": "in Garmin Connect™ und optional im Connect IQ™-Widget",
+      "source": "Ja (in Garmin Connect™ und optional im Connect IQ™-Widget)"
+    },
+    "stressTracking": {
+      "kind": "flag",
+      "state": "supported",
+      "source": "yes"
+    },
+    "sleepCoach": {
+      "kind": "flag",
+      "state": "supported",
+      "source": "yes"
+    },
+    "trainingLoad": {
+      "kind": "flag",
+      "state": "supported",
+      "source": "yes"
+    },
+    "runningDynamics": {
+      "kind": "flag",
+      "state": "supported",
+      "qualifier": "mit kompatiblem Zubehör",
+      "source": "Ja (mit kompatiblem Zubehör)"
+    },
+    "pacePro": {
+      "kind": "flag",
+      "state": "supported",
+      "source": "yes"
+    }
+  },
+  "sourceUrl": "https://www.garmin.com/de-DE/p/1915560/",
+  "fetchedAt": "2026-08-09T16:02:38.594Z"
+}

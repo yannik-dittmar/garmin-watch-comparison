@@ -1,0 +1,690 @@
+{
+  "id": "721216",
+  "name": "Approach S12",
+  "lineage": {
+    "family": "Approach",
+    "generation": "S12",
+    "generationRank": null,
+    "qualifier": null
+  },
+  "price": {
+    "amount": 159.99,
+    "currency": "EUR",
+    "formatted": "159,99 €"
+  },
+  "images": [
+    "https://res.garmin.com/en/products/010-02472-10/v/cf-lg-b6111ea5-c9b9-496d-9dfc-571d2f63ad35.jpg",
+    "https://res.garmin.com/en/products/010-02472-10/v/rf-lg.jpg",
+    "https://res.garmin.com/en/products/010-02472-10/v/lf-lg-04cd28ca-1e67-4fb4-b48b-2dd2493a662c.jpg",
+    "https://res.garmin.com/en/products/010-02472-10/v/pd-01-lg.jpg",
+    "https://res.garmin.com/en/products/010-02472-10/v/pd-02-lg-30d2023c-4513-484d-a06b-c6fcf70c4b1d.jpg",
+    "https://res.garmin.com/en/products/010-02472-10/v/pd-03-lg-977aefc5-f395-41eb-a12f-5f71c6a7a004.jpg",
+    "https://res.garmin.com/en/products/010-02472-10/v/pd-04-lg-20bc9307-e4b1-4c33-abcd-17de3fb39d44.jpg",
+    "https://res.garmin.com/en/products/010-02472-11/v/cf-lg-94e29da8-ce35-4f03-9cd0-e4bfda3675c9.jpg",
+    "https://res.garmin.com/en/products/010-02472-11/v/rf-lg.jpg",
+    "https://res.garmin.com/en/products/010-02472-11/v/lf-lg-c06f11de-c37c-4a79-89f4-a9bde9c9ed92.jpg",
+    "https://res.garmin.com/en/products/010-02472-11/v/pd-01-lg.jpg",
+    "https://res.garmin.com/en/products/010-02472-11/v/pd-02-lg-3a2a78ab-fd0e-4406-87d3-2d187464b1b9.jpg",
+    "https://res.garmin.com/en/products/010-02472-11/v/pd-03-lg-01ac1462-5d4b-4f36-bea8-e808893e17e3.jpg",
+    "https://res.garmin.com/en/products/010-02472-11/v/pd-04-lg-101881f8-3716-4b2c-bb4d-dcfc9d370b47.jpg",
+    "https://res.garmin.com/en/products/010-02472-12/v/cf-lg-59b58843-6147-4579-b9c8-9573a8f46d7a.jpg",
+    "https://res.garmin.com/en/products/010-02472-12/v/rf-lg.jpg",
+    "https://res.garmin.com/en/products/010-02472-12/v/lf-lg-fd696f68-aef7-44bf-834c-a307b5c7e7ac.jpg",
+    "https://res.garmin.com/en/products/010-02472-12/v/pd-01-lg.jpg",
+    "https://res.garmin.com/en/products/010-02472-12/v/pd-02-lg-752d9e36-5293-47f2-b721-0bbef894d07f.jpg",
+    "https://res.garmin.com/en/products/010-02472-12/v/pd-03-lg-0f6c6409-fa6c-464d-b8a7-f8f55211e338.jpg",
+    "https://res.garmin.com/en/products/010-02472-12/v/pd-04-lg-4add58c6-a4a7-4a56-9e8c-9fb62b804246.jpg",
+    "https://res.garmin.com/en/products/010-02472-13/v/cf-lg-8a164ecc-2032-495b-95b5-31764861a2ee-1.jpg",
+    "https://res.garmin.com/en/products/010-02472-13/v/rf-lg-7d8010a8-d37a-43a3-b04b-840a007dc327.jpg",
+    "https://res.garmin.com/en/products/010-02472-13/v/lf-lg-ba725752-01dd-460a-827e-3a11bde264fe.jpg",
+    "https://res.garmin.com/en/products/010-02472-13/v/pd-01-lg-14592d17-1fdd-4b24-a2e0-f3f0d7391dd4.jpg",
+    "https://res.garmin.com/en/products/010-02472-13/v/pd-02-lg-e61de6ae-f9fb-41ca-9e98-d359525bba37.jpg",
+    "https://res.garmin.com/en/products/010-02472-13/v/pd-03-lg-82d54dc8-a096-4d3f-b4d8-33840ee0fbaf.jpg",
+    "https://res.garmin.com/en/products/010-02472-13/v/pd-04-lg-be9d5d72-6d98-453a-89f0-70302f41c5ec.jpg",
+    "https://res.garmin.com/en/products/010-02472-14/v/cf-lg.jpg",
+    "https://res.garmin.com/en/products/010-02472-14/v/rf-lg.jpg",
+    "https://res.garmin.com/en/products/010-02472-14/v/lf-lg.jpg",
+    "https://res.garmin.com/en/products/010-02472-14/v/pd-01-lg.jpg",
+    "https://res.garmin.com/en/products/010-02472-14/v/pd-02-lg.jpg",
+    "https://res.garmin.com/en/products/010-02472-14/v/pd-03-lg.jpg",
+    "https://res.garmin.com/en/products/010-02472-15/v/cf-lg-dac892dc-4bac-446b-83a9-33eb9b03254a-1.jpg",
+    "https://res.garmin.com/en/products/010-02472-15/v/rf-lg-ebc8a4e8-ef46-432a-8702-db2247f6b0d5.jpg",
+    "https://res.garmin.com/en/products/010-02472-15/v/lf-lg-1469ebd6-b927-41fe-840e-1a0bda5be84f.jpg",
+    "https://res.garmin.com/en/products/010-02472-15/v/pd-01-lg-3eb8cd85-b991-47c5-ba8a-edf634cc3da6.jpg",
+    "https://res.garmin.com/en/products/010-02472-15/v/pd-03-lg-962eef0d-b923-4332-b030-38db77f09554.jpg",
+    "https://res.garmin.com/en/products/010-02472-15/v/pd-04-lg-ea65f6aa-960f-49d6-a5e1-3b93f3590d33.jpg"
+  ],
+  "variants": [
+    {
+      "sku": "010-02472-10",
+      "partNumber": "010-02472-10",
+      "name": "Schwarz",
+      "price": {
+        "amount": 159.99,
+        "currency": "EUR",
+        "formatted": "159,99 €"
+      },
+      "images": [
+        "https://res.garmin.com/en/products/010-02472-10/v/cf-lg-b6111ea5-c9b9-496d-9dfc-571d2f63ad35.jpg",
+        "https://res.garmin.com/en/products/010-02472-10/v/rf-lg.jpg",
+        "https://res.garmin.com/en/products/010-02472-10/v/lf-lg-04cd28ca-1e67-4fb4-b48b-2dd2493a662c.jpg",
+        "https://res.garmin.com/en/products/010-02472-10/v/pd-01-lg.jpg",
+        "https://res.garmin.com/en/products/010-02472-10/v/pd-02-lg-30d2023c-4513-484d-a06b-c6fcf70c4b1d.jpg",
+        "https://res.garmin.com/en/products/010-02472-10/v/pd-03-lg-977aefc5-f395-41eb-a12f-5f71c6a7a004.jpg",
+        "https://res.garmin.com/en/products/010-02472-10/v/pd-04-lg-20bc9307-e4b1-4c33-abcd-17de3fb39d44.jpg"
+      ]
+    },
+    {
+      "sku": "010-02472-11",
+      "partNumber": "010-02472-11",
+      "name": "Granitblau",
+      "price": {
+        "amount": 199.99,
+        "currency": "EUR",
+        "formatted": "199,99 €"
+      },
+      "images": [
+        "https://res.garmin.com/en/products/010-02472-11/v/cf-lg-94e29da8-ce35-4f03-9cd0-e4bfda3675c9.jpg",
+        "https://res.garmin.com/en/products/010-02472-11/v/rf-lg.jpg",
+        "https://res.garmin.com/en/products/010-02472-11/v/lf-lg-c06f11de-c37c-4a79-89f4-a9bde9c9ed92.jpg",
+        "https://res.garmin.com/en/products/010-02472-11/v/pd-01-lg.jpg",
+        "https://res.garmin.com/en/products/010-02472-11/v/pd-02-lg-3a2a78ab-fd0e-4406-87d3-2d187464b1b9.jpg",
+        "https://res.garmin.com/en/products/010-02472-11/v/pd-03-lg-01ac1462-5d4b-4f36-bea8-e808893e17e3.jpg",
+        "https://res.garmin.com/en/products/010-02472-11/v/pd-04-lg-101881f8-3716-4b2c-bb4d-dcfc9d370b47.jpg"
+      ]
+    },
+    {
+      "sku": "010-02472-12",
+      "partNumber": "010-02472-12",
+      "name": "Weiß",
+      "price": {
+        "amount": 159.99,
+        "currency": "EUR",
+        "formatted": "159,99 €"
+      },
+      "images": [
+        "https://res.garmin.com/en/products/010-02472-12/v/cf-lg-59b58843-6147-4579-b9c8-9573a8f46d7a.jpg",
+        "https://res.garmin.com/en/products/010-02472-12/v/rf-lg.jpg",
+        "https://res.garmin.com/en/products/010-02472-12/v/lf-lg-fd696f68-aef7-44bf-834c-a307b5c7e7ac.jpg",
+        "https://res.garmin.com/en/products/010-02472-12/v/pd-01-lg.jpg",
+        "https://res.garmin.com/en/products/010-02472-12/v/pd-02-lg-752d9e36-5293-47f2-b721-0bbef894d07f.jpg",
+        "https://res.garmin.com/en/products/010-02472-12/v/pd-03-lg-0f6c6409-fa6c-464d-b8a7-f8f55211e338.jpg",
+        "https://res.garmin.com/en/products/010-02472-12/v/pd-04-lg-4add58c6-a4a7-4a56-9e8c-9fb62b804246.jpg"
+      ]
+    },
+    {
+      "sku": "010-02472-13",
+      "partNumber": "010-02472-13",
+      "name": "Schiefergrau/Schwarz",
+      "price": {
+        "amount": 199.99,
+        "currency": "EUR",
+        "formatted": "199,99 €"
+      },
+      "images": [
+        "https://res.garmin.com/en/products/010-02472-13/v/cf-lg-8a164ecc-2032-495b-95b5-31764861a2ee-1.jpg",
+        "https://res.garmin.com/en/products/010-02472-13/v/rf-lg-7d8010a8-d37a-43a3-b04b-840a007dc327.jpg",
+        "https://res.garmin.com/en/products/010-02472-13/v/lf-lg-ba725752-01dd-460a-827e-3a11bde264fe.jpg",
+        "https://res.garmin.com/en/products/010-02472-13/v/pd-01-lg-14592d17-1fdd-4b24-a2e0-f3f0d7391dd4.jpg",
+        "https://res.garmin.com/en/products/010-02472-13/v/pd-02-lg-e61de6ae-f9fb-41ca-9e98-d359525bba37.jpg",
+        "https://res.garmin.com/en/products/010-02472-13/v/pd-03-lg-82d54dc8-a096-4d3f-b4d8-33840ee0fbaf.jpg",
+        "https://res.garmin.com/en/products/010-02472-13/v/pd-04-lg-be9d5d72-6d98-453a-89f0-70302f41c5ec.jpg"
+      ]
+    },
+    {
+      "sku": "010-02472-14",
+      "partNumber": "010-02472-14",
+      "name": "Dunkelblau/Schwarz",
+      "price": {
+        "amount": 199.99,
+        "currency": "EUR",
+        "formatted": "199,99 €"
+      },
+      "images": [
+        "https://res.garmin.com/en/products/010-02472-14/v/cf-lg.jpg",
+        "https://res.garmin.com/en/products/010-02472-14/v/rf-lg.jpg",
+        "https://res.garmin.com/en/products/010-02472-14/v/lf-lg.jpg",
+        "https://res.garmin.com/en/products/010-02472-14/v/pd-01-lg.jpg",
+        "https://res.garmin.com/en/products/010-02472-14/v/pd-02-lg.jpg",
+        "https://res.garmin.com/en/products/010-02472-14/v/pd-03-lg.jpg"
+      ]
+    },
+    {
+      "sku": "010-02472-15",
+      "partNumber": "010-02472-15",
+      "name": "Mintgrün/Schwarz",
+      "price": {
+        "amount": 199.99,
+        "currency": "EUR",
+        "formatted": "199,99 €"
+      },
+      "images": [
+        "https://res.garmin.com/en/products/010-02472-15/v/cf-lg-dac892dc-4bac-446b-83a9-33eb9b03254a-1.jpg",
+        "https://res.garmin.com/en/products/010-02472-15/v/rf-lg-ebc8a4e8-ef46-432a-8702-db2247f6b0d5.jpg",
+        "https://res.garmin.com/en/products/010-02472-15/v/lf-lg-1469ebd6-b927-41fe-840e-1a0bda5be84f.jpg",
+        "https://res.garmin.com/en/products/010-02472-15/v/pd-01-lg-3eb8cd85-b991-47c5-ba8a-edf634cc3da6.jpg",
+        "https://res.garmin.com/en/products/010-02472-15/v/pd-03-lg-962eef0d-b923-4332-b030-38db77f09554.jpg",
+        "https://res.garmin.com/en/products/010-02472-15/v/pd-04-lg-ea65f6aa-960f-49d6-a5e1-3b93f3590d33.jpg"
+      ]
+    }
+  ],
+  "boxContents": [
+    "Approach® S12",
+    "Oplaad-/gegevenskabel",
+    "Documentatie"
+  ],
+  "rawSpecs": [
+    {
+      "section": "Innovative Funktionen",
+      "label": "Displaytyp der Smartwatch",
+      "value": "Bei Sonneneinstrahlung gut lesbares, transflektives MIP-Display (Memory in Pixel)",
+      "valueKind": "text",
+      "order": 0
+    },
+    {
+      "section": "Innovative Funktionen",
+      "label": "Wasserdichtigkeit",
+      "value": "Schwimmen, 5 ATM",
+      "valueKind": "text",
+      "order": 1
+    },
+    {
+      "section": "Allgemein",
+      "label": "Armbandmaterial",
+      "value": "Silikon",
+      "valueKind": "text",
+      "order": 2
+    },
+    {
+      "section": "Allgemein",
+      "label": "Schnellwechsel-Armbänder",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 3
+    },
+    {
+      "section": "Allgemein",
+      "label": "Physische Größe",
+      "value": "43,7 x 43,7 x 11,5 mm\nFür einen Handgelenkumfang von 125 bis 202 mm",
+      "valueKind": "text",
+      "order": 4
+    },
+    {
+      "section": "Allgemein",
+      "label": "Gewicht",
+      "value": "34,1 g",
+      "valueKind": "text",
+      "order": 5
+    },
+    {
+      "section": "Allgemein",
+      "label": "Anzeigegröße",
+      "value": "23 x 23 mm (0,9 x 0,9 Zoll)",
+      "valueKind": "text",
+      "order": 6
+    },
+    {
+      "section": "Allgemein",
+      "label": "Anzeigeauflösung",
+      "value": "175 x 175 Pixel",
+      "valueKind": "text",
+      "order": 7
+    },
+    {
+      "section": "Allgemein",
+      "label": "Akkulaufzeit",
+      "value": "Uhrmodus: Bis zu 10 Wochen\nGPS-Modus: Bis zu 30 Stunden",
+      "valueKind": "text",
+      "order": 8
+    },
+    {
+      "section": "Allgemein",
+      "label": "Ladeverfahren",
+      "value": "Proprietäre Garmin-Ladeklemme",
+      "valueKind": "text",
+      "order": 9
+    },
+    {
+      "section": "Allgemein",
+      "label": "Speicher/Protokoll",
+      "value": "125 MB",
+      "valueKind": "text",
+      "order": 10
+    },
+    {
+      "section": "Uhrfunktionen",
+      "label": "Uhrzeit/Datum",
+      "value": "Ja",
+      "valueKind": "text",
+      "order": 11
+    },
+    {
+      "section": "Uhrfunktionen",
+      "label": "GPS-Uhrzeit­synchronisierung",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 12
+    },
+    {
+      "section": "Uhrfunktionen",
+      "label": "Automatische Sommerzeit",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 13
+    },
+    {
+      "section": "Uhrfunktionen",
+      "label": "Zeiten für Sonnenaufgang und Sonnenuntergang",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 14
+    },
+    {
+      "section": "Sensoren",
+      "label": "GPS",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 15
+    },
+    {
+      "section": "Tägliche Smart-Funktionen",
+      "label": "Konnektivität",
+      "value": "Bluetooth® Smart",
+      "valueKind": "text",
+      "order": 16
+    },
+    {
+      "section": "Tägliche Smart-Funktionen",
+      "label": "Smartphone-Kompatibilität",
+      "value": "iPhone®, Android™",
+      "valueKind": "text",
+      "order": 17
+    },
+    {
+      "section": "Aktivitätsprofile",
+      "label": "Verfügbare Outdoor-Freizeitprofile",
+      "value": "Golf",
+      "valueKind": "text",
+      "order": 18
+    },
+    {
+      "section": "Golffunktionen",
+      "label": "Vorinstalliert mit 43.000 Golfplätzen weltweit",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 19
+    },
+    {
+      "section": "Golffunktionen",
+      "label": "Entfernung zum vorderen, mittleren und hinteren Bereich des Grüns",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 20
+    },
+    {
+      "section": "Golffunktionen",
+      "label": "Entfernung zu Layups/Doglegs",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 21
+    },
+    {
+      "section": "Golffunktionen",
+      "label": "Schlagweitenmessung (berechnet die genaue Distanz für auf dem Platz gespielte Schläge)",
+      "value": "Handbuch",
+      "valueKind": "text",
+      "order": 22
+    },
+    {
+      "section": "Golffunktionen",
+      "label": "Digitale Scorecard",
+      "value": "Ja",
+      "valueKind": "text",
+      "order": 23
+    },
+    {
+      "section": "Golffunktionen",
+      "label": "Statistikspeicherung (Schläge, Putts pro Runde, Grüns und Fairway-Treffer )",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 24
+    },
+    {
+      "section": "Golffunktionen",
+      "label": "Automatische CourseView-Updates",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 25
+    },
+    {
+      "section": "Golffunktionen",
+      "label": "ANSICHT GRÜN MIT MÖGLICHKEIT ZUR MANUELLEN POSITIONIERUNG DER FAHNE",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 26
+    },
+    {
+      "section": "Golffunktionen",
+      "label": "Hindernisse und Golfplatzziele",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 27
+    },
+    {
+      "section": "Golffunktionen",
+      "label": "Rundentimer/Gesamtwerte",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 28
+    },
+    {
+      "section": "Golffunktionen",
+      "label": "Kompatibel mit automatischer Speicherung von Schlägern (Zubehör erforderlich)",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 29
+    },
+    {
+      "section": "Golffunktionen",
+      "label": "Kompatibel mit Garmin Golf-App",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 30
+    },
+    {
+      "section": "Golffunktionen",
+      "label": "Verwendbar bei Turnieren",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 31
+    },
+    {
+      "section": "Sicherheits- und rechtliche Informationen",
+      "label": "EU Data Act Informationen - Smartwatches, Fitness Gesundheitsgeräte und Produkte für die Herzfrequenzmessung (HRM)",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 32
+    }
+  ],
+  "specs": {
+    "caseDimensions": {
+      "kind": "dimensions",
+      "value": {
+        "widthMm": 43.7,
+        "heightMm": 43.7,
+        "thicknessMm": 11.5
+      },
+      "source": "43,7 x 43,7 x 11,5 mm\nFür einen Handgelenkumfang von 125 bis 202 mm"
+    },
+    "caseSize": {
+      "kind": "number",
+      "value": 43.7,
+      "unit": "mm",
+      "bound": "exact",
+      "source": "43,7 x 43,7 x 11,5 mm\nFür einen Handgelenkumfang von 125 bis 202 mm"
+    },
+    "caseThickness": {
+      "kind": "number",
+      "value": 11.5,
+      "unit": "mm",
+      "bound": "exact",
+      "source": "43,7 x 43,7 x 11,5 mm\nFür einen Handgelenkumfang von 125 bis 202 mm"
+    },
+    "weight": {
+      "kind": "number",
+      "value": 34.1,
+      "unit": "g",
+      "bound": "exact",
+      "source": "34,1 g"
+    },
+    "wristRange": {
+      "kind": "text",
+      "text": "Für einen Handgelenkumfang von 125 bis 202 mm",
+      "source": "43,7 x 43,7 x 11,5 mm\nFür einen Handgelenkumfang von 125 bis 202 mm"
+    },
+    "displayType": {
+      "kind": "text",
+      "text": "Bei Sonneneinstrahlung gut lesbares, transflektives MIP-Display (Memory in Pixel)",
+      "source": "Bei Sonneneinstrahlung gut lesbares, transflektives MIP-Display (Memory in Pixel)"
+    },
+    "displaySize": {
+      "kind": "number",
+      "value": 23,
+      "unit": "mm",
+      "bound": "exact",
+      "source": "23 x 23 mm (0,9 x 0,9 Zoll)"
+    },
+    "displayResolution": {
+      "kind": "resolution",
+      "value": {
+        "width": 175,
+        "height": 175
+      },
+      "source": "175 x 175 Pixel"
+    },
+    "touchscreen": {
+      "kind": "not-published"
+    },
+    "colorDisplay": {
+      "kind": "not-published"
+    },
+    "lensMaterial": {
+      "kind": "not-published"
+    },
+    "bezelMaterial": {
+      "kind": "not-published"
+    },
+    "caseMaterial": {
+      "kind": "not-published"
+    },
+    "bandMaterial": {
+      "kind": "text",
+      "text": "Silikon",
+      "source": "Silikon"
+    },
+    "bandWidth": {
+      "kind": "not-published"
+    },
+    "waterRating": {
+      "kind": "water",
+      "value": {
+        "label": "Schwimmen, 5 ATM",
+        "standard": "ATM",
+        "value": 5
+      },
+      "source": "Schwimmen, 5 ATM"
+    },
+    "battery": {
+      "kind": "battery",
+      "modes": [
+        {
+          "id": "uhrmodus",
+          "label": "Uhrmodus",
+          "role": "smartwatch",
+          "hours": 1680,
+          "bound": "up-to",
+          "solar": false,
+          "sourceText": "Uhrmodus: Bis zu 10 Wochen"
+        },
+        {
+          "id": "gps-modus",
+          "label": "GPS-Modus",
+          "role": "gps-only",
+          "hours": 30,
+          "bound": "up-to",
+          "solar": false,
+          "sourceText": "GPS-Modus: Bis zu 30 Stunden"
+        }
+      ],
+      "source": "Uhrmodus: Bis zu 10 Wochen\nGPS-Modus: Bis zu 30 Stunden"
+    },
+    "batterySmartwatchHours": {
+      "kind": "number",
+      "value": 1680,
+      "unit": "h",
+      "bound": "up-to",
+      "source": "Uhrmodus: Bis zu 10 Wochen"
+    },
+    "batteryGpsHours": {
+      "kind": "number",
+      "value": 30,
+      "unit": "h",
+      "bound": "up-to",
+      "source": "GPS-Modus: Bis zu 30 Stunden"
+    },
+    "solarCharging": {
+      "kind": "not-published"
+    },
+    "ultraTrac": {
+      "kind": "not-published"
+    },
+    "charging": {
+      "kind": "text",
+      "text": "Proprietäre Garmin-Ladeklemme",
+      "source": "Proprietäre Garmin-Ladeklemme"
+    },
+    "batteryType": {
+      "kind": "not-published"
+    },
+    "memory": {
+      "kind": "number",
+      "value": 0.1220703125,
+      "unit": "GB",
+      "bound": "exact",
+      "source": "125 MB"
+    },
+    "gnssMultiband": {
+      "kind": "not-published"
+    },
+    "gnssSystems": {
+      "kind": "list",
+      "items": [
+        "GPS"
+      ],
+      "source": "GPS"
+    },
+    "satIq": {
+      "kind": "not-published"
+    },
+    "sensors": {
+      "kind": "not-published"
+    },
+    "barometricAltimeter": {
+      "kind": "not-published"
+    },
+    "compass": {
+      "kind": "not-published"
+    },
+    "gyroscope": {
+      "kind": "not-published"
+    },
+    "thermometer": {
+      "kind": "not-published"
+    },
+    "connectivity": {
+      "kind": "list",
+      "items": [
+        "Bluetooth® Smart"
+      ],
+      "source": "Bluetooth® Smart"
+    },
+    "wifi": {
+      "kind": "not-published"
+    },
+    "speakerMic": {
+      "kind": "not-published"
+    },
+    "voiceAssistant": {
+      "kind": "not-published"
+    },
+    "lte": {
+      "kind": "not-published"
+    },
+    "satelliteMessaging": {
+      "kind": "not-published"
+    },
+    "smartNotifications": {
+      "kind": "not-published"
+    },
+    "messengerApp": {
+      "kind": "not-published"
+    },
+    "musicStorage": {
+      "kind": "not-published"
+    },
+    "musicPlayback": {
+      "kind": "not-published"
+    },
+    "garminPay": {
+      "kind": "not-published"
+    },
+    "preloadedMaps": {
+      "kind": "not-published"
+    },
+    "downloadableMaps": {
+      "kind": "not-published"
+    },
+    "pointToPointNavigation": {
+      "kind": "not-published"
+    },
+    "ledFlashlight": {
+      "kind": "not-published"
+    },
+    "tracBack": {
+      "kind": "not-published"
+    },
+    "elevationProfile": {
+      "kind": "not-published"
+    },
+    "connectIq": {
+      "kind": "not-published"
+    },
+    "wristHeartRate": {
+      "kind": "not-published"
+    },
+    "pulseOx": {
+      "kind": "not-published"
+    },
+    "ecgApp": {
+      "kind": "not-published"
+    },
+    "sleepScore": {
+      "kind": "not-published"
+    },
+    "bodyBattery": {
+      "kind": "not-published"
+    },
+    "hrvStatus": {
+      "kind": "not-published"
+    },
+    "trainingReadiness": {
+      "kind": "not-published"
+    },
+    "vo2max": {
+      "kind": "not-published"
+    },
+    "healthSnapshot": {
+      "kind": "not-published"
+    },
+    "womensHealth": {
+      "kind": "not-published"
+    },
+    "stressTracking": {
+      "kind": "not-published"
+    },
+    "sleepCoach": {
+      "kind": "not-published"
+    },
+    "trainingLoad": {
+      "kind": "not-published"
+    },
+    "runningDynamics": {
+      "kind": "not-published"
+    },
+    "pacePro": {
+      "kind": "not-published"
+    }
+  },
+  "sourceUrl": "https://www.garmin.com/de-DE/p/721216/",
+  "fetchedAt": "2026-08-09T16:02:37.936Z"
+}
