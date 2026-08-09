@@ -6,8 +6,8 @@
 - [x] 1.4 Assert the same host constraint in `scripts/normalize/` before the snapshot is written (design D9)
 - [x] 1.5 Retire `missingImages` from `src/data/contract.ts` and update the image-path doc comments at `contract.ts:131`, `:157`, `:177`, `:224` to describe remote URLs
 - [x] 1.6 Report models Garmin publishes no image for via the existing reporter, non-fatally
-- [ ] 1.7 Remove `/public/img/` from `.gitignore` and delete the local `public/img/` tree — *gitignore done; the tree is root-owned and cannot be deleted by this user*
-- [ ] 1.8 Run `npm run ingest && npm run normalize` and confirm every `image`/`images` value in `data/catalog.json` and `data/models/*.json` is an absolute `res.garmin.com` URL — *run and confirmed in a writable copy (3 474 URLs, 0 off-host); `/workspace/data` is root-owned so the snapshot there is still the old one*
+- [x] 1.7 Remove `/public/img/` from `.gitignore` and delete the local `public/img/` tree
+- [x] 1.8 Run `npm run ingest && npm run normalize` and confirm every `image`/`images` value in `data/catalog.json` and `data/models/*.json` is an absolute `res.garmin.com` URL — *3 474 URLs across catalog and all 83 model files, 0 off-host, 0 local `/img/` paths*
 
 ## 2. Client-side image handling
 
@@ -32,14 +32,14 @@
 - [x] 4.3 Add a persistent footer disclaimer, present on every route, linking to the full text
 - [x] 4.4 Add a `#/legal` route carrying the full disclaimer: unofficial and unaffiliated; names, specifications and imagery are Garmin's property; no guarantee of accuracy or currency; confirm on garmin.com before purchasing; imagery and fonts load from third-party hosts
 - [x] 4.5 Show the snapshot capture date plus store and currency (Germany / de-DE / EUR) wherever prices appear
-- [ ] 4.6 Add `public/robots.txt` that permits crawling and does **not** `Disallow: /` (design D12) — *blocked: `public/` is root-owned and not writable*
-- [ ] 4.7 Add `public/.nojekyll` — *blocked: same*
+- [x] 4.6 Add `public/robots.txt` that permits crawling and does **not** `Disallow: /` (design D12)
+- [x] 4.7 Add `public/.nojekyll`
 
 ## 5. Commit the snapshot
 
 - [x] 5.1 Change `.gitignore` to track `data/catalog.json`, `data/meta.json`, and `data/models/`, while keeping `data/raw/` and `data/reports/` ignored
 - [x] 5.2 Update the `.gitignore` comment block, which currently states the snapshot is not git's job to version and names the deleted `images` stage in its rebuild instructions
-- [ ] 5.3 Commit the current snapshot so the regression guard has a baseline in git (design D4) — *deliberately not done: `/workspace/data` still holds the pre-change snapshot with local `/img/` paths, which must not become the baseline. Depends on 1.8*
+- [x] 5.3 Commit the current snapshot so the regression guard has a baseline in git (design D4)
 
 ## 6. Scraper resilience
 
