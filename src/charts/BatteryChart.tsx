@@ -2,7 +2,7 @@ import { useMemo, useState } from 'react';
 import { scaleLinear } from 'd3-scale';
 import type { CatalogModel } from '../data/contract';
 import { numericValue } from '../lib/catalog';
-import { formatHours } from '../components/ui';
+import { formatDuration } from '../data/schema';
 import {
   AxisBottom,
   ChartFrame,
@@ -82,8 +82,8 @@ export function BatteryChart({ models }: { models: CatalogModel[] }) {
         {rows.map((row) => (
           <tr key={row.model.id} className="border-b border-rule/60">
             <th scope="row" className="p-1 text-left font-normal">{row.model.name}</th>
-            <td className="num p-1">{row.smartwatch !== null ? formatHours(row.smartwatch) : 'keine Angabe'}</td>
-            <td className="num p-1">{row.gps !== null ? formatHours(row.gps) : 'keine Angabe'}</td>
+            <td className="num p-1">{row.smartwatch !== null ? formatDuration(row.smartwatch) : 'keine Angabe'}</td>
+            <td className="num p-1">{row.gps !== null ? formatDuration(row.gps) : 'keine Angabe'}</td>
           </tr>
         ))}
       </tbody>
@@ -145,12 +145,12 @@ export function BatteryChart({ models }: { models: CatalogModel[] }) {
                     <g
                       tabIndex={0}
                       role="button"
-                      aria-label={`${row.model.name}, Smartwatch-Modus ${formatHours(row.smartwatch)}`}
+                      aria-label={`${row.model.name}, Smartwatch-Modus ${formatDuration(row.smartwatch)}`}
                       onFocus={() =>
                         setHover({
                           x: MARGIN.left + scale(row.smartwatch!),
                           y: MARGIN.top + y,
-                          content: `${row.model.name} · Smartwatch ${formatHours(row.smartwatch!)}`,
+                          content: `${row.model.name} · Smartwatch ${formatDuration(row.smartwatch!)}`,
                         })
                       }
                       onBlur={() => setHover(null)}
@@ -158,7 +158,7 @@ export function BatteryChart({ models }: { models: CatalogModel[] }) {
                         setHover({
                           x: MARGIN.left + scale(row.smartwatch!),
                           y: MARGIN.top + y,
-                          content: `${row.model.name} · Smartwatch ${formatHours(row.smartwatch!)}`,
+                          content: `${row.model.name} · Smartwatch ${formatDuration(row.smartwatch!)}`,
                         })
                       }
                       onMouseLeave={() => setHover(null)}
@@ -176,12 +176,12 @@ export function BatteryChart({ models }: { models: CatalogModel[] }) {
                     <g
                       tabIndex={0}
                       role="button"
-                      aria-label={`${row.model.name}, GPS-Modus ${formatHours(row.gps)}`}
+                      aria-label={`${row.model.name}, GPS-Modus ${formatDuration(row.gps)}`}
                       onFocus={() =>
                         setHover({
                           x: MARGIN.left + scale(row.gps!),
                           y: MARGIN.top + y + BAR_HEIGHT,
-                          content: `${row.model.name} · GPS ${formatHours(row.gps!)}`,
+                          content: `${row.model.name} · GPS ${formatDuration(row.gps!)}`,
                         })
                       }
                       onBlur={() => setHover(null)}
@@ -189,7 +189,7 @@ export function BatteryChart({ models }: { models: CatalogModel[] }) {
                         setHover({
                           x: MARGIN.left + scale(row.gps!),
                           y: MARGIN.top + y + BAR_HEIGHT,
-                          content: `${row.model.name} · GPS ${formatHours(row.gps!)}`,
+                          content: `${row.model.name} · GPS ${formatDuration(row.gps!)}`,
                         })
                       }
                       onMouseLeave={() => setHover(null)}
@@ -212,7 +212,7 @@ export function BatteryChart({ models }: { models: CatalogModel[] }) {
                       className="num"
                       fill="var(--ink-muted)"
                     >
-                      {formatHours(row.smartwatch)}
+                      {formatDuration(row.smartwatch)}
                     </text>
                   )}
                 </g>

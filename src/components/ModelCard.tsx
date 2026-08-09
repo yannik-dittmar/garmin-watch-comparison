@@ -1,8 +1,8 @@
 import { Link } from 'react-router-dom';
 import type { CatalogModel } from '../data/contract';
-import { FIELD_BY_ID } from '../data/schema';
+import { FIELD_BY_ID, formatDuration } from '../data/schema';
 import { MAX_COMPARE, useCatalogState } from '../app/state';
-import { ModelImage, Price, SpecValueView, formatHours } from './ui';
+import { ModelImage, Price, SpecValueView } from './ui';
 import { numericValue } from '../lib/catalog';
 
 /**
@@ -59,7 +59,7 @@ export function ModelCard({
         </div>
         <div className="flex justify-between gap-2">
           <dt className="text-ink-muted">Akku</dt>
-          <dd className="num">{battery !== null ? formatHours(battery) : '–'}</dd>
+          <dd className="num">{battery !== null ? formatDuration(battery) : '–'}</dd>
         </div>
         <div className="flex justify-between gap-2">
           <dt className="text-ink-muted">Display</dt>

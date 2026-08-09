@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useState } from 'react';
-import { Link, useParams } from 'react-router-dom';
+import { Link, useLocation, useParams } from 'react-router-dom';
 import { useCatalog } from '../app/CatalogProvider';
 import { formatSnapshot } from '../app/Layout';
 import { MAX_COMPARE, useCatalogState } from '../app/state';
@@ -59,6 +59,7 @@ function sectionId(section: string): string {
 
 export function DetailRoute() {
   const { id } = useParams<{ id: string }>();
+  const location = useLocation();
   const { catalog, byId } = useCatalog();
   const { state, toggleSelection, update, search } = useCatalogState();
   const { isFavourite, toggle } = useFavourites();
@@ -106,6 +107,23 @@ export function DetailRoute() {
         .filter((group) => group.rows.length > 0),
     [groups, needle],
   );
+
+  /**
+   * The section jump (`watch-detail` — sections navigable). The target is carried
+   * in the route's own hash, which the browser cannot act on: under `HashRouter`
+   * `#/modell/x#abschnitt-y` is one fragment as far as it is concerned, and no
+   * element bears that id. So scrolling is ours to do — as is opening the section
+   * first, since jumping to a collapsed one would otherwise land on a closed lid.
+   */
+  useEffect(() => {
+    const target = location.hash.replace(/^#/, '');
+    if (!target) return;
+    const group = filteredGroups.find((entry) => sectionId(entry.section) === target);
+    if (!group) return;
+    setCollapsed((current) => ({ ...current, [group.section || 'ohne']: false }));
+    document.getElementById(target)?.scrollIntoView({ block: 'start' });
+    // `key` too, so jumping to the section already in the hash works a second time.
+  }, [location.key, location.hash, filteredGroups]);
 
   if (!id) return null;
   if (error) {
@@ -301,15 +319,17 @@ export function DetailRoute() {
 
             {detail && (
               <>
+                {/* Built from the filtered set: a section the spec search has
+                    hidden has nothing to jump to. */}
                 <nav aria-label="Abschnitte" className="mt-3 flex flex-wrap gap-x-3 gap-y-1">
-                  {groups.map((group) => (
-                    <a
+                  {filteredGroups.map((group) => (
+                    <Link
                       key={group.section}
-                      href={`#${sectionId(group.section)}`}
+                      to={{ pathname: `/modell/${id}`, search, hash: sectionId(group.section) }}
                       className="text-xs text-accent underline underline-offset-2"
                     >
                       {group.section || 'Ohne Abschnitt'}
-                    </a>
+                    </Link>
                   ))}
                 </nav>
 

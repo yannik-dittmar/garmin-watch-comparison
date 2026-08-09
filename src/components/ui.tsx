@@ -7,7 +7,7 @@ import type {
   SpecValue,
 } from '../data/contract';
 import { triState } from '../data/contract';
-import { formatValue, type SpecField } from '../data/schema';
+import { formatDuration, formatValue, type SpecField } from '../data/schema';
 import { imageUrl } from '../data/load';
 
 /* ------------------------------------------------------------------ */
@@ -61,7 +61,7 @@ export function SpecValueView({
         {value.modes.map((mode) => (
           <li key={mode.id} className="flex flex-wrap items-baseline gap-x-2">
             <span className="text-ink-muted">{mode.label}</span>
-            <span className="num">{formatHours(mode.hours)}</span>
+            <span className="num">{formatDuration(mode.hours)}</span>
           </li>
         ))}
       </ul>
@@ -74,14 +74,6 @@ export function SpecValueView({
 
   const isNumeric = value.kind === 'number' || value.kind === 'dimensions' || value.kind === 'resolution';
   return <span className={isNumeric ? 'num' : undefined}>{formatValue(field, value)}</span>;
-}
-
-export function formatHours(hours: number): string {
-  if (hours >= 48) {
-    const days = hours / 24;
-    return `${new Intl.NumberFormat('de-DE', { maximumFractionDigits: 1 }).format(days)} Tage`;
-  }
-  return `${new Intl.NumberFormat('de-DE', { maximumFractionDigits: 1 }).format(hours)} h`;
 }
 
 export function Price({ price, prefix }: { price: PriceValue | null; prefix?: string }) {

@@ -424,13 +424,15 @@ export function formatValue(field: SpecField, value: NormalizedValue | undefined
       if (field.unit === 'GB' && value.value < 1) {
         return `${formatNumber(value.value * 1024)} MB`;
       }
-      const number = formatNumber(value.value);
-      const unit = field.unit ? ` ${field.unit}` : '';
+      // Durations are stored in hours so they sort and chart, and read in days.
+      const isDuration = field.unit === 'h';
+      const render = isDuration ? formatDuration : formatNumber;
+      const unit = field.unit && !isDuration ? ` ${field.unit}` : '';
       const prefix = value.bound === 'up-to' ? 'bis zu ' : value.bound === 'at-least' ? 'ab ' : '';
       if (value.bound === 'range' && typeof value.max === 'number') {
-        return `${number}–${formatNumber(value.max)}${unit}`;
+        return `${render(value.value)}–${render(value.max)}${unit}`;
       }
-      return `${prefix}${number}${unit}`;
+      return `${prefix}${render(value.value)}${unit}`;
     }
     case 'dimensions': {
       const { widthMm, heightMm, thicknessMm } = value.value;
@@ -444,7 +446,7 @@ export function formatValue(field: SpecField, value: NormalizedValue | undefined
     case 'battery': {
       const smartwatch = value.modes.find((m) => m.role === 'smartwatch');
       return smartwatch
-        ? `${formatNumber(smartwatch.hours / 24)} Tage (Smartwatch)`
+        ? `${formatDuration(smartwatch.hours)} (Smartwatch)`
         : `${value.modes.length} Modi`;
     }
     case 'text':
@@ -457,4 +459,24 @@ export function formatValue(field: SpecField, value: NormalizedValue | undefined
 /** German formatting: decimal comma, no trailing zeros. */
 export function formatNumber(value: number): string {
   return new Intl.NumberFormat('de-DE', { maximumFractionDigits: 1 }).format(value);
+}
+
+/**
+ * A duration in hours, written the way a reader thinks about it: nobody knows
+ * what "240 h" feels like, everybody knows what "10 Tage" feels like. Whole days
+ * carry the figure, the remainder that fills no further day stays in hours —
+ * `240` → `10 Tage`, `250` → `10 Tage 10 h`, `42` → `1 Tag 18 h`, `8,5` → `8,5 h`.
+ *
+ * The single owner of hours-to-days across the site: the headline fields, the
+ * per-mode battery list, the catalog cards and the battery chart all read from
+ * here, so the same figure cannot be phrased two ways in two views.
+ */
+export function formatDuration(hours: number): string {
+  // Rounded up front, so a remainder can never be presented as "24 h".
+  const total = Math.round(hours * 10) / 10;
+  if (total < 24) return `${formatNumber(total)} h`;
+  const days = Math.floor(total / 24);
+  const rest = Math.round((total - days * 24) * 10) / 10;
+  const label = `${formatNumber(days)} ${days === 1 ? 'Tag' : 'Tage'}`;
+  return rest === 0 ? label : `${label} ${formatNumber(rest)} h`;
 }
