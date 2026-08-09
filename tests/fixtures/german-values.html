@@ -1,0 +1,62 @@
+<!--
+  Spec-table fragment holding the numeric formats the parsers have to survive,
+  all verbatim from garmin.com de-DE:
+
+    - decimal comma and a non-breaking space before the unit
+    - a `<br>` splitting two facts inside one cell
+    - the multi-mode battery block, including a parenthetical caveat, a footnote
+      line, and a mode whose name contains "ohne Musik"
+    - the `(mm)` and `51mm x 51mm` unit placements Garmin also uses
+    - a section that simply does not appear for some models — here the model has
+      no `Taucheigenschaften` table at all
+-->
+<div>
+  <table>
+    <tbody>
+      <tr class="title">
+        <td colspan="2"><h3>Allgemein</h3></td>
+      </tr>
+      <tr>
+        <th scope="row">Physische Größe</th>
+        <td>42,6 x 42,6 x 11,9 mm<br>Für einen Handgelenkumfang von 126-203&nbsp;mm</td>
+      </tr>
+      <tr>
+        <th scope="row">Gewicht</th><td>41&nbsp;g</td>
+      </tr>
+      <tr>
+        <th scope="row">Anzeigegröße</th><td>30,4&nbsp;mm (1,2-Zoll) Durchmesser</td>
+      </tr>
+      <tr>
+        <th scope="row">Anzeigeauflösung</th><td>390 x 390 Pixel</td>
+      </tr>
+      <tr>
+        <th scope="row">Wasserdichtigkeit</th><td>Schwimmen, 5 ATM</td>
+      </tr>
+      <tr>
+        <th scope="row">Speicher/Protokoll</th><td>4 GB</td>
+      </tr>
+      <tr>
+        <th scope="row">Akkulaufzeit</th>
+        <td>Smartwatch-Modus: Bis zu 10&nbsp;Tage (4&nbsp;Tage bei fortwährend eingeschaltetem Display)<br>
+          Energiespar-Modus: Bis zu 19&nbsp;Tage <br>GNSS-Modus nur mit GPS: Bis zu 20&nbsp;Stunden<br>
+          GPS-Modus ohne Musik: Bis zu 42&nbsp;Stunden<br>
+          Alle Satellitensysteme + Musik: Bis zu 8,5&nbsp;Stunden<br>
+          Expeditions-Modus: Bis zu 31&nbsp;Tage<br>
+          * Voraussetzung ist ein normaler Gebrauch mit SatIQ-Technologie</td>
+      </tr>
+    </tbody>
+  </table>
+  <table>
+    <tbody>
+      <tr class="title">
+        <td colspan="2"><h3>Sensoren</h3></td>
+      </tr>
+      <tr>
+        <th scope="row">GPS</th><td class="yes"></td>
+      </tr>
+      <tr>
+        <th scope="row">Barometrischer Höhenmesser</th><td class="yes"></td>
+      </tr>
+    </tbody>
+  </table>
+</div>

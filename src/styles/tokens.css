@@ -1,0 +1,159 @@
+/*
+ * The token layer (design D10).
+ *
+ * Palette is taken from a transflective MIP watch display in daylight — cool,
+ * slightly green — with instrument blue as the only chrome accent.
+ *
+ * Theme resolution has three states and all three are covered here:
+ *   - explicit light  → [data-theme="light"] keeps the bare :root values
+ *   - explicit dark   → [data-theme="dark"] overrides
+ *   - system (no attr)→ prefers-color-scheme, guarded so it cannot beat an
+ *                       explicit light choice
+ * Every colour has its definition on bare :root; the dark blocks only override.
+ */
+
+:root {
+  /* Surfaces and ink */
+  --page: #edf0ea;
+  --panel: #f7f8f4;
+  --panel-sunken: #e4e8e0;
+  --ink: #111917;
+  --ink-muted: #5b6763;
+  --rule: #c6cec6;
+  --rule-strong: #a8b3ab;
+
+  /* Accents */
+  --accent: #0b6fa4;
+  --accent-ink: #ffffff;
+  --accent-wash: #dde9f1;
+  --mark: #b5451e;
+  --mark-wash: #f4e2da;
+
+  /* Tri-state. Colour is never the only cue — every state also carries a glyph
+     and a label (`spec-visualization` — non-colour encoding). */
+  --state-supported: #1d6b4f;
+  --state-unsupported: #5c6763;
+  --state-unknown: #57625e;
+  --state-supported-wash: #dbe9e1;
+  --state-unsupported-wash: #e6eae6;
+
+  /* Chart series. Slots 1–2 of the reference categorical order, validated with
+     the dataviz palette validator against the panel surface in both modes:
+     all-pairs CVD ΔE 24.7 light / 26.8 dark, contrast ≥ 3:1 (task 11.1). */
+  --series-1: #2a78d6;
+  --series-2: #eb6834;
+  --chart-grid: #d5dcd5;
+
+  /* Chrome */
+  --focus: #0b6fa4;
+  --selection: #cfe2ee;
+  --shadow-none: none;
+
+  /* Type */
+  --font-display: 'Archivo Variable', ui-sans-serif, system-ui, sans-serif;
+  --font-body: 'IBM Plex Sans', ui-sans-serif, system-ui, sans-serif;
+  --font-mono: 'IBM Plex Mono', ui-monospace, 'SFMono-Regular', 'Menlo', monospace;
+
+  /* Geometry — radius is fixed at 2px everywhere except chart data-ends (D10). */
+  --radius: 2px;
+  --rule-width: 1px;
+
+  color-scheme: light;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme='light']) {
+    --page: #0e1412;
+    --panel: #161d1a;
+    --panel-sunken: #0a100e;
+    --ink: #e7ece7;
+    --ink-muted: #94a19c;
+    --rule: #2a3431;
+    --rule-strong: #3d4a46;
+
+    --accent: #4fb3e0;
+    --accent-ink: #06131b;
+    --accent-wash: #14303d;
+    --mark: #e8804f;
+    --mark-wash: #3a2116;
+
+    --state-supported: #5fc596;
+    --state-unsupported: #9aa6a1;
+    --state-unknown: #8a9691;
+    --state-supported-wash: #163025;
+    --state-unsupported-wash: #1c2422;
+
+    --series-1: #3987e5;
+    --series-2: #d95926;
+    --chart-grid: #25302c;
+
+    --focus: #4fb3e0;
+    --selection: #17323f;
+
+    color-scheme: dark;
+  }
+}
+
+:root[data-theme='dark'] {
+  --page: #0e1412;
+  --panel: #161d1a;
+  --panel-sunken: #0a100e;
+  --ink: #e7ece7;
+  --ink-muted: #94a19c;
+  --rule: #2a3431;
+  --rule-strong: #3d4a46;
+
+  --accent: #4fb3e0;
+  --accent-ink: #06131b;
+  --accent-wash: #14303d;
+  --mark: #e8804f;
+  --mark-wash: #3a2116;
+
+  --state-supported: #5fc596;
+  --state-unsupported: #9aa6a1;
+  --state-unknown: #8a9691;
+  --state-supported-wash: #163025;
+  --state-unsupported-wash: #1c2422;
+
+  --series-1: #3987e5;
+  --series-2: #d95926;
+  --chart-grid: #25302c;
+
+  --focus: #4fb3e0;
+  --selection: #17323f;
+
+  color-scheme: dark;
+}
+
+/* Expose the tokens to Tailwind utilities. `inline` keeps the var() reference in
+   the generated utility, so a theme swap re-resolves it without rebuilding. */
+@theme inline {
+  --color-page: var(--page);
+  --color-panel: var(--panel);
+  --color-panel-sunken: var(--panel-sunken);
+  --color-ink: var(--ink);
+  --color-ink-muted: var(--ink-muted);
+  --color-rule: var(--rule);
+  --color-rule-strong: var(--rule-strong);
+  --color-accent: var(--accent);
+  --color-accent-ink: var(--accent-ink);
+  --color-accent-wash: var(--accent-wash);
+  --color-mark: var(--mark);
+  --color-mark-wash: var(--mark-wash);
+  --color-supported: var(--state-supported);
+  --color-unsupported: var(--state-unsupported);
+  --color-unknown: var(--state-unknown);
+  --color-supported-wash: var(--state-supported-wash);
+  --color-unsupported-wash: var(--state-unsupported-wash);
+  --color-series-1: var(--series-1);
+  --color-series-2: var(--series-2);
+  --color-chart-grid: var(--chart-grid);
+  --color-focus: var(--focus);
+  --color-selection: var(--selection);
+
+  --font-display: var(--font-display);
+  --font-body: var(--font-body);
+  --font-mono: var(--font-mono);
+
+  --radius-sharp: var(--radius);
+}

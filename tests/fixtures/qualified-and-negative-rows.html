@@ -1,0 +1,38 @@
+<!--
+  Spec-table fragment covering the value shapes that decide the tri-state.
+
+  Rows 1–4 are verbatim from garmin.com de-DE product pages:
+    - a `class="yes"` marker cell (Garmin's normal way of saying "supported")
+    - an affirmative value carrying a qualifier
+    - `Nein (16 Graustufen)` — the one negative *text* form the catalog contains
+    - a value that is neither yes nor no but a detail string
+
+  Row 5 uses `class="no"`. No page in the current de-DE snapshot contains one —
+  Garmin expresses "not supported" by omitting the row entirely — so it is
+  reproduced here from the documented markup to keep the parser's handling of it
+  under test rather than untested-and-assumed.
+-->
+<div>
+  <table>
+    <tbody>
+      <tr class="title">
+        <td colspan="2"><h3>Allgemein</h3></td>
+      </tr>
+      <tr>
+        <th scope="row">Garmin Pay™</th><td class="yes"></td>
+      </tr>
+      <tr>
+        <th scope="row">Herzfrequenzübertragung</th><td>Ja (über ANT+ oder BLE)</td>
+      </tr>
+      <tr>
+        <th scope="row">Farbdisplay</th><td>Nein (16 Graustufen)</td>
+      </tr>
+      <tr>
+        <th scope="row">Trainingszustand</th><td>Optimiert </td>
+      </tr>
+      <tr>
+        <th scope="row">Musikspeicher</th><td class="no"></td>
+      </tr>
+    </tbody>
+  </table>
+</div>

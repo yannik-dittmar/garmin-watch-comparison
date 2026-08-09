@@ -1,0 +1,91 @@
+@import 'tailwindcss';
+@import './styles/fonts.css';
+@import './styles/tokens.css';
+
+@layer base {
+  html {
+    background: var(--page);
+  }
+
+  body {
+    background: var(--page);
+    color: var(--ink);
+    font-family: var(--font-body);
+    font-size: 15px;
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+    /* The comparison table owns horizontal scrolling; the page never does
+       (`watch-comparison` — narrow viewport). */
+    overflow-x: hidden;
+  }
+
+  /* Every number, part number, and comparison cell is monospaced with tabular
+     figures so columns align optically (design D10). */
+  .num,
+  code,
+  kbd,
+  samp {
+    font-family: var(--font-mono);
+    font-variant-numeric: tabular-nums;
+    font-feature-settings: 'tnum' 1;
+  }
+
+  .display {
+    font-family: var(--font-display);
+    /* Expanded — the wide, faceplate-like end of Archivo's width axis. */
+    font-stretch: 125%;
+    letter-spacing: -0.01em;
+  }
+
+  /* Visible keyboard focus on everything, no exceptions (quality floor, D10). */
+  :focus-visible {
+    outline: 2px solid var(--focus);
+    outline-offset: 2px;
+    border-radius: var(--radius);
+  }
+
+  ::selection {
+    background: var(--selection);
+    color: var(--ink);
+  }
+
+  hr {
+    border: 0;
+    border-top: var(--rule-width) solid var(--rule);
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+      scroll-behavior: auto !important;
+    }
+  }
+}
+
+@layer components {
+  /* Hairlines do the separating work: no shadows, no rounded-corner drift. */
+  .panel {
+    background: var(--panel);
+    border: var(--rule-width) solid var(--rule);
+    border-radius: var(--radius);
+  }
+
+  .skip-link {
+    position: absolute;
+    left: -9999px;
+    top: 0;
+    z-index: 100;
+    background: var(--panel);
+    color: var(--ink);
+    padding: 0.5rem 0.75rem;
+    border: var(--rule-width) solid var(--rule-strong);
+  }
+  .skip-link:focus {
+    left: 0.5rem;
+    top: 0.5rem;
+  }
+}

@@ -1,0 +1,28 @@
+# One service, one command:
+#
+#   docker compose up            # http://localhost:8080
+#
+# The first run finds no snapshot and scrapes garmin.com before it starts serving
+# (10-15 minutes, progress in the log). Every later run finds the snapshot on the
+# ./data mount and serves in seconds.
+#
+#   docker compose up --build          pick up a code change
+#   REFRESH=1 docker compose up        refetch the snapshot first
+
+services:
+  site:
+    build: .
+    image: garmin-watch-index
+    ports:
+      - '8080:80'
+    # The snapshot and the imagery are this container's only state, and they are
+    # not in git. Without these mounts every restart would re-scrape from scratch.
+    #
+    # data/raw/.http-cache lands here too, which is what makes an interrupted or
+    # failed first run resumable rather than a full refetch.
+    volumes:
+      - ./data:/app/data
+      - ./public/img:/app/public/img
+    environment:
+      REFRESH: ${REFRESH:-0}
+    restart: unless-stopped

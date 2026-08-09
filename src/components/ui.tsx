@@ -1,0 +1,172 @@
+import { useState } from 'react';
+import type { CatalogModel, NormalizedValue, Price as PriceValue, SpecValue } from '../data/contract';
+import { triState } from '../data/contract';
+import { formatValue, type SpecField } from '../data/schema';
+import { imageUrl } from '../data/load';
+
+/* ------------------------------------------------------------------ */
+/* Tri-state                                                           */
+/* ------------------------------------------------------------------ */
+
+/**
+ * The tri-state, rendered so "nicht unterstützt" and "keine Angabe" can never be
+ * mistaken for one another (`watch-comparison` — missing values explicit).
+ * Colour is never the only cue: each state carries its own glyph and its own
+ * word, which is also what makes the feature heatmap readable without colour.
+ */
+const TRI_STATE = {
+  supported: { glyph: '●', label: 'Ja', className: 'text-[var(--state-supported)]' },
+  unsupported: { glyph: '○', label: 'Nein', className: 'text-[var(--state-unsupported)]' },
+  'not-published': { glyph: '–', label: 'keine Angabe', className: 'text-[var(--state-unknown)] italic' },
+} as const satisfies Record<SpecValue, { glyph: string; label: string; className: string }>;
+
+export function TriStateMark({ state, qualifier }: { state: SpecValue; qualifier?: string }) {
+  const style = TRI_STATE[state];
+  return (
+    <span className={`inline-flex items-baseline gap-1.5 ${style.className}`}>
+      <span aria-hidden="true" className="num text-[0.8em]">
+        {style.glyph}
+      </span>
+      <span>
+        {style.label}
+        {qualifier ? <span className="text-ink-muted"> ({qualifier})</span> : null}
+      </span>
+    </span>
+  );
+}
+
+/* ------------------------------------------------------------------ */
+/* Values                                                              */
+/* ------------------------------------------------------------------ */
+
+export function SpecValueView({
+  field,
+  value,
+}: {
+  field: SpecField;
+  value: NormalizedValue | undefined;
+}) {
+  if (!value || value.kind === 'not-published') return <TriStateMark state="not-published" />;
+  if (value.kind === 'flag') return <TriStateMark state={value.state} qualifier={value.qualifier} />;
+
+  if (value.kind === 'battery') {
+    return (
+      <ul className="space-y-0.5">
+        {value.modes.map((mode) => (
+          <li key={mode.id} className="flex flex-wrap items-baseline gap-x-2">
+            <span className="text-ink-muted">{mode.label}</span>
+            <span className="num">{formatHours(mode.hours)}</span>
+          </li>
+        ))}
+      </ul>
+    );
+  }
+
+  if (value.kind === 'list') {
+    return <span>{value.items.join(', ')}</span>;
+  }
+
+  const isNumeric = value.kind === 'number' || value.kind === 'dimensions' || value.kind === 'resolution';
+  return <span className={isNumeric ? 'num' : undefined}>{formatValue(field, value)}</span>;
+}
+
+export function formatHours(hours: number): string {
+  if (hours >= 48) {
+    const days = hours / 24;
+    return `${new Intl.NumberFormat('de-DE', { maximumFractionDigits: 1 }).format(days)} Tage`;
+  }
+  return `${new Intl.NumberFormat('de-DE', { maximumFractionDigits: 1 }).format(hours)} h`;
+}
+
+export function Price({ price, prefix }: { price: PriceValue | null; prefix?: string }) {
+  if (!price) return <span className="text-ink-muted italic">kein Preis veröffentlicht</span>;
+  return (
+    <span className="num">
+      {prefix ? <span className="text-ink-muted">{prefix} </span> : null}
+      {price.formatted}
+    </span>
+  );
+}
+
+/* ------------------------------------------------------------------ */
+/* Imagery                                                             */
+/* ------------------------------------------------------------------ */
+
+/**
+ * Local images only. A model whose image could not be captured gets a labelled
+ * placeholder rather than a broken image (`watch-detail` — images shown).
+ */
+export function ModelImage({
+  src,
+  alt,
+  className = '',
+}: {
+  src: string | null;
+  alt: string;
+  className?: string;
+}) {
+  const [failed, setFailed] = useState(false);
+  const url = imageUrl(src);
+
+  if (!url || failed) {
+    return (
+      <div
+        role="img"
+        aria-label={`${alt} — kein Bild erfasst`}
+        className={`flex items-center justify-center border border-dashed border-rule bg-panel-sunken text-center text-[11px] text-ink-muted ${className}`}
+      >
+        kein Bild erfasst
+      </div>
+    );
+  }
+  return (
+    <img
+      src={url}
+      alt={alt}
+      loading="lazy"
+      decoding="async"
+      onError={() => setFailed(true)}
+      className={className}
+    />
+  );
+}
+
+/* ------------------------------------------------------------------ */
+/* Small chrome                                                        */
+/* ------------------------------------------------------------------ */
+
+export function Chip({
+  children,
+  onRemove,
+  removeLabel,
+}: {
+  children: React.ReactNode;
+  onRemove?: () => void;
+  removeLabel?: string;
+}) {
+  return (
+    <span className="inline-flex items-center gap-1 border border-rule bg-panel px-2 py-0.5 text-xs">
+      {children}
+      {onRemove && (
+        <button
+          type="button"
+          onClick={onRemove}
+          aria-label={removeLabel ?? 'Filter entfernen'}
+          className="text-ink-muted hover:text-mark"
+        >
+          ×
+        </button>
+      )}
+    </span>
+  );
+}
+
+export function SectionHeading({ children }: { children: React.ReactNode }) {
+  return (
+    <h2 className="display text-xs uppercase tracking-[0.12em] text-ink-muted">{children}</h2>
+  );
+}
+
+export function modelState(model: CatalogModel, field: string): SpecValue {
+  return triState(model.specs[field]);
+}
