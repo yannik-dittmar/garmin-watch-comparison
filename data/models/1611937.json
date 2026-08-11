@@ -821,7 +821,7 @@
     },
     {
       "section": "Tägliche Smart-Funktionen",
-      "label": "Red Shift Modus",
+      "label": "Red shift modus",
       "value": "",
       "valueKind": "marker-yes",
       "order": 75
@@ -2008,5 +2008,5 @@
     }
   },
   "sourceUrl": "https://www.garmin.com/de-DE/p/1055469/",
-  "fetchedAt": "2026-08-10T05:44:26.824Z"
+  "fetchedAt": "2026-08-11T05:22:42.227Z"
 }

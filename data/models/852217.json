@@ -1087,7 +1087,7 @@
     },
     {
       "section": "Tägliche Smart-Funktionen",
-      "label": "Red Shift Modus",
+      "label": "Red shift modus",
       "value": "",
       "valueKind": "marker-yes",
       "order": 84
@@ -1276,7 +1276,7 @@
     },
     {
       "section": "Aktivitätsprofile",
-      "label": "Sport-Apps",
+      "label": "Sport-AppsTeamsportarten",
       "value": "Basketball, Volleyball, Feldhockey, Eishockey, Fußball, Football, Lacrosse, Rugby, Ultimate Frisbee, Cricket, Softball, Baseball",
       "valueKind": "text",
       "order": 111
@@ -1717,7 +1717,7 @@
     },
     {
       "section": "Marinefunktionen",
-      "label": "Tragbare Trolling Motor Fernbedienung",
+      "label": "Tragbare Trolling Motor-Fernbedienung",
       "value": "",
       "valueKind": "marker-yes",
       "order": 174
@@ -2109,7 +2109,7 @@
     },
     {
       "section": "Trainings-, Planungs- und Analysefunktionen",
-      "label": "Garmin Live Segmente",
+      "label": "Garmin-Live-Segmente",
       "value": "",
       "valueKind": "marker-yes",
       "order": 230
@@ -3359,5 +3359,5 @@
     }
   },
   "sourceUrl": "https://www.garmin.com/de-DE/p/852183/",
-  "fetchedAt": "2026-08-10T05:44:26.513Z"
+  "fetchedAt": "2026-08-11T05:22:41.925Z"
 }

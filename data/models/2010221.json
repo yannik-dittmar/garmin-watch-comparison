@@ -220,14 +220,14 @@
     {
       "section": "Innovative Funktionen",
       "label": "Satelliten-Kommunikation",
-      "value": "Ja (inReach-Abonnement erforderlich; Details zur Abdeckung)",
+      "value": "Ja (inReach-Tarif erforderlich, Details zur Abdeckung)",
       "valueKind": "text",
       "order": 10
     },
     {
       "section": "Innovative Funktionen",
       "label": "LTE-Kommunikation",
-      "value": "Ja (inReach-Abonnement erforderlich; Details zur Abdeckung)",
+      "value": "Ja (inReach-Tarif erforderlich, Details zur Abdeckung)",
       "valueKind": "text",
       "order": 11
     },
@@ -891,7 +891,7 @@
     },
     {
       "section": "Tägliche Smart-Funktionen",
-      "label": "Red Shift Modus",
+      "label": "Red shift modus",
       "value": "",
       "valueKind": "marker-yes",
       "order": 106
@@ -1171,7 +1171,7 @@
     },
     {
       "section": "Aktivitätsprofile",
-      "label": "Sport-Apps",
+      "label": "Sport-AppsTeamsportarten",
       "value": "Basketball, Volleyball, Field Hockey, Ice Hockey, Football/Soccer, American Football, Lacrosse, Rugby, Ultimate Disc, Cricket, Softball, Baseball",
       "valueKind": "text",
       "order": 146
@@ -1535,7 +1535,7 @@
     },
     {
       "section": "Marinefunktionen",
-      "label": "Tragbare Trolling Motor Fernbedienung",
+      "label": "Tragbare Trolling Motor-Fernbedienung",
       "value": "",
       "valueKind": "marker-yes",
       "order": 198
@@ -1941,7 +1941,7 @@
     },
     {
       "section": "Trainings-, Planungs- und Analysefunktionen",
-      "label": "Garmin Live Segmente",
+      "label": "Garmin-Live-Segmente",
       "value": "",
       "valueKind": "marker-yes",
       "order": 256
@@ -3086,14 +3086,14 @@
     "lte": {
       "kind": "flag",
       "state": "supported",
-      "qualifier": "inReach-Abonnement erforderlich; Details zur Abdeckung",
-      "source": "Ja (inReach-Abonnement erforderlich; Details zur Abdeckung)"
+      "qualifier": "inReach-Tarif erforderlich, Details zur Abdeckung",
+      "source": "Ja (inReach-Tarif erforderlich, Details zur Abdeckung)"
     },
     "satelliteMessaging": {
       "kind": "flag",
       "state": "supported",
-      "qualifier": "inReach-Abonnement erforderlich; Details zur Abdeckung",
-      "source": "Ja (inReach-Abonnement erforderlich; Details zur Abdeckung)"
+      "qualifier": "inReach-Tarif erforderlich, Details zur Abdeckung",
+      "source": "Ja (inReach-Tarif erforderlich, Details zur Abdeckung)"
     },
     "smartNotifications": {
       "kind": "flag",
@@ -3234,5 +3234,5 @@
     }
   },
   "sourceUrl": "https://www.garmin.com/de-DE/p/1388769/",
-  "fetchedAt": "2026-08-10T05:44:26.450Z"
+  "fetchedAt": "2026-08-11T05:22:41.855Z"
 }

@@ -916,7 +916,7 @@
     },
     {
       "section": "Aktivitätsprofile",
-      "label": "Sport-Apps",
+      "label": "Sport-AppsTeamsportarten",
       "value": "Football, Feldhockey, Eishockey, Fußball, Lacrosse, Rugby, Ultimate Frisbee, Cricket, Softball, Baseball, Basketball, Volleyball",
       "valueKind": "text",
       "order": 108
@@ -1350,7 +1350,7 @@
     },
     {
       "section": "Trainings-, Planungs- und Analysefunktionen",
-      "label": "Garmin Live Segmente",
+      "label": "Garmin-Live-Segmente",
       "value": "",
       "valueKind": "marker-yes",
       "order": 170
@@ -2422,5 +2422,5 @@
     }
   },
   "sourceUrl": "https://www.garmin.com/de-DE/p/777655/",
-  "fetchedAt": "2026-08-10T05:44:26.909Z"
+  "fetchedAt": "2026-08-11T05:22:42.309Z"
 }
