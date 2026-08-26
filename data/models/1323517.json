@@ -736,7 +736,7 @@
     },
     {
       "section": "Tägliche Smart-Funktionen",
-      "label": "Red Shift Modus",
+      "label": "Red shift modus",
       "value": "",
       "valueKind": "marker-yes",
       "order": 85
@@ -925,7 +925,7 @@
     },
     {
       "section": "Aktivitätsprofile",
-      "label": "Sport-Apps",
+      "label": "Sport-AppsTeamsportarten",
       "value": "Basketball, Volleyball, Feldhockey, Eishockey, Fußball, Football, Lacrosse, Rugby, Ultimate Frisbee, Cricket, Softball, Baseball",
       "valueKind": "text",
       "order": 112
@@ -1002,7 +1002,7 @@
     },
     {
       "section": "Marinefunktionen",
-      "label": "Tragbare Trolling Motor Fernbedienung",
+      "label": "Tragbare Trolling Motor-Fernbedienung",
       "value": "",
       "valueKind": "marker-yes",
       "order": 123
@@ -1401,7 +1401,7 @@
     },
     {
       "section": "Trainings-, Planungs- und Analysefunktionen",
-      "label": "Garmin Live Segmente",
+      "label": "Garmin-Live-Segmente",
       "value": "",
       "valueKind": "marker-yes",
       "order": 180
@@ -1897,84 +1897,84 @@
       "order": 250
     },
     {
-      "section": "Mapping & Navigation",
+      "section": "Karten und Navigation",
       "label": "Punkt-zu-Punkt-Navigation",
       "value": "",
       "valueKind": "marker-yes",
       "order": 251
     },
     {
-      "section": "Mapping & Navigation",
+      "section": "Karten und Navigation",
       "label": "Trackaufzeichnung in Echtzeit",
       "value": "",
       "valueKind": "marker-yes",
       "order": 252
     },
     {
-      "section": "Mapping & Navigation",
+      "section": "Karten und Navigation",
       "label": "Zurück zum Start",
       "value": "",
       "valueKind": "marker-yes",
       "order": 253
     },
     {
-      "section": "Mapping & Navigation",
+      "section": "Karten und Navigation",
       "label": "TracBack®",
       "value": "",
       "valueKind": "marker-yes",
       "order": 254
     },
     {
-      "section": "Mapping & Navigation",
+      "section": "Karten und Navigation",
       "label": "Umgebung erkunden",
       "value": "",
       "valueKind": "marker-yes",
       "order": 255
     },
     {
-      "section": "Mapping & Navigation",
+      "section": "Karten und Navigation",
       "label": "Referenzpunkt",
       "value": "",
       "valueKind": "marker-yes",
       "order": 256
     },
     {
-      "section": "Mapping & Navigation",
+      "section": "Karten und Navigation",
       "label": "POIs entlang der Route",
       "value": "",
       "valueKind": "marker-yes",
       "order": 257
     },
     {
-      "section": "Mapping & Navigation",
+      "section": "Karten und Navigation",
       "label": "ClimbPro™-Anstiegsplaner",
       "value": "",
       "valueKind": "marker-yes",
       "order": 258
     },
     {
-      "section": "Mapping & Navigation",
+      "section": "Karten und Navigation",
       "label": "NextFork™-Navigation",
       "value": "",
       "valueKind": "marker-yes",
       "order": 259
     },
     {
-      "section": "Mapping & Navigation",
+      "section": "Karten und Navigation",
       "label": "Vorinstallierte Straßen- und Trail-Karten",
       "value": "",
       "valueKind": "marker-yes",
       "order": 260
     },
     {
-      "section": "Mapping & Navigation",
+      "section": "Karten und Navigation",
       "label": "Vorinstallierte Skiort-Karten",
       "value": "",
       "valueKind": "marker-yes",
       "order": 261
     },
     {
-      "section": "Mapping & Navigation",
+      "section": "Karten und Navigation",
       "label": "Unterstützung für herunterladbare Karten",
       "value": "",
       "valueKind": "marker-yes",
@@ -2622,5 +2622,5 @@
     }
   },
   "sourceUrl": "https://www.garmin.com/de-DE/p/783467/",
-  "fetchedAt": "2026-08-11T05:22:42.596Z"
+  "fetchedAt": "2026-08-26T04:56:17.634Z"
 }

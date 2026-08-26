@@ -2283,77 +2283,77 @@
       "order": 311
     },
     {
-      "section": "Mapping & Navigation",
+      "section": "Karten und Navigation",
       "label": "Punkt-zu-Punkt-Navigation",
       "value": "",
       "valueKind": "marker-yes",
       "order": 312
     },
     {
-      "section": "Mapping & Navigation",
+      "section": "Karten und Navigation",
       "label": "Trackaufzeichnung in Echtzeit",
       "value": "",
       "valueKind": "marker-yes",
       "order": 313
     },
     {
-      "section": "Mapping & Navigation",
+      "section": "Karten und Navigation",
       "label": "Zurück zum Start",
       "value": "",
       "valueKind": "marker-yes",
       "order": 314
     },
     {
-      "section": "Mapping & Navigation",
+      "section": "Karten und Navigation",
       "label": "TracBack®",
       "value": "",
       "valueKind": "marker-yes",
       "order": 315
     },
     {
-      "section": "Mapping & Navigation",
+      "section": "Karten und Navigation",
       "label": "Umgebung erkunden",
       "value": "",
       "valueKind": "marker-yes",
       "order": 316
     },
     {
-      "section": "Mapping & Navigation",
+      "section": "Karten und Navigation",
       "label": "POIs entlang der Route",
       "value": "",
       "valueKind": "marker-yes",
       "order": 317
     },
     {
-      "section": "Mapping & Navigation",
+      "section": "Karten und Navigation",
       "label": "ClimbPro™-Anstiegsplaner",
       "value": "",
       "valueKind": "marker-yes",
       "order": 318
     },
     {
-      "section": "Mapping & Navigation",
+      "section": "Karten und Navigation",
       "label": "NextFork™-Navigation",
       "value": "",
       "valueKind": "marker-yes",
       "order": 319
     },
     {
-      "section": "Mapping & Navigation",
+      "section": "Karten und Navigation",
       "label": "Vorinstallierte Straßen- und Trail-Karten",
       "value": "",
       "valueKind": "marker-yes",
       "order": 320
     },
     {
-      "section": "Mapping & Navigation",
+      "section": "Karten und Navigation",
       "label": "Vorinstallierte Skiort-Karten",
       "value": "",
       "valueKind": "marker-yes",
       "order": 321
     },
     {
-      "section": "Mapping & Navigation",
+      "section": "Karten und Navigation",
       "label": "Unterstützung für herunterladbare Karten",
       "value": "",
       "valueKind": "marker-yes",
@@ -3045,5 +3045,5 @@
     }
   },
   "sourceUrl": "https://www.garmin.com/de-DE/p/1228493/",
-  "fetchedAt": "2026-08-11T05:22:42.183Z"
+  "fetchedAt": "2026-08-26T04:56:17.072Z"
 }

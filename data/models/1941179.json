@@ -1629,35 +1629,35 @@
       "order": 185
     },
     {
-      "section": "Mapping & Navigation",
+      "section": "Karten und Navigation",
       "label": "Punkt-zu-Punkt-Navigation",
       "value": "",
       "valueKind": "marker-yes",
       "order": 186
     },
     {
-      "section": "Mapping & Navigation",
+      "section": "Karten und Navigation",
       "label": "Trackaufzeichnung in Echtzeit",
       "value": "",
       "valueKind": "marker-yes",
       "order": 187
     },
     {
-      "section": "Mapping & Navigation",
+      "section": "Karten und Navigation",
       "label": "Zurück zum Start",
       "value": "",
       "valueKind": "marker-yes",
       "order": 188
     },
     {
-      "section": "Mapping & Navigation",
+      "section": "Karten und Navigation",
       "label": "TracBack®",
       "value": "",
       "valueKind": "marker-yes",
       "order": 189
     },
     {
-      "section": "Mapping & Navigation",
+      "section": "Karten und Navigation",
       "label": "POIs entlang der Route",
       "value": "",
       "valueKind": "marker-yes",
@@ -2164,5 +2164,5 @@
     }
   },
   "sourceUrl": "https://www.garmin.com/de-DE/p/1915560/",
-  "fetchedAt": "2026-08-11T05:22:42.301Z"
+  "fetchedAt": "2026-08-26T04:56:17.332Z"
 }

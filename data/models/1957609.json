@@ -1376,7 +1376,7 @@
     },
     {
       "section": "Aktivitätsfunktionen",
-      "label": "Schübe",
+      "label": "Rollstuhl-Schübezähler",
       "value": "",
       "valueKind": "marker-yes",
       "order": 160
@@ -2089,35 +2089,35 @@
       "order": 261
     },
     {
-      "section": "Mapping & Navigation",
+      "section": "Karten und Navigation",
       "label": "Punkt-zu-Punkt-Navigation",
       "value": "",
       "valueKind": "marker-yes",
       "order": 262
     },
     {
-      "section": "Mapping & Navigation",
+      "section": "Karten und Navigation",
       "label": "Trackaufzeichnung in Echtzeit",
       "value": "",
       "valueKind": "marker-yes",
       "order": 263
     },
     {
-      "section": "Mapping & Navigation",
+      "section": "Karten und Navigation",
       "label": "Zurück zum Start",
       "value": "",
       "valueKind": "marker-yes",
       "order": 264
     },
     {
-      "section": "Mapping & Navigation",
+      "section": "Karten und Navigation",
       "label": "TracBack®",
       "value": "",
       "valueKind": "marker-yes",
       "order": 265
     },
     {
-      "section": "Mapping & Navigation",
+      "section": "Karten und Navigation",
       "label": "POIs entlang der Route",
       "value": "",
       "valueKind": "marker-yes",
@@ -2680,5 +2680,5 @@
     }
   },
   "sourceUrl": "https://www.garmin.com/de-DE/p/1957609/",
-  "fetchedAt": "2026-08-11T05:22:41.747Z"
+  "fetchedAt": "2026-08-26T04:56:16.676Z"
 }

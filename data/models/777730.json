@@ -1762,63 +1762,63 @@
       "order": 228
     },
     {
-      "section": "Mapping & Navigation",
+      "section": "Karten und Navigation",
       "label": "Punkt-zu-Punkt-Navigation",
       "value": "",
       "valueKind": "marker-yes",
       "order": 229
     },
     {
-      "section": "Mapping & Navigation",
+      "section": "Karten und Navigation",
       "label": "Trackaufzeichnung in Echtzeit",
       "value": "",
       "valueKind": "marker-yes",
       "order": 230
     },
     {
-      "section": "Mapping & Navigation",
+      "section": "Karten und Navigation",
       "label": "Zurück zum Start",
       "value": "",
       "valueKind": "marker-yes",
       "order": 231
     },
     {
-      "section": "Mapping & Navigation",
+      "section": "Karten und Navigation",
       "label": "TracBack®",
       "value": "",
       "valueKind": "marker-yes",
       "order": 232
     },
     {
-      "section": "Mapping & Navigation",
+      "section": "Karten und Navigation",
       "label": "Umgebung erkunden",
       "value": "",
       "valueKind": "marker-yes",
       "order": 233
     },
     {
-      "section": "Mapping & Navigation",
+      "section": "Karten und Navigation",
       "label": "POIs entlang der Route",
       "value": "",
       "valueKind": "marker-yes",
       "order": 234
     },
     {
-      "section": "Mapping & Navigation",
+      "section": "Karten und Navigation",
       "label": "ClimbPro™-Anstiegsplaner",
       "value": "",
       "valueKind": "marker-yes",
       "order": 235
     },
     {
-      "section": "Mapping & Navigation",
+      "section": "Karten und Navigation",
       "label": "Vorinstallierte Straßen- und Trail-Karten",
       "value": "",
       "valueKind": "marker-yes",
       "order": 236
     },
     {
-      "section": "Mapping & Navigation",
+      "section": "Karten und Navigation",
       "label": "Unterstützung für herunterladbare Karten",
       "value": "",
       "valueKind": "marker-yes",
@@ -2431,5 +2431,5 @@
     }
   },
   "sourceUrl": "https://www.garmin.com/de-DE/p/777655/",
-  "fetchedAt": "2026-08-11T05:22:42.325Z"
+  "fetchedAt": "2026-08-26T04:56:17.355Z"
 }
