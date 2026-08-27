@@ -296,7 +296,7 @@
     },
     {
       "section": "Allgemein",
-      "label": "Mit QuickFit™-Uhrenarmband kompatibel",
+      "label": "Mit QuickFit®-Uhrenarmband kompatibel",
       "value": "included (26 mm)",
       "valueKind": "text",
       "order": 21
@@ -3234,5 +3234,5 @@
     }
   },
   "sourceUrl": "https://www.garmin.com/de-DE/p/1388769/",
-  "fetchedAt": "2026-08-26T04:56:16.792Z"
+  "fetchedAt": "2026-08-27T15:15:39.591Z"
 }

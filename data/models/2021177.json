@@ -389,7 +389,7 @@
     },
     {
       "section": "Allgemein",
-      "label": "Mit QuickFit™-Uhrenarmband kompatibel",
+      "label": "Mit QuickFit®-Uhrenarmband kompatibel",
       "value": "Im Lieferumfang enthalten (20 mm)",
       "valueKind": "text",
       "order": 19
@@ -397,7 +397,7 @@
     {
       "section": "Allgemein",
       "label": "Physische Größe",
-      "value": "43 x 43 x 13,8 mm\nFür folgende Handgelenkumfänge geeignet:\nSilikon-Armband: 108-182 mm\nUltraFit-Armband: 108-189 mm\nArmband aus Velours: 108-175 mm",
+      "value": "43 x 43 x 13,8 mm\nFür folgende Handgelenkumfänge geeignet:\nSilikon-Armband: 108-182 mm\nUltraFit-Armband: 108-189 mm\nArmband aus Velours: 108-175 mm\nComfortFit Kurz: 130-200 mm\nComfortFit Lang: 150-225 mm",
       "valueKind": "text",
       "order": 20
     },
@@ -536,7 +536,7 @@
     },
     {
       "section": "Gesundheits- und Fitnessfunktionen",
-      "label": "Herzfrequenz (konstant, jede Sekunde)",
+      "label": "Herzfrequenz (fortwährend, jede Sekunde) Herzfrequenz (konstant, jede Sekunde)",
       "value": "",
       "valueKind": "marker-yes",
       "order": 40
@@ -1229,7 +1229,7 @@
     },
     {
       "section": "Aktivitätsprofile",
-      "label": "Sport-AppsTeamsportarten",
+      "label": "Teamsportarten",
       "value": "Basketball, Volleyball, Feldhockey, Eishockey, Fußball, Football, Lacrosse, Rugby, Ultimate Frisbee, Cricket, Softball, Baseball",
       "valueKind": "text",
       "order": 139
@@ -2755,21 +2755,21 @@
         "heightMm": 43,
         "thicknessMm": 13.8
       },
-      "source": "43 x 43 x 13,8 mm\nFür folgende Handgelenkumfänge geeignet:\nSilikon-Armband: 108-182 mm\nUltraFit-Armband: 108-189 mm\nArmband aus Velours: 108-175 mm"
+      "source": "43 x 43 x 13,8 mm\nFür folgende Handgelenkumfänge geeignet:\nSilikon-Armband: 108-182 mm\nUltraFit-Armband: 108-189 mm\nArmband aus Velours: 108-175 mm\nComfortFit Kurz: 130-200 mm\nComfortFit Lang: 150-225 mm"
     },
     "caseSize": {
       "kind": "number",
       "value": 43,
       "unit": "mm",
       "bound": "exact",
-      "source": "43 x 43 x 13,8 mm\nFür folgende Handgelenkumfänge geeignet:\nSilikon-Armband: 108-182 mm\nUltraFit-Armband: 108-189 mm\nArmband aus Velours: 108-175 mm"
+      "source": "43 x 43 x 13,8 mm\nFür folgende Handgelenkumfänge geeignet:\nSilikon-Armband: 108-182 mm\nUltraFit-Armband: 108-189 mm\nArmband aus Velours: 108-175 mm\nComfortFit Kurz: 130-200 mm\nComfortFit Lang: 150-225 mm"
     },
     "caseThickness": {
       "kind": "number",
       "value": 13.8,
       "unit": "mm",
       "bound": "exact",
-      "source": "43 x 43 x 13,8 mm\nFür folgende Handgelenkumfänge geeignet:\nSilikon-Armband: 108-182 mm\nUltraFit-Armband: 108-189 mm\nArmband aus Velours: 108-175 mm"
+      "source": "43 x 43 x 13,8 mm\nFür folgende Handgelenkumfänge geeignet:\nSilikon-Armband: 108-182 mm\nUltraFit-Armband: 108-189 mm\nArmband aus Velours: 108-175 mm\nComfortFit Kurz: 130-200 mm\nComfortFit Lang: 150-225 mm"
     },
     "weight": {
       "kind": "number",
@@ -2781,7 +2781,7 @@
     "wristRange": {
       "kind": "text",
       "text": "Für folgende Handgelenkumfänge geeignet:",
-      "source": "43 x 43 x 13,8 mm\nFür folgende Handgelenkumfänge geeignet:\nSilikon-Armband: 108-182 mm\nUltraFit-Armband: 108-189 mm\nArmband aus Velours: 108-175 mm"
+      "source": "43 x 43 x 13,8 mm\nFür folgende Handgelenkumfänge geeignet:\nSilikon-Armband: 108-182 mm\nUltraFit-Armband: 108-189 mm\nArmband aus Velours: 108-175 mm\nComfortFit Kurz: 130-200 mm\nComfortFit Lang: 150-225 mm"
     },
     "displayType": {
       "kind": "text",
@@ -3185,5 +3185,5 @@
     }
   },
   "sourceUrl": "https://www.garmin.com/de-DE/p/2021177/",
-  "fetchedAt": "2026-08-26T04:56:17.093Z"
+  "fetchedAt": "2026-08-27T15:15:39.888Z"
 }
