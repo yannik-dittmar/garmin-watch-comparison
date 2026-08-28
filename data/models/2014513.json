@@ -444,7 +444,7 @@
     {
       "section": "Allgemein",
       "label": "Akkulaufzeit",
-      "value": "Smartwatch-Modus: Bis zu 10 Tage (4 Tage bei fortwährend eingeschaltetem Display)\nEnergiespar-Modus: Bis zu 19 Tage\nGNSS-Modus nur mit GPS: Bis zu 20 Stunden\nGNSS-Modus mit allen Systemen: Bis zu 14 Stunden\nGNSS-Modus nur mit GPS und Musik: Bis zu 7,5 Tage\nGNSS-Modus mit allen Systemen und Musik: Bis zu 6,5 Stunden",
+      "value": "Smartwatch-Modus: Bis zu 10 Tage (4 Tage bei fortwährend eingeschaltetem Display)\nEnergiespar-Modus: Bis zu 19 Tage\nGNSS-Modus nur mit GPS: Bis zu 20 Stunden\nGNSS-Modus mit allen Systemen: Bis zu 14 Stunden\nGNSS-Modus nur mit GPS und Musik: Bis zu 7,5 Tage\nGNSS-Modus mit allen Systemen und Musik: Bis zu 6,5 Stunden\nSiehe Details",
       "valueKind": "text",
       "order": 21
     },
@@ -520,7 +520,7 @@
     },
     {
       "section": "Gesundheits- und Fitnessfunktionen",
-      "label": "Herzfrequenz (konstant, jede Sekunde)",
+      "label": "Herzfrequenz (fortwährend, jede Sekunde) Herzfrequenz (konstant, jede Sekunde)",
       "value": "",
       "valueKind": "marker-yes",
       "order": 32
@@ -1039,7 +1039,7 @@
     {
       "section": "Aktivitätsprofile",
       "label": "Verfügbare Fitnessstudio-Aktivitätsprofile",
-      "value": "Krafttraining, HIIT, Cardio, Crosstrainer, Stepper, Treppensteigen, Seilspringen",
+      "value": "Krafttraining, HIIT, Cardio, Crosstrainer, Stepper, Treppensteigen, Rudermaschine, Seilspringen",
       "valueKind": "text",
       "order": 106
     },
@@ -1115,7 +1115,7 @@
     },
     {
       "section": "Aktivitätsprofile",
-      "label": "Sport-AppsTeamsportarten",
+      "label": "Teamsportarten",
       "value": "Basketball, Volleyball, Feldhockey, Eishockey, Fußball, Football, Lacrosse, Rugby, Ultimate Frisbee, Cricket, Softball, Baseball",
       "valueKind": "text",
       "order": 117
@@ -2063,7 +2063,7 @@
           "sourceText": "GNSS-Modus mit allen Systemen und Musik: Bis zu 6,5 Stunden"
         }
       ],
-      "source": "Smartwatch-Modus: Bis zu 10 Tage (4 Tage bei fortwährend eingeschaltetem Display)\nEnergiespar-Modus: Bis zu 19 Tage\nGNSS-Modus nur mit GPS: Bis zu 20 Stunden\nGNSS-Modus mit allen Systemen: Bis zu 14 Stunden\nGNSS-Modus nur mit GPS und Musik: Bis zu 7,5 Tage\nGNSS-Modus mit allen Systemen und Musik: Bis zu 6,5 Stunden"
+      "source": "Smartwatch-Modus: Bis zu 10 Tage (4 Tage bei fortwährend eingeschaltetem Display)\nEnergiespar-Modus: Bis zu 19 Tage\nGNSS-Modus nur mit GPS: Bis zu 20 Stunden\nGNSS-Modus mit allen Systemen: Bis zu 14 Stunden\nGNSS-Modus nur mit GPS und Musik: Bis zu 7,5 Tage\nGNSS-Modus mit allen Systemen und Musik: Bis zu 6,5 Stunden\nSiehe Details"
     },
     "batterySmartwatchHours": {
       "kind": "number",
@@ -2311,5 +2311,5 @@
     }
   },
   "sourceUrl": "https://www.garmin.com/de-DE/p/1915560/",
-  "fetchedAt": "2026-08-27T15:15:40.070Z"
+  "fetchedAt": "2026-08-28T16:38:53.150Z"
 }

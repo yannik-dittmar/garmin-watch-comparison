@@ -452,7 +452,7 @@
     },
     {
       "section": "Gesundheits- und Fitnessfunktionen",
-      "label": "Herzfrequenz (konstant, jede Sekunde)",
+      "label": "Herzfrequenz (fortwährend, jede Sekunde) Herzfrequenz (konstant, jede Sekunde)",
       "value": "",
       "valueKind": "marker-yes",
       "order": 28
@@ -872,7 +872,7 @@
     },
     {
       "section": "Aktivitätsprofile",
-      "label": "Sport-AppsTeamsportarten",
+      "label": "Teamsportarten",
       "value": "Basketball, Volleyball, Feldhockey, Eishockey, Fußball, Football, Lacrosse, Rugby, Ultimate Frisbee, Cricket, Softball, Baseball",
       "valueKind": "text",
       "order": 88
@@ -1721,5 +1721,5 @@
     }
   },
   "sourceUrl": "https://www.garmin.com/de-DE/p/1604358/",
-  "fetchedAt": "2026-08-27T15:15:39.403Z"
+  "fetchedAt": "2026-08-28T16:38:52.422Z"
 }
