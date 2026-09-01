@@ -8,9 +8,9 @@
     "qualifier": null
   },
   "price": {
-    "amount": 719.99,
+    "amount": 799.99,
     "currency": "EUR",
-    "formatted": "719,99 €"
+    "formatted": "799,99 €"
   },
   "images": [
     {
@@ -28,9 +28,9 @@
       "partNumber": "010-02751-01",
       "name": "Schwarz/Carbongrau DLC-Titan mit schwarzem UltraFit-Nylon-Armband",
       "price": {
-        "amount": 719.99,
+        "amount": 799.99,
         "currency": "EUR",
-        "formatted": "719,99 €"
+        "formatted": "799,99 €"
       },
       "images": [
         {
@@ -185,7 +185,7 @@
     },
     {
       "section": "Allgemein",
-      "label": "Mit QuickFit™-Uhrenarmband kompatibel",
+      "label": "Mit QuickFit®-Uhrenarmband kompatibel",
       "value": "Kompatibel (26 mm)",
       "valueKind": "text",
       "order": 19
@@ -318,7 +318,7 @@
     },
     {
       "section": "Gesundheits- und Fitnessfunktionen",
-      "label": "Herzfrequenz (konstant, jede Sekunde)",
+      "label": "Herzfrequenz (fortwährend, jede Sekunde) Herzfrequenz (konstant, jede Sekunde)",
       "value": "",
       "valueKind": "marker-yes",
       "order": 38
@@ -941,7 +941,7 @@
     },
     {
       "section": "Aktivitätsprofile",
-      "label": "Sport-AppsTeamsportarten",
+      "label": "Teamsportarten",
       "value": "Basketball, Volleyball, Feldhockey, Eishockey, Fußball, Football, Lacrosse, Rugby, Ultimate Frisbee, Cricket, Softball, Baseball",
       "valueKind": "text",
       "order": 127
@@ -2667,5 +2667,5 @@
     }
   },
   "sourceUrl": "https://www.garmin.com/de-DE/p/851039/",
-  "fetchedAt": "2026-08-31T10:52:27.312Z"
+  "fetchedAt": "2026-09-01T09:25:10.067Z"
 }

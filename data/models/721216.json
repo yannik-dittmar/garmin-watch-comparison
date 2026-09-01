@@ -8,9 +8,9 @@
     "qualifier": null
   },
   "price": {
-    "amount": 159.99,
+    "amount": 149.99,
     "currency": "EUR",
-    "formatted": "159,99 €"
+    "formatted": "149,99 €"
   },
   "images": [
     {
@@ -180,9 +180,9 @@
       "partNumber": "010-02472-10",
       "name": "Schwarz",
       "price": {
-        "amount": 159.99,
+        "amount": 149.99,
         "currency": "EUR",
-        "formatted": "159,99 €"
+        "formatted": "149,99 €"
       },
       "images": [
         {
@@ -260,9 +260,9 @@
       "partNumber": "010-02472-12",
       "name": "Weiß",
       "price": {
-        "amount": 159.99,
+        "amount": 149.99,
         "currency": "EUR",
-        "formatted": "159,99 €"
+        "formatted": "149,99 €"
       },
       "images": [
         {
@@ -926,5 +926,5 @@
     }
   },
   "sourceUrl": "https://www.garmin.com/de-DE/p/721216/",
-  "fetchedAt": "2026-08-31T10:52:27.031Z"
+  "fetchedAt": "2026-09-01T09:25:09.779Z"
 }

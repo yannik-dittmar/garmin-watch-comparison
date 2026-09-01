@@ -265,7 +265,7 @@
     },
     {
       "section": "Allgemein",
-      "label": "Mit QuickFit™-Uhrenarmband kompatibel",
+      "label": "Mit QuickFit®-Uhrenarmband kompatibel",
       "value": "Ja (kompatibel mit 22 mm)",
       "valueKind": "text",
       "order": 15
@@ -384,7 +384,7 @@
     },
     {
       "section": "Gesundheits- und Fitnessfunktionen",
-      "label": "Herzfrequenz (konstant, jede Sekunde)",
+      "label": "Herzfrequenz (fortwährend, jede Sekunde) Herzfrequenz (konstant, jede Sekunde)",
       "value": "",
       "valueKind": "marker-yes",
       "order": 32
@@ -916,7 +916,7 @@
     },
     {
       "section": "Aktivitätsprofile",
-      "label": "Sport-AppsTeamsportarten",
+      "label": "Teamsportarten",
       "value": "Football, Feldhockey, Eishockey, Fußball, Lacrosse, Rugby, Ultimate Frisbee, Cricket, Softball, Baseball, Basketball, Volleyball",
       "valueKind": "text",
       "order": 108
@@ -2422,5 +2422,5 @@
     }
   },
   "sourceUrl": "https://www.garmin.com/de-DE/p/777655/",
-  "fetchedAt": "2026-08-31T10:52:27.652Z"
+  "fetchedAt": "2026-09-01T09:25:10.417Z"
 }

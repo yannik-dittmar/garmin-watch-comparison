@@ -8,9 +8,9 @@
     "qualifier": "Standard Edition"
   },
   "price": {
-    "amount": 399.99,
+    "amount": 279.99,
     "currency": "EUR",
-    "formatted": "399,99 €"
+    "formatted": "279,99 €"
   },
   "images": [
     {
@@ -124,9 +124,9 @@
       "partNumber": "010-02730-03",
       "name": "Schwarz",
       "price": {
-        "amount": 399.99,
+        "amount": 279.99,
         "currency": "EUR",
-        "formatted": "399,99 €"
+        "formatted": "279,99 €"
       },
       "images": [
         {
@@ -2180,5 +2180,5 @@
     }
   },
   "sourceUrl": "https://www.garmin.com/de-DE/p/819761/",
-  "fetchedAt": "2026-08-31T10:52:27.763Z"
+  "fetchedAt": "2026-09-01T09:25:10.529Z"
 }
