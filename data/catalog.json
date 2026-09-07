@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generatedAt": "2026-09-06T08:40:47.132Z",
-    "oldestFetchAt": "2026-09-06T08:40:45.481Z",
+    "generatedAt": "2026-09-07T09:20:46.294Z",
+    "oldestFetchAt": "2026-09-07T09:20:44.180Z",
     "locale": "de-DE",
     "storeCode": "DE",
     "modelCount": 85,
@@ -28,8 +28,8 @@
       },
       "image": "https://res.garmin.com/en/products/010-02472-10/v/cf-lg-b6111ea5-c9b9-496d-9dfc-571d2f63ad35.jpg",
       "categories": [
-        "Golfing",
-        "10002"
+        "10002",
+        "Golfing"
       ],
       "partNumbers": [
         "010-02472-10",
@@ -320,7 +320,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/721216/",
-      "fetchedAt": "2026-09-06T08:40:45.481Z"
+      "fetchedAt": "2026-09-07T09:20:44.180Z"
     },
     {
       "id": "1604358",
@@ -338,8 +338,8 @@
       },
       "image": "https://res.garmin.com/en/products/010-03009-00/v/cf-lg.jpg",
       "categories": [
-        "Golfing",
         "10002",
+        "Golfing",
         "12380"
       ],
       "partNumbers": [
@@ -657,7 +657,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1604358/",
-      "fetchedAt": "2026-09-06T08:40:45.498Z"
+      "fetchedAt": "2026-09-07T09:20:44.205Z"
     },
     {
       "id": "1604377",
@@ -675,8 +675,8 @@
       },
       "image": "https://res.garmin.com/en/products/010-03010-00/v/cf-lg.jpg",
       "categories": [
-        "Golfing",
         "10002",
+        "Golfing",
         "12380"
       ],
       "partNumbers": [
@@ -1030,7 +1030,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1604358/",
-      "fetchedAt": "2026-09-06T08:40:45.517Z"
+      "fetchedAt": "2026-09-07T09:20:44.230Z"
     },
     {
       "id": "847697",
@@ -1048,8 +1048,8 @@
       },
       "image": "https://res.garmin.com/de_DE/products/010-02746-10/v/cf-lg.jpg",
       "categories": [
-        "Golfing",
         "10002",
+        "Golfing",
         "26544",
         "12380"
       ],
@@ -1404,7 +1404,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/847697/",
-      "fetchedAt": "2026-09-06T08:40:45.541Z"
+      "fetchedAt": "2026-09-07T09:20:44.262Z"
     },
     {
       "id": "847706",
@@ -1422,8 +1422,8 @@
       },
       "image": "https://res.garmin.com/de_DE/products/010-02746-12/v/cf-lg.jpg",
       "categories": [
-        "Golfing",
         "10002",
+        "Golfing",
         "26544",
         "12380"
       ],
@@ -1783,7 +1783,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/847697/",
-      "fetchedAt": "2026-09-06T08:40:45.561Z"
+      "fetchedAt": "2026-09-07T09:20:44.289Z"
     },
     {
       "id": "1957609",
@@ -2246,7 +2246,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1957609/",
-      "fetchedAt": "2026-09-06T08:40:45.578Z"
+      "fetchedAt": "2026-09-07T09:20:44.315Z"
     },
     {
       "id": "1388769",
@@ -2720,7 +2720,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1388769/",
-      "fetchedAt": "2026-09-06T08:40:45.608Z"
+      "fetchedAt": "2026-09-07T09:20:44.357Z"
     },
     {
       "id": "1373810",
@@ -3194,7 +3194,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1388769/",
-      "fetchedAt": "2026-09-06T08:40:45.633Z"
+      "fetchedAt": "2026-09-07T09:20:44.401Z"
     },
     {
       "id": "2010221",
@@ -3694,7 +3694,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1388769/",
-      "fetchedAt": "2026-09-06T08:40:45.666Z"
+      "fetchedAt": "2026-09-07T09:20:44.420Z"
     },
     {
       "id": "1558977",
@@ -3713,8 +3713,8 @@
       "image": "https://res.garmin.com/de_DE/products/010-02986-00/v/cf-lg.jpg",
       "categories": [
         "10002",
-        "13280",
         "Swimming",
+        "13280",
         "12380"
       ],
       "partNumbers": [
@@ -4114,7 +4114,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1558977/",
-      "fetchedAt": "2026-09-06T08:40:45.688Z"
+      "fetchedAt": "2026-09-07T09:20:44.445Z"
     },
     {
       "id": "852183",
@@ -4133,8 +4133,8 @@
       "image": "https://res.garmin.com/de_DE/products/010-02753-04/v/cf-lg.jpg",
       "categories": [
         "10002",
-        "13280",
         "Swimming",
+        "13280",
         "26544",
         "12380"
       ],
@@ -4577,7 +4577,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/852183/",
-      "fetchedAt": "2026-09-06T08:40:45.700Z"
+      "fetchedAt": "2026-09-07T09:20:44.461Z"
     },
     {
       "id": "852217",
@@ -4596,8 +4596,8 @@
       "image": "https://res.garmin.com/de_DE/products/010-02753-11/v/cf-lg.jpg",
       "categories": [
         "10002",
-        "13280",
         "Swimming",
+        "13280",
         "26544",
         "12380"
       ],
@@ -5054,7 +5054,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/852183/",
-      "fetchedAt": "2026-09-06T08:40:45.720Z"
+      "fetchedAt": "2026-09-07T09:20:44.483Z"
     },
     {
       "id": "852159",
@@ -5073,8 +5073,8 @@
       "image": "https://res.garmin.com/de_DE/products/010-02752-08/v/rf-lg.jpg",
       "categories": [
         "10002",
-        "13280",
         "Swimming",
+        "13280",
         "26544",
         "12380"
       ],
@@ -5534,7 +5534,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/852183/",
-      "fetchedAt": "2026-09-06T08:40:45.737Z"
+      "fetchedAt": "2026-09-07T09:20:44.505Z"
     },
     {
       "id": "851039",
@@ -5552,12 +5552,12 @@
       },
       "image": "https://res.garmin.com/en_GB/products/010-02751-01/v/cf-lg.jpg",
       "categories": [
-        "16900",
-        "Running",
         "10002",
+        "Running",
+        "Swimming",
+        "16900",
         "55664",
         "32828",
-        "Swimming",
         "Multisport",
         "12380"
       ],
@@ -6004,7 +6004,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/851039/",
-      "fetchedAt": "2026-09-06T08:40:45.755Z"
+      "fetchedAt": "2026-09-07T09:20:44.532Z"
     },
     {
       "id": "1228493",
@@ -6022,15 +6022,15 @@
       },
       "image": "https://res.garmin.com/de_DE/products/010-02903-00/v/cf-lg.jpg",
       "categories": [
-        "16900",
-        "Golfing",
+        "10002",
         "Running",
         "571",
-        "10002",
+        "Swimming",
+        "13280",
+        "16900",
+        "Golfing",
         "55664",
         "32828",
-        "13280",
-        "Swimming",
         "Multisport",
         "26544",
         "12380"
@@ -6484,7 +6484,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1228493/",
-      "fetchedAt": "2026-09-06T08:40:45.773Z"
+      "fetchedAt": "2026-09-07T09:20:44.565Z"
     },
     {
       "id": "1228429",
@@ -6502,15 +6502,15 @@
       },
       "image": "https://res.garmin.com/de_DE/products/010-02904-00/v/cf-lg.jpg",
       "categories": [
-        "16900",
-        "Golfing",
+        "10002",
         "Running",
         "571",
-        "10002",
+        "Swimming",
+        "13280",
+        "16900",
+        "Golfing",
         "55664",
         "32828",
-        "13280",
-        "Swimming",
         "Multisport",
         "26544",
         "12380"
@@ -6964,7 +6964,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1228493/",
-      "fetchedAt": "2026-09-06T08:40:45.799Z"
+      "fetchedAt": "2026-09-07T09:20:44.579Z"
     },
     {
       "id": "1389491",
@@ -6982,15 +6982,15 @@
       },
       "image": "https://res.garmin.com/de_DE/products/010-02906-11/v/cf-lg.jpg",
       "categories": [
-        "16900",
-        "Golfing",
+        "10002",
         "Running",
         "571",
-        "10002",
+        "Swimming",
+        "13280",
+        "16900",
+        "Golfing",
         "55664",
         "32828",
-        "13280",
-        "Swimming",
         "Multisport",
         "26544",
         "12380"
@@ -7444,7 +7444,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1228493/",
-      "fetchedAt": "2026-09-06T08:40:45.811Z"
+      "fetchedAt": "2026-09-07T09:20:44.596Z"
     },
     {
       "id": "1228171",
@@ -7462,15 +7462,15 @@
       },
       "image": "https://res.garmin.com/de_DE/products/010-02905-00/v/cf-lg.jpg",
       "categories": [
-        "16900",
-        "Golfing",
+        "10002",
         "Running",
         "571",
-        "10002",
+        "Swimming",
+        "13280",
+        "16900",
+        "Golfing",
         "55664",
         "32828",
-        "13280",
-        "Swimming",
         "Multisport",
         "26544",
         "12380"
@@ -7924,7 +7924,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1228493/",
-      "fetchedAt": "2026-09-06T08:40:45.825Z"
+      "fetchedAt": "2026-09-07T09:20:44.613Z"
     },
     {
       "id": "1390829",
@@ -7942,15 +7942,15 @@
       },
       "image": "https://res.garmin.com/de_DE/products/010-02907-11/v/cf-lg.jpg",
       "categories": [
-        "16900",
-        "Golfing",
+        "10002",
         "Running",
         "571",
-        "10002",
+        "Swimming",
+        "13280",
+        "16900",
+        "Golfing",
         "55664",
         "32828",
-        "13280",
-        "Swimming",
         "Multisport",
         "26544",
         "12380"
@@ -8404,7 +8404,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1228493/",
-      "fetchedAt": "2026-09-06T08:40:45.839Z"
+      "fetchedAt": "2026-09-07T09:20:44.629Z"
     },
     {
       "id": "1701921",
@@ -8422,15 +8422,15 @@
       },
       "image": "https://res.garmin.com/de_DE/products/010-03198-01/v/cf-lg.jpg",
       "categories": [
-        "16900",
-        "Golfing",
+        "10002",
         "Running",
         "571",
-        "10002",
+        "Swimming",
+        "13280",
+        "16900",
+        "Golfing",
         "55664",
         "32828",
-        "13280",
-        "Swimming",
         "Multisport",
         "26544",
         "12380"
@@ -8909,7 +8909,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1228493/",
-      "fetchedAt": "2026-09-06T08:40:45.851Z"
+      "fetchedAt": "2026-09-07T09:20:44.646Z"
     },
     {
       "id": "1703902",
@@ -8927,15 +8927,15 @@
       },
       "image": "https://res.garmin.com/de_DE/products/010-03199-01/v/cf-lg.jpg",
       "categories": [
-        "16900",
-        "Golfing",
+        "10002",
         "Running",
         "571",
-        "10002",
+        "Swimming",
+        "13280",
+        "16900",
+        "Golfing",
         "55664",
         "32828",
-        "13280",
-        "Swimming",
         "Multisport",
         "26544",
         "12380"
@@ -9414,7 +9414,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1228493/",
-      "fetchedAt": "2026-09-06T08:40:45.866Z"
+      "fetchedAt": "2026-09-07T09:20:44.664Z"
     },
     {
       "id": "1723221",
@@ -9432,15 +9432,15 @@
       },
       "image": "https://res.garmin.com/de_DE/products/010-03380-01/v/cf-lg.jpg",
       "categories": [
-        "16900",
-        "Golfing",
+        "10002",
         "Running",
         "571",
-        "10002",
+        "Swimming",
+        "13280",
+        "16900",
+        "Golfing",
         "55664",
         "32828",
-        "13280",
-        "Swimming",
         "Multisport",
         "26544",
         "12380"
@@ -9917,7 +9917,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1228493/",
-      "fetchedAt": "2026-09-06T08:40:45.881Z"
+      "fetchedAt": "2026-09-07T09:20:44.684Z"
     },
     {
       "id": "2021177",
@@ -9935,14 +9935,14 @@
       },
       "image": "https://res.garmin.com/de_DE/products/010-04761-01/v/cf-lg.jpg",
       "categories": [
-        "16900",
-        "Golfing",
+        "10002",
         "Running",
         "571",
-        "10002",
-        "55664",
-        "13280",
         "Swimming",
+        "13280",
+        "16900",
+        "Golfing",
+        "55664",
         "Multisport",
         "26544"
       ],
@@ -10389,7 +10389,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/2021177/",
-      "fetchedAt": "2026-09-06T08:40:45.895Z"
+      "fetchedAt": "2026-09-07T09:20:44.701Z"
     },
     {
       "id": "2021193",
@@ -10407,14 +10407,14 @@
       },
       "image": "https://res.garmin.com/de_DE/products/010-04762-01/v/cf-lg.jpg",
       "categories": [
-        "16900",
-        "Golfing",
+        "10002",
         "Running",
         "571",
-        "10002",
-        "55664",
-        "13280",
         "Swimming",
+        "13280",
+        "16900",
+        "Golfing",
+        "55664",
         "Multisport",
         "26544"
       ],
@@ -10861,7 +10861,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/2021177/",
-      "fetchedAt": "2026-09-06T08:40:45.911Z"
+      "fetchedAt": "2026-09-07T09:20:44.718Z"
     },
     {
       "id": "2021175",
@@ -10879,14 +10879,14 @@
       },
       "image": "https://res.garmin.com/de_DE/products/010-04763-01/v/cf-lg.jpg",
       "categories": [
-        "16900",
-        "Golfing",
+        "10002",
         "Running",
         "571",
-        "10002",
-        "55664",
-        "13280",
         "Swimming",
+        "13280",
+        "16900",
+        "Golfing",
+        "55664",
         "Multisport",
         "26544"
       ],
@@ -11333,7 +11333,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/2021177/",
-      "fetchedAt": "2026-09-06T08:40:45.923Z"
+      "fetchedAt": "2026-09-07T09:20:44.734Z"
     },
     {
       "id": "1962767",
@@ -11351,14 +11351,14 @@
       },
       "image": "https://res.garmin.com/de_DE/products/010-04335-06/v/cf-lg.jpg",
       "categories": [
-        "16900",
-        "Golfing",
+        "10002",
         "Running",
         "571",
-        "10002",
-        "55664",
-        "13280",
         "Swimming",
+        "13280",
+        "16900",
+        "Golfing",
+        "55664",
         "Multisport",
         "26544"
       ],
@@ -11807,7 +11807,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/2021177/",
-      "fetchedAt": "2026-09-06T08:40:45.936Z"
+      "fetchedAt": "2026-09-07T09:20:44.755Z"
     },
     {
       "id": "1962732",
@@ -11825,14 +11825,14 @@
       },
       "image": "https://res.garmin.com/de_DE/products/010-04336-06​/v/cf-lg.jpg",
       "categories": [
-        "16900",
-        "Golfing",
+        "10002",
         "Running",
         "571",
-        "10002",
-        "55664",
-        "13280",
         "Swimming",
+        "13280",
+        "16900",
+        "Golfing",
+        "55664",
         "Multisport",
         "26544"
       ],
@@ -12280,7 +12280,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/2021177/",
-      "fetchedAt": "2026-09-06T08:40:45.947Z"
+      "fetchedAt": "2026-09-07T09:20:44.771Z"
     },
     {
       "id": "1962713",
@@ -12298,14 +12298,14 @@
       },
       "image": "https://res.garmin.com/de_DE/products/010-04337-06/v/cf-lg.jpg",
       "categories": [
-        "16900",
-        "Golfing",
+        "10002",
         "Running",
         "571",
-        "10002",
-        "55664",
-        "13280",
         "Swimming",
+        "13280",
+        "16900",
+        "Golfing",
+        "55664",
         "Multisport",
         "26544"
       ],
@@ -12753,7 +12753,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/2021177/",
-      "fetchedAt": "2026-09-06T08:40:45.959Z"
+      "fetchedAt": "2026-09-07T09:20:44.787Z"
     },
     {
       "id": "1959805",
@@ -12771,14 +12771,14 @@
       },
       "image": "https://res.garmin.com/de_DE/products/010-04338-06​/v/cf-lg.jpg",
       "categories": [
-        "16900",
-        "Golfing",
+        "10002",
         "Running",
         "571",
-        "10002",
-        "55664",
-        "13280",
         "Swimming",
+        "13280",
+        "16900",
+        "Golfing",
+        "55664",
         "Multisport",
         "26544"
       ],
@@ -13226,7 +13226,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/2021177/",
-      "fetchedAt": "2026-09-06T08:40:45.971Z"
+      "fetchedAt": "2026-09-07T09:20:44.803Z"
     },
     {
       "id": "1959921",
@@ -13244,14 +13244,14 @@
       },
       "image": "https://res.garmin.com/de_DE/products/010-04339-06/v/cf-lg.jpg",
       "categories": [
-        "16900",
-        "Golfing",
+        "10002",
         "Running",
         "571",
-        "10002",
-        "55664",
-        "13280",
         "Swimming",
+        "13280",
+        "16900",
+        "Golfing",
+        "55664",
         "Multisport",
         "26544"
       ],
@@ -13699,7 +13699,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/2021177/",
-      "fetchedAt": "2026-09-06T08:40:45.983Z"
+      "fetchedAt": "2026-09-07T09:20:44.819Z"
     },
     {
       "id": "1652337",
@@ -13717,15 +13717,15 @@
       },
       "image": "https://res.garmin.com/de_DE/products/010-03025-00/v/cf-lg.jpg",
       "categories": [
-        "16900",
-        "Golfing",
+        "10002",
         "Running",
         "571",
-        "10002",
+        "Swimming",
+        "13280",
+        "16900",
+        "Golfing",
         "55664",
         "32828",
-        "13280",
-        "Swimming",
         "Multisport",
         "26544",
         "12380"
@@ -14153,7 +14153,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1228493/",
-      "fetchedAt": "2026-09-06T08:40:45.996Z"
+      "fetchedAt": "2026-09-07T09:20:44.835Z"
     },
     {
       "id": "1055469",
@@ -14550,7 +14550,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1055469/",
-      "fetchedAt": "2026-09-06T08:40:46.005Z"
+      "fetchedAt": "2026-09-07T09:20:44.848Z"
     },
     {
       "id": "1611937",
@@ -14975,7 +14975,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1055469/",
-      "fetchedAt": "2026-09-06T08:40:46.018Z"
+      "fetchedAt": "2026-09-07T09:20:44.865Z"
     },
     {
       "id": "1915560",
@@ -14993,8 +14993,8 @@
       },
       "image": "https://res.garmin.com/de_DE/products/010-03920-00/v/cf-lg.jpg",
       "categories": [
-        "Running",
         "10002",
+        "Running",
         "Swimming",
         "26544"
       ],
@@ -15384,7 +15384,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1915560/",
-      "fetchedAt": "2026-09-06T08:40:46.024Z"
+      "fetchedAt": "2026-09-07T09:20:44.873Z"
     },
     {
       "id": "2014513",
@@ -15402,8 +15402,8 @@
       },
       "image": "https://res.garmin.com/de_DE/products/010-03920-10/v/cf-lg.jpg",
       "categories": [
-        "Running",
         "10002",
+        "Running",
         "Swimming",
         "26544"
       ],
@@ -15820,7 +15820,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1915560/",
-      "fetchedAt": "2026-09-06T08:40:46.034Z"
+      "fetchedAt": "2026-09-07T09:20:44.884Z"
     },
     {
       "id": "886785",
@@ -16270,7 +16270,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/886785/",
-      "fetchedAt": "2026-09-06T08:40:46.043Z"
+      "fetchedAt": "2026-09-07T09:20:44.895Z"
     },
     {
       "id": "886689",
@@ -16720,7 +16720,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/886785/",
-      "fetchedAt": "2026-09-06T08:40:46.051Z"
+      "fetchedAt": "2026-09-07T09:20:44.905Z"
     },
     {
       "id": "1463821",
@@ -16738,11 +16738,11 @@
       },
       "image": "https://res.garmin.com/de_DE/products/010-02970-00/v/cf-lg.jpg",
       "categories": [
-        "Running",
         "10002",
+        "Running",
+        "Swimming",
         "55664",
         "32828",
-        "Swimming",
         "Multisport",
         "26544",
         "12380"
@@ -17180,7 +17180,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1463821/",
-      "fetchedAt": "2026-09-06T08:40:46.060Z"
+      "fetchedAt": "2026-09-07T09:20:44.916Z"
     },
     {
       "id": "1464001",
@@ -17198,11 +17198,11 @@
       },
       "image": "https://res.garmin.com/de_DE/products/010-02971-00/v/cf-lg.jpg",
       "categories": [
-        "Running",
         "10002",
+        "Running",
+        "Swimming",
         "55664",
         "32828",
-        "Swimming",
         "Multisport",
         "26544",
         "12380"
@@ -17640,7 +17640,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1463821/",
-      "fetchedAt": "2026-09-06T08:40:46.070Z"
+      "fetchedAt": "2026-09-07T09:20:44.930Z"
     },
     {
       "id": "1941179",
@@ -17658,8 +17658,8 @@
       },
       "image": "https://res.garmin.com/de_DE/products/010-04307-00/v/cf-lg.jpg",
       "categories": [
-        "Running",
         "10002",
+        "Running",
         "Swimming",
         "26544"
       ],
@@ -18037,7 +18037,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1915560/",
-      "fetchedAt": "2026-09-06T08:40:46.078Z"
+      "fetchedAt": "2026-09-07T09:20:44.940Z"
     },
     {
       "id": "777655",
@@ -18463,7 +18463,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/777655/",
-      "fetchedAt": "2026-09-06T08:40:46.086Z"
+      "fetchedAt": "2026-09-07T09:20:44.951Z"
     },
     {
       "id": "777730",
@@ -18891,7 +18891,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/777655/",
-      "fetchedAt": "2026-09-06T08:40:46.096Z"
+      "fetchedAt": "2026-09-07T09:20:44.963Z"
     },
     {
       "id": "886725",
@@ -19340,7 +19340,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/886725/",
-      "fetchedAt": "2026-09-06T08:40:46.104Z"
+      "fetchedAt": "2026-09-07T09:20:44.973Z"
     },
     {
       "id": "1462801",
@@ -19358,11 +19358,11 @@
       },
       "image": "https://res.garmin.com/de_DE/products/010-02969-10/v/cf-lg.jpg",
       "categories": [
-        "Running",
         "10002",
+        "Running",
+        "Swimming",
         "55664",
         "32828",
-        "Swimming",
         "Multisport",
         "12380"
       ],
@@ -19803,7 +19803,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1462801/",
-      "fetchedAt": "2026-09-06T08:40:46.114Z"
+      "fetchedAt": "2026-09-07T09:20:44.986Z"
     },
     {
       "id": "1316397",
@@ -19821,11 +19821,11 @@
       },
       "image": "https://res.garmin.com/en_GB/products/010-02936-00/v/cf-lg.jpg",
       "categories": [
-        "16900",
-        "Running",
         "10002",
-        "55664",
+        "Running",
         "Swimming",
+        "16900",
+        "55664",
         "Multisport",
         "12380"
       ],
@@ -20247,7 +20247,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1316397/",
-      "fetchedAt": "2026-09-06T08:40:46.125Z"
+      "fetchedAt": "2026-09-07T09:20:45.000Z"
     },
     {
       "id": "1315317",
@@ -20265,11 +20265,11 @@
       },
       "image": "https://res.garmin.com/en_GB/products/010-02934-00/v/cf-lg.jpg",
       "categories": [
-        "16900",
-        "Running",
         "10002",
-        "55664",
+        "Running",
         "Swimming",
+        "16900",
+        "55664",
         "Multisport",
         "12380"
       ],
@@ -20688,7 +20688,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1316397/",
-      "fetchedAt": "2026-09-06T08:40:46.135Z"
+      "fetchedAt": "2026-09-07T09:20:45.012Z"
     },
     {
       "id": "1705221",
@@ -20706,11 +20706,11 @@
       },
       "image": "https://res.garmin.com/en_GB/products/010-02934-50/v/cf-lg.jpg",
       "categories": [
-        "16900",
-        "Running",
         "10002",
-        "55664",
+        "Running",
         "Swimming",
+        "16900",
+        "55664",
         "Multisport",
         "12380"
       ],
@@ -21128,7 +21128,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1316397/",
-      "fetchedAt": "2026-09-06T08:40:46.143Z"
+      "fetchedAt": "2026-09-07T09:20:45.023Z"
     },
     {
       "id": "1622337",
@@ -21146,11 +21146,11 @@
       },
       "image": "https://res.garmin.com/en_GB/products/010-03020-00/v/cf-lg.jpg",
       "categories": [
-        "16900",
-        "Running",
         "10002",
-        "55664",
+        "Running",
         "Swimming",
+        "16900",
+        "55664",
         "Multisport",
         "12380"
       ],
@@ -21572,7 +21572,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1316397/",
-      "fetchedAt": "2026-09-06T08:40:46.153Z"
+      "fetchedAt": "2026-09-07T09:20:45.035Z"
     },
     {
       "id": "1718241",
@@ -21590,11 +21590,11 @@
       },
       "image": "https://res.garmin.com/en_GB/products/010-03020-50/v/cf-lg.jpg",
       "categories": [
-        "16900",
-        "Running",
         "10002",
-        "55664",
+        "Running",
         "Swimming",
+        "16900",
+        "55664",
         "Multisport",
         "12380"
       ],
@@ -22015,7 +22015,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1316397/",
-      "fetchedAt": "2026-09-06T08:40:46.163Z"
+      "fetchedAt": "2026-09-07T09:20:45.048Z"
     },
     {
       "id": "1316857",
@@ -22033,11 +22033,11 @@
       },
       "image": "https://res.garmin.com/en_GB/products/010-02935-00/v/cf-lg.jpg",
       "categories": [
-        "16900",
-        "Running",
         "10002",
-        "55664",
+        "Running",
         "Swimming",
+        "16900",
+        "55664",
         "Multisport",
         "12380"
       ],
@@ -22457,7 +22457,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1316397/",
-      "fetchedAt": "2026-09-06T08:40:46.172Z"
+      "fetchedAt": "2026-09-07T09:20:45.058Z"
     },
     {
       "id": "1476633",
@@ -22475,11 +22475,11 @@
       },
       "image": "https://res.garmin.com/en_GB/products/010-02935-50/v/cf-lg.jpg",
       "categories": [
-        "16900",
-        "Running",
         "10002",
-        "55664",
+        "Running",
         "Swimming",
+        "16900",
+        "55664",
         "Multisport",
         "12380"
       ],
@@ -22897,7 +22897,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1316397/",
-      "fetchedAt": "2026-09-06T08:40:46.182Z"
+      "fetchedAt": "2026-09-07T09:20:45.072Z"
     },
     {
       "id": "819761",
@@ -22915,11 +22915,12 @@
       },
       "image": "https://res.garmin.com/en/products/010-02730-03/v/cf-lg.jpg",
       "categories": [
-        "16900",
-        "Running",
         "10002",
-        "55664",
+        "Running",
         "Swimming",
+        "16900",
+        "16684",
+        "55664",
         "Multisport",
         "12380"
       ],
@@ -23299,7 +23300,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/819761/",
-      "fetchedAt": "2026-09-06T08:40:46.192Z"
+      "fetchedAt": "2026-09-07T09:20:45.084Z"
     },
     {
       "id": "1800201",
@@ -23317,12 +23318,12 @@
       },
       "image": "https://res.garmin.com/en/products/010-03398-00/v/cf-lg.jpg",
       "categories": [
-        "16684",
-        "16900",
-        "Running",
         "10002",
-        "55664",
+        "Running",
         "Swimming",
+        "16900",
+        "16684",
+        "55664",
         "Multisport",
         "12380"
       ],
@@ -23742,7 +23743,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/819761/",
-      "fetchedAt": "2026-09-06T08:40:46.199Z"
+      "fetchedAt": "2026-09-07T09:20:45.093Z"
     },
     {
       "id": "1795741",
@@ -23760,12 +23761,12 @@
       },
       "image": "https://res.garmin.com/de_DE/products/010-03398-02/v/cf-lg.jpg",
       "categories": [
-        "16684",
-        "16900",
-        "Running",
         "10002",
-        "55664",
+        "Running",
         "Swimming",
+        "16900",
+        "16684",
+        "55664",
         "Multisport",
         "12380"
       ],
@@ -24184,7 +24185,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/819761/",
-      "fetchedAt": "2026-09-06T08:40:46.209Z"
+      "fetchedAt": "2026-09-07T09:20:45.105Z"
     },
     {
       "id": "819727",
@@ -24202,11 +24203,12 @@
       },
       "image": "https://res.garmin.com/en/products/010-02730-01/v/cf-lg.jpg",
       "categories": [
-        "16900",
-        "Running",
         "10002",
-        "55664",
+        "Running",
         "Swimming",
+        "16900",
+        "16684",
+        "55664",
         "Multisport",
         "12380"
       ],
@@ -24588,7 +24590,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/819761/",
-      "fetchedAt": "2026-09-06T08:40:46.218Z"
+      "fetchedAt": "2026-09-07T09:20:45.117Z"
     },
     {
       "id": "819546",
@@ -24606,11 +24608,12 @@
       },
       "image": "https://res.garmin.com/en/products/010-02730-00/v/cf-lg.jpg",
       "categories": [
-        "16900",
-        "Running",
         "10002",
-        "55664",
+        "Running",
         "Swimming",
+        "16900",
+        "16684",
+        "55664",
         "Multisport",
         "12380"
       ],
@@ -24991,7 +24994,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/819761/",
-      "fetchedAt": "2026-09-06T08:40:46.225Z"
+      "fetchedAt": "2026-09-07T09:20:45.126Z"
     },
     {
       "id": "1314137",
@@ -25009,11 +25012,11 @@
       },
       "image": "https://res.garmin.com/en_GB/products/010-02932-00/v/cf-lg.jpg",
       "categories": [
-        "16900",
-        "Running",
         "10002",
-        "55664",
+        "Running",
         "Swimming",
+        "16900",
+        "55664",
         "Multisport",
         "12380"
       ],
@@ -25398,7 +25401,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1316397/",
-      "fetchedAt": "2026-09-06T08:40:46.234Z"
+      "fetchedAt": "2026-09-07T09:20:45.138Z"
     },
     {
       "id": "1315817",
@@ -25416,11 +25419,11 @@
       },
       "image": "https://res.garmin.com/en_GB/products/010-02933-00/v/cf-lg.jpg",
       "categories": [
-        "16900",
-        "Running",
         "10002",
-        "55664",
+        "Running",
         "Swimming",
+        "16900",
+        "55664",
         "Multisport",
         "12380"
       ],
@@ -25805,7 +25808,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1316397/",
-      "fetchedAt": "2026-09-06T08:40:46.248Z"
+      "fetchedAt": "2026-09-07T09:20:45.151Z"
     },
     {
       "id": "950277",
@@ -25823,9 +25826,9 @@
       },
       "image": "https://res.garmin.com/de_DE/products/010-02839-00/v/cf-lg.jpg",
       "categories": [
-        "16684",
-        "571",
         "10002",
+        "571",
+        "16684",
         "26544"
       ],
       "partNumbers": [
@@ -26127,7 +26130,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/950277/",
-      "fetchedAt": "2026-09-06T08:40:46.260Z"
+      "fetchedAt": "2026-09-07T09:20:45.165Z"
     },
     {
       "id": "1196650",
@@ -26145,9 +26148,9 @@
       },
       "image": "https://res.garmin.com/de_DE/products/010-02891-00/v/cf-lg.jpg",
       "categories": [
-        "16684",
-        "571",
         "10002",
+        "571",
+        "16684",
         "26544"
       ],
       "partNumbers": [
@@ -26482,7 +26485,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/950277/",
-      "fetchedAt": "2026-09-06T08:40:46.264Z"
+      "fetchedAt": "2026-09-07T09:20:45.171Z"
     },
     {
       "id": "950157",
@@ -26500,9 +26503,9 @@
       },
       "image": "https://res.garmin.com/de_DE/products/010-02839-02/v/cf-lg.jpg",
       "categories": [
-        "16684",
-        "571",
         "10002",
+        "571",
+        "16684",
         "26544"
       ],
       "partNumbers": [
@@ -26808,7 +26811,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/950277/",
-      "fetchedAt": "2026-09-06T08:40:46.268Z"
+      "fetchedAt": "2026-09-07T09:20:45.176Z"
     },
     {
       "id": "783467",
@@ -26826,9 +26829,9 @@
       },
       "image": "https://res.garmin.com/en/products/010-02648-31/v/cf-lg.jpg",
       "categories": [
+        "10002",
         "16900",
         "Golfing",
-        "10002",
         "32828",
         "16683",
         "12380"
@@ -27269,7 +27272,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/783467/",
-      "fetchedAt": "2026-09-06T08:40:46.274Z"
+      "fetchedAt": "2026-09-07T09:20:45.183Z"
     },
     {
       "id": "1765781",
@@ -27287,9 +27290,9 @@
       },
       "image": "https://res.garmin.com/en_GB/products/010-03393-31/v/cf-lg.jpg",
       "categories": [
+        "10002",
         "16900",
         "Golfing",
-        "10002",
         "32828",
         "16683",
         "12380"
@@ -27729,7 +27732,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/783467/",
-      "fetchedAt": "2026-09-06T08:40:46.286Z"
+      "fetchedAt": "2026-09-07T09:20:45.198Z"
     },
     {
       "id": "783448",
@@ -27747,9 +27750,9 @@
       },
       "image": "https://res.garmin.com/en/products/010-02648-41/v/cf-lg.jpg",
       "categories": [
+        "10002",
         "16900",
         "Golfing",
-        "10002",
         "32828",
         "16683",
         "12380"
@@ -28190,7 +28193,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/783467/",
-      "fetchedAt": "2026-09-06T08:40:46.297Z"
+      "fetchedAt": "2026-09-07T09:20:45.213Z"
     },
     {
       "id": "815448",
@@ -28208,9 +28211,9 @@
       },
       "image": "https://res.garmin.com/en/products/010-02722-11/v/cf-lg.jpg",
       "categories": [
+        "10002",
         "16900",
         "Golfing",
-        "10002",
         "32828",
         "16683",
         "12380"
@@ -28650,7 +28653,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/783467/",
-      "fetchedAt": "2026-09-06T08:40:46.308Z"
+      "fetchedAt": "2026-09-07T09:20:45.227Z"
     },
     {
       "id": "1323517",
@@ -28668,9 +28671,9 @@
       },
       "image": "https://res.garmin.com/en/products/010-02648-51/v/cf-lg.jpg",
       "categories": [
+        "10002",
         "16900",
         "Golfing",
-        "10002",
         "32828",
         "16683",
         "12380"
@@ -29110,7 +29113,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/783467/",
-      "fetchedAt": "2026-09-06T08:40:46.319Z"
+      "fetchedAt": "2026-09-07T09:20:45.240Z"
     },
     {
       "id": "783461",
@@ -29128,9 +29131,9 @@
       },
       "image": "https://res.garmin.com/en/products/010-02648-01/v/cf-lg.jpg",
       "categories": [
+        "10002",
         "16900",
         "Golfing",
-        "10002",
         "32828",
         "16683",
         "12380"
@@ -29571,7 +29574,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/783467/",
-      "fetchedAt": "2026-09-06T08:40:46.329Z"
+      "fetchedAt": "2026-09-07T09:20:45.254Z"
     },
     {
       "id": "783441",
@@ -29589,9 +29592,9 @@
       },
       "image": "https://res.garmin.com/en/products/010-02648-11/v/cf-lg.jpg",
       "categories": [
+        "10002",
         "16900",
         "Golfing",
-        "10002",
         "32828",
         "16683",
         "12380"
@@ -30032,7 +30035,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/783467/",
-      "fetchedAt": "2026-09-06T08:40:46.339Z"
+      "fetchedAt": "2026-09-07T09:20:45.266Z"
     },
     {
       "id": "815582",
@@ -30050,9 +30053,9 @@
       },
       "image": "https://res.garmin.com/en/products/010-02722-01/v/cf-lg.jpg",
       "categories": [
+        "10002",
         "16900",
         "Golfing",
-        "10002",
         "32828",
         "16683",
         "12380"
@@ -30488,7 +30491,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/783467/",
-      "fetchedAt": "2026-09-06T08:40:46.350Z"
+      "fetchedAt": "2026-09-07T09:20:45.281Z"
     },
     {
       "id": "783465",
@@ -30506,9 +30509,9 @@
       },
       "image": "https://res.garmin.com/en/products/010-02648-21/v/cf-lg.jpg",
       "categories": [
+        "10002",
         "16900",
         "Golfing",
-        "10002",
         "32828",
         "16683",
         "12380"
@@ -30949,7 +30952,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/783467/",
-      "fetchedAt": "2026-09-06T08:40:46.361Z"
+      "fetchedAt": "2026-09-07T09:20:45.296Z"
     },
     {
       "id": "815409",
@@ -30967,9 +30970,9 @@
       },
       "image": "https://res.garmin.com/en/products/010-02722-21/v/cf-lg.jpg",
       "categories": [
+        "10002",
         "16900",
         "Golfing",
-        "10002",
         "32828",
         "16683",
         "12380"
@@ -31405,7 +31408,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/783467/",
-      "fetchedAt": "2026-09-06T08:40:46.372Z"
+      "fetchedAt": "2026-09-07T09:20:45.309Z"
     },
     {
       "id": "1908596",
@@ -31873,7 +31876,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1908596/",
-      "fetchedAt": "2026-09-06T08:40:46.382Z"
+      "fetchedAt": "2026-09-07T09:20:45.323Z"
     },
     {
       "id": "1908580",
@@ -32341,7 +32344,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1908596/",
-      "fetchedAt": "2026-09-06T08:40:46.393Z"
+      "fetchedAt": "2026-09-07T09:20:45.339Z"
     },
     {
       "id": "1986622",
@@ -32835,7 +32838,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1908596/",
-      "fetchedAt": "2026-09-06T08:40:46.405Z"
+      "fetchedAt": "2026-09-07T09:20:45.354Z"
     },
     {
       "id": "1828661",
@@ -32853,11 +32856,11 @@
       },
       "image": "https://res.garmin.com/de_DE/products/010-03405-01/v/cf-lg.jpg",
       "categories": [
-        "16900",
-        "Running",
         "10002",
-        "55664",
+        "Running",
         "Swimming",
+        "16900",
+        "55664",
         "12380"
       ],
       "partNumbers": [
@@ -33306,7 +33309,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1828661/",
-      "fetchedAt": "2026-09-06T08:40:46.417Z"
+      "fetchedAt": "2026-09-07T09:20:45.370Z"
     },
     {
       "id": "1828641",
@@ -33324,11 +33327,11 @@
       },
       "image": "https://res.garmin.com/de_DE/products/010-03406-01/v/cf-lg.jpg",
       "categories": [
-        "16900",
-        "Running",
         "10002",
-        "55664",
+        "Running",
         "Swimming",
+        "16900",
+        "55664",
         "12380"
       ],
       "partNumbers": [
@@ -33777,7 +33780,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1828661/",
-      "fetchedAt": "2026-09-06T08:40:46.429Z"
+      "fetchedAt": "2026-09-07T09:20:45.386Z"
     },
     {
       "id": "1963258",
@@ -33795,11 +33798,11 @@
       },
       "image": "https://res.garmin.com/de_DE/products/010-04553-01/v/cf-lg.jpg",
       "categories": [
-        "16900",
-        "Running",
         "10002",
-        "55664",
+        "Running",
         "Swimming",
+        "16900",
+        "55664",
         "12380"
       ],
       "partNumbers": [
@@ -34247,7 +34250,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1828661/",
-      "fetchedAt": "2026-09-06T08:40:46.441Z"
+      "fetchedAt": "2026-09-07T09:20:45.401Z"
     },
     {
       "id": "1828741",
@@ -34265,11 +34268,11 @@
       },
       "image": "https://res.garmin.com/de_DE/products/010-03407-01/v/cf-lg.jpg",
       "categories": [
-        "16900",
-        "Running",
         "10002",
-        "55664",
+        "Running",
         "Swimming",
+        "16900",
+        "55664",
         "12380"
       ],
       "partNumbers": [
@@ -34720,7 +34723,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1828661/",
-      "fetchedAt": "2026-09-06T08:40:46.453Z"
+      "fetchedAt": "2026-09-07T09:20:45.417Z"
     },
     {
       "id": "1831081",
@@ -34738,11 +34741,11 @@
       },
       "image": "https://res.garmin.com/de_DE/products/010-03407-11/v/cf-lg.jpg",
       "categories": [
-        "16900",
-        "Running",
         "10002",
-        "55664",
+        "Running",
         "Swimming",
+        "16900",
+        "55664",
         "12380"
       ],
       "partNumbers": [
@@ -35193,7 +35196,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1828661/",
-      "fetchedAt": "2026-09-06T08:40:46.465Z"
+      "fetchedAt": "2026-09-07T09:20:45.439Z"
     },
     {
       "id": "1613801",
@@ -35211,12 +35214,12 @@
       },
       "image": "https://res.garmin.com/de_DE/products/010-03013-00/v/cf-lg.jpg",
       "categories": [
-        "16684",
+        "10002",
         "Running",
         "571",
-        "10002",
-        "55664",
         "Swimming",
+        "16684",
+        "55664",
         "26544",
         "12380"
       ],
@@ -35660,7 +35663,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1613801/",
-      "fetchedAt": "2026-09-06T08:40:46.477Z"
+      "fetchedAt": "2026-09-07T09:20:45.455Z"
     },
     {
       "id": "1614061",
@@ -35678,12 +35681,12 @@
       },
       "image": "https://res.garmin.com/de_DE/products/010-03014-00/v/cf-lg.jpg",
       "categories": [
-        "16684",
+        "10002",
         "Running",
         "571",
-        "10002",
-        "55664",
         "Swimming",
+        "16684",
+        "55664",
         "26544",
         "12380"
       ],
@@ -36127,7 +36130,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1613801/",
-      "fetchedAt": "2026-09-06T08:40:46.486Z"
+      "fetchedAt": "2026-09-07T09:20:45.467Z"
     },
     {
       "id": "1510465",
@@ -36145,13 +36148,13 @@
       },
       "image": "https://res.garmin.com/de_DE/products/010-02980-02/v/cf-lg.jpg",
       "categories": [
-        "16684",
-        "Golfing",
+        "10002",
         "Running",
         "571",
-        "10002",
-        "55664",
         "Swimming",
+        "Golfing",
+        "16684",
+        "55664",
         "26544",
         "12380"
       ],
@@ -36564,7 +36567,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1510465/",
-      "fetchedAt": "2026-09-06T08:40:46.496Z"
+      "fetchedAt": "2026-09-07T09:20:45.481Z"
     },
     {
       "id": "1555457",
@@ -36582,10 +36585,10 @@
       },
       "image": "https://res.garmin.com/de_DE/products/010-02985-00/v/cf-lg.jpg",
       "categories": [
-        "16684",
+        "10002",
         "Running",
         "571",
-        "10002",
+        "16684",
         "26544",
         "12380"
       ],
@@ -36979,7 +36982,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1555457/",
-      "fetchedAt": "2026-09-06T08:40:46.508Z"
+      "fetchedAt": "2026-09-07T09:20:45.496Z"
     },
     {
       "id": "742133",
@@ -36997,9 +37000,9 @@
       },
       "image": "https://res.garmin.com/en/products/010-02566-00/v/cf-lg-9f5b6d5c-61eb-47da-bbcf-87dae5d95ef4.jpg",
       "categories": [
-        "16684",
-        "571",
         "10002",
+        "571",
+        "16684",
         "26544"
       ],
       "partNumbers": [
@@ -37311,7 +37314,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/742133/",
-      "fetchedAt": "2026-09-06T08:40:46.515Z"
+      "fetchedAt": "2026-09-07T09:20:45.504Z"
     },
     {
       "id": "785411",
@@ -37329,9 +37332,9 @@
       },
       "image": "https://res.garmin.com/en/products/010-02665-00/v/cf-lg.jpg",
       "categories": [
-        "16684",
-        "571",
         "10002",
+        "571",
+        "16684",
         "26544"
       ],
       "partNumbers": [
@@ -37650,7 +37653,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/742133/",
-      "fetchedAt": "2026-09-06T08:40:46.520Z"
+      "fetchedAt": "2026-09-07T09:20:45.510Z"
     }
   ]
 }
