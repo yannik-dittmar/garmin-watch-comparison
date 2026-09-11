@@ -8,9 +8,9 @@
     "qualifier": null
   },
   "price": {
-    "amount": 229.99,
+    "amount": 199.99,
     "currency": "EUR",
-    "formatted": "229,99 €"
+    "formatted": "199,99 €"
   },
   "images": [
     {
@@ -76,9 +76,9 @@
       "partNumber": "010-02863-20",
       "name": "Schwarz/Schiefergrau",
       "price": {
-        "amount": 229.99,
+        "amount": 199.99,
         "currency": "EUR",
-        "formatted": "229,99 €"
+        "formatted": "199,99 €"
       },
       "images": [
         {
@@ -116,9 +116,9 @@
       "partNumber": "010-02863-21",
       "name": "Dunstgrau/Steinweiss",
       "price": {
-        "amount": 229.99,
+        "amount": 199.99,
         "currency": "EUR",
-        "formatted": "229,99 €"
+        "formatted": "199,99 €"
       },
       "images": [
         {
@@ -1826,5 +1826,5 @@
     }
   },
   "sourceUrl": "https://www.garmin.com/de-DE/p/1055469/",
-  "fetchedAt": "2026-09-10T08:57:36.395Z"
+  "fetchedAt": "2026-09-11T08:55:52.808Z"
 }

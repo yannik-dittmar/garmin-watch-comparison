@@ -8,9 +8,9 @@
     "qualifier": "Music"
   },
   "price": {
-    "amount": 279.99,
+    "amount": 249.99,
     "currency": "EUR",
-    "formatted": "279,99 €"
+    "formatted": "249,99 €"
   },
   "images": [
     {
@@ -132,9 +132,9 @@
       "partNumber": "010-02863-30",
       "name": "Schwarz/Schiefergrau",
       "price": {
-        "amount": 279.99,
+        "amount": 249.99,
         "currency": "EUR",
-        "formatted": "279,99 €"
+        "formatted": "249,99 €"
       },
       "images": [
         {
@@ -172,9 +172,9 @@
       "partNumber": "010-02863-31",
       "name": "Dunstgrau/Steinweiss",
       "price": {
-        "amount": 279.99,
+        "amount": 249.99,
         "currency": "EUR",
-        "formatted": "279,99 €"
+        "formatted": "249,99 €"
       },
       "images": [
         {
@@ -212,9 +212,9 @@
       "partNumber": "010-02863-32",
       "name": "Türkis/Aqua",
       "price": {
-        "amount": 279.99,
+        "amount": 249.99,
         "currency": "EUR",
-        "formatted": "279,99 €"
+        "formatted": "249,99 €"
       },
       "images": [
         {
@@ -252,9 +252,9 @@
       "partNumber": "010-02863-33",
       "name": "Beere/Flieder",
       "price": {
-        "amount": 279.99,
+        "amount": 249.99,
         "currency": "EUR",
-        "formatted": "279,99 €"
+        "formatted": "249,99 €"
       },
       "images": [
         {
@@ -2008,5 +2008,5 @@
     }
   },
   "sourceUrl": "https://www.garmin.com/de-DE/p/1055469/",
-  "fetchedAt": "2026-09-10T08:57:36.410Z"
+  "fetchedAt": "2026-09-11T08:55:52.823Z"
 }

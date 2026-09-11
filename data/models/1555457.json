@@ -8,9 +8,9 @@
     "qualifier": null
   },
   "price": {
-    "amount": 279.99,
+    "amount": 249.99,
     "currency": "EUR",
-    "formatted": "279,99 €"
+    "formatted": "249,99 €"
   },
   "images": [
     {
@@ -148,9 +148,9 @@
       "partNumber": "010-02985-00",
       "name": "Schwarz/Schiefergrau mit Schnellwechsel-Silikon-Armband 20 mm",
       "price": {
-        "amount": 279.99,
+        "amount": 249.99,
         "currency": "EUR",
-        "formatted": "279,99 €"
+        "formatted": "249,99 €"
       },
       "images": [
         {
@@ -192,9 +192,9 @@
       "partNumber": "010-02985-01",
       "name": "Bone/Lunargold mit Schnellwechsel-Silikon-Armband 20 mm",
       "price": {
-        "amount": 279.99,
+        "amount": 249.99,
         "currency": "EUR",
-        "formatted": "279,99 €"
+        "formatted": "249,99 €"
       },
       "images": [
         {
@@ -236,9 +236,9 @@
       "partNumber": "010-02985-02",
       "name": "Jaspisgrün/Jaspisgrün Metallic mit Schnellwechsel-Silikon-Armband 20 mm",
       "price": {
-        "amount": 279.99,
+        "amount": 249.99,
         "currency": "EUR",
-        "formatted": "279,99 €"
+        "formatted": "249,99 €"
       },
       "images": [
         {
@@ -280,9 +280,9 @@
       "partNumber": "010-02985-03",
       "name": "Pink Dawn/Pink Dawn Metallic mit Schnellwechsel-Silikon-Armband 20 mm",
       "price": {
-        "amount": 279.99,
+        "amount": 249.99,
         "currency": "EUR",
-        "formatted": "279,99 €"
+        "formatted": "249,99 €"
       },
       "images": [
         {
@@ -2089,5 +2089,5 @@
     }
   },
   "sourceUrl": "https://www.garmin.com/de-DE/p/1555457/",
-  "fetchedAt": "2026-09-10T08:57:37.050Z"
+  "fetchedAt": "2026-09-11T08:55:53.471Z"
 }

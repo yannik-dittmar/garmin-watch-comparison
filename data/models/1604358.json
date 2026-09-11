@@ -8,9 +8,9 @@
     "qualifier": null
   },
   "price": {
-    "amount": 279.99,
+    "amount": 269.99,
     "currency": "EUR",
-    "formatted": "279,99 €"
+    "formatted": "269,99 €"
   },
   "images": [
     {
@@ -116,9 +116,9 @@
       "partNumber": "010-03009-00",
       "name": "Schwarz/Silber Aluminium mit Schnellwechsel-Silikon-Armband 20 mm",
       "price": {
-        "amount": 279.99,
+        "amount": 269.99,
         "currency": "EUR",
-        "formatted": "279,99 €"
+        "formatted": "269,99 €"
       },
       "images": [
         {
@@ -176,9 +176,9 @@
       "partNumber": "010-03009-01",
       "name": "Twilight/Silber Aluminium mit Schnellwechsel-Silikon-Armband 20 mm",
       "price": {
-        "amount": 279.99,
+        "amount": 269.99,
         "currency": "EUR",
-        "formatted": "279,99 €"
+        "formatted": "269,99 €"
       },
       "images": [
         {
@@ -1186,5 +1186,5 @@
     }
   },
   "sourceUrl": "https://www.garmin.com/de-DE/p/1604358/",
-  "fetchedAt": "2026-09-10T08:57:35.774Z"
+  "fetchedAt": "2026-09-11T08:55:52.131Z"
 }

@@ -8,9 +8,9 @@
     "qualifier": "42 mm"
   },
   "price": {
-    "amount": 599.99,
+    "amount": 549.99,
     "currency": "EUR",
-    "formatted": "599,99 €"
+    "formatted": "549,99 €"
   },
   "images": [
     {
@@ -120,9 +120,9 @@
       "partNumber": "010-02746-10",
       "name": "Weiss/Schwarz Keramik mit Silikon-Wechselarmband 20 mm",
       "price": {
-        "amount": 599.99,
+        "amount": 549.99,
         "currency": "EUR",
-        "formatted": "599,99 €"
+        "formatted": "549,99 €"
       },
       "images": [
         {
@@ -1839,5 +1839,5 @@
     }
   },
   "sourceUrl": "https://www.garmin.com/de-DE/p/847697/",
-  "fetchedAt": "2026-09-10T08:57:35.829Z"
+  "fetchedAt": "2026-09-11T08:55:52.194Z"
 }

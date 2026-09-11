@@ -8,9 +8,9 @@
     "qualifier": "47 mm"
   },
   "price": {
-    "amount": 649.99,
+    "amount": 579.99,
     "currency": "EUR",
-    "formatted": "649,99 €"
+    "formatted": "579,99 €"
   },
   "images": [
     {
@@ -76,9 +76,9 @@
       "partNumber": "010-02746-12",
       "name": "Schwarz Keramik mit Silikon-Wechselarmband 22 mm",
       "price": {
-        "amount": 649.99,
+        "amount": 579.99,
         "currency": "EUR",
-        "formatted": "649,99 €"
+        "formatted": "579,99 €"
       },
       "images": [
         {
@@ -1759,5 +1759,5 @@
     }
   },
   "sourceUrl": "https://www.garmin.com/de-DE/p/847697/",
-  "fetchedAt": "2026-09-10T08:57:35.855Z"
+  "fetchedAt": "2026-09-11T08:55:52.229Z"
 }

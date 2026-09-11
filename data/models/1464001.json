@@ -8,9 +8,9 @@
     "qualifier": "47mm"
   },
   "price": {
-    "amount": 489.99,
+    "amount": 449.99,
     "currency": "EUR",
-    "formatted": "489,99 €"
+    "formatted": "449,99 €"
   },
   "images": [
     {
@@ -116,9 +116,9 @@
       "partNumber": "010-02971-00",
       "name": "Schwarz/Schiefergrau Aluminium mit Schnellwechsel-Silikon-Armband 22 mm Transparent Schwarz/Schwarz",
       "price": {
-        "amount": 489.99,
+        "amount": 449.99,
         "currency": "EUR",
-        "formatted": "489,99 €"
+        "formatted": "449,99 €"
       },
       "images": [
         {
@@ -160,9 +160,9 @@
       "partNumber": "010-02971-01",
       "name": "Steinweiss/Amp Yellow Aluminium mit Schnellwechsel-Silikon-Armband 22 mm Transparent Steinweiss/Türkis",
       "price": {
-        "amount": 489.99,
+        "amount": 449.99,
         "currency": "EUR",
-        "formatted": "489,99 €"
+        "formatted": "449,99 €"
       },
       "images": [
         {
@@ -204,9 +204,9 @@
       "partNumber": "010-02971-02",
       "name": "Imperial Purple/Indigo Aluminium mit Schnellwechsel-Silikon-Armband 22 mm Transparent Imperial Purple/Indigo",
       "price": {
-        "amount": 489.99,
+        "amount": 449.99,
         "currency": "EUR",
-        "formatted": "489,99 €"
+        "formatted": "449,99 €"
       },
       "images": [
         {
@@ -2554,5 +2554,5 @@
     }
   },
   "sourceUrl": "https://www.garmin.com/de-DE/p/1463821/",
-  "fetchedAt": "2026-09-10T08:57:36.480Z"
+  "fetchedAt": "2026-09-11T08:55:52.889Z"
 }

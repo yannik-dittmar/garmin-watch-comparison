@@ -8,9 +8,9 @@
     "qualifier": "42mm"
   },
   "price": {
-    "amount": 489.99,
+    "amount": 449.99,
     "currency": "EUR",
-    "formatted": "489,99 €"
+    "formatted": "449,99 €"
   },
   "images": [
     {
@@ -116,9 +116,9 @@
       "partNumber": "010-02970-00",
       "name": "Schwarz/Schiefergrau Aluminium mit Schnellwechsel-Silikon-Armband 20 mm Transparent Schwarz/Schwarz",
       "price": {
-        "amount": 489.99,
+        "amount": 449.99,
         "currency": "EUR",
-        "formatted": "489,99 €"
+        "formatted": "449,99 €"
       },
       "images": [
         {
@@ -160,9 +160,9 @@
       "partNumber": "010-02970-01",
       "name": "Steinweiss/Cloud Blue Aluminium mit Schnellwechsel-Silikon-Armband 20 mm Transparent Steinweiss/Cloud Blue",
       "price": {
-        "amount": 489.99,
+        "amount": 449.99,
         "currency": "EUR",
-        "formatted": "489,99 €"
+        "formatted": "449,99 €"
       },
       "images": [
         {
@@ -204,9 +204,9 @@
       "partNumber": "010-02970-02",
       "name": "Bone/Himbeerrot Aluminium mit Schnellwechsel-Silikon-Armband 20 mm Transparent Bone/Mango",
       "price": {
-        "amount": 489.99,
+        "amount": 449.99,
         "currency": "EUR",
-        "formatted": "489,99 €"
+        "formatted": "449,99 €"
       },
       "images": [
         {
@@ -2554,5 +2554,5 @@
     }
   },
   "sourceUrl": "https://www.garmin.com/de-DE/p/1463821/",
-  "fetchedAt": "2026-09-10T08:57:36.467Z"
+  "fetchedAt": "2026-09-11T08:55:52.876Z"
 }
