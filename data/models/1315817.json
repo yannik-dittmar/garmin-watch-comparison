@@ -8,9 +8,9 @@
     "qualifier": "45 mm"
   },
   "price": {
-    "amount": 219.99,
+    "amount": 179.99,
     "currency": "EUR",
-    "formatted": "219,99 €"
+    "formatted": "179,99 €"
   },
   "images": [
     {
@@ -120,9 +120,9 @@
       "partNumber": "010-02933-00",
       "name": "Kohle/Schwarz mit Silikon-Wechselarmband 22 mm Kohle",
       "price": {
-        "amount": 219.99,
+        "amount": 179.99,
         "currency": "EUR",
-        "formatted": "219,99 €"
+        "formatted": "179,99 €"
       },
       "images": [
         {
@@ -180,9 +180,9 @@
       "partNumber": "010-02933-01",
       "name": "Twilight/Electric Lime mit Silikon-Wechselarmband 22 mm Electric Lime",
       "price": {
-        "amount": 219.99,
+        "amount": 179.99,
         "currency": "EUR",
-        "formatted": "219,99 €"
+        "formatted": "179,99 €"
       },
       "images": [
         {
@@ -2002,5 +2002,5 @@
     }
   },
   "sourceUrl": "https://www.garmin.com/de-DE/p/1316397/",
-  "fetchedAt": "2026-09-11T08:55:53.143Z"
+  "fetchedAt": "2026-09-12T08:39:14.587Z"
 }

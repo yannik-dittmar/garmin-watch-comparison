@@ -8,9 +8,9 @@
     "qualifier": "45 mm"
   },
   "price": {
-    "amount": 499.99,
+    "amount": 419.99,
     "currency": "EUR",
-    "formatted": "499,99 €"
+    "formatted": "419,99 €"
   },
   "images": [
     {
@@ -40,9 +40,9 @@
       "partNumber": "010-03014-00",
       "name": "Schwarz/Schiefergrau mit Schnellwechsel-Silikon-Armband 22 mm",
       "price": {
-        "amount": 499.99,
+        "amount": 419.99,
         "currency": "EUR",
-        "formatted": "499,99 €"
+        "formatted": "419,99 €"
       },
       "images": [
         {
@@ -60,9 +60,9 @@
       "partNumber": "010-03014-01",
       "name": "Schwarz/Silber mit Schnellwechsel-Silikon-Armband 22 mm Grau",
       "price": {
-        "amount": 499.99,
+        "amount": 419.99,
         "currency": "EUR",
-        "formatted": "499,99 €"
+        "formatted": "419,99 €"
       },
       "images": [
         {
@@ -80,9 +80,9 @@
       "partNumber": "010-03014-02",
       "name": "Grau/Silber mit Schnellwechsel-Silikon-Armband 22 mm Zitrone",
       "price": {
-        "amount": 499.99,
+        "amount": 419.99,
         "currency": "EUR",
-        "formatted": "499,99 €"
+        "formatted": "419,99 €"
       },
       "images": [
         {
@@ -2499,5 +2499,5 @@
     }
   },
   "sourceUrl": "https://www.garmin.com/de-DE/p/1613801/",
-  "fetchedAt": "2026-09-11T08:55:53.444Z"
+  "fetchedAt": "2026-09-12T08:39:14.811Z"
 }

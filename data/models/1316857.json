@@ -8,9 +8,9 @@
     "qualifier": "50 mm, Solar"
   },
   "price": {
-    "amount": 359.99,
+    "amount": 289.99,
     "currency": "EUR",
-    "formatted": "359,99 €"
+    "formatted": "289,99 €"
   },
   "images": [
     {
@@ -248,9 +248,9 @@
       "partNumber": "010-02935-00",
       "name": "Kohle/ Schwarz mit Silikon-Wechselarmband 26 mm Kohle",
       "price": {
-        "amount": 359.99,
+        "amount": 339.99,
         "currency": "EUR",
-        "formatted": "359,99 €"
+        "formatted": "339,99 €"
       },
       "images": [
         {
@@ -336,9 +336,9 @@
       "partNumber": "010-02935-02",
       "name": "Grau/ Sunburst mit Silikon-Wechselarmband 26 mm Sunburst",
       "price": {
-        "amount": 399.99,
+        "amount": 359.99,
         "currency": "EUR",
-        "formatted": "399,99 €"
+        "formatted": "359,99 €"
       },
       "images": [
         {
@@ -424,9 +424,9 @@
       "partNumber": "010-02935-03",
       "name": "Schwarz/Steinweiß mit Silikon-Wechselarmband 26 mm Schwarz",
       "price": {
-        "amount": 359.99,
+        "amount": 289.99,
         "currency": "EUR",
-        "formatted": "359,99 €"
+        "formatted": "289,99 €"
       },
       "images": [
         {
@@ -2696,5 +2696,5 @@
     }
   },
   "sourceUrl": "https://www.garmin.com/de-DE/p/1316397/",
-  "fetchedAt": "2026-09-11T08:55:53.049Z"
+  "fetchedAt": "2026-09-12T08:39:14.517Z"
 }

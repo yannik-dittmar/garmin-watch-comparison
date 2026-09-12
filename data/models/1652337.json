@@ -8,9 +8,9 @@
     "qualifier": "47 mm, AMOLED"
   },
   "price": {
-    "amount": 499.99,
+    "amount": 439.99,
     "currency": "EUR",
-    "formatted": "499,99 €"
+    "formatted": "439,99 €"
   },
   "images": [
     {
@@ -32,9 +32,9 @@
       "partNumber": "010-03025-00",
       "name": "Schwarz/Silber mit QuickFit-Silikon-Armband 22 mm",
       "price": {
-        "amount": 499.99,
+        "amount": 439.99,
         "currency": "EUR",
-        "formatted": "499,99 €"
+        "formatted": "439,99 €"
       },
       "images": [
         {
@@ -52,9 +52,9 @@
       "partNumber": "010-03025-01",
       "name": "Schwarz/Schiefergrau mit QuickFit-Silikon-Armband 22 mm",
       "price": {
-        "amount": 499.99,
+        "amount": 439.99,
         "currency": "EUR",
-        "formatted": "499,99 €"
+        "formatted": "439,99 €"
       },
       "images": [
         {
@@ -2621,5 +2621,5 @@
     }
   },
   "sourceUrl": "https://www.garmin.com/de-DE/p/1228493/",
-  "fetchedAt": "2026-09-11T08:55:52.796Z"
+  "fetchedAt": "2026-09-12T08:39:14.351Z"
 }

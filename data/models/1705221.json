@@ -8,9 +8,9 @@
     "qualifier": "45 mm, Solar, Tactical Edition"
   },
   "price": {
-    "amount": 409.99,
+    "amount": 379.99,
     "currency": "EUR",
-    "formatted": "409,99 €"
+    "formatted": "379,99 €"
   },
   "images": [
     {
@@ -72,9 +72,9 @@
       "partNumber": "010-02934-50",
       "name": "Schwarz mit Silikon-Wechselarmband 22 mm Schwarz",
       "price": {
-        "amount": 409.99,
+        "amount": 379.99,
         "currency": "EUR",
-        "formatted": "409,99 €"
+        "formatted": "379,99 €"
       },
       "images": [
         {
@@ -2355,5 +2355,5 @@
     }
   },
   "sourceUrl": "https://www.garmin.com/de-DE/p/1316397/",
-  "fetchedAt": "2026-09-11T08:55:53.006Z"
+  "fetchedAt": "2026-09-12T08:39:14.490Z"
 }

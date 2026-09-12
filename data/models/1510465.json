@@ -8,9 +8,9 @@
     "qualifier": null
   },
   "price": {
-    "amount": 699.99,
+    "amount": 569.99,
     "currency": "EUR",
-    "formatted": "699,99 €"
+    "formatted": "569,99 €"
   },
   "images": [
     {
@@ -120,9 +120,9 @@
       "partNumber": "010-02980-02",
       "name": "Schwarz mit Titanrückseite und ComfortFit-Nylonarmband Schwarz",
       "price": {
-        "amount": 699.99,
+        "amount": 569.99,
         "currency": "EUR",
-        "formatted": "699,99 €"
+        "formatted": "569,99 €"
       },
       "images": [
         {
@@ -164,9 +164,9 @@
       "partNumber": "010-02980-03",
       "name": "Moosgrün mit Titanrückseite und ComfortFit-Nylonarmband Moosgrün",
       "price": {
-        "amount": 699.99,
+        "amount": 569.99,
         "currency": "EUR",
-        "formatted": "699,99 €"
+        "formatted": "569,99 €"
       },
       "images": [
         {
@@ -208,9 +208,9 @@
       "partNumber": "010-02980-09",
       "name": "Softgold mit Titanrückseite und ComfortFit-Nylonarmband French Gray",
       "price": {
-        "amount": 699.99,
+        "amount": 569.99,
         "currency": "EUR",
-        "formatted": "699,99 €"
+        "formatted": "569,99 €"
       },
       "images": [
         {
@@ -2804,5 +2804,5 @@
     }
   },
   "sourceUrl": "https://www.garmin.com/de-DE/p/1510465/",
-  "fetchedAt": "2026-09-11T08:55:53.457Z"
+  "fetchedAt": "2026-09-12T08:39:14.821Z"
 }

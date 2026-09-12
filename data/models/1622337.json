@@ -8,9 +8,9 @@
     "qualifier": "50 mm, AMOLED"
   },
   "price": {
-    "amount": 339.99,
+    "amount": 319.99,
     "currency": "EUR",
-    "formatted": "339,99 €"
+    "formatted": "319,99 €"
   },
   "images": [
     {
@@ -208,9 +208,9 @@
       "partNumber": "010-03020-00",
       "name": "Schwarz mit Silikon-Wechselarmband 26 mm Kohle",
       "price": {
-        "amount": 339.99,
+        "amount": 319.99,
         "currency": "EUR",
-        "formatted": "339,99 €"
+        "formatted": "319,99 €"
       },
       "images": [
         {
@@ -284,9 +284,9 @@
       "partNumber": "010-03020-02",
       "name": "Kieselgrau/ Farngrün mit Silikon-Wechselarmband 26 mm Farngrün",
       "price": {
-        "amount": 399.99,
+        "amount": 369.99,
         "currency": "EUR",
-        "formatted": "399,99 €"
+        "formatted": "369,99 €"
       },
       "images": [
         {
@@ -360,9 +360,9 @@
       "partNumber": "010-03020-03",
       "name": "Schwarz mit Silikon-Wechselarmband 26 mm Bolt Blue",
       "price": {
-        "amount": 339.99,
+        "amount": 319.99,
         "currency": "EUR",
-        "formatted": "339,99 €"
+        "formatted": "319,99 €"
       },
       "images": [
         {
@@ -2660,5 +2660,5 @@
     }
   },
   "sourceUrl": "https://www.garmin.com/de-DE/p/1316397/",
-  "fetchedAt": "2026-09-11T08:55:53.025Z"
+  "fetchedAt": "2026-09-12T08:39:14.499Z"
 }

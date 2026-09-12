@@ -8,9 +8,9 @@
     "qualifier": "45 mm, AMOLED"
   },
   "price": {
-    "amount": 339.99,
+    "amount": 309.99,
     "currency": "EUR",
-    "formatted": "339,99 €"
+    "formatted": "309,99 €"
   },
   "images": [
     {
@@ -204,9 +204,9 @@
       "partNumber": "010-02936-00",
       "name": "Schwarz mit Silikon-Wechselarmband 22 mm Schwarz",
       "price": {
-        "amount": 339.99,
+        "amount": 309.99,
         "currency": "EUR",
-        "formatted": "339,99 €"
+        "formatted": "309,99 €"
       },
       "images": [
         {
@@ -280,9 +280,9 @@
       "partNumber": "010-02936-02",
       "name": "Grau/Citrine mit Silikon-Wechselarmband 22 mm Citrine",
       "price": {
-        "amount": 349.99,
+        "amount": 309.99,
         "currency": "EUR",
-        "formatted": "349,99 €"
+        "formatted": "309,99 €"
       },
       "images": [
         {
@@ -352,9 +352,9 @@
       "partNumber": "010-02936-03",
       "name": "Schwarz mit Silikon-Wechselarmband 22 mm Bolt Blue",
       "price": {
-        "amount": 339.99,
+        "amount": 309.99,
         "currency": "EUR",
-        "formatted": "339,99 €"
+        "formatted": "309,99 €"
       },
       "images": [
         {
@@ -2652,5 +2652,5 @@
     }
   },
   "sourceUrl": "https://www.garmin.com/de-DE/p/1316397/",
-  "fetchedAt": "2026-09-11T08:55:52.970Z"
+  "fetchedAt": "2026-09-12T08:39:14.474Z"
 }

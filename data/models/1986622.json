@@ -8,9 +8,9 @@
     "qualifier": "47 mm, AMOLED"
   },
   "price": {
-    "amount": 1199.99,
+    "amount": 1049.99,
     "currency": "EUR",
-    "formatted": "1.199,99 €"
+    "formatted": "1.049,99 €"
   },
   "images": [
     {
@@ -28,9 +28,9 @@
       "partNumber": "010-03198-51",
       "name": "GPS-Marine-Smartwatch",
       "price": {
-        "amount": 1199.99,
+        "amount": 1049.99,
         "currency": "EUR",
-        "formatted": "1.199,99 €"
+        "formatted": "1.049,99 €"
       },
       "images": [
         {
@@ -3039,5 +3039,5 @@
     }
   },
   "sourceUrl": "https://www.garmin.com/de-DE/p/1908596/",
-  "fetchedAt": "2026-09-11T08:55:53.342Z"
+  "fetchedAt": "2026-09-12T08:39:14.735Z"
 }
