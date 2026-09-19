@@ -46,38 +46,6 @@
       "thumb": "https://res.garmin.com/de_DE/products/010-02839-02/v/pd-05-sm.jpg"
     },
     {
-      "full": "https://res.garmin.com/de_DE/products/010-02839-03/v/cf-lg.jpg",
-      "thumb": "https://res.garmin.com/de_DE/products/010-02839-03/v/cf-sm.jpg"
-    },
-    {
-      "full": "https://res.garmin.com/de_DE/products/010-02839-03/v/rf-lg.jpg",
-      "thumb": "https://res.garmin.com/de_DE/products/010-02839-03/v/rf-sm.jpg"
-    },
-    {
-      "full": "https://res.garmin.com/de_DE/products/010-02839-03/v/lf-lg.jpg",
-      "thumb": "https://res.garmin.com/de_DE/products/010-02839-03/v/lf-sm.jpg"
-    },
-    {
-      "full": "https://res.garmin.com/de_DE/products/010-02839-03/v/pd-01-lg.jpg",
-      "thumb": "https://res.garmin.com/de_DE/products/010-02839-03/v/pd-01-sm.jpg"
-    },
-    {
-      "full": "https://res.garmin.com/de_DE/products/010-02839-03/v/pd-02-lg.jpg",
-      "thumb": "https://res.garmin.com/de_DE/products/010-02839-03/v/pd-02-sm.jpg"
-    },
-    {
-      "full": "https://res.garmin.com/de_DE/products/010-02839-03/v/pd-03-lg.jpg",
-      "thumb": "https://res.garmin.com/de_DE/products/010-02839-03/v/pd-03-sm.jpg"
-    },
-    {
-      "full": "https://res.garmin.com/de_DE/products/010-02839-03/v/pd-04-lg.jpg",
-      "thumb": "https://res.garmin.com/de_DE/products/010-02839-03/v/pd-04-sm.jpg"
-    },
-    {
-      "full": "https://res.garmin.com/de_DE/products/010-02839-03/v/pd-05-lg.jpg",
-      "thumb": "https://res.garmin.com/de_DE/products/010-02839-03/v/pd-05-sm.jpg"
-    },
-    {
       "full": "https://res.garmin.com/de_DE/products/010-02839-15/v/cf-lg.jpg",
       "thumb": "https://res.garmin.com/de_DE/products/010-02839-15/v/cf-sm.jpg"
     },
@@ -108,6 +76,38 @@
     {
       "full": "https://res.garmin.com/de_DE/products/010-02839-15/v/pd-05-lg.jpg",
       "thumb": "https://res.garmin.com/de_DE/products/010-02839-15/v/pd-05-sm.jpg"
+    },
+    {
+      "full": "https://res.garmin.com/de_DE/products/010-02839-03/v/cf-lg.jpg",
+      "thumb": "https://res.garmin.com/de_DE/products/010-02839-03/v/cf-sm.jpg"
+    },
+    {
+      "full": "https://res.garmin.com/de_DE/products/010-02839-03/v/rf-lg.jpg",
+      "thumb": "https://res.garmin.com/de_DE/products/010-02839-03/v/rf-sm.jpg"
+    },
+    {
+      "full": "https://res.garmin.com/de_DE/products/010-02839-03/v/lf-lg.jpg",
+      "thumb": "https://res.garmin.com/de_DE/products/010-02839-03/v/lf-sm.jpg"
+    },
+    {
+      "full": "https://res.garmin.com/de_DE/products/010-02839-03/v/pd-01-lg.jpg",
+      "thumb": "https://res.garmin.com/de_DE/products/010-02839-03/v/pd-01-sm.jpg"
+    },
+    {
+      "full": "https://res.garmin.com/de_DE/products/010-02839-03/v/pd-02-lg.jpg",
+      "thumb": "https://res.garmin.com/de_DE/products/010-02839-03/v/pd-02-sm.jpg"
+    },
+    {
+      "full": "https://res.garmin.com/de_DE/products/010-02839-03/v/pd-03-lg.jpg",
+      "thumb": "https://res.garmin.com/de_DE/products/010-02839-03/v/pd-03-sm.jpg"
+    },
+    {
+      "full": "https://res.garmin.com/de_DE/products/010-02839-03/v/pd-04-lg.jpg",
+      "thumb": "https://res.garmin.com/de_DE/products/010-02839-03/v/pd-04-sm.jpg"
+    },
+    {
+      "full": "https://res.garmin.com/de_DE/products/010-02839-03/v/pd-05-lg.jpg",
+      "thumb": "https://res.garmin.com/de_DE/products/010-02839-03/v/pd-05-sm.jpg"
     },
     {
       "full": "https://res.garmin.com/de_DE/products/010-02839-14/v/cf-lg.jpg",
@@ -188,50 +188,6 @@
       ]
     },
     {
-      "sku": "010-02839-03",
-      "partNumber": "010-02839-03",
-      "name": "Maulbeere/Dunkelbronze mit Schnellwechsel-Leder-Armband",
-      "price": {
-        "amount": 299.99,
-        "currency": "EUR",
-        "formatted": "299,99 €"
-      },
-      "images": [
-        {
-          "full": "https://res.garmin.com/de_DE/products/010-02839-03/v/cf-lg.jpg",
-          "thumb": "https://res.garmin.com/de_DE/products/010-02839-03/v/cf-sm.jpg"
-        },
-        {
-          "full": "https://res.garmin.com/de_DE/products/010-02839-03/v/rf-lg.jpg",
-          "thumb": "https://res.garmin.com/de_DE/products/010-02839-03/v/rf-sm.jpg"
-        },
-        {
-          "full": "https://res.garmin.com/de_DE/products/010-02839-03/v/lf-lg.jpg",
-          "thumb": "https://res.garmin.com/de_DE/products/010-02839-03/v/lf-sm.jpg"
-        },
-        {
-          "full": "https://res.garmin.com/de_DE/products/010-02839-03/v/pd-01-lg.jpg",
-          "thumb": "https://res.garmin.com/de_DE/products/010-02839-03/v/pd-01-sm.jpg"
-        },
-        {
-          "full": "https://res.garmin.com/de_DE/products/010-02839-03/v/pd-02-lg.jpg",
-          "thumb": "https://res.garmin.com/de_DE/products/010-02839-03/v/pd-02-sm.jpg"
-        },
-        {
-          "full": "https://res.garmin.com/de_DE/products/010-02839-03/v/pd-03-lg.jpg",
-          "thumb": "https://res.garmin.com/de_DE/products/010-02839-03/v/pd-03-sm.jpg"
-        },
-        {
-          "full": "https://res.garmin.com/de_DE/products/010-02839-03/v/pd-04-lg.jpg",
-          "thumb": "https://res.garmin.com/de_DE/products/010-02839-03/v/pd-04-sm.jpg"
-        },
-        {
-          "full": "https://res.garmin.com/de_DE/products/010-02839-03/v/pd-05-lg.jpg",
-          "thumb": "https://res.garmin.com/de_DE/products/010-02839-03/v/pd-05-sm.jpg"
-        }
-      ]
-    },
-    {
       "sku": "010-02839-15",
       "partNumber": "010-02839-15",
       "name": "Salbeigrau/Silber mit Schnellwechsel-Nylon-Armband",
@@ -272,6 +228,50 @@
         {
           "full": "https://res.garmin.com/de_DE/products/010-02839-15/v/pd-05-lg.jpg",
           "thumb": "https://res.garmin.com/de_DE/products/010-02839-15/v/pd-05-sm.jpg"
+        }
+      ]
+    },
+    {
+      "sku": "010-02839-73",
+      "partNumber": "010-02839-73",
+      "name": "Maulbeere/Dunkelbronze mit Schnellwechsel-Leder-Armband",
+      "price": {
+        "amount": 349.99,
+        "currency": "EUR",
+        "formatted": "349,99 €"
+      },
+      "images": [
+        {
+          "full": "https://res.garmin.com/de_DE/products/010-02839-03/v/cf-lg.jpg",
+          "thumb": "https://res.garmin.com/de_DE/products/010-02839-03/v/cf-sm.jpg"
+        },
+        {
+          "full": "https://res.garmin.com/de_DE/products/010-02839-03/v/rf-lg.jpg",
+          "thumb": "https://res.garmin.com/de_DE/products/010-02839-03/v/rf-sm.jpg"
+        },
+        {
+          "full": "https://res.garmin.com/de_DE/products/010-02839-03/v/lf-lg.jpg",
+          "thumb": "https://res.garmin.com/de_DE/products/010-02839-03/v/lf-sm.jpg"
+        },
+        {
+          "full": "https://res.garmin.com/de_DE/products/010-02839-03/v/pd-01-lg.jpg",
+          "thumb": "https://res.garmin.com/de_DE/products/010-02839-03/v/pd-01-sm.jpg"
+        },
+        {
+          "full": "https://res.garmin.com/de_DE/products/010-02839-03/v/pd-02-lg.jpg",
+          "thumb": "https://res.garmin.com/de_DE/products/010-02839-03/v/pd-02-sm.jpg"
+        },
+        {
+          "full": "https://res.garmin.com/de_DE/products/010-02839-03/v/pd-03-lg.jpg",
+          "thumb": "https://res.garmin.com/de_DE/products/010-02839-03/v/pd-03-sm.jpg"
+        },
+        {
+          "full": "https://res.garmin.com/de_DE/products/010-02839-03/v/pd-04-lg.jpg",
+          "thumb": "https://res.garmin.com/de_DE/products/010-02839-03/v/pd-04-sm.jpg"
+        },
+        {
+          "full": "https://res.garmin.com/de_DE/products/010-02839-03/v/pd-05-lg.jpg",
+          "thumb": "https://res.garmin.com/de_DE/products/010-02839-03/v/pd-05-sm.jpg"
         }
       ]
     },
@@ -1246,5 +1246,5 @@
     }
   },
   "sourceUrl": "https://www.garmin.com/de-DE/p/950277/",
-  "fetchedAt": "2026-09-18T09:00:59.004Z"
+  "fetchedAt": "2026-09-19T08:49:05.071Z"
 }

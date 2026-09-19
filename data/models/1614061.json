@@ -18,8 +18,8 @@
       "thumb": "https://res.garmin.com/de_DE/products/010-03014-00/v/cf-sm.jpg"
     },
     {
-      "full": "https://res.garmin.com/de_DE/products/010-03014-04/g/cf-lg.jpg",
-      "thumb": "https://res.garmin.com/de_DE/products/010-03014-04/g/cf-sm.jpg"
+      "full": "https://res.garmin.com/en/products/010-03014-03/g/cf-lg.jpg",
+      "thumb": "https://res.garmin.com/en/products/010-03014-03/g/cf-sm.jpg"
     },
     {
       "full": "https://res.garmin.com/de_DE/products/010-03014-01/v/cf-lg.jpg",
@@ -50,8 +50,8 @@
           "thumb": "https://res.garmin.com/de_DE/products/010-03014-00/v/cf-sm.jpg"
         },
         {
-          "full": "https://res.garmin.com/de_DE/products/010-03014-04/g/cf-lg.jpg",
-          "thumb": "https://res.garmin.com/de_DE/products/010-03014-04/g/cf-sm.jpg"
+          "full": "https://res.garmin.com/en/products/010-03014-03/g/cf-lg.jpg",
+          "thumb": "https://res.garmin.com/en/products/010-03014-03/g/cf-sm.jpg"
         }
       ]
     },
@@ -70,8 +70,8 @@
           "thumb": "https://res.garmin.com/de_DE/products/010-03014-01/v/cf-sm.jpg"
         },
         {
-          "full": "https://res.garmin.com/de_DE/products/010-03014-04/g/cf-lg.jpg",
-          "thumb": "https://res.garmin.com/de_DE/products/010-03014-04/g/cf-sm.jpg"
+          "full": "https://res.garmin.com/en/products/010-03014-03/g/cf-lg.jpg",
+          "thumb": "https://res.garmin.com/en/products/010-03014-03/g/cf-sm.jpg"
         }
       ]
     },
@@ -90,8 +90,8 @@
           "thumb": "https://res.garmin.com/de_DE/products/010-03014-02/v/cf-sm.jpg"
         },
         {
-          "full": "https://res.garmin.com/de_DE/products/010-03014-04/g/cf-lg.jpg",
-          "thumb": "https://res.garmin.com/de_DE/products/010-03014-04/g/cf-sm.jpg"
+          "full": "https://res.garmin.com/en/products/010-03014-03/g/cf-lg.jpg",
+          "thumb": "https://res.garmin.com/en/products/010-03014-03/g/cf-sm.jpg"
         }
       ]
     },
@@ -110,8 +110,8 @@
           "thumb": "https://res.garmin.com/de_DE/products/010-03014-03/v/cf-sm.jpg"
         },
         {
-          "full": "https://res.garmin.com/de_DE/products/010-03014-04/g/cf-lg.jpg",
-          "thumb": "https://res.garmin.com/de_DE/products/010-03014-04/g/cf-sm.jpg"
+          "full": "https://res.garmin.com/en/products/010-03014-03/g/cf-lg.jpg",
+          "thumb": "https://res.garmin.com/en/products/010-03014-03/g/cf-sm.jpg"
         }
       ]
     }
@@ -2499,5 +2499,5 @@
     }
   },
   "sourceUrl": "https://www.garmin.com/de-DE/p/1613801/",
-  "fetchedAt": "2026-09-18T09:00:59.298Z"
+  "fetchedAt": "2026-09-19T08:49:05.369Z"
 }
