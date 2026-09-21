@@ -8,9 +8,9 @@
     "qualifier": "50 mm, AMOLED, Tactical Edition"
   },
   "price": {
-    "amount": 439.99,
+    "amount": 499.99,
     "currency": "EUR",
-    "formatted": "439,99 €"
+    "formatted": "499,99 €"
   },
   "images": [
     {
@@ -72,9 +72,9 @@
       "partNumber": "010-03020-50",
       "name": "Schwarz mit Silikon-Wechselarmband 26 mm Schwarz",
       "price": {
-        "amount": 439.99,
+        "amount": 499.99,
         "currency": "EUR",
-        "formatted": "439,99 €"
+        "formatted": "499,99 €"
       },
       "images": [
         {
@@ -2400,5 +2400,5 @@
     }
   },
   "sourceUrl": "https://www.garmin.com/de-DE/p/1316397/",
-  "fetchedAt": "2026-09-20T09:17:50.058Z"
+  "fetchedAt": "2026-09-21T09:56:25.932Z"
 }

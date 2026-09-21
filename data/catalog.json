@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generatedAt": "2026-09-20T09:17:51.312Z",
-    "oldestFetchAt": "2026-09-20T09:17:49.163Z",
+    "generatedAt": "2026-09-21T09:56:27.298Z",
+    "oldestFetchAt": "2026-09-21T09:56:24.944Z",
     "locale": "de-DE",
     "storeCode": "DE",
     "modelCount": 85,
@@ -320,7 +320,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/721216/",
-      "fetchedAt": "2026-09-20T09:17:49.163Z"
+      "fetchedAt": "2026-09-21T09:56:24.944Z"
     },
     {
       "id": "1604358",
@@ -332,9 +332,9 @@
         "qualifier": null
       },
       "price": {
-        "amount": 269.99,
+        "amount": 279.99,
         "currency": "EUR",
-        "formatted": "269,99 €"
+        "formatted": "279,99 €"
       },
       "image": "https://res.garmin.com/en/products/010-03009-00/v/cf-lg.jpg",
       "categories": [
@@ -657,7 +657,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1604358/",
-      "fetchedAt": "2026-09-20T09:17:49.190Z"
+      "fetchedAt": "2026-09-21T09:56:24.981Z"
     },
     {
       "id": "1604377",
@@ -1030,7 +1030,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1604358/",
-      "fetchedAt": "2026-09-20T09:17:49.217Z"
+      "fetchedAt": "2026-09-21T09:56:25.007Z"
     },
     {
       "id": "847697",
@@ -1042,9 +1042,9 @@
         "qualifier": "42 mm"
       },
       "price": {
-        "amount": 549.99,
+        "amount": 599.99,
         "currency": "EUR",
-        "formatted": "549,99 €"
+        "formatted": "599,99 €"
       },
       "image": "https://res.garmin.com/de_DE/products/010-02746-10/v/cf-lg.jpg",
       "categories": [
@@ -1404,7 +1404,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/847697/",
-      "fetchedAt": "2026-09-20T09:17:49.250Z"
+      "fetchedAt": "2026-09-21T09:56:25.040Z"
     },
     {
       "id": "847706",
@@ -1416,9 +1416,9 @@
         "qualifier": "47 mm"
       },
       "price": {
-        "amount": 579.99,
+        "amount": 649.99,
         "currency": "EUR",
-        "formatted": "579,99 €"
+        "formatted": "649,99 €"
       },
       "image": "https://res.garmin.com/de_DE/products/010-02746-12/v/cf-lg.jpg",
       "categories": [
@@ -1783,7 +1783,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/847697/",
-      "fetchedAt": "2026-09-20T09:17:49.277Z"
+      "fetchedAt": "2026-09-21T09:56:25.075Z"
     },
     {
       "id": "1957609",
@@ -2246,7 +2246,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1957609/",
-      "fetchedAt": "2026-09-20T09:17:49.312Z"
+      "fetchedAt": "2026-09-21T09:56:25.102Z"
     },
     {
       "id": "1388769",
@@ -2720,7 +2720,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1388769/",
-      "fetchedAt": "2026-09-20T09:17:49.356Z"
+      "fetchedAt": "2026-09-21T09:56:25.152Z"
     },
     {
       "id": "1373810",
@@ -3194,7 +3194,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1388769/",
-      "fetchedAt": "2026-09-20T09:17:49.382Z"
+      "fetchedAt": "2026-09-21T09:56:25.181Z"
     },
     {
       "id": "2010221",
@@ -3694,7 +3694,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1388769/",
-      "fetchedAt": "2026-09-20T09:17:49.408Z"
+      "fetchedAt": "2026-09-21T09:56:25.206Z"
     },
     {
       "id": "1558977",
@@ -4114,7 +4114,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1558977/",
-      "fetchedAt": "2026-09-20T09:17:49.429Z"
+      "fetchedAt": "2026-09-21T09:56:25.243Z"
     },
     {
       "id": "852183",
@@ -4577,7 +4577,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/852183/",
-      "fetchedAt": "2026-09-20T09:17:49.445Z"
+      "fetchedAt": "2026-09-21T09:56:25.265Z"
     },
     {
       "id": "852217",
@@ -5054,7 +5054,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/852183/",
-      "fetchedAt": "2026-09-20T09:17:49.471Z"
+      "fetchedAt": "2026-09-21T09:56:25.287Z"
     },
     {
       "id": "852159",
@@ -5534,7 +5534,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/852183/",
-      "fetchedAt": "2026-09-20T09:17:49.511Z"
+      "fetchedAt": "2026-09-21T09:56:25.313Z"
     },
     {
       "id": "851039",
@@ -6004,7 +6004,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/851039/",
-      "fetchedAt": "2026-09-20T09:17:49.529Z"
+      "fetchedAt": "2026-09-21T09:56:25.339Z"
     },
     {
       "id": "1228493",
@@ -6016,9 +6016,9 @@
         "qualifier": "43 mm, AMOLED"
       },
       "price": {
-        "amount": 669.99,
+        "amount": 799.99,
         "currency": "EUR",
-        "formatted": "669,99 €"
+        "formatted": "799,99 €"
       },
       "image": "https://res.garmin.com/de_DE/products/010-02903-00/v/cf-lg.jpg",
       "categories": [
@@ -6484,7 +6484,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1228493/",
-      "fetchedAt": "2026-09-20T09:17:49.545Z"
+      "fetchedAt": "2026-09-21T09:56:25.358Z"
     },
     {
       "id": "1228429",
@@ -6496,9 +6496,9 @@
         "qualifier": "47 mm, AMOLED"
       },
       "price": {
-        "amount": 659.99,
+        "amount": 799.99,
         "currency": "EUR",
-        "formatted": "659,99 €"
+        "formatted": "799,99 €"
       },
       "image": "https://res.garmin.com/de_DE/products/010-02904-00/v/cf-lg.jpg",
       "categories": [
@@ -6964,7 +6964,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1228493/",
-      "fetchedAt": "2026-09-20T09:17:49.564Z"
+      "fetchedAt": "2026-09-21T09:56:25.376Z"
     },
     {
       "id": "1389491",
@@ -7444,7 +7444,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1228493/",
-      "fetchedAt": "2026-09-20T09:17:49.581Z"
+      "fetchedAt": "2026-09-21T09:56:25.397Z"
     },
     {
       "id": "1228171",
@@ -7456,9 +7456,9 @@
         "qualifier": "51 mm, AMOLED"
       },
       "price": {
-        "amount": 749.99,
+        "amount": 899.99,
         "currency": "EUR",
-        "formatted": "749,99 €"
+        "formatted": "899,99 €"
       },
       "image": "https://res.garmin.com/de_DE/products/010-02905-00/v/cf-lg.jpg",
       "categories": [
@@ -7924,7 +7924,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1228493/",
-      "fetchedAt": "2026-09-20T09:17:49.599Z"
+      "fetchedAt": "2026-09-21T09:56:25.420Z"
     },
     {
       "id": "1390829",
@@ -8404,7 +8404,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1228493/",
-      "fetchedAt": "2026-09-20T09:17:49.617Z"
+      "fetchedAt": "2026-09-21T09:56:25.439Z"
     },
     {
       "id": "1701921",
@@ -8416,9 +8416,9 @@
         "qualifier": "47 mm, AMOLED"
       },
       "price": {
-        "amount": 899.99,
+        "amount": 1049.99,
         "currency": "EUR",
-        "formatted": "899,99 €"
+        "formatted": "1.049,99 €"
       },
       "image": "https://res.garmin.com/de_DE/products/010-03198-01/v/cf-lg.jpg",
       "categories": [
@@ -8909,7 +8909,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1228493/",
-      "fetchedAt": "2026-09-20T09:17:49.634Z"
+      "fetchedAt": "2026-09-21T09:56:25.458Z"
     },
     {
       "id": "1703902",
@@ -8921,9 +8921,9 @@
         "qualifier": "51 mm, AMOLED"
       },
       "price": {
-        "amount": 999.99,
+        "amount": 1149.99,
         "currency": "EUR",
-        "formatted": "999,99 €"
+        "formatted": "1.149,99 €"
       },
       "image": "https://res.garmin.com/de_DE/products/010-03199-01/v/cf-lg.jpg",
       "categories": [
@@ -9414,7 +9414,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1228493/",
-      "fetchedAt": "2026-09-20T09:17:49.658Z"
+      "fetchedAt": "2026-09-21T09:56:25.491Z"
     },
     {
       "id": "1723221",
@@ -9917,7 +9917,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1228493/",
-      "fetchedAt": "2026-09-20T09:17:49.678Z"
+      "fetchedAt": "2026-09-21T09:56:25.513Z"
     },
     {
       "id": "2021177",
@@ -10389,7 +10389,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/2021177/",
-      "fetchedAt": "2026-09-20T09:17:49.697Z"
+      "fetchedAt": "2026-09-21T09:56:25.532Z"
     },
     {
       "id": "2021193",
@@ -10861,7 +10861,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/2021177/",
-      "fetchedAt": "2026-09-20T09:17:49.714Z"
+      "fetchedAt": "2026-09-21T09:56:25.552Z"
     },
     {
       "id": "2021175",
@@ -11333,7 +11333,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/2021177/",
-      "fetchedAt": "2026-09-20T09:17:49.735Z"
+      "fetchedAt": "2026-09-21T09:56:25.570Z"
     },
     {
       "id": "1962767",
@@ -11807,7 +11807,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/2021177/",
-      "fetchedAt": "2026-09-20T09:17:49.759Z"
+      "fetchedAt": "2026-09-21T09:56:25.595Z"
     },
     {
       "id": "1962732",
@@ -12280,7 +12280,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/2021177/",
-      "fetchedAt": "2026-09-20T09:17:49.776Z"
+      "fetchedAt": "2026-09-21T09:56:25.614Z"
     },
     {
       "id": "1962713",
@@ -12753,7 +12753,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/2021177/",
-      "fetchedAt": "2026-09-20T09:17:49.793Z"
+      "fetchedAt": "2026-09-21T09:56:25.632Z"
     },
     {
       "id": "1959805",
@@ -13226,7 +13226,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/2021177/",
-      "fetchedAt": "2026-09-20T09:17:49.811Z"
+      "fetchedAt": "2026-09-21T09:56:25.649Z"
     },
     {
       "id": "1959921",
@@ -13699,7 +13699,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/2021177/",
-      "fetchedAt": "2026-09-20T09:17:49.827Z"
+      "fetchedAt": "2026-09-21T09:56:25.667Z"
     },
     {
       "id": "1652337",
@@ -13711,9 +13711,9 @@
         "qualifier": "47 mm, AMOLED"
       },
       "price": {
-        "amount": 439.99,
+        "amount": 499.99,
         "currency": "EUR",
-        "formatted": "439,99 €"
+        "formatted": "499,99 €"
       },
       "image": "https://res.garmin.com/de_DE/products/010-03025-00/v/cf-lg.jpg",
       "categories": [
@@ -14153,7 +14153,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1228493/",
-      "fetchedAt": "2026-09-20T09:17:49.844Z"
+      "fetchedAt": "2026-09-21T09:56:25.686Z"
     },
     {
       "id": "1055469",
@@ -14165,9 +14165,9 @@
         "qualifier": null
       },
       "price": {
-        "amount": 199.99,
+        "amount": 229.99,
         "currency": "EUR",
-        "formatted": "199,99 €"
+        "formatted": "229,99 €"
       },
       "image": "https://res.garmin.com/de_DE/products/010-02863-20/v/cf-lg.jpg",
       "categories": [
@@ -14550,7 +14550,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1055469/",
-      "fetchedAt": "2026-09-20T09:17:49.858Z"
+      "fetchedAt": "2026-09-21T09:56:25.699Z"
     },
     {
       "id": "1611937",
@@ -14562,9 +14562,9 @@
         "qualifier": "Music"
       },
       "price": {
-        "amount": 249.99,
+        "amount": 279.99,
         "currency": "EUR",
-        "formatted": "249,99 €"
+        "formatted": "279,99 €"
       },
       "image": "https://res.garmin.com/de_DE/products/010-02863-30/v/cf-lg.jpg",
       "categories": [
@@ -14975,7 +14975,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1055469/",
-      "fetchedAt": "2026-09-20T09:17:49.873Z"
+      "fetchedAt": "2026-09-21T09:56:25.716Z"
     },
     {
       "id": "1915560",
@@ -15384,7 +15384,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1915560/",
-      "fetchedAt": "2026-09-20T09:17:49.882Z"
+      "fetchedAt": "2026-09-21T09:56:25.725Z"
     },
     {
       "id": "2014513",
@@ -15820,7 +15820,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1915560/",
-      "fetchedAt": "2026-09-20T09:17:49.892Z"
+      "fetchedAt": "2026-09-21T09:56:25.741Z"
     },
     {
       "id": "886785",
@@ -16270,7 +16270,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/886785/",
-      "fetchedAt": "2026-09-20T09:17:49.907Z"
+      "fetchedAt": "2026-09-21T09:56:25.754Z"
     },
     {
       "id": "886689",
@@ -16720,7 +16720,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/886785/",
-      "fetchedAt": "2026-09-20T09:17:49.918Z"
+      "fetchedAt": "2026-09-21T09:56:25.765Z"
     },
     {
       "id": "1463821",
@@ -17180,7 +17180,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1463821/",
-      "fetchedAt": "2026-09-20T09:17:49.928Z"
+      "fetchedAt": "2026-09-21T09:56:25.779Z"
     },
     {
       "id": "1464001",
@@ -17640,7 +17640,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1463821/",
-      "fetchedAt": "2026-09-20T09:17:49.941Z"
+      "fetchedAt": "2026-09-21T09:56:25.793Z"
     },
     {
       "id": "1941179",
@@ -18037,7 +18037,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1915560/",
-      "fetchedAt": "2026-09-20T09:17:49.953Z"
+      "fetchedAt": "2026-09-21T09:56:25.805Z"
     },
     {
       "id": "777655",
@@ -18463,7 +18463,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/777655/",
-      "fetchedAt": "2026-09-20T09:17:49.962Z"
+      "fetchedAt": "2026-09-21T09:56:25.818Z"
     },
     {
       "id": "777730",
@@ -18891,7 +18891,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/777655/",
-      "fetchedAt": "2026-09-20T09:17:49.974Z"
+      "fetchedAt": "2026-09-21T09:56:25.834Z"
     },
     {
       "id": "886725",
@@ -19340,7 +19340,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/886725/",
-      "fetchedAt": "2026-09-20T09:17:49.986Z"
+      "fetchedAt": "2026-09-21T09:56:25.846Z"
     },
     {
       "id": "1462801",
@@ -19352,9 +19352,9 @@
         "qualifier": null
       },
       "price": {
-        "amount": 659.99,
+        "amount": 669.99,
         "currency": "EUR",
-        "formatted": "659,99 €"
+        "formatted": "669,99 €"
       },
       "image": "https://res.garmin.com/de_DE/products/010-02969-10/v/cf-lg.jpg",
       "categories": [
@@ -19803,7 +19803,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1462801/",
-      "fetchedAt": "2026-09-20T09:17:49.997Z"
+      "fetchedAt": "2026-09-21T09:56:25.862Z"
     },
     {
       "id": "1316397",
@@ -19815,9 +19815,9 @@
         "qualifier": "45 mm, AMOLED"
       },
       "price": {
-        "amount": 309.99,
+        "amount": 339.99,
         "currency": "EUR",
-        "formatted": "309,99 €"
+        "formatted": "339,99 €"
       },
       "image": "https://res.garmin.com/en_GB/products/010-02936-00/v/cf-lg.jpg",
       "categories": [
@@ -20247,7 +20247,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1316397/",
-      "fetchedAt": "2026-09-20T09:17:50.010Z"
+      "fetchedAt": "2026-09-21T09:56:25.878Z"
     },
     {
       "id": "1315317",
@@ -20259,9 +20259,9 @@
         "qualifier": "45 mm, Solar"
       },
       "price": {
-        "amount": 299.99,
+        "amount": 319.99,
         "currency": "EUR",
-        "formatted": "299,99 €"
+        "formatted": "319,99 €"
       },
       "image": "https://res.garmin.com/en_GB/products/010-02934-00/v/cf-lg.jpg",
       "categories": [
@@ -20688,7 +20688,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1316397/",
-      "fetchedAt": "2026-09-20T09:17:50.023Z"
+      "fetchedAt": "2026-09-21T09:56:25.892Z"
     },
     {
       "id": "1705221",
@@ -20700,9 +20700,9 @@
         "qualifier": "45 mm, Solar, Tactical Edition"
       },
       "price": {
-        "amount": 379.99,
+        "amount": 409.99,
         "currency": "EUR",
-        "formatted": "379,99 €"
+        "formatted": "409,99 €"
       },
       "image": "https://res.garmin.com/en_GB/products/010-02934-50/v/cf-lg.jpg",
       "categories": [
@@ -21128,7 +21128,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1316397/",
-      "fetchedAt": "2026-09-20T09:17:50.033Z"
+      "fetchedAt": "2026-09-21T09:56:25.903Z"
     },
     {
       "id": "1622337",
@@ -21140,9 +21140,9 @@
         "qualifier": "50 mm, AMOLED"
       },
       "price": {
-        "amount": 319.99,
+        "amount": 339.99,
         "currency": "EUR",
-        "formatted": "319,99 €"
+        "formatted": "339,99 €"
       },
       "image": "https://res.garmin.com/en_GB/products/010-03020-00/v/cf-lg.jpg",
       "categories": [
@@ -21572,7 +21572,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1316397/",
-      "fetchedAt": "2026-09-20T09:17:50.046Z"
+      "fetchedAt": "2026-09-21T09:56:25.918Z"
     },
     {
       "id": "1718241",
@@ -21584,9 +21584,9 @@
         "qualifier": "50 mm, AMOLED, Tactical Edition"
       },
       "price": {
-        "amount": 439.99,
+        "amount": 499.99,
         "currency": "EUR",
-        "formatted": "439,99 €"
+        "formatted": "499,99 €"
       },
       "image": "https://res.garmin.com/en_GB/products/010-03020-50/v/cf-lg.jpg",
       "categories": [
@@ -22015,7 +22015,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1316397/",
-      "fetchedAt": "2026-09-20T09:17:50.058Z"
+      "fetchedAt": "2026-09-21T09:56:25.932Z"
     },
     {
       "id": "1316857",
@@ -22027,9 +22027,9 @@
         "qualifier": "50 mm, Solar"
       },
       "price": {
-        "amount": 289.99,
+        "amount": 359.99,
         "currency": "EUR",
-        "formatted": "289,99 €"
+        "formatted": "359,99 €"
       },
       "image": "https://res.garmin.com/en_GB/products/010-02935-00/v/cf-lg.jpg",
       "categories": [
@@ -22457,7 +22457,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1316397/",
-      "fetchedAt": "2026-09-20T09:17:50.071Z"
+      "fetchedAt": "2026-09-21T09:56:25.945Z"
     },
     {
       "id": "1476633",
@@ -22469,9 +22469,9 @@
         "qualifier": "50 mm, Solar, Tactical Edition"
       },
       "price": {
-        "amount": 399.99,
+        "amount": 449.99,
         "currency": "EUR",
-        "formatted": "399,99 €"
+        "formatted": "449,99 €"
       },
       "image": "https://res.garmin.com/en_GB/products/010-02935-50/v/cf-lg.jpg",
       "categories": [
@@ -22897,7 +22897,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1316397/",
-      "fetchedAt": "2026-09-20T09:17:50.082Z"
+      "fetchedAt": "2026-09-21T09:56:25.959Z"
     },
     {
       "id": "819761",
@@ -23299,7 +23299,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/819761/",
-      "fetchedAt": "2026-09-20T09:17:50.094Z"
+      "fetchedAt": "2026-09-21T09:56:25.974Z"
     },
     {
       "id": "1800201",
@@ -23742,7 +23742,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/819761/",
-      "fetchedAt": "2026-09-20T09:17:50.105Z"
+      "fetchedAt": "2026-09-21T09:56:25.984Z"
     },
     {
       "id": "1795741",
@@ -24184,7 +24184,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/819761/",
-      "fetchedAt": "2026-09-20T09:17:50.115Z"
+      "fetchedAt": "2026-09-21T09:56:25.997Z"
     },
     {
       "id": "819727",
@@ -24588,7 +24588,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/819761/",
-      "fetchedAt": "2026-09-20T09:17:50.128Z"
+      "fetchedAt": "2026-09-21T09:56:26.011Z"
     },
     {
       "id": "819546",
@@ -24991,7 +24991,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/819761/",
-      "fetchedAt": "2026-09-20T09:17:50.139Z"
+      "fetchedAt": "2026-09-21T09:56:26.021Z"
     },
     {
       "id": "1314137",
@@ -25003,9 +25003,9 @@
         "qualifier": "40 mm"
       },
       "price": {
-        "amount": 179.99,
+        "amount": 219.99,
         "currency": "EUR",
-        "formatted": "179,99 €"
+        "formatted": "219,99 €"
       },
       "image": "https://res.garmin.com/en_GB/products/010-02932-00/v/cf-lg.jpg",
       "categories": [
@@ -25398,7 +25398,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1316397/",
-      "fetchedAt": "2026-09-20T09:17:50.148Z"
+      "fetchedAt": "2026-09-21T09:56:26.034Z"
     },
     {
       "id": "1315817",
@@ -25410,9 +25410,9 @@
         "qualifier": "45 mm"
       },
       "price": {
-        "amount": 179.99,
+        "amount": 219.99,
         "currency": "EUR",
-        "formatted": "179,99 €"
+        "formatted": "219,99 €"
       },
       "image": "https://res.garmin.com/en_GB/products/010-02933-00/v/cf-lg.jpg",
       "categories": [
@@ -25805,7 +25805,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1316397/",
-      "fetchedAt": "2026-09-20T09:17:50.164Z"
+      "fetchedAt": "2026-09-21T09:56:26.051Z"
     },
     {
       "id": "950277",
@@ -26127,7 +26127,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/950277/",
-      "fetchedAt": "2026-09-20T09:17:50.178Z"
+      "fetchedAt": "2026-09-21T09:56:26.068Z"
     },
     {
       "id": "1196650",
@@ -26482,7 +26482,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/950277/",
-      "fetchedAt": "2026-09-20T09:17:50.185Z"
+      "fetchedAt": "2026-09-21T09:56:26.073Z"
     },
     {
       "id": "950157",
@@ -26808,7 +26808,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/950277/",
-      "fetchedAt": "2026-09-20T09:17:50.190Z"
+      "fetchedAt": "2026-09-21T09:56:26.079Z"
     },
     {
       "id": "783467",
@@ -27269,7 +27269,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/783467/",
-      "fetchedAt": "2026-09-20T09:17:50.195Z"
+      "fetchedAt": "2026-09-21T09:56:26.087Z"
     },
     {
       "id": "1765781",
@@ -27729,7 +27729,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/783467/",
-      "fetchedAt": "2026-09-20T09:17:50.211Z"
+      "fetchedAt": "2026-09-21T09:56:26.105Z"
     },
     {
       "id": "783448",
@@ -28190,7 +28190,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/783467/",
-      "fetchedAt": "2026-09-20T09:17:50.227Z"
+      "fetchedAt": "2026-09-21T09:56:26.121Z"
     },
     {
       "id": "815448",
@@ -28650,7 +28650,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/783467/",
-      "fetchedAt": "2026-09-20T09:17:50.241Z"
+      "fetchedAt": "2026-09-21T09:56:26.138Z"
     },
     {
       "id": "1323517",
@@ -29110,7 +29110,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/783467/",
-      "fetchedAt": "2026-09-20T09:17:50.253Z"
+      "fetchedAt": "2026-09-21T09:56:26.154Z"
     },
     {
       "id": "783461",
@@ -29571,7 +29571,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/783467/",
-      "fetchedAt": "2026-09-20T09:17:50.267Z"
+      "fetchedAt": "2026-09-21T09:56:26.169Z"
     },
     {
       "id": "783441",
@@ -30032,7 +30032,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/783467/",
-      "fetchedAt": "2026-09-20T09:17:50.285Z"
+      "fetchedAt": "2026-09-21T09:56:26.184Z"
     },
     {
       "id": "815582",
@@ -30488,7 +30488,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/783467/",
-      "fetchedAt": "2026-09-20T09:17:50.301Z"
+      "fetchedAt": "2026-09-21T09:56:26.200Z"
     },
     {
       "id": "783465",
@@ -30949,7 +30949,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/783467/",
-      "fetchedAt": "2026-09-20T09:17:50.315Z"
+      "fetchedAt": "2026-09-21T09:56:26.217Z"
     },
     {
       "id": "815409",
@@ -31405,7 +31405,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/783467/",
-      "fetchedAt": "2026-09-20T09:17:50.327Z"
+      "fetchedAt": "2026-09-21T09:56:26.232Z"
     },
     {
       "id": "1908596",
@@ -31417,9 +31417,9 @@
         "qualifier": "47 mm, AMOLED"
       },
       "price": {
-        "amount": 929.99,
+        "amount": 1049.99,
         "currency": "EUR",
-        "formatted": "929,99 €"
+        "formatted": "1.049,99 €"
       },
       "image": "https://res.garmin.com/de_DE/products/010-02904-51/v/cf-lg.jpg",
       "categories": [
@@ -31873,7 +31873,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1908596/",
-      "fetchedAt": "2026-09-20T09:17:50.341Z"
+      "fetchedAt": "2026-09-21T09:56:26.248Z"
     },
     {
       "id": "1908580",
@@ -31885,9 +31885,9 @@
         "qualifier": "51 mm, AMOLED"
       },
       "price": {
-        "amount": 999.99,
+        "amount": 1099.99,
         "currency": "EUR",
-        "formatted": "999,99 €"
+        "formatted": "1.099,99 €"
       },
       "image": "https://res.garmin.com/de_DE/products/010-02905-91/v/cf-lg.jpg",
       "categories": [
@@ -32341,7 +32341,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1908596/",
-      "fetchedAt": "2026-09-20T09:17:50.357Z"
+      "fetchedAt": "2026-09-21T09:56:26.265Z"
     },
     {
       "id": "1986622",
@@ -32353,9 +32353,9 @@
         "qualifier": "47 mm, AMOLED"
       },
       "price": {
-        "amount": 1049.99,
+        "amount": 1199.99,
         "currency": "EUR",
-        "formatted": "1.049,99 €"
+        "formatted": "1.199,99 €"
       },
       "image": "https://res.garmin.com/de_DE/products/010-03198-51/v/cf-lg.jpg",
       "categories": [
@@ -32835,7 +32835,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1908596/",
-      "fetchedAt": "2026-09-20T09:17:50.373Z"
+      "fetchedAt": "2026-09-21T09:56:26.283Z"
     },
     {
       "id": "1828661",
@@ -33306,7 +33306,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1828661/",
-      "fetchedAt": "2026-09-20T09:17:50.389Z"
+      "fetchedAt": "2026-09-21T09:56:26.301Z"
     },
     {
       "id": "1828641",
@@ -33777,7 +33777,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1828661/",
-      "fetchedAt": "2026-09-20T09:17:50.405Z"
+      "fetchedAt": "2026-09-21T09:56:26.320Z"
     },
     {
       "id": "1963258",
@@ -34247,7 +34247,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1828661/",
-      "fetchedAt": "2026-09-20T09:17:50.420Z"
+      "fetchedAt": "2026-09-21T09:56:26.338Z"
     },
     {
       "id": "1828741",
@@ -34720,7 +34720,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1828661/",
-      "fetchedAt": "2026-09-20T09:17:50.436Z"
+      "fetchedAt": "2026-09-21T09:56:26.356Z"
     },
     {
       "id": "1831081",
@@ -35193,7 +35193,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1828661/",
-      "fetchedAt": "2026-09-20T09:17:50.452Z"
+      "fetchedAt": "2026-09-21T09:56:26.374Z"
     },
     {
       "id": "1613801",
@@ -35205,9 +35205,9 @@
         "qualifier": "41 mm"
       },
       "price": {
-        "amount": 419.99,
+        "amount": 499.99,
         "currency": "EUR",
-        "formatted": "419,99 €"
+        "formatted": "499,99 €"
       },
       "image": "https://res.garmin.com/de_DE/products/010-03013-00/v/cf-lg.jpg",
       "categories": [
@@ -35660,7 +35660,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1613801/",
-      "fetchedAt": "2026-09-20T09:17:50.467Z"
+      "fetchedAt": "2026-09-21T09:56:26.392Z"
     },
     {
       "id": "1614061",
@@ -35672,9 +35672,9 @@
         "qualifier": "45 mm"
       },
       "price": {
-        "amount": 419.99,
+        "amount": 499.99,
         "currency": "EUR",
-        "formatted": "419,99 €"
+        "formatted": "499,99 €"
       },
       "image": "https://res.garmin.com/de_DE/products/010-03014-00/v/cf-lg.jpg",
       "categories": [
@@ -36127,7 +36127,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1613801/",
-      "fetchedAt": "2026-09-20T09:17:50.478Z"
+      "fetchedAt": "2026-09-21T09:56:26.404Z"
     },
     {
       "id": "1510465",
@@ -36139,9 +36139,9 @@
         "qualifier": null
       },
       "price": {
-        "amount": 569.99,
+        "amount": 699.99,
         "currency": "EUR",
-        "formatted": "569,99 €"
+        "formatted": "699,99 €"
       },
       "image": "https://res.garmin.com/de_DE/products/010-02980-02/v/cf-lg.jpg",
       "categories": [
@@ -36564,7 +36564,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1510465/",
-      "fetchedAt": "2026-09-20T09:17:50.492Z"
+      "fetchedAt": "2026-09-21T09:56:26.420Z"
     },
     {
       "id": "1555457",
@@ -36576,9 +36576,9 @@
         "qualifier": null
       },
       "price": {
-        "amount": 249.99,
+        "amount": 279.99,
         "currency": "EUR",
-        "formatted": "249,99 €"
+        "formatted": "279,99 €"
       },
       "image": "https://res.garmin.com/de_DE/products/010-02985-00/v/cf-lg.jpg",
       "categories": [
@@ -36979,7 +36979,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1555457/",
-      "fetchedAt": "2026-09-20T09:17:50.506Z"
+      "fetchedAt": "2026-09-21T09:56:26.436Z"
     },
     {
       "id": "742133",
@@ -37311,7 +37311,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/742133/",
-      "fetchedAt": "2026-09-20T09:17:50.514Z"
+      "fetchedAt": "2026-09-21T09:56:26.445Z"
     },
     {
       "id": "785411",
@@ -37650,7 +37650,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/742133/",
-      "fetchedAt": "2026-09-20T09:17:50.520Z"
+      "fetchedAt": "2026-09-21T09:56:26.452Z"
     }
   ]
 }
