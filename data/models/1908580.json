@@ -1126,1439 +1126,1453 @@
       "order": 140
     },
     {
+      "section": "Sicherheits- und Trackingfunktionen",
+      "label": "Hands-free voice control",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 141
+    },
+    {
       "section": "Taktische Funktionen",
       "label": "Dualgitter-Koordinaten",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 141
+      "order": 142
     },
     {
       "section": "Taucheigenschaften",
       "label": "Maximale Tauchtiefe",
       "value": "40 meter",
       "valueKind": "text",
-      "order": 142
+      "order": 143
     },
     {
       "section": "Taucheigenschaften",
       "label": "Einzelgasmodus",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 143
+      "order": 144
     },
     {
       "section": "Taucheigenschaften",
       "label": "Apnoemodus",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 144
+      "order": 145
     },
     {
       "section": "Taucheigenschaften",
       "label": "Dekompressionsmodell",
       "value": "Bühlmann ZHL-16c mit Gradientenfaktoren",
       "valueKind": "text",
-      "order": 145
+      "order": 146
     },
     {
       "section": "Taucheigenschaften",
       "label": "Nitrox-Unterstützung",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 146
+      "order": 147
     },
     {
       "section": "Taucheigenschaften",
       "label": "Gasmischungen",
       "value": "Luft, Nitrox (21 bis 40 % Sauerstoff)",
       "valueKind": "text",
-      "order": 147
+      "order": 148
     },
     {
       "section": "Taucheigenschaften",
       "label": "PO2",
       "value": "Bis zu 1,6 mit anpassbarer Dekompressionseinstellung",
       "valueKind": "text",
-      "order": 148
+      "order": 149
     },
     {
       "section": "Taucheigenschaften",
       "label": "Tauchgang automatisch starten/beenden",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 149
+      "order": 150
     },
     {
       "section": "Taucheigenschaften",
       "label": "Benutzerdefiniertes Zeitlimit zum Beenden des Tauchgangs",
       "value": "Ja, 20 s bis 10 min",
       "valueKind": "text",
-      "order": 150
+      "order": 151
     },
     {
       "section": "Taucheigenschaften",
       "label": "Sicherheitsstopp",
       "value": "Ja (anpassbar; Aus/3 min/5 min)",
       "valueKind": "text",
-      "order": 151
+      "order": 152
     },
     {
       "section": "Taucheigenschaften",
       "label": "Tiefenstopp",
       "value": "Ja (mit eigenen Gradientenfaktoren)",
       "valueKind": "text",
-      "order": 152
+      "order": 153
     },
     {
       "section": "Taucheigenschaften",
       "label": "Anpassbarer Konservatismus",
       "value": "Ja (Niedrig/Mittel/Hoch)",
       "valueKind": "text",
-      "order": 153
+      "order": 154
     },
     {
       "section": "Taucheigenschaften",
       "label": "Anzeige für Auftauch-/Abtauchrate",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 154
+      "order": 155
     },
     {
       "section": "Taucheigenschaften",
       "label": "Automatische Höhenanpassung",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 155
+      "order": 156
     },
     {
       "section": "Taucheigenschaften",
       "label": "Flugverbotszeit",
       "value": "Ja",
       "valueKind": "text",
-      "order": 156
+      "order": 157
     },
     {
       "section": "Taucheigenschaften",
       "label": "Tauchplaner",
       "value": "Ja (einfacher Nullzeit- und Tauchgasplaner)",
       "valueKind": "text",
-      "order": 157
+      "order": 158
     },
     {
       "section": "Taucheigenschaften",
       "label": "Gezeiten",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 158
+      "order": 159
     },
     {
       "section": "Taucheigenschaften",
       "label": "Beleuchtung",
       "value": "Ja (Konfigurierbare Intensität. Immer ein.)",
       "valueKind": "text",
-      "order": 159
+      "order": 160
     },
     {
       "section": "Taucheigenschaften",
       "label": "Automatisches Speichern der Ein-/Auftauchpositionen des Tauchgangs",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 160
+      "order": 161
     },
     {
       "section": "Taucheigenschaften",
       "label": "Synchronisieren des Taucherlogbuchs mit Garmin Dive™-App",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 161
+      "order": 162
     },
     {
       "section": "Taucheigenschaften",
       "label": "Alarme",
       "value": "Ja (nur Vibration)",
       "valueKind": "text",
-      "order": 162
+      "order": 163
     },
     {
       "section": "Taucheigenschaften",
       "label": "3-Achsen-Tauchkompass",
       "value": "Ja (mit anpassbarer Richtung, schnellem Wechsel zu 90 Grad nach rechts, 90 Grad nach links und umgekehrte Richtung. Zeigt Grad und Richtung zurück zur festgelegten Richtung an.)",
       "valueKind": "text",
-      "order": 163
+      "order": 164
     },
     {
       "section": "Taucheigenschaften",
       "label": "Sperre bei verpasstem Dekompressionsstopp",
       "value": "Ja (kann vor dem Tauchgang nach Bestätigung durch den Benutzenden deaktiviert werden)",
       "valueKind": "text",
-      "order": 164
+      "order": 165
     },
     {
       "section": "Taucheigenschaften",
       "label": "Widget für Taucherstatus an Oberfläche",
       "value": "Ja (Oberflächenpause, Flugverbotszeit, N2-Belastung, ZNS, OTU und Gewebestatus)",
       "valueKind": "text",
-      "order": 165
+      "order": 166
     },
     {
       "section": "Marinefunktionen",
       "label": "Ankeralarm",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 166
+      "order": 167
     },
     {
       "section": "Marinefunktionen",
       "label": "Autopilotsteuerung",
       "value": "Ja",
       "valueKind": "text",
-      "order": 167
+      "order": 168
     },
     {
       "section": "Marinefunktionen",
       "label": "Streaming von Schiffsdaten",
       "value": "Ja",
       "valueKind": "text",
-      "order": 168
+      "order": 169
     },
     {
       "section": "Marinefunktionen",
       "label": "Virtuelle Startlinie",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 169
+      "order": 170
     },
     {
       "section": "Marinefunktionen",
       "label": "Countdown-Timer",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 170
+      "order": 171
     },
     {
       "section": "Marinefunktionen",
       "label": "Wendeassistent",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 171
+      "order": 172
     },
     {
       "section": "Marinefunktionen",
       "label": "Integriertes Barometer und Gezeitentabellen",
       "value": "Ja (Gezeiten zum Herunterladen)",
       "valueKind": "text",
-      "order": 172
+      "order": 173
     },
     {
       "section": "Marinefunktionen",
       "label": "Tragbare Trolling Motor-Fernbedienung",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 173
+      "order": 174
     },
     {
       "section": "Aktivitätsfunktionen",
       "label": "Schrittzähler",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 174
+      "order": 175
     },
     {
       "section": "Aktivitätsfunktionen",
       "label": "Inaktivitätsalarme",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 175
+      "order": 176
     },
     {
       "section": "Aktivitätsfunktionen",
       "label": "Automatisches Ziel (lernt, wie aktiv der Benutzer ist und weist ein Tagesziel Schritte zu)",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 176
+      "order": 177
     },
     {
       "section": "Aktivitätsfunktionen",
       "label": "Kalorienverbrauch",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 177
+      "order": 178
     },
     {
       "section": "Aktivitätsfunktionen",
       "label": "Stockwerke hochgestiegen",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 178
+      "order": 179
     },
     {
       "section": "Aktivitätsfunktionen",
       "label": "Zurückgelegte Strecke",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 179
+      "order": 180
     },
     {
       "section": "Aktivitätsfunktionen",
       "label": "Intensitätsminuten",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 180
+      "order": 181
     },
     {
       "section": "Aktivitätsfunktionen",
       "label": "TrueUp™",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 181
+      "order": 182
     },
     {
       "section": "Aktivitätsfunktionen",
       "label": "Move IQ™",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 182
+      "order": 183
     },
     {
       "section": "Aktivitätsfunktionen",
       "label": "Application Garmin Connect ™ Challenges",
       "value": "Ja (optionale Connect IQ-App)",
       "valueKind": "text",
-      "order": 183
+      "order": 184
     },
     {
       "section": "Aktivitätsfunktionen",
       "label": "Automatischer Wiederholungszähler",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 184
+      "order": 185
     },
     {
       "section": "Trainings-, Planungs- und Analysefunktionen",
       "label": "Optimierte Intervalle (u. a. offene Wiederholungen, Intervalldatenseite, Erholungsseite und automatische Erkennung)",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 185
+      "order": 186
     },
     {
       "section": "Trainings-, Planungs- und Analysefunktionen",
       "label": "Anpassbare Datenseiten",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 186
+      "order": 187
     },
     {
       "section": "Trainings-, Planungs- und Analysefunktionen",
       "label": "Herunterladbare Trainingspläne",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 187
+      "order": 188
     },
     {
       "section": "Trainings-, Planungs- und Analysefunktionen",
       "label": "Routenführung auf Strecken",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 188
+      "order": 189
     },
     {
       "section": "Trainings-, Planungs- und Analysefunktionen",
       "label": "Herzfrequenz-Bereiche",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 189
+      "order": 190
     },
     {
       "section": "Trainings-, Planungs- und Analysefunktionen",
       "label": "Herzfrequenzalarme",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 190
+      "order": 191
     },
     {
       "section": "Trainings-, Planungs- und Analysefunktionen",
       "label": "Herzfrequenz-Kalorien",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 191
+      "order": 192
     },
     {
       "section": "Trainings-, Planungs- und Analysefunktionen",
       "label": "% HF max.",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 192
+      "order": 193
     },
     {
       "section": "Trainings-, Planungs- und Analysefunktionen",
       "label": "% RHF",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 193
+      "order": 194
     },
     {
       "section": "Trainings-, Planungs- und Analysefunktionen",
       "label": "Erholungszeit",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 194
+      "order": 195
     },
     {
       "section": "Trainings-, Planungs- und Analysefunktionen",
       "label": "Automatische maximale Herzfrequenz",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 195
+      "order": 196
     },
     {
       "section": "Trainings-, Planungs- und Analysefunktionen",
       "label": "WETTKAMPF KALENDER",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 196
+      "order": 197
     },
     {
       "section": "Trainings-, Planungs- und Analysefunktionen",
       "label": "HFV Status",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 197
+      "order": 198
     },
     {
       "section": "Trainings-, Planungs- und Analysefunktionen",
       "label": "HFV-Stresstest (misst deine Herzfrequenzvariabilität, während du 3 Minuten lang still stehen, wobei das Ergebnis ein Schätzwert deiner Belastung ist; der Wert reicht von 1 bis 100, wobei ein niedrigerer Wert eine geringere Belastung kennzeichnet)",
       "value": "Ja (mit kompatiblem Zubehör)",
       "valueKind": "text",
-      "order": 198
+      "order": 199
     },
     {
       "section": "Trainings-, Planungs- und Analysefunktionen",
       "label": "Herzfrequenzübertragung (überträgt Herzfrequenzdaten über ANT+™ an gekoppelte Geräte)",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 199
+      "order": 200
     },
     {
       "section": "Trainings-, Planungs- und Analysefunktionen",
       "label": "Atemfrequenz (während des Trainings)",
       "value": "Ja (mit kompatiblem Zubehör)",
       "valueKind": "text",
-      "order": 200
+      "order": 201
     },
     {
       "section": "Trainings-, Planungs- und Analysefunktionen",
       "label": "GPS-Geschwindigkeit und -Distanz",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 201
+      "order": 202
     },
     {
       "section": "Trainings-, Planungs- und Analysefunktionen",
       "label": "Anpassbare Aktivitätsprofile",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 202
+      "order": 203
     },
     {
       "section": "Trainings-, Planungs- und Analysefunktionen",
       "label": "Auto Pause®",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 203
+      "order": 204
     },
     {
       "section": "Trainings-, Planungs- und Analysefunktionen",
       "label": "Intervalltraining",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 204
+      "order": 205
     },
     {
       "section": "Trainings-, Planungs- und Analysefunktionen",
       "label": "Erweiterte Trainings",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 205
+      "order": 206
     },
     {
       "section": "Trainings-, Planungs- und Analysefunktionen",
       "label": "Energiemodi: Anpassbare Einstellungen für Akkunutzung bei Aktivitäten",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 206
+      "order": 207
     },
     {
       "section": "Trainings-, Planungs- und Analysefunktionen",
       "label": "HRM Laufpace und -distanz",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 207
+      "order": 208
     },
     {
       "section": "Trainings-, Planungs- und Analysefunktionen",
       "label": "Auto Lap®",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 208
+      "order": 209
     },
     {
       "section": "Trainings-, Planungs- und Analysefunktionen",
       "label": "Manuelle Runde",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 209
+      "order": 210
     },
     {
       "section": "Trainings-, Planungs- und Analysefunktionen",
       "label": "Erholungs-Timer",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 210
+      "order": 211
     },
     {
       "section": "Trainings-, Planungs- und Analysefunktionen",
       "label": "Anpassbare Rundenalarme",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 211
+      "order": 212
     },
     {
       "section": "Trainings-, Planungs- und Analysefunktionen",
       "label": "Hitze- und Höhenakklimatisierung",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 212
+      "order": 213
     },
     {
       "section": "Trainings-, Planungs- und Analysefunktionen",
       "label": "VO2max (Laufen)",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 213
+      "order": 214
     },
     {
       "section": "Trainings-, Planungs- und Analysefunktionen",
       "label": "VO2max (Trailrunning)",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 214
+      "order": 215
     },
     {
       "section": "Trainings-, Planungs- und Analysefunktionen",
       "label": "Stamina Daten in Echtzeit",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 215
+      "order": 216
     },
     {
       "section": "Trainings-, Planungs- und Analysefunktionen",
       "label": "Ausdauerwert",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 216
+      "order": 217
     },
     {
       "section": "Trainings-, Planungs- und Analysefunktionen",
       "label": "Belastungsverhältnis",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 217
+      "order": 218
     },
     {
       "section": "Trainings-, Planungs- und Analysefunktionen",
       "label": "Trainingsbelastung",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 218
+      "order": 219
     },
     {
       "section": "Trainings-, Planungs- und Analysefunktionen",
       "label": "Trainingsbelastungsfokus",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 219
+      "order": 220
     },
     {
       "section": "Trainings-, Planungs- und Analysefunktionen",
       "label": "Training Effect",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 220
+      "order": 221
     },
     {
       "section": "Trainings-, Planungs- und Analysefunktionen",
       "label": "Training Effect (anaerob)",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 221
+      "order": 222
     },
     {
       "section": "Trainings-, Planungs- und Analysefunktionen",
       "label": "Hauptnutzen (Training Effect-Bezeichnungen)",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 222
+      "order": 223
     },
     {
       "section": "Trainings-, Planungs- und Analysefunktionen",
       "label": "Trainingseffekt",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 223
+      "order": 224
     },
     {
       "section": "Trainings-, Planungs- und Analysefunktionen",
       "label": "Anpassbare Alarme",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 224
+      "order": 225
     },
     {
       "section": "Trainings-, Planungs- und Analysefunktionen",
       "label": "Sprachhinweise",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 225
+      "order": 226
     },
     {
       "section": "Trainings-, Planungs- und Analysefunktionen",
       "label": "Multisport Auto-Wechsel",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 226
+      "order": 227
     },
     {
       "section": "Trainings-, Planungs- und Analysefunktionen",
       "label": "Endzeit",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 227
+      "order": 228
     },
     {
       "section": "Trainings-, Planungs- und Analysefunktionen",
       "label": "Virtual Partner",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 228
+      "order": 229
     },
     {
       "section": "Trainings-, Planungs- und Analysefunktionen",
       "label": "Virtual Racer™",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 229
+      "order": 230
     },
     {
       "section": "Trainings-, Planungs- und Analysefunktionen",
       "label": "Manuelle Multisport-Aktivitäten",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 230
+      "order": 231
     },
     {
       "section": "Trainings-, Planungs- und Analysefunktionen",
       "label": "Garmin-Live-Segmente",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 231
+      "order": 232
     },
     {
       "section": "Trainings-, Planungs- und Analysefunktionen",
       "label": "Strava-Funktionen (Beacon, Live Segments)",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 232
+      "order": 233
     },
     {
       "section": "Trainings-, Planungs- und Analysefunktionen",
       "label": "RoundTrip-Routing-Ersteller (Laufen/Radfahren)",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 233
+      "order": 234
     },
     {
       "section": "Trainings-, Planungs- und Analysefunktionen",
       "label": "Trendline™- Popularity Routing",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 234
+      "order": 235
     },
     {
       "section": "Trainings-, Planungs- und Analysefunktionen",
       "label": "DISPLAY- UND/ODER TASTENSPERRE",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 235
+      "order": 236
     },
     {
       "section": "Trainings-, Planungs- und Analysefunktionen",
       "label": "Kurzbefehle",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 236
+      "order": 237
     },
     {
       "section": "Trainings-, Planungs- und Analysefunktionen",
       "label": "Auto-Seitenwechsel",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 237
+      "order": 238
     },
     {
       "section": "Trainings-, Planungs- und Analysefunktionen",
       "label": "Aktivitätenprotokoll auf der Uhr",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 238
+      "order": 239
     },
     {
       "section": "Trainings-, Planungs- und Analysefunktionen",
       "label": "Physio TrueUp",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 239
+      "order": 240
     },
     {
       "section": "Trainings-, Planungs- und Analysefunktionen",
       "label": "Einheitlicher Trainingszustand",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 240
+      "order": 241
     },
     {
       "section": "Lauffunktionen",
       "label": "GPS-basierte Daten zu Distanz, Zeit und Pace",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 241
+      "order": 242
     },
     {
       "section": "Lauffunktionen",
       "label": "Laufeffizienz",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 242
+      "order": 243
     },
     {
       "section": "Lauffunktionen",
       "label": "Geschwindigkeitsverlust bei Bodenkontakt",
       "value": "Ja (mit kompatiblem Zubehör)",
       "valueKind": "text",
-      "order": 243
+      "order": 244
     },
     {
       "section": "Lauffunktionen",
       "label": "Vertikale Bewegung und vertikales Verhältnis",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 244
+      "order": 245
     },
     {
       "section": "Lauffunktionen",
       "label": "Bodenkontaktzeit und Balance der Bodenkontaktzeit",
       "value": "Ja (mit kompatiblem Zubehör)",
       "valueKind": "text",
-      "order": 245
+      "order": 246
     },
     {
       "section": "Lauffunktionen",
       "label": "Schrittlänge (Echtzeit)",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 246
+      "order": 247
     },
     {
       "section": "Lauffunktionen",
       "label": "Schrittfrequenz (Echtzeitanzahl der Schritte pro Minute)",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 247
+      "order": 248
     },
     {
       "section": "Lauffunktionen",
       "label": "Running Tolerance",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 248
+      "order": 249
     },
     {
       "section": "Lauffunktionen",
       "label": "Running Economy",
       "value": "Ja (mit kompatiblem Zubehör)",
       "valueKind": "text",
-      "order": 249
+      "order": 250
     },
     {
       "section": "Lauffunktionen",
       "label": "Laufleistung",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 250
+      "order": 251
     },
     {
       "section": "Lauffunktionen",
       "label": "An die Neigung angepasste Pace",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 251
+      "order": 252
     },
     {
       "section": "Lauffunktionen",
       "label": "Leistungszustand",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 252
+      "order": 253
     },
     {
       "section": "Lauffunktionen",
       "label": "Laktatschwelle",
       "value": "Ja (mit kompatiblem Zubehör)",
       "valueKind": "text",
-      "order": 253
+      "order": 254
     },
     {
       "section": "Lauffunktionen",
       "label": "PacePro™-Pace-Strategien",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 254
+      "order": 255
     },
     {
       "section": "Lauffunktionen",
       "label": "Lauftrainings",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 255
-    },
-    {
-      "section": "Lauffunktionen",
-      "label": "Hill Score",
-      "value": "",
-      "valueKind": "marker-yes",
       "order": 256
     },
     {
       "section": "Lauffunktionen",
-      "label": "Auto-Anstieg beim Trailrunning",
+      "label": "Quickstart Training",
       "value": "",
       "valueKind": "marker-yes",
       "order": 257
     },
     {
       "section": "Lauffunktionen",
-      "label": "Laufzeit-Prognose",
+      "label": "Hill Score",
       "value": "",
       "valueKind": "marker-yes",
       "order": 258
     },
     {
       "section": "Lauffunktionen",
-      "label": "Strecken- und wetterspezifische Lauf-Prognose",
+      "label": "Auto-Anstieg beim Trailrunning",
       "value": "",
       "valueKind": "marker-yes",
       "order": 259
     },
     {
       "section": "Lauffunktionen",
-      "label": "Wettkampfprognose",
+      "label": "Laufzeit-Prognose",
       "value": "",
       "valueKind": "marker-yes",
       "order": 260
     },
     {
       "section": "Lauffunktionen",
-      "label": "Kompatibel mit Laufsensor",
+      "label": "Strecken- und wetterspezifische Lauf-Prognose",
       "value": "",
       "valueKind": "marker-yes",
       "order": 261
     },
     {
       "section": "Lauffunktionen",
-      "label": "Laufen-/Gehen-/Stehen-Erkennung",
+      "label": "Wettkampfprognose",
       "value": "",
       "valueKind": "marker-yes",
       "order": 262
     },
     {
-      "section": "Golffunktionen",
-      "label": "Vorinstalliert mit 43.000 Golfplätzen weltweit",
+      "section": "Lauffunktionen",
+      "label": "Kompatibel mit Laufsensor",
       "value": "",
       "valueKind": "marker-yes",
       "order": 263
     },
     {
-      "section": "Golffunktionen",
-      "label": "Entfernung zum vorderen, mittleren und hinteren Bereich des Grüns",
+      "section": "Lauffunktionen",
+      "label": "Laufen-/Gehen-/Stehen-Erkennung",
       "value": "",
       "valueKind": "marker-yes",
       "order": 264
     },
     {
       "section": "Golffunktionen",
-      "label": "Entfernung zu Layups/Doglegs",
+      "label": "Vorinstalliert mit 43.000 Golfplätzen weltweit",
       "value": "",
       "valueKind": "marker-yes",
       "order": 265
     },
     {
       "section": "Golffunktionen",
+      "label": "Entfernung zum vorderen, mittleren und hinteren Bereich des Grüns",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 266
+    },
+    {
+      "section": "Golffunktionen",
+      "label": "Entfernung zu Layups/Doglegs",
+      "value": "",
+      "valueKind": "marker-yes",
+      "order": 267
+    },
+    {
+      "section": "Golffunktionen",
       "label": "Schlagweitenmessung (berechnet die genaue Distanz für auf dem Platz gespielte Schläge)",
       "value": "Automatisch",
       "valueKind": "text",
-      "order": 266
+      "order": 268
     },
     {
       "section": "Golffunktionen",
       "label": "Digitale Scorecard",
       "value": "Ja",
       "valueKind": "text",
-      "order": 267
+      "order": 269
     },
     {
       "section": "Golffunktionen",
       "label": "Benutzerdefinierte Ziele",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 268
+      "order": 270
     },
     {
       "section": "Golffunktionen",
       "label": "Statistikspeicherung (Schläge, Putts pro Runde, Grüns und Fairway-Treffer )",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 269
+      "order": 271
     },
     {
       "section": "Golffunktionen",
       "label": "Garmin AutoShot™",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 270
+      "order": 272
     },
     {
       "section": "Golffunktionen",
       "label": "Vollständige Vektorkarte",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 271
+      "order": 273
     },
     {
       "section": "Golffunktionen",
       "label": "Automatische CourseView-Updates",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 272
+      "order": 274
     },
     {
       "section": "Golffunktionen",
       "label": "ANSICHT GRÜN MIT MÖGLICHKEIT ZUR MANUELLEN POSITIONIERUNG DER FAHNE",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 273
+      "order": 275
     },
     {
       "section": "Golffunktionen",
       "label": "Hindernisse und Golfplatzziele",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 274
+      "order": 276
     },
     {
       "section": "Golffunktionen",
       "label": "PinPointer",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 275
+      "order": 277
     },
     {
       "section": "Golffunktionen",
       "label": "PlaysLike-Distanz",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 276
+      "order": 278
     },
     {
       "section": "Golffunktionen",
       "label": "Touch-Zielauswahl (auf dem Display auf ein Ziel tippen, um Distanz zu einem Punkt zu erhalten)",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 277
+      "order": 279
     },
     {
       "section": "Golffunktionen",
       "label": "Handicap-Scoring",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 278
+      "order": 280
     },
     {
       "section": "Golffunktionen",
       "label": "Rundentimer/Gesamtwerte",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 279
+      "order": 281
     },
     {
       "section": "Golffunktionen",
       "label": "Kompatibel mit automatischer Speicherung von Schlägern (Zubehör erforderlich)",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 280
+      "order": 282
     },
     {
       "section": "Golffunktionen",
       "label": "Kompatibel mit automatischer Aufzeichnung von Golfschlägen mit CT1 (Zubehör erforderlich)",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 281
+      "order": 283
     },
     {
       "section": "Golffunktionen",
       "label": "Windgeschwindigkeit und-richtung (erfordert Verbindung zur Golf App)",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 282
+      "order": 284
     },
     {
       "section": "Golffunktionen",
       "label": "Virtueller Caddie",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 283
+      "order": 285
     },
     {
       "section": "Golffunktionen",
       "label": "Kompatibel mit Garmin Golf-App",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 284
+      "order": 286
     },
     {
       "section": "Golffunktionen",
       "label": "Verwendbar bei Turnieren",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 285
+      "order": 287
     },
     {
       "section": "Golffunktionen",
       "label": "Konturen des Grüns (mit Garmin Golf-Mitgliedschaft)",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 286
+      "order": 288
     },
     {
       "section": "Outdoor-Freizeitfunktionen",
       "label": "Wegpunkt-Projektion",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 287
+      "order": 289
     },
     {
       "section": "Outdoor-Freizeitfunktionen",
       "label": "UltraTrac-Modus",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 288
+      "order": 290
     },
     {
       "section": "Outdoor-Freizeitfunktionen",
       "label": "Höhenprofil",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 289
+      "order": 291
     },
     {
       "section": "Outdoor-Freizeitfunktionen",
       "label": "Distanz zum Ziel",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 290
+      "order": 292
     },
     {
       "section": "Outdoor-Freizeitfunktionen",
       "label": "Barometrische Trendanzeige",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 291
+      "order": 293
     },
     {
       "section": "Outdoor-Freizeitfunktionen",
       "label": "Vertikalgeschwindigkeit",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 292
+      "order": 294
     },
     {
       "section": "Outdoor-Freizeitfunktionen",
       "label": "Anstieg/Abstieg gesamt",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 293
+      "order": 295
     },
     {
       "section": "Outdoor-Freizeitfunktionen",
       "label": "Erholungstimer (nur Ultralauf)",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 294
+      "order": 296
     },
     {
       "section": "Outdoor-Freizeitfunktionen",
       "label": "Erholungstimer",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 295
+      "order": 297
     },
     {
       "section": "Outdoor-Freizeitfunktionen",
       "label": "Zukünftiges Höhenprofil",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 296
+      "order": 298
     },
     {
       "section": "Outdoor-Freizeitfunktionen",
       "label": "GPS-Koordinaten",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 297
+      "order": 299
     },
     {
       "section": "Outdoor-Freizeitfunktionen",
       "label": "Peilen und los",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 298
+      "order": 300
     },
     {
       "section": "Outdoor-Freizeitfunktionen",
       "label": "Angelvorhersage",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 299
+      "order": 301
     },
     {
       "section": "Outdoor-Freizeitfunktionen",
       "label": "Sonnen- und Mondkalender",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 300
+      "order": 302
     },
     {
       "section": "Outdoor-Freizeitfunktionen",
       "label": "Expedition GPS-Aktivität",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 301
+      "order": 303
     },
     {
       "section": "Outdoor-Freizeitfunktionen",
       "label": "Gezeiten",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 302
+      "order": 304
     },
     {
       "section": "Outdoor-Freizeitfunktionen",
       "label": "Gezeiten-Übersicht",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 303
+      "order": 305
     },
     {
       "section": "Karten und Navigation",
       "label": "Punkt-zu-Punkt-Navigation",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 304
+      "order": 306
     },
     {
       "section": "Karten und Navigation",
       "label": "Trackaufzeichnung in Echtzeit",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 305
+      "order": 307
     },
     {
       "section": "Karten und Navigation",
       "label": "Zurück zum Start",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 306
+      "order": 308
     },
     {
       "section": "Karten und Navigation",
       "label": "TracBack®",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 307
+      "order": 309
     },
     {
       "section": "Karten und Navigation",
       "label": "Umgebung erkunden",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 308
+      "order": 310
     },
     {
       "section": "Karten und Navigation",
       "label": "POIs entlang der Route",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 309
+      "order": 311
     },
     {
       "section": "Karten und Navigation",
       "label": "ClimbPro™-Anstiegsplaner",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 310
+      "order": 312
     },
     {
       "section": "Karten und Navigation",
       "label": "NextFork™-Navigation",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 311
+      "order": 313
     },
     {
       "section": "Karten und Navigation",
       "label": "Vorinstallierte Straßen- und Trail-Karten",
       "value": "Ja (nur Sapphire Editions)",
       "valueKind": "text",
-      "order": 312
+      "order": 314
     },
     {
       "section": "Karten und Navigation",
       "label": "Vorinstallierte Skiort-Karten",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 313
+      "order": 315
     },
     {
       "section": "Karten und Navigation",
       "label": "Unterstützung für herunterladbare Karten",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 314
+      "order": 316
     },
     {
       "section": "Radfahrfunktionen",
       "label": "Strecken (zum Antreten gegen vorherige Aktivitäten)",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 315
+      "order": 317
     },
     {
       "section": "Radfahrfunktionen",
       "label": "Runde und maximale Rundenleistung beim Radfahren (mit Leistungsmesser)",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 316
+      "order": 318
     },
     {
       "section": "Radfahrfunktionen",
       "label": "Antreten gegen Aktivitäten",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 317
+      "order": 319
     },
     {
       "section": "Radfahrfunktionen",
       "label": "Zeit- oder Distanz-Alarm (Wenn du einen voreingestellten Wert erreichst, ertönt ein Alarm)",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 318
+      "order": 320
     },
     {
       "section": "Radfahrfunktionen",
       "label": "Leistungsbezogene anaerobe Schwelle (FTP)",
       "value": "Ja (mit kompatiblem Zubehör)",
       "valueKind": "text",
-      "order": 319
+      "order": 321
     },
     {
       "section": "Radfahrfunktionen",
       "label": "Leistungskurve und Trainings mit % FTP",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 320
+      "order": 322
     },
     {
       "section": "Radfahrfunktionen",
       "label": "Fahrradkarte (routingfähige Straßenkarten für das Radfahren)",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 321
+      "order": 323
     },
     {
       "section": "Radfahrfunktionen",
       "label": "MTB-Grit und -Flow",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 322
+      "order": 324
     },
     {
       "section": "Radfahrfunktionen",
       "label": "Erweiterte Cycling Dynamics",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 323
+      "order": 325
     },
     {
       "section": "Radfahrfunktionen",
       "label": "Kompatibel mit Vector™ und Rally™ (Leistungsmesser)",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 324
+      "order": 326
     },
     {
       "section": "Radfahrfunktionen",
       "label": "Kompatibel mit Varia Vision™ (Head-Mounted-Display)",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 325
+      "order": 327
     },
     {
       "section": "Radfahrfunktionen",
       "label": "Kompatibel mit Varia™-Radar (rückwärtiges Radar)",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 326
+      "order": 328
     },
     {
       "section": "Radfahrfunktionen",
       "label": "Kompatibel mit Varia™-Fahrradlichtern",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 327
+      "order": 329
     },
     {
       "section": "Radfahrfunktionen",
       "label": "Unterstützung für Geschwindigkeits- und Trittfrequenzsensor (mit Sensor)",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 328
+      "order": 330
     },
     {
       "section": "Radfahrfunktionen",
       "label": "Mit Leistungsmessgeräten kompatibel (Anzeige von Leistungsdaten von kompatiblen ANT™ + -Leistungsmessern dritter Anbieter)",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 329
+      "order": 331
     },
     {
       "section": "Radfahrfunktionen",
       "label": "Power Guide",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 330
+      "order": 332
     },
     {
       "section": "Schwimmfunktionen",
       "label": "Freiwasser-Schwimmfunktionen (Distanz, Pace, Anzahl der Züge/Zugzahl, Kalorienverbrauch)",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 331
+      "order": 333
     },
     {
       "section": "Schwimmfunktionen",
       "label": "Schwimmbadfunktionen (Bahnen, Distanz, Pace, Anzahl der Züge/Zugzahl, Kalorienverbrauch)",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 332
+      "order": 334
     },
     {
       "section": "Schwimmfunktionen",
       "label": "Schwimmstilerkennung (Kraulschwimmen, Rückenschwimmen, Brustschwimmen, Schmetterlingsschwimmen)",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 333
+      "order": 335
     },
     {
       "section": "Schwimmfunktionen",
       "label": "Übungsaufzeichnung",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 334
+      "order": 336
     },
     {
       "section": "Schwimmfunktionen",
       "label": "Einfacher Erholungs-Timer (zählt von 0 aufwärts)",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 335
+      "order": 337
     },
     {
       "section": "Schwimmfunktionen",
       "label": "Erholungs-Timer mit \"Wiederholung ein\"",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 336
+      "order": 338
     },
     {
       "section": "Schwimmfunktionen",
       "label": "Auto-Erholung (nur Schwimmbadschwimmen)",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 337
+      "order": 339
     },
     {
       "section": "Schwimmfunktionen",
       "label": "Zeit- und Distanzalarme",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 338
+      "order": 340
     },
     {
       "section": "Schwimmfunktionen",
       "label": "Pacealarme (nur Schwimmbadschwimmen)",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 339
+      "order": 341
     },
     {
       "section": "Schwimmfunktionen",
       "label": "Countdown-Start",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 340
+      "order": 342
     },
     {
       "section": "Schwimmfunktionen",
       "label": "Schwimmtrainings",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 341
+      "order": 343
     },
     {
       "section": "Schwimmfunktionen",
       "label": "Kritische Schwimmgeschwindigkeit",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 342
+      "order": 344
     },
     {
       "section": "Schwimmfunktionen",
       "label": "Herzfrequenzmessung am Handgelenk unter Wasser",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 343
+      "order": 345
     },
     {
       "section": "Schwimmfunktionen",
       "label": "Herzfrequenz von externem Herzfrequenz-Brustgurt (Echtzeitdaten während Erholungsphasen, Statistiken für Intervalle und Einheiten während Erholungsphasen, automatisches Herunterladen von Herzfrequenzdaten nach dem Schwimmen)",
       "value": "Ja (mit HRM-Tri, HRM-Swim, HRM-Pro oder HRM-Pro Plus)",
       "valueKind": "text",
-      "order": 344
+      "order": 346
     },
     {
       "section": "Sicherheits- und rechtliche Informationen",
       "label": "EU Data Act Informationen - Smartwatches, Fitness Gesundheitsgeräte und Produkte für die Herzfrequenzmessung (HRM)",
       "value": "",
       "valueKind": "marker-yes",
-      "order": 345
+      "order": 347
     }
   ],
   "specs": {
@@ -3003,5 +3017,5 @@
     }
   },
   "sourceUrl": "https://www.garmin.com/de-DE/p/1908596/",
-  "fetchedAt": "2026-09-22T09:18:54.798Z"
+  "fetchedAt": "2026-09-23T09:19:13.573Z"
 }
