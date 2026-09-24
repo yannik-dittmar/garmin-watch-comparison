@@ -359,7 +359,7 @@
     {
       "section": "Allgemein",
       "label": "Akkulaufzeit",
-      "value": "Smartwatch-Modus: Bis zu 21 Tage/34 Tage mit Solarladung*\nEnergiespar-Modus: Bis zu 37 Tage/119 Tage mit Solarladung*\nAktivitäts-Modus (normal): Bis zu 54 Stunden/81 Stunden mit Solarladung**\nAktivitäts-Modus + Musik (normal): Bis zu 15 Stunden/16 Stunden mit Solarladung**\nAktivitäts-Modus (maximaler Akku-Modus): Bis zu 132 Stunden/740 Stunden mit Solarladung**\nAktivitäts-Modus (längere Laufzeit): Bis zu 71 Stunden/127 Stunden mit Solarladung**\nAktivitäts-Modus (maximale Genauigkeit): Bis zu 38 Stunden/49 Stunden mit Solarladung**\nExpeditions-Modus: Bis zu 30 Tage/68 Tage mit Solarladung*\n* Mit Solarladung; es wird von einer ganztägigen Tragezeit mit einem Aufenthalt von 3 Stunden im Freien bei 50.000 Lux ausgegangen.\n** Es wird von einer ganztägigen Tragezeit mit einem Aufenthalt von 3 Stunden im Freien bei 50.000 Lux ausgegangen; Es wird von einem normalen Gebrauch mit SatIQ-Technologie ausgegangen.",
+      "value": "Smartwatch-Modus: Bis zu 21 Tage/34 Tage mit Solarladung*\nEnergiespar-Modus: Bis zu 37 Tage/119 Tage mit Solarladung*\nAktivitäts-Modus (normal): Bis zu 54 Stunden/81 Stunden mit Solarladung**\nAktivitäts-Modus + Musik (normal): Bis zu 15 Stunden/16 Stunden mit Solarladung**\nAktivitäts-Modus (maximaler Akku-Modus): Bis zu 132 Stunden/740 Stunden mit Solarladung**\nAktivitäts-Modus (längere Laufzeit): Bis zu 71 Stunden/127 Stunden mit Solarladung**\nAktivitäts-Modus (maximale Genauigkeit): Bis zu 38 Stunden/49 Stunden mit Solarladung**\nExpeditions-Modus: Bis zu 30 Tage/68 Tage mit Solarladung*\nSiehe Details\n* Mit Solarladung; es wird von einer ganztägigen Tragezeit mit einem Aufenthalt von 3 Stunden im Freien bei 50.000 Lux ausgegangen.\n** Es wird von einer ganztägigen Tragezeit mit einem Aufenthalt von 3 Stunden im Freien bei 50.000 Lux ausgegangen; Es wird von einem normalen Gebrauch mit SatIQ-Technologie ausgegangen.",
       "valueKind": "text",
       "order": 30
     },
@@ -2820,7 +2820,7 @@
           "sourceText": "Expeditions-Modus: Bis zu 30 Tage/68 Tage mit Solarladung*"
         }
       ],
-      "source": "Smartwatch-Modus: Bis zu 21 Tage/34 Tage mit Solarladung*\nEnergiespar-Modus: Bis zu 37 Tage/119 Tage mit Solarladung*\nAktivitäts-Modus (normal): Bis zu 54 Stunden/81 Stunden mit Solarladung**\nAktivitäts-Modus + Musik (normal): Bis zu 15 Stunden/16 Stunden mit Solarladung**\nAktivitäts-Modus (maximaler Akku-Modus): Bis zu 132 Stunden/740 Stunden mit Solarladung**\nAktivitäts-Modus (längere Laufzeit): Bis zu 71 Stunden/127 Stunden mit Solarladung**\nAktivitäts-Modus (maximale Genauigkeit): Bis zu 38 Stunden/49 Stunden mit Solarladung**\nExpeditions-Modus: Bis zu 30 Tage/68 Tage mit Solarladung*\n* Mit Solarladung; es wird von einer ganztägigen Tragezeit mit einem Aufenthalt von 3 Stunden im Freien bei 50.000 Lux ausgegangen.\n** Es wird von einer ganztägigen Tragezeit mit einem Aufenthalt von 3 Stunden im Freien bei 50.000 Lux ausgegangen; Es wird von einem normalen Gebrauch mit SatIQ-Technologie ausgegangen."
+      "source": "Smartwatch-Modus: Bis zu 21 Tage/34 Tage mit Solarladung*\nEnergiespar-Modus: Bis zu 37 Tage/119 Tage mit Solarladung*\nAktivitäts-Modus (normal): Bis zu 54 Stunden/81 Stunden mit Solarladung**\nAktivitäts-Modus + Musik (normal): Bis zu 15 Stunden/16 Stunden mit Solarladung**\nAktivitäts-Modus (maximaler Akku-Modus): Bis zu 132 Stunden/740 Stunden mit Solarladung**\nAktivitäts-Modus (längere Laufzeit): Bis zu 71 Stunden/127 Stunden mit Solarladung**\nAktivitäts-Modus (maximale Genauigkeit): Bis zu 38 Stunden/49 Stunden mit Solarladung**\nExpeditions-Modus: Bis zu 30 Tage/68 Tage mit Solarladung*\nSiehe Details\n* Mit Solarladung; es wird von einer ganztägigen Tragezeit mit einem Aufenthalt von 3 Stunden im Freien bei 50.000 Lux ausgegangen.\n** Es wird von einer ganztägigen Tragezeit mit einem Aufenthalt von 3 Stunden im Freien bei 50.000 Lux ausgegangen; Es wird von einem normalen Gebrauch mit SatIQ-Technologie ausgegangen."
     },
     "batterySmartwatchHours": {
       "kind": "number",
@@ -3086,5 +3086,5 @@
     }
   },
   "sourceUrl": "https://www.garmin.com/de-DE/p/2021177/",
-  "fetchedAt": "2026-09-23T09:19:13.020Z"
+  "fetchedAt": "2026-09-24T09:18:44.027Z"
 }

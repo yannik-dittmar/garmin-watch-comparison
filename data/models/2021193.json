@@ -249,7 +249,7 @@
     }
   ],
   "boxContents": [
-    "fēnix® 9 Smartwatch",
+    "fēnix 9 Smartwatch",
     "Lade-/Datenkabel",
     "Dokumentation"
   ],
@@ -460,7 +460,7 @@
     {
       "section": "Allgemein",
       "label": "Akkulaufzeit",
-      "value": "Smartwatch-Modus: Bis zu 16 Tage\nEnergiespar-Modus: Bis zu 24 Tage\nAktivitäts-Modus (normal): Bis zu 30 Stunden\nAktivitäts-Modus + Musik (normal): Bis zu 12 Stunden\nAktivitäts-Modus (maximale Akkulaufzeit): Bis zu 81 Stunden\nAktivitäts-Modus (längere Laufzeit): Bis zu 37 Stunden\nAktivitäts-Modus (maximale Genauigkeit): Bis zu 25 Stunden\nExpeditions-Modus: Bis zu 18 Tage",
+      "value": "Smartwatch-Modus: Bis zu 16 Tage\nEnergiespar-Modus: Bis zu 24 Tage\nAktivitäts-Modus (normal): Bis zu 30 Stunden\nAktivitäts-Modus + Musik (normal): Bis zu 12 Stunden\nAktivitäts-Modus (maximale Akkulaufzeit): Bis zu 81 Stunden\nAktivitäts-Modus (längere Laufzeit): Bis zu 37 Stunden\nAktivitäts-Modus (maximale Genauigkeit): Bis zu 25 Stunden\nExpeditions-Modus: Bis zu 18 Tage\nSiehe Details",
       "valueKind": "text",
       "order": 29
     },
@@ -2921,7 +2921,7 @@
           "sourceText": "Expeditions-Modus: Bis zu 18 Tage"
         }
       ],
-      "source": "Smartwatch-Modus: Bis zu 16 Tage\nEnergiespar-Modus: Bis zu 24 Tage\nAktivitäts-Modus (normal): Bis zu 30 Stunden\nAktivitäts-Modus + Musik (normal): Bis zu 12 Stunden\nAktivitäts-Modus (maximale Akkulaufzeit): Bis zu 81 Stunden\nAktivitäts-Modus (längere Laufzeit): Bis zu 37 Stunden\nAktivitäts-Modus (maximale Genauigkeit): Bis zu 25 Stunden\nExpeditions-Modus: Bis zu 18 Tage"
+      "source": "Smartwatch-Modus: Bis zu 16 Tage\nEnergiespar-Modus: Bis zu 24 Tage\nAktivitäts-Modus (normal): Bis zu 30 Stunden\nAktivitäts-Modus + Musik (normal): Bis zu 12 Stunden\nAktivitäts-Modus (maximale Akkulaufzeit): Bis zu 81 Stunden\nAktivitäts-Modus (längere Laufzeit): Bis zu 37 Stunden\nAktivitäts-Modus (maximale Genauigkeit): Bis zu 25 Stunden\nExpeditions-Modus: Bis zu 18 Tage\nSiehe Details"
     },
     "batterySmartwatchHours": {
       "kind": "number",
@@ -3185,5 +3185,5 @@
     }
   },
   "sourceUrl": "https://www.garmin.com/de-DE/p/2021177/",
-  "fetchedAt": "2026-09-23T09:19:12.934Z"
+  "fetchedAt": "2026-09-24T09:18:43.947Z"
 }
