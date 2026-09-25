@@ -1078,7 +1078,7 @@
     {
       "section": "Aktivitätsprofile",
       "label": "Verfügbare Outdoor-Freizeitprofile",
-      "value": "Wandern, Reiten, Golf, Bergsteigen, Disc Golf, Bogenschießen",
+      "value": "Wandern, Rucking, Reiten, Golf, Bergsteigen, Disc Golf, Bogenschießen",
       "valueKind": "text",
       "order": 107
     },
@@ -2089,5 +2089,5 @@
     }
   },
   "sourceUrl": "https://www.garmin.com/de-DE/p/1555457/",
-  "fetchedAt": "2026-09-24T09:18:44.694Z"
+  "fetchedAt": "2026-09-25T09:37:14.698Z"
 }
