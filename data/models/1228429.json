@@ -1129,7 +1129,7 @@
     },
     {
       "section": "Sicherheits- und Trackingfunktionen",
-      "label": "Hands-free voice control",
+      "label": "Sprachsteuerung",
       "value": "",
       "valueKind": "marker-yes",
       "order": 143
@@ -2991,5 +2991,5 @@
     }
   },
   "sourceUrl": "https://www.garmin.com/de-DE/p/1228493/",
-  "fetchedAt": "2026-09-29T10:41:38.478Z"
+  "fetchedAt": "2026-09-30T10:30:29.940Z"
 }

@@ -1150,7 +1150,7 @@
     },
     {
       "section": "Sicherheits- und Trackingfunktionen",
-      "label": "Fall detection",
+      "label": "STURZERKENNUNG",
       "value": "",
       "valueKind": "marker-yes",
       "order": 146
@@ -1171,7 +1171,7 @@
     },
     {
       "section": "Sicherheits- und Trackingfunktionen",
-      "label": "Hands-free voice control",
+      "label": "Sprachsteuerung",
       "value": "",
       "valueKind": "marker-yes",
       "order": 149
@@ -2520,5 +2520,5 @@
     }
   },
   "sourceUrl": "https://www.garmin.com/de-DE/p/1613801/",
-  "fetchedAt": "2026-09-29T10:41:39.481Z"
+  "fetchedAt": "2026-09-30T10:30:30.870Z"
 }
