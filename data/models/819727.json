@@ -8,9 +8,9 @@
     "qualifier": "Solar"
   },
   "price": {
-    "amount": 339.99,
+    "amount": 449.99,
     "currency": "EUR",
-    "formatted": "339,99 €"
+    "formatted": "449,99 €"
   },
   "images": [
     {
@@ -124,9 +124,9 @@
       "partNumber": "010-02730-01",
       "name": "Graphite",
       "price": {
-        "amount": 339.99,
+        "amount": 449.99,
         "currency": "EUR",
-        "formatted": "339,99 €"
+        "formatted": "449,99 €"
       },
       "images": [
         {
@@ -188,9 +188,9 @@
       "partNumber": "010-02730-02",
       "name": "Dunkelblau",
       "price": {
-        "amount": 339.99,
+        "amount": 449.99,
         "currency": "EUR",
-        "formatted": "339,99 €"
+        "formatted": "449,99 €"
       },
       "images": [
         {
@@ -2189,5 +2189,5 @@
     }
   },
   "sourceUrl": "https://www.garmin.com/de-DE/p/819761/",
-  "fetchedAt": "2026-09-30T10:30:30.505Z"
+  "fetchedAt": "2026-10-01T10:57:40.565Z"
 }

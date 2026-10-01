@@ -1150,7 +1150,7 @@
     },
     {
       "section": "Sicherheits- und Trackingfunktionen",
-      "label": "STURZERKENNUNG",
+      "label": "Sturzerkennung",
       "value": "",
       "valueKind": "marker-yes",
       "order": 146
@@ -2520,5 +2520,5 @@
     }
   },
   "sourceUrl": "https://www.garmin.com/de-DE/p/1613801/",
-  "fetchedAt": "2026-09-30T10:30:30.870Z"
+  "fetchedAt": "2026-10-01T10:57:40.924Z"
 }

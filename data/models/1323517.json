@@ -1779,7 +1779,7 @@
     },
     {
       "section": "Golffunktionen",
-      "label": "Putt tracking",
+      "label": "Putt-Analysewerte",
       "value": "",
       "valueKind": "marker-yes",
       "order": 234
@@ -2622,5 +2622,5 @@
     }
   },
   "sourceUrl": "https://www.garmin.com/de-DE/p/783467/",
-  "fetchedAt": "2026-09-30T10:30:30.634Z"
+  "fetchedAt": "2026-10-01T10:57:40.694Z"
 }
