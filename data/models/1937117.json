@@ -373,7 +373,7 @@
     {
       "section": "Allgemein",
       "label": "Gewicht",
-      "value": "41 g (1,7 Unzen) mit ComfortFit Textil-Armband",
+      "value": "48 g (1,7 Unzen) mit ComfortFit Textil-Armband",
       "valueKind": "text",
       "order": 20
     },
@@ -862,7 +862,7 @@
     },
     {
       "section": "Tägliche Smart-Funktionen",
-      "label": "Energiesparmodus: Anpassbarer Energiespar-Uhrmodus",
+      "label": "Energiesparmodus (Anpassbarer Energiespar-Uhrmodus)",
       "value": "",
       "valueKind": "marker-yes",
       "order": 90
@@ -2532,10 +2532,10 @@
     },
     "weight": {
       "kind": "number",
-      "value": 41,
+      "value": 48,
       "unit": "g",
       "bound": "exact",
-      "source": "41 g (1,7 Unzen) mit ComfortFit Textil-Armband"
+      "source": "48 g (1,7 Unzen) mit ComfortFit Textil-Armband"
     },
     "wristRange": {
       "kind": "text",
@@ -2888,5 +2888,5 @@
     }
   },
   "sourceUrl": "https://www.garmin.com/de-DE/p/1937140/",
-  "fetchedAt": "2026-10-06T11:16:40.377Z"
+  "fetchedAt": "2026-10-07T11:04:50.243Z"
 }

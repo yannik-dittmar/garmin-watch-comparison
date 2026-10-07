@@ -8,9 +8,9 @@
     "qualifier": "51 mm, AMOLED"
   },
   "price": {
-    "amount": 1099.99,
+    "amount": 999.99,
     "currency": "EUR",
-    "formatted": "1.099,99 €"
+    "formatted": "999,99 €"
   },
   "images": [
     {
@@ -72,9 +72,9 @@
       "partNumber": "010-02905-91",
       "name": "GPS-Marine-Smartwatch",
       "price": {
-        "amount": 1099.99,
+        "amount": 999.99,
         "currency": "EUR",
-        "formatted": "1.099,99 €"
+        "formatted": "999,99 €"
       },
       "images": [
         {
@@ -420,7 +420,7 @@
     },
     {
       "section": "Gesundheits- und Fitnessfunktionen",
-      "label": "Herzfrequenz (fortwährend, jede Sekunde) Herzfrequenz (konstant, jede Sekunde)",
+      "label": "Herzfrequenz (konstant, jede Sekunde)",
       "value": "",
       "valueKind": "marker-yes",
       "order": 40
@@ -770,7 +770,7 @@
     },
     {
       "section": "Tägliche Smart-Funktionen",
-      "label": "Energiesparmodus: Anpassbarer Energiespar-Uhrmodus",
+      "label": "Energiesparmodus (Anpassbarer Energiespar-Uhrmodus)",
       "value": "",
       "valueKind": "marker-yes",
       "order": 90
@@ -3017,5 +3017,5 @@
     }
   },
   "sourceUrl": "https://www.garmin.com/de-DE/p/1908596/",
-  "fetchedAt": "2026-10-06T11:16:41.566Z"
+  "fetchedAt": "2026-10-07T11:04:51.417Z"
 }
