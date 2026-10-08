@@ -452,7 +452,7 @@
     },
     {
       "section": "Gesundheits- und Fitnessfunktionen",
-      "label": "Herzfrequenz (fortwährend, jede Sekunde) Herzfrequenz (konstant, jede Sekunde)",
+      "label": "Herzfrequenz (konstant, jede Sekunde)",
       "value": "",
       "valueKind": "marker-yes",
       "order": 28
@@ -1721,5 +1721,5 @@
     }
   },
   "sourceUrl": "https://www.garmin.com/de-DE/p/1604358/",
-  "fetchedAt": "2026-10-07T11:04:50.100Z"
+  "fetchedAt": "2026-10-08T11:22:44.714Z"
 }
