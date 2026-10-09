@@ -779,7 +779,7 @@
     },
     {
       "section": "Tägliche Smart-Funktionen",
-      "label": "Energiesparmodus: Anpassbarer Energiespar-Uhrmodus",
+      "label": "Energiesparmodus (Anpassbarer Energiespar-Uhrmodus)",
       "value": "",
       "valueKind": "marker-yes",
       "order": 69
@@ -2008,5 +2008,5 @@
     }
   },
   "sourceUrl": "https://www.garmin.com/de-DE/p/1055469/",
-  "fetchedAt": "2026-10-08T11:22:45.478Z"
+  "fetchedAt": "2026-10-09T11:20:20.253Z"
 }

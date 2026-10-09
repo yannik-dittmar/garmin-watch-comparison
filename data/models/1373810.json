@@ -436,7 +436,7 @@
     },
     {
       "section": "Gesundheits- und Fitnessfunktionen",
-      "label": "Herzfrequenz (fortwährend, jede Sekunde) Herzfrequenz (konstant, jede Sekunde)",
+      "label": "Herzfrequenz (konstant, jede Sekunde)",
       "value": "",
       "valueKind": "marker-yes",
       "order": 41
@@ -793,7 +793,7 @@
     },
     {
       "section": "Tägliche Smart-Funktionen",
-      "label": "Energiesparmodus: Anpassbarer Energiespar-Uhrmodus",
+      "label": "Energiesparmodus (Anpassbarer Energiespar-Uhrmodus)",
       "value": "",
       "valueKind": "marker-yes",
       "order": 92
@@ -3145,5 +3145,5 @@
     }
   },
   "sourceUrl": "https://www.garmin.com/de-DE/p/1388769/",
-  "fetchedAt": "2026-10-08T11:22:44.958Z"
+  "fetchedAt": "2026-10-09T11:20:19.869Z"
 }
