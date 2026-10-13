@@ -637,7 +637,7 @@
     },
     {
       "section": "Gesundheits- und Fitnessfunktionen",
-      "label": "Herzfrequenz (fortwährend, jede Sekunde) Herzfrequenz (konstant, jede Sekunde)",
+      "label": "Herzfrequenz (konstant, jede Sekunde)",
       "value": "",
       "valueKind": "marker-yes",
       "order": 39
@@ -1001,7 +1001,7 @@
     },
     {
       "section": "Tägliche Smart-Funktionen",
-      "label": "Energiesparmodus: Anpassbarer Energiespar-Uhrmodus",
+      "label": "Energiesparmodus (Anpassbarer Energiespar-Uhrmodus)",
       "value": "",
       "valueKind": "marker-yes",
       "order": 91
@@ -1435,7 +1435,7 @@
     },
     {
       "section": "Aktivitätsfunktionen",
-      "label": "Rollstuhl-Schübezähler",
+      "label": "Schübe",
       "value": "",
       "valueKind": "marker-yes",
       "order": 153
@@ -2756,5 +2756,5 @@
     }
   },
   "sourceUrl": "https://www.garmin.com/de-DE/p/1613801/",
-  "fetchedAt": "2026-10-12T11:58:26.708Z"
+  "fetchedAt": "2026-10-13T11:47:26.349Z"
 }
