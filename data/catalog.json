@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generatedAt": "2026-10-13T11:47:27.057Z",
-    "oldestFetchAt": "2026-10-13T11:47:25.220Z",
+    "generatedAt": "2026-10-14T09:31:11.295Z",
+    "oldestFetchAt": "2026-10-14T09:31:08.902Z",
     "locale": "de-DE",
     "storeCode": "DE",
     "modelCount": 94,
@@ -28,8 +28,8 @@
       },
       "image": "https://res.garmin.com/en/products/010-02472-10/v/cf-lg-b6111ea5-c9b9-496d-9dfc-571d2f63ad35.jpg",
       "categories": [
-        "10002",
-        "Golfing"
+        "Golfing",
+        "10002"
       ],
       "partNumbers": [
         "010-02472-10",
@@ -320,7 +320,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/721216/",
-      "fetchedAt": "2026-10-13T11:47:25.220Z"
+      "fetchedAt": "2026-10-14T09:31:08.902Z"
     },
     {
       "id": "1604358",
@@ -338,8 +338,8 @@
       },
       "image": "https://res.garmin.com/en/products/010-03009-00/v/cf-lg.jpg",
       "categories": [
-        "10002",
         "Golfing",
+        "10002",
         "12380"
       ],
       "partNumbers": [
@@ -657,7 +657,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1604358/",
-      "fetchedAt": "2026-10-13T11:47:25.248Z"
+      "fetchedAt": "2026-10-14T09:31:08.927Z"
     },
     {
       "id": "1604377",
@@ -675,8 +675,8 @@
       },
       "image": "https://res.garmin.com/en/products/010-03010-00/v/cf-lg.jpg",
       "categories": [
-        "10002",
         "Golfing",
+        "10002",
         "12380"
       ],
       "partNumbers": [
@@ -1030,7 +1030,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1604358/",
-      "fetchedAt": "2026-10-13T11:47:25.265Z"
+      "fetchedAt": "2026-10-14T09:31:08.952Z"
     },
     {
       "id": "847697",
@@ -1402,7 +1402,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/847697/",
-      "fetchedAt": "2026-10-13T11:47:25.288Z"
+      "fetchedAt": "2026-10-14T09:31:08.983Z"
     },
     {
       "id": "847706",
@@ -1778,7 +1778,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/847697/",
-      "fetchedAt": "2026-10-13T11:47:25.311Z"
+      "fetchedAt": "2026-10-14T09:31:09.012Z"
     },
     {
       "id": "1937140",
@@ -1796,8 +1796,8 @@
       },
       "image": "https://res.garmin.com/en/products/010-04147-02/v/cf-lg.jpg",
       "categories": [
-        "10002",
-        "Golfing"
+        "Golfing",
+        "10002"
       ],
       "partNumbers": [
         "010-04147-02",
@@ -2186,7 +2186,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1937140/",
-      "fetchedAt": "2026-10-13T11:47:25.327Z"
+      "fetchedAt": "2026-10-14T09:31:09.036Z"
     },
     {
       "id": "1937117",
@@ -2204,8 +2204,8 @@
       },
       "image": "https://res.garmin.com/en/products/010-04148-02/v/cf-lg.jpg",
       "categories": [
-        "10002",
-        "Golfing"
+        "Golfing",
+        "10002"
       ],
       "partNumbers": [
         "010-04148-02",
@@ -2594,7 +2594,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1937140/",
-      "fetchedAt": "2026-10-13T11:47:25.360Z"
+      "fetchedAt": "2026-10-14T09:31:09.074Z"
     },
     {
       "id": "1957609",
@@ -3057,7 +3057,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1957609/",
-      "fetchedAt": "2026-10-13T11:47:25.376Z"
+      "fetchedAt": "2026-10-14T09:31:09.099Z"
     },
     {
       "id": "1388769",
@@ -3531,7 +3531,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1388769/",
-      "fetchedAt": "2026-10-13T11:47:25.395Z"
+      "fetchedAt": "2026-10-14T09:31:09.143Z"
     },
     {
       "id": "1373810",
@@ -4005,7 +4005,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1388769/",
-      "fetchedAt": "2026-10-13T11:47:25.422Z"
+      "fetchedAt": "2026-10-14T09:31:09.168Z"
     },
     {
       "id": "2010221",
@@ -4505,7 +4505,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1388769/",
-      "fetchedAt": "2026-10-13T11:47:25.437Z"
+      "fetchedAt": "2026-10-14T09:31:09.189Z"
     },
     {
       "id": "1558977",
@@ -4925,7 +4925,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1558977/",
-      "fetchedAt": "2026-10-13T11:47:25.456Z"
+      "fetchedAt": "2026-10-14T09:31:09.219Z"
     },
     {
       "id": "852183",
@@ -4944,6 +4944,7 @@
       "image": "https://res.garmin.com/de_DE/products/010-02753-04/v/cf-lg.jpg",
       "categories": [
         "13280",
+        "26544",
         "10002",
         "Swimming",
         "12380"
@@ -5387,7 +5388,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/852183/",
-      "fetchedAt": "2026-10-13T11:47:25.470Z"
+      "fetchedAt": "2026-10-14T09:31:09.235Z"
     },
     {
       "id": "852217",
@@ -5405,8 +5406,8 @@
       },
       "image": "https://res.garmin.com/de_DE/products/010-02753-11/v/cf-lg.jpg",
       "categories": [
-        "26544",
         "13280",
+        "26544",
         "10002",
         "Swimming",
         "12380"
@@ -5864,7 +5865,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/852183/",
-      "fetchedAt": "2026-10-13T11:47:25.490Z"
+      "fetchedAt": "2026-10-14T09:31:09.261Z"
     },
     {
       "id": "852159",
@@ -5883,6 +5884,7 @@
       "image": "https://res.garmin.com/de_DE/products/010-02752-08/v/rf-lg.jpg",
       "categories": [
         "13280",
+        "26544",
         "10002",
         "Swimming",
         "12380"
@@ -6343,7 +6345,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/852183/",
-      "fetchedAt": "2026-10-13T11:47:25.504Z"
+      "fetchedAt": "2026-10-14T09:31:09.286Z"
     },
     {
       "id": "851039",
@@ -6808,7 +6810,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/851039/",
-      "fetchedAt": "2026-10-13T11:47:25.526Z"
+      "fetchedAt": "2026-10-14T09:31:09.322Z"
     },
     {
       "id": "2032078",
@@ -7271,7 +7273,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/2032078/",
-      "fetchedAt": "2026-10-13T11:47:25.539Z"
+      "fetchedAt": "2026-10-14T09:31:09.338Z"
     },
     {
       "id": "1228493",
@@ -7289,13 +7291,13 @@
       },
       "image": "https://res.garmin.com/de_DE/products/010-02903-00/v/cf-lg.jpg",
       "categories": [
+        "Golfing",
+        "13280",
         "Multisport",
         "26544",
         "571",
         "Running",
-        "13280",
         "10002",
-        "Golfing",
         "Swimming",
         "16900",
         "55664",
@@ -7751,7 +7753,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1228493/",
-      "fetchedAt": "2026-10-13T11:47:25.552Z"
+      "fetchedAt": "2026-10-14T09:31:09.354Z"
     },
     {
       "id": "1228429",
@@ -7769,13 +7771,13 @@
       },
       "image": "https://res.garmin.com/de_DE/products/010-02904-00/v/cf-lg.jpg",
       "categories": [
+        "Golfing",
+        "13280",
         "Multisport",
         "26544",
         "571",
         "Running",
-        "13280",
         "10002",
-        "Golfing",
         "Swimming",
         "16900",
         "55664",
@@ -8231,7 +8233,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1228493/",
-      "fetchedAt": "2026-10-13T11:47:25.569Z"
+      "fetchedAt": "2026-10-14T09:31:09.376Z"
     },
     {
       "id": "1389491",
@@ -8249,13 +8251,13 @@
       },
       "image": "https://res.garmin.com/de_DE/products/010-02906-11/v/cf-lg.jpg",
       "categories": [
+        "Golfing",
+        "13280",
         "Multisport",
         "26544",
         "571",
         "Running",
-        "13280",
         "10002",
-        "Golfing",
         "Swimming",
         "16900",
         "55664",
@@ -8711,7 +8713,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1228493/",
-      "fetchedAt": "2026-10-13T11:47:25.583Z"
+      "fetchedAt": "2026-10-14T09:31:09.394Z"
     },
     {
       "id": "1228171",
@@ -8729,13 +8731,13 @@
       },
       "image": "https://res.garmin.com/de_DE/products/010-02905-00/v/cf-lg.jpg",
       "categories": [
+        "Golfing",
+        "13280",
         "Multisport",
         "26544",
         "571",
         "Running",
-        "13280",
         "10002",
-        "Golfing",
         "Swimming",
         "16900",
         "55664",
@@ -9191,7 +9193,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1228493/",
-      "fetchedAt": "2026-10-13T11:47:25.597Z"
+      "fetchedAt": "2026-10-14T09:31:09.412Z"
     },
     {
       "id": "1390829",
@@ -9209,13 +9211,13 @@
       },
       "image": "https://res.garmin.com/de_DE/products/010-02907-11/v/cf-lg.jpg",
       "categories": [
+        "Golfing",
+        "13280",
         "Multisport",
         "26544",
         "571",
         "Running",
-        "13280",
         "10002",
-        "Golfing",
         "Swimming",
         "16900",
         "55664",
@@ -9671,7 +9673,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1228493/",
-      "fetchedAt": "2026-10-13T11:47:25.611Z"
+      "fetchedAt": "2026-10-14T09:31:09.431Z"
     },
     {
       "id": "1701921",
@@ -9689,13 +9691,12 @@
       },
       "image": "https://res.garmin.com/de_DE/products/010-03198-01/v/cf-lg.jpg",
       "categories": [
+        "13280",
         "Multisport",
         "26544",
         "571",
         "Running",
-        "13280",
         "10002",
-        "Golfing",
         "Swimming",
         "16900",
         "55664",
@@ -10176,7 +10177,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1228493/",
-      "fetchedAt": "2026-10-13T11:47:25.625Z"
+      "fetchedAt": "2026-10-14T09:31:09.455Z"
     },
     {
       "id": "1703902",
@@ -10194,13 +10195,12 @@
       },
       "image": "https://res.garmin.com/de_DE/products/010-03199-01/v/cf-lg.jpg",
       "categories": [
+        "13280",
         "Multisport",
         "26544",
         "571",
         "Running",
-        "13280",
         "10002",
-        "Golfing",
         "Swimming",
         "16900",
         "55664",
@@ -10681,7 +10681,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1228493/",
-      "fetchedAt": "2026-10-13T11:47:25.639Z"
+      "fetchedAt": "2026-10-14T09:31:09.472Z"
     },
     {
       "id": "1723221",
@@ -10699,13 +10699,12 @@
       },
       "image": "https://res.garmin.com/de_DE/products/010-03380-01/v/cf-lg.jpg",
       "categories": [
+        "13280",
         "Multisport",
         "26544",
         "571",
         "Running",
-        "13280",
         "10002",
-        "Golfing",
         "Swimming",
         "16900",
         "55664",
@@ -11184,7 +11183,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1228493/",
-      "fetchedAt": "2026-10-13T11:47:25.653Z"
+      "fetchedAt": "2026-10-14T09:31:09.490Z"
     },
     {
       "id": "2021177",
@@ -11202,13 +11201,13 @@
       },
       "image": "https://res.garmin.com/de_DE/products/010-04761-01/v/cf-lg.jpg",
       "categories": [
+        "Golfing",
+        "13280",
         "Multisport",
         "26544",
         "571",
         "Running",
-        "13280",
         "10002",
-        "Golfing",
         "Swimming",
         "16900",
         "55664",
@@ -11657,7 +11656,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/2021177/",
-      "fetchedAt": "2026-10-13T11:47:25.667Z"
+      "fetchedAt": "2026-10-14T09:31:09.510Z"
     },
     {
       "id": "2021193",
@@ -11675,13 +11674,13 @@
       },
       "image": "https://res.garmin.com/de_DE/products/010-04762-01/v/cf-lg.jpg",
       "categories": [
+        "Golfing",
+        "13280",
         "Multisport",
         "26544",
         "571",
         "Running",
-        "13280",
         "10002",
-        "Golfing",
         "Swimming",
         "16900",
         "55664",
@@ -12130,7 +12129,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/2021177/",
-      "fetchedAt": "2026-10-13T11:47:25.679Z"
+      "fetchedAt": "2026-10-14T09:31:09.527Z"
     },
     {
       "id": "2021175",
@@ -12148,13 +12147,13 @@
       },
       "image": "https://res.garmin.com/de_DE/products/010-04763-01/v/cf-lg.jpg",
       "categories": [
+        "Golfing",
+        "13280",
         "Multisport",
         "26544",
         "571",
         "Running",
-        "13280",
         "10002",
-        "Golfing",
         "Swimming",
         "16900",
         "55664",
@@ -12603,7 +12602,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/2021177/",
-      "fetchedAt": "2026-10-13T11:47:25.692Z"
+      "fetchedAt": "2026-10-14T09:31:09.544Z"
     },
     {
       "id": "1962767",
@@ -12621,13 +12620,13 @@
       },
       "image": "https://res.garmin.com/de_DE/products/010-04335-06/v/cf-lg.jpg",
       "categories": [
+        "Golfing",
+        "13280",
         "Multisport",
         "26544",
         "571",
         "Running",
-        "13280",
         "10002",
-        "Golfing",
         "Swimming",
         "16900",
         "55664",
@@ -13078,7 +13077,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/2021177/",
-      "fetchedAt": "2026-10-13T11:47:25.704Z"
+      "fetchedAt": "2026-10-14T09:31:09.561Z"
     },
     {
       "id": "1962732",
@@ -13096,13 +13095,13 @@
       },
       "image": "https://res.garmin.com/de_DE/products/010-04336-06​/v/cf-lg.jpg",
       "categories": [
+        "Golfing",
+        "13280",
         "Multisport",
         "26544",
         "571",
         "Running",
-        "13280",
         "10002",
-        "Golfing",
         "Swimming",
         "16900",
         "55664",
@@ -13552,7 +13551,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/2021177/",
-      "fetchedAt": "2026-10-13T11:47:25.716Z"
+      "fetchedAt": "2026-10-14T09:31:09.578Z"
     },
     {
       "id": "1962713",
@@ -13570,13 +13569,13 @@
       },
       "image": "https://res.garmin.com/de_DE/products/010-04337-06/v/cf-lg.jpg",
       "categories": [
+        "Golfing",
+        "13280",
         "Multisport",
         "26544",
         "571",
         "Running",
-        "13280",
         "10002",
-        "Golfing",
         "Swimming",
         "16900",
         "55664",
@@ -14026,7 +14025,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/2021177/",
-      "fetchedAt": "2026-10-13T11:47:25.729Z"
+      "fetchedAt": "2026-10-14T09:31:09.597Z"
     },
     {
       "id": "1959805",
@@ -14044,13 +14043,13 @@
       },
       "image": "https://res.garmin.com/de_DE/products/010-04338-06​/v/cf-lg.jpg",
       "categories": [
+        "Golfing",
+        "13280",
         "Multisport",
         "26544",
         "571",
         "Running",
-        "13280",
         "10002",
-        "Golfing",
         "Swimming",
         "16900",
         "55664",
@@ -14500,7 +14499,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/2021177/",
-      "fetchedAt": "2026-10-13T11:47:25.742Z"
+      "fetchedAt": "2026-10-14T09:31:09.613Z"
     },
     {
       "id": "1959921",
@@ -14518,13 +14517,13 @@
       },
       "image": "https://res.garmin.com/de_DE/products/010-04339-06/v/cf-lg.jpg",
       "categories": [
+        "Golfing",
+        "13280",
         "Multisport",
         "26544",
         "571",
         "Running",
-        "13280",
         "10002",
-        "Golfing",
         "Swimming",
         "16900",
         "55664",
@@ -14974,7 +14973,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/2021177/",
-      "fetchedAt": "2026-10-13T11:47:25.755Z"
+      "fetchedAt": "2026-10-14T09:31:09.630Z"
     },
     {
       "id": "1652337",
@@ -14992,13 +14991,13 @@
       },
       "image": "https://res.garmin.com/de_DE/products/010-03025-00/v/cf-lg.jpg",
       "categories": [
+        "Golfing",
+        "13280",
         "Multisport",
         "26544",
         "571",
         "Running",
-        "13280",
         "10002",
-        "Golfing",
         "Swimming",
         "16900",
         "55664",
@@ -15428,7 +15427,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1228493/",
-      "fetchedAt": "2026-10-13T11:47:25.768Z"
+      "fetchedAt": "2026-10-14T09:31:09.646Z"
     },
     {
       "id": "1055469",
@@ -15825,7 +15824,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1055469/",
-      "fetchedAt": "2026-10-13T11:47:25.779Z"
+      "fetchedAt": "2026-10-14T09:31:09.663Z"
     },
     {
       "id": "1611937",
@@ -16250,7 +16249,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1055469/",
-      "fetchedAt": "2026-10-13T11:47:25.791Z"
+      "fetchedAt": "2026-10-14T09:31:09.679Z"
     },
     {
       "id": "1915560",
@@ -16658,7 +16657,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1915560/",
-      "fetchedAt": "2026-10-13T11:47:25.799Z"
+      "fetchedAt": "2026-10-14T09:31:09.687Z"
     },
     {
       "id": "2014513",
@@ -17094,7 +17093,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1915560/",
-      "fetchedAt": "2026-10-13T11:47:25.806Z"
+      "fetchedAt": "2026-10-14T09:31:09.699Z"
     },
     {
       "id": "886785",
@@ -17544,7 +17543,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/886785/",
-      "fetchedAt": "2026-10-13T11:47:25.815Z"
+      "fetchedAt": "2026-10-14T09:31:09.711Z"
     },
     {
       "id": "886689",
@@ -17994,7 +17993,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/886785/",
-      "fetchedAt": "2026-10-13T11:47:25.822Z"
+      "fetchedAt": "2026-10-14T09:31:09.721Z"
     },
     {
       "id": "1463821",
@@ -18454,7 +18453,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1463821/",
-      "fetchedAt": "2026-10-13T11:47:25.832Z"
+      "fetchedAt": "2026-10-14T09:31:09.733Z"
     },
     {
       "id": "1464001",
@@ -18914,7 +18913,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1463821/",
-      "fetchedAt": "2026-10-13T11:47:25.842Z"
+      "fetchedAt": "2026-10-14T09:31:09.746Z"
     },
     {
       "id": "1941179",
@@ -19311,7 +19310,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1915560/",
-      "fetchedAt": "2026-10-13T11:47:25.851Z"
+      "fetchedAt": "2026-10-14T09:31:09.758Z"
     },
     {
       "id": "777655",
@@ -19737,7 +19736,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/777655/",
-      "fetchedAt": "2026-10-13T11:47:25.860Z"
+      "fetchedAt": "2026-10-14T09:31:09.769Z"
     },
     {
       "id": "777730",
@@ -20165,7 +20164,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/777655/",
-      "fetchedAt": "2026-10-13T11:47:25.869Z"
+      "fetchedAt": "2026-10-14T09:31:09.782Z"
     },
     {
       "id": "886725",
@@ -20614,7 +20613,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/886725/",
-      "fetchedAt": "2026-10-13T11:47:25.877Z"
+      "fetchedAt": "2026-10-14T09:31:09.793Z"
     },
     {
       "id": "1462801",
@@ -21077,7 +21076,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1462801/",
-      "fetchedAt": "2026-10-13T11:47:25.887Z"
+      "fetchedAt": "2026-10-14T09:31:09.813Z"
     },
     {
       "id": "1316397",
@@ -21521,7 +21520,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1316397/",
-      "fetchedAt": "2026-10-13T11:47:25.898Z"
+      "fetchedAt": "2026-10-14T09:31:09.831Z"
     },
     {
       "id": "1315317",
@@ -21962,7 +21961,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1316397/",
-      "fetchedAt": "2026-10-13T11:47:25.907Z"
+      "fetchedAt": "2026-10-14T09:31:09.844Z"
     },
     {
       "id": "1705221",
@@ -22402,7 +22401,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1316397/",
-      "fetchedAt": "2026-10-13T11:47:25.915Z"
+      "fetchedAt": "2026-10-14T09:31:09.854Z"
     },
     {
       "id": "1622337",
@@ -22846,7 +22845,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1316397/",
-      "fetchedAt": "2026-10-13T11:47:25.925Z"
+      "fetchedAt": "2026-10-14T09:31:09.868Z"
     },
     {
       "id": "1718241",
@@ -23289,7 +23288,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1316397/",
-      "fetchedAt": "2026-10-13T11:47:25.935Z"
+      "fetchedAt": "2026-10-14T09:31:09.882Z"
     },
     {
       "id": "1316857",
@@ -23731,7 +23730,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1316397/",
-      "fetchedAt": "2026-10-13T11:47:25.944Z"
+      "fetchedAt": "2026-10-14T09:31:09.893Z"
     },
     {
       "id": "1476633",
@@ -24171,7 +24170,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1316397/",
-      "fetchedAt": "2026-10-13T11:47:25.954Z"
+      "fetchedAt": "2026-10-14T09:31:09.907Z"
     },
     {
       "id": "819761",
@@ -24574,7 +24573,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/819761/",
-      "fetchedAt": "2026-10-13T11:47:25.964Z"
+      "fetchedAt": "2026-10-14T09:31:09.920Z"
     },
     {
       "id": "1800201",
@@ -25017,7 +25016,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/819761/",
-      "fetchedAt": "2026-10-13T11:47:25.971Z"
+      "fetchedAt": "2026-10-14T09:31:09.930Z"
     },
     {
       "id": "1795741",
@@ -25459,7 +25458,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/819761/",
-      "fetchedAt": "2026-10-13T11:47:25.981Z"
+      "fetchedAt": "2026-10-14T09:31:09.943Z"
     },
     {
       "id": "819727",
@@ -25864,7 +25863,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/819761/",
-      "fetchedAt": "2026-10-13T11:47:25.991Z"
+      "fetchedAt": "2026-10-14T09:31:09.956Z"
     },
     {
       "id": "819546",
@@ -26268,7 +26267,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/819761/",
-      "fetchedAt": "2026-10-13T11:47:25.998Z"
+      "fetchedAt": "2026-10-14T09:31:09.966Z"
     },
     {
       "id": "1314137",
@@ -26674,7 +26673,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1316397/",
-      "fetchedAt": "2026-10-13T11:47:26.007Z"
+      "fetchedAt": "2026-10-14T09:31:09.978Z"
     },
     {
       "id": "1315817",
@@ -27081,7 +27080,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1316397/",
-      "fetchedAt": "2026-10-13T11:47:26.019Z"
+      "fetchedAt": "2026-10-14T09:31:09.996Z"
     },
     {
       "id": "950277",
@@ -27403,7 +27402,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/950277/",
-      "fetchedAt": "2026-10-13T11:47:26.030Z"
+      "fetchedAt": "2026-10-14T09:31:10.009Z"
     },
     {
       "id": "1196650",
@@ -27757,7 +27756,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/950277/",
-      "fetchedAt": "2026-10-13T11:47:26.034Z"
+      "fetchedAt": "2026-10-14T09:31:10.015Z"
     },
     {
       "id": "950157",
@@ -28082,7 +28081,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/950277/",
-      "fetchedAt": "2026-10-13T11:47:26.039Z"
+      "fetchedAt": "2026-10-14T09:31:10.021Z"
     },
     {
       "id": "783467",
@@ -28100,11 +28099,11 @@
       },
       "image": "https://res.garmin.com/en/products/010-02648-31/v/cf-lg.jpg",
       "categories": [
-        "10002",
+        "16683",
         "Golfing",
+        "10002",
         "16900",
         "32828",
-        "16683",
         "12380"
       ],
       "partNumbers": [
@@ -28543,7 +28542,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/783467/",
-      "fetchedAt": "2026-10-13T11:47:26.045Z"
+      "fetchedAt": "2026-10-14T09:31:10.028Z"
     },
     {
       "id": "1765781",
@@ -28561,11 +28560,11 @@
       },
       "image": "https://res.garmin.com/en_GB/products/010-03393-31/v/cf-lg.jpg",
       "categories": [
-        "10002",
+        "16683",
         "Golfing",
+        "10002",
         "16900",
         "32828",
-        "16683",
         "12380"
       ],
       "partNumbers": [
@@ -29003,7 +29002,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/783467/",
-      "fetchedAt": "2026-10-13T11:47:26.057Z"
+      "fetchedAt": "2026-10-14T09:31:10.042Z"
     },
     {
       "id": "1962389",
@@ -29021,11 +29020,12 @@
       },
       "image": "https://res.garmin.com/en_GB/products/010-04549-00/v/cf-lg.jpg",
       "categories": [
-        "10002",
+        "16683",
         "Golfing",
+        "13280",
+        "10002",
         "16900",
-        "55664",
-        "16683"
+        "55664"
       ],
       "partNumbers": [
         "010-04549-00"
@@ -29202,19 +29202,10 @@
               "hours": 26,
               "bound": "up-to",
               "solar": false,
-              "sourceText": "Aktivitäts-Modus (maximale Genauigkeit): Bis zu 26 Stunden"
-            },
-            {
-              "id": "expeditions-modus",
-              "label": "Expeditions-Modus",
-              "role": "expedition",
-              "hours": 432,
-              "bound": "up-to",
-              "solar": false,
-              "sourceText": "Expeditions-Modus: Bis zu 18 Tage"
+              "sourceText": "Aktivitäts-Modus (maximale Genauigkeit): Bis zu 26 Stunden Expeditions-Modus: Bis zu 18 Tage"
             }
           ],
-          "source": "Smartwatch-Modus: Bis zu 18 Tage (7 Tage, im Always-On Modus)\nEnergiespar-Modus: Bis zu 24 Tage\nAktivitäts-Modus (normal): Bis zu 32 Stunden\nAktivitäts-Modus + Musik (normal): Bis zu 13 Stunden\nAktivitäts-Modus + LiveTrack per LTE (normal): Bis zu 16 Stunden\nAktivitäts-Modus (maximale Akkulaufzeit): Bis zu 87 Stunden\nAktivitäts-Modus (längere Laufzeit): Bis zu 37 Stunden\nAktivitäts-Modus (maximale Genauigkeit): Bis zu 26 Stunden\nExpeditions-Modus: Bis zu 18 Tage"
+          "source": "Smartwatch-Modus: Bis zu 18 Tage (7 Tage, im Always-On Modus)\nEnergiespar-Modus: Bis zu 24 Tage\nAktivitäts-Modus (normal): Bis zu 32 Stunden\nAktivitäts-Modus + Musik (normal): Bis zu 13 Stunden\nAktivitäts-Modus + LiveTrack per LTE (normal): Bis zu 16 Stunden\nAktivitäts-Modus (maximale Akkulaufzeit): Bis zu 87 Stunden\nAktivitäts-Modus (längere Laufzeit): Bis zu 37 Stunden\nAktivitäts-Modus (maximale Genauigkeit): Bis zu 26 Stunden Expeditions-Modus: Bis zu 18 Tage"
         },
         "batterySmartwatchHours": {
           "kind": "number",
@@ -29486,7 +29477,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1962389/",
-      "fetchedAt": "2026-10-13T11:47:26.068Z"
+      "fetchedAt": "2026-10-14T09:31:10.057Z"
     },
     {
       "id": "783448",
@@ -29504,11 +29495,11 @@
       },
       "image": "https://res.garmin.com/en/products/010-02648-41/v/cf-lg.jpg",
       "categories": [
-        "10002",
+        "16683",
         "Golfing",
+        "10002",
         "16900",
         "32828",
-        "16683",
         "12380"
       ],
       "partNumbers": [
@@ -29947,7 +29938,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/783467/",
-      "fetchedAt": "2026-10-13T11:47:26.082Z"
+      "fetchedAt": "2026-10-14T09:31:10.076Z"
     },
     {
       "id": "815448",
@@ -29965,11 +29956,11 @@
       },
       "image": "https://res.garmin.com/en/products/010-02722-11/v/cf-lg.jpg",
       "categories": [
-        "10002",
+        "16683",
         "Golfing",
+        "10002",
         "16900",
         "32828",
-        "16683",
         "12380"
       ],
       "partNumbers": [
@@ -30407,7 +30398,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/783467/",
-      "fetchedAt": "2026-10-13T11:47:26.093Z"
+      "fetchedAt": "2026-10-14T09:31:10.091Z"
     },
     {
       "id": "1323517",
@@ -30425,11 +30416,11 @@
       },
       "image": "https://res.garmin.com/en/products/010-02648-51/v/cf-lg.jpg",
       "categories": [
-        "10002",
+        "16683",
         "Golfing",
+        "10002",
         "16900",
         "32828",
-        "16683",
         "12380"
       ],
       "partNumbers": [
@@ -30867,7 +30858,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/783467/",
-      "fetchedAt": "2026-10-13T11:47:26.105Z"
+      "fetchedAt": "2026-10-14T09:31:10.106Z"
     },
     {
       "id": "1963279",
@@ -30885,11 +30876,12 @@
       },
       "image": "https://res.garmin.com/en_GB/products/010-04549-10/v/cf-lg.jpg",
       "categories": [
-        "10002",
+        "16683",
         "Golfing",
+        "13280",
+        "10002",
         "16900",
-        "55664",
-        "16683"
+        "55664"
       ],
       "partNumbers": [
         "010-04549-10"
@@ -31066,19 +31058,10 @@
               "hours": 26,
               "bound": "up-to",
               "solar": false,
-              "sourceText": "Aktivitäts-Modus (maximale Genauigkeit): Bis zu 26 Stunden"
-            },
-            {
-              "id": "expeditions-modus",
-              "label": "Expeditions-Modus",
-              "role": "expedition",
-              "hours": 432,
-              "bound": "up-to",
-              "solar": false,
-              "sourceText": "Expeditions-Modus: Bis zu 18 Tage"
+              "sourceText": "Aktivitäts-Modus (maximale Genauigkeit): Bis zu 26 Stunden Expeditions-Modus: Bis zu 18 Tage"
             }
           ],
-          "source": "Smartwatch-Modus: Bis zu 18 Tage (7 Tage, im Always-On Modus)\nEnergiespar-Modus: Bis zu 24 Tage\nAktivitäts-Modus (normal): Bis zu 32 Stunden\nAktivitäts-Modus + Musik (normal): Bis zu 13 Stunden\nAktivitäts-Modus + LiveTrack per LTE (normal): Bis zu 16 Stunden\nAktivitäts-Modus (maximale Akkulaufzeit): Bis zu 87 Stunden\nAktivitäts-Modus (längere Laufzeit): Bis zu 37 Stunden\nAktivitäts-Modus (maximale Genauigkeit): Bis zu 26 Stunden\nExpeditions-Modus: Bis zu 18 Tage"
+          "source": "Smartwatch-Modus: Bis zu 18 Tage (7 Tage, im Always-On Modus)\nEnergiespar-Modus: Bis zu 24 Tage\nAktivitäts-Modus (normal): Bis zu 32 Stunden\nAktivitäts-Modus + Musik (normal): Bis zu 13 Stunden\nAktivitäts-Modus + LiveTrack per LTE (normal): Bis zu 16 Stunden\nAktivitäts-Modus (maximale Akkulaufzeit): Bis zu 87 Stunden\nAktivitäts-Modus (längere Laufzeit): Bis zu 37 Stunden\nAktivitäts-Modus (maximale Genauigkeit): Bis zu 26 Stunden Expeditions-Modus: Bis zu 18 Tage"
         },
         "batterySmartwatchHours": {
           "kind": "number",
@@ -31350,7 +31333,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1962389/",
-      "fetchedAt": "2026-10-13T11:47:26.117Z"
+      "fetchedAt": "2026-10-14T09:31:10.118Z"
     },
     {
       "id": "783461",
@@ -31368,11 +31351,11 @@
       },
       "image": "https://res.garmin.com/en/products/010-02648-01/v/cf-lg.jpg",
       "categories": [
-        "10002",
+        "16683",
         "Golfing",
+        "10002",
         "16900",
         "32828",
-        "16683",
         "12380"
       ],
       "partNumbers": [
@@ -31811,7 +31794,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/783467/",
-      "fetchedAt": "2026-10-13T11:47:26.132Z"
+      "fetchedAt": "2026-10-14T09:31:10.146Z"
     },
     {
       "id": "1963375",
@@ -31829,11 +31812,12 @@
       },
       "image": "https://res.garmin.com/en_GB/products/010-04549-20/v/cf-lg.jpg",
       "categories": [
-        "10002",
+        "16683",
         "Golfing",
+        "13280",
+        "10002",
         "16900",
-        "55664",
-        "16683"
+        "55664"
       ],
       "partNumbers": [
         "010-04549-20"
@@ -32285,7 +32269,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1962389/",
-      "fetchedAt": "2026-10-13T11:47:26.142Z"
+      "fetchedAt": "2026-10-14T09:31:10.159Z"
     },
     {
       "id": "783441",
@@ -32303,11 +32287,11 @@
       },
       "image": "https://res.garmin.com/en/products/010-02648-11/v/cf-lg.jpg",
       "categories": [
-        "10002",
+        "16683",
         "Golfing",
+        "10002",
         "16900",
         "32828",
-        "16683",
         "12380"
       ],
       "partNumbers": [
@@ -32746,7 +32730,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/783467/",
-      "fetchedAt": "2026-10-13T11:47:26.155Z"
+      "fetchedAt": "2026-10-14T09:31:10.178Z"
     },
     {
       "id": "815582",
@@ -32764,11 +32748,11 @@
       },
       "image": "https://res.garmin.com/en/products/010-02722-01/v/cf-lg.jpg",
       "categories": [
-        "10002",
+        "16683",
         "Golfing",
+        "10002",
         "16900",
         "32828",
-        "16683",
         "12380"
       ],
       "partNumbers": [
@@ -33202,7 +33186,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/783467/",
-      "fetchedAt": "2026-10-13T11:47:26.167Z"
+      "fetchedAt": "2026-10-14T09:31:10.194Z"
     },
     {
       "id": "1963306",
@@ -33220,11 +33204,12 @@
       },
       "image": "https://res.garmin.com/en_GB/products/010-04549-30/v/cf-lg.jpg",
       "categories": [
-        "10002",
+        "16683",
         "Golfing",
+        "13280",
+        "10002",
         "16900",
-        "55664",
-        "16683"
+        "55664"
       ],
       "partNumbers": [
         "010-04549-30"
@@ -33401,19 +33386,10 @@
               "hours": 26,
               "bound": "up-to",
               "solar": false,
-              "sourceText": "Aktivitäts-Modus (maximale Genauigkeit): Bis zu 26 Stunden"
-            },
-            {
-              "id": "expeditions-modus",
-              "label": "Expeditions-Modus",
-              "role": "expedition",
-              "hours": 432,
-              "bound": "up-to",
-              "solar": false,
-              "sourceText": "Expeditions-Modus: Bis zu 18 Tage"
+              "sourceText": "Aktivitäts-Modus (maximale Genauigkeit): Bis zu 26 Stunden Expeditions-Modus: Bis zu 18 Tage"
             }
           ],
-          "source": "Smartwatch-Modus: Bis zu 18 Tage (7 Tage, im Always-On Modus)\nEnergiespar-Modus: Bis zu 24 Tage\nAktivitäts-Modus (normal): Bis zu 32 Stunden\nAktivitäts-Modus + Musik (normal): Bis zu 13 Stunden\nAktivitäts-Modus + LiveTrack per LTE (normal): Bis zu 16 Stunden\nAktivitäts-Modus (maximale Akkulaufzeit): Bis zu 87 Stunden\nAktivitäts-Modus (längere Laufzeit): Bis zu 37 Stunden\nAktivitäts-Modus (maximale Genauigkeit): Bis zu 26 Stunden\nExpeditions-Modus: Bis zu 18 Tage"
+          "source": "Smartwatch-Modus: Bis zu 18 Tage (7 Tage, im Always-On Modus)\nEnergiespar-Modus: Bis zu 24 Tage\nAktivitäts-Modus (normal): Bis zu 32 Stunden\nAktivitäts-Modus + Musik (normal): Bis zu 13 Stunden\nAktivitäts-Modus + LiveTrack per LTE (normal): Bis zu 16 Stunden\nAktivitäts-Modus (maximale Akkulaufzeit): Bis zu 87 Stunden\nAktivitäts-Modus (längere Laufzeit): Bis zu 37 Stunden\nAktivitäts-Modus (maximale Genauigkeit): Bis zu 26 Stunden Expeditions-Modus: Bis zu 18 Tage"
         },
         "batterySmartwatchHours": {
           "kind": "number",
@@ -33685,7 +33661,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1962389/",
-      "fetchedAt": "2026-10-13T11:47:26.178Z"
+      "fetchedAt": "2026-10-14T09:31:10.209Z"
     },
     {
       "id": "1963317",
@@ -33703,12 +33679,12 @@
       },
       "image": "https://res.garmin.com/en_GB/products/010-04549-40/v/cf-lg.jpg",
       "categories": [
+        "16683",
+        "Golfing",
         "13280",
         "10002",
-        "Golfing",
         "16900",
-        "55664",
-        "16683"
+        "55664"
       ],
       "partNumbers": [
         "010-04549-40"
@@ -34160,7 +34136,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1962389/",
-      "fetchedAt": "2026-10-13T11:47:26.192Z"
+      "fetchedAt": "2026-10-14T09:31:10.227Z"
     },
     {
       "id": "783465",
@@ -34178,11 +34154,11 @@
       },
       "image": "https://res.garmin.com/en/products/010-02648-21/v/cf-lg.jpg",
       "categories": [
-        "10002",
+        "16683",
         "Golfing",
+        "10002",
         "16900",
         "32828",
-        "16683",
         "12380"
       ],
       "partNumbers": [
@@ -34621,7 +34597,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/783467/",
-      "fetchedAt": "2026-10-13T11:47:26.206Z"
+      "fetchedAt": "2026-10-14T09:31:10.245Z"
     },
     {
       "id": "815409",
@@ -34639,11 +34615,11 @@
       },
       "image": "https://res.garmin.com/en/products/010-02722-21/v/cf-lg.jpg",
       "categories": [
-        "10002",
+        "16683",
         "Golfing",
+        "10002",
         "16900",
         "32828",
-        "16683",
         "12380"
       ],
       "partNumbers": [
@@ -35077,7 +35053,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/783467/",
-      "fetchedAt": "2026-10-13T11:47:26.217Z"
+      "fetchedAt": "2026-10-14T09:31:10.260Z"
     },
     {
       "id": "1973515",
@@ -35095,11 +35071,12 @@
       },
       "image": "https://res.garmin.com/en_GB/products/010-04549-50/v/cf-lg.jpg",
       "categories": [
-        "10002",
+        "16683",
         "Golfing",
+        "13280",
+        "10002",
         "16900",
-        "55664",
-        "16683"
+        "55664"
       ],
       "partNumbers": [
         "010-04549-50"
@@ -35276,19 +35253,10 @@
               "hours": 26,
               "bound": "up-to",
               "solar": false,
-              "sourceText": "Aktivitäts-Modus (maximale Genauigkeit): Bis zu 26 Stunden"
-            },
-            {
-              "id": "expeditions-modus",
-              "label": "Expeditions-Modus",
-              "role": "expedition",
-              "hours": 432,
-              "bound": "up-to",
-              "solar": false,
-              "sourceText": "Expeditions-Modus: Bis zu 18 Tage"
+              "sourceText": "Aktivitäts-Modus (maximale Genauigkeit): Bis zu 26 Stunden Expeditions-Modus: Bis zu 18 Tage"
             }
           ],
-          "source": "Smartwatch-Modus: Bis zu 18 Tage (7 Tage, im Always-On Modus)\nEnergiespar-Modus: Bis zu 24 Tage\nAktivitäts-Modus (normal): Bis zu 32 Stunden\nAktivitäts-Modus + Musik (normal): Bis zu 13 Stunden\nAktivitäts-Modus + LiveTrack per LTE (normal): Bis zu 16 Stunden\nAktivitäts-Modus (maximale Akkulaufzeit): Bis zu 87 Stunden\nAktivitäts-Modus (längere Laufzeit): Bis zu 37 Stunden\nAktivitäts-Modus (maximale Genauigkeit): Bis zu 26 Stunden\nExpeditions-Modus: Bis zu 18 Tage"
+          "source": "Smartwatch-Modus: Bis zu 18 Tage (7 Tage, im Always-On Modus)\nEnergiespar-Modus: Bis zu 24 Tage\nAktivitäts-Modus (normal): Bis zu 32 Stunden\nAktivitäts-Modus + Musik (normal): Bis zu 13 Stunden\nAktivitäts-Modus + LiveTrack per LTE (normal): Bis zu 16 Stunden\nAktivitäts-Modus (maximale Akkulaufzeit): Bis zu 87 Stunden\nAktivitäts-Modus (längere Laufzeit): Bis zu 37 Stunden\nAktivitäts-Modus (maximale Genauigkeit): Bis zu 26 Stunden Expeditions-Modus: Bis zu 18 Tage"
         },
         "batterySmartwatchHours": {
           "kind": "number",
@@ -35560,7 +35528,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1962389/",
-      "fetchedAt": "2026-10-13T11:47:26.226Z"
+      "fetchedAt": "2026-10-14T09:31:10.272Z"
     },
     {
       "id": "1908596",
@@ -36028,7 +35996,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1908596/",
-      "fetchedAt": "2026-10-13T11:47:26.241Z"
+      "fetchedAt": "2026-10-14T09:31:10.291Z"
     },
     {
       "id": "1908580",
@@ -36496,7 +36464,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1908596/",
-      "fetchedAt": "2026-10-13T11:47:26.254Z"
+      "fetchedAt": "2026-10-14T09:31:10.308Z"
     },
     {
       "id": "1986622",
@@ -36990,7 +36958,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1908596/",
-      "fetchedAt": "2026-10-13T11:47:26.267Z"
+      "fetchedAt": "2026-10-14T09:31:10.325Z"
     },
     {
       "id": "1828661",
@@ -37461,7 +37429,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1828661/",
-      "fetchedAt": "2026-10-13T11:47:26.280Z"
+      "fetchedAt": "2026-10-14T09:31:10.343Z"
     },
     {
       "id": "1828641",
@@ -37932,7 +37900,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1828661/",
-      "fetchedAt": "2026-10-13T11:47:26.294Z"
+      "fetchedAt": "2026-10-14T09:31:10.361Z"
     },
     {
       "id": "1963258",
@@ -38402,7 +38370,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1828661/",
-      "fetchedAt": "2026-10-13T11:47:26.306Z"
+      "fetchedAt": "2026-10-14T09:31:10.378Z"
     },
     {
       "id": "1828741",
@@ -38875,7 +38843,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1828661/",
-      "fetchedAt": "2026-10-13T11:47:26.319Z"
+      "fetchedAt": "2026-10-14T09:31:10.395Z"
     },
     {
       "id": "1831081",
@@ -39348,7 +39316,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1828661/",
-      "fetchedAt": "2026-10-13T11:47:26.332Z"
+      "fetchedAt": "2026-10-14T09:31:10.413Z"
     },
     {
       "id": "1613801",
@@ -39815,7 +39783,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1613801/",
-      "fetchedAt": "2026-10-13T11:47:26.349Z"
+      "fetchedAt": "2026-10-14T09:31:10.430Z"
     },
     {
       "id": "1614061",
@@ -40281,7 +40249,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1613801/",
-      "fetchedAt": "2026-10-13T11:47:26.362Z"
+      "fetchedAt": "2026-10-14T09:31:10.443Z"
     },
     {
       "id": "1510465",
@@ -40299,12 +40267,12 @@
       },
       "image": "https://res.garmin.com/de_DE/products/010-02980-02/v/cf-lg.jpg",
       "categories": [
+        "Golfing",
         "26544",
         "571",
         "Running",
         "16684",
         "10002",
-        "Golfing",
         "Swimming",
         "55664",
         "12380"
@@ -40718,7 +40686,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1510465/",
-      "fetchedAt": "2026-10-13T11:47:26.373Z"
+      "fetchedAt": "2026-10-14T09:31:10.458Z"
     },
     {
       "id": "1555457",
@@ -41133,7 +41101,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1555457/",
-      "fetchedAt": "2026-10-13T11:47:26.385Z"
+      "fetchedAt": "2026-10-14T09:31:10.474Z"
     },
     {
       "id": "742133",
@@ -41465,7 +41433,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/742133/",
-      "fetchedAt": "2026-10-13T11:47:26.392Z"
+      "fetchedAt": "2026-10-14T09:31:10.483Z"
     },
     {
       "id": "785411",
@@ -41804,7 +41772,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/742133/",
-      "fetchedAt": "2026-10-13T11:47:26.397Z"
+      "fetchedAt": "2026-10-14T09:31:10.491Z"
     }
   ]
 }

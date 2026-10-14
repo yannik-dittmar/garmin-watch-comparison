@@ -335,7 +335,7 @@
     {
       "section": "Allgemein",
       "label": "Akkulaufzeit",
-      "value": "Smartwatch-Modus: Bis zu 18 Tage (7 Tage, im Always-On Modus)\nEnergiespar-Modus: Bis zu 24 Tage\nAktivitäts-Modus (normal): Bis zu 32 Stunden\nAktivitäts-Modus + Musik (normal): Bis zu 13 Stunden\nAktivitäts-Modus + LiveTrack per LTE (normal): Bis zu 16 Stunden\nAktivitäts-Modus (maximale Akkulaufzeit): Bis zu 87 Stunden\nAktivitäts-Modus (längere Laufzeit): Bis zu 37 Stunden\nAktivitäts-Modus (maximale Genauigkeit): Bis zu 26 Stunden\nExpeditions-Modus: Bis zu 18 Tage",
+      "value": "Smartwatch-Modus: Bis zu 18 Tage (7 Tage, im Always-On Modus)\nEnergiespar-Modus: Bis zu 24 Tage\nAktivitäts-Modus (normal): Bis zu 32 Stunden\nAktivitäts-Modus + Musik (normal): Bis zu 13 Stunden\nAktivitäts-Modus + LiveTrack per LTE (normal): Bis zu 16 Stunden\nAktivitäts-Modus (maximale Akkulaufzeit): Bis zu 87 Stunden\nAktivitäts-Modus (längere Laufzeit): Bis zu 37 Stunden\nAktivitäts-Modus (maximale Genauigkeit): Bis zu 26 Stunden Expeditions-Modus: Bis zu 18 Tage",
       "valueKind": "text",
       "order": 31
     },
@@ -2877,19 +2877,10 @@
           "hours": 26,
           "bound": "up-to",
           "solar": false,
-          "sourceText": "Aktivitäts-Modus (maximale Genauigkeit): Bis zu 26 Stunden"
-        },
-        {
-          "id": "expeditions-modus",
-          "label": "Expeditions-Modus",
-          "role": "expedition",
-          "hours": 432,
-          "bound": "up-to",
-          "solar": false,
-          "sourceText": "Expeditions-Modus: Bis zu 18 Tage"
+          "sourceText": "Aktivitäts-Modus (maximale Genauigkeit): Bis zu 26 Stunden Expeditions-Modus: Bis zu 18 Tage"
         }
       ],
-      "source": "Smartwatch-Modus: Bis zu 18 Tage (7 Tage, im Always-On Modus)\nEnergiespar-Modus: Bis zu 24 Tage\nAktivitäts-Modus (normal): Bis zu 32 Stunden\nAktivitäts-Modus + Musik (normal): Bis zu 13 Stunden\nAktivitäts-Modus + LiveTrack per LTE (normal): Bis zu 16 Stunden\nAktivitäts-Modus (maximale Akkulaufzeit): Bis zu 87 Stunden\nAktivitäts-Modus (längere Laufzeit): Bis zu 37 Stunden\nAktivitäts-Modus (maximale Genauigkeit): Bis zu 26 Stunden\nExpeditions-Modus: Bis zu 18 Tage"
+      "source": "Smartwatch-Modus: Bis zu 18 Tage (7 Tage, im Always-On Modus)\nEnergiespar-Modus: Bis zu 24 Tage\nAktivitäts-Modus (normal): Bis zu 32 Stunden\nAktivitäts-Modus + Musik (normal): Bis zu 13 Stunden\nAktivitäts-Modus + LiveTrack per LTE (normal): Bis zu 16 Stunden\nAktivitäts-Modus (maximale Akkulaufzeit): Bis zu 87 Stunden\nAktivitäts-Modus (längere Laufzeit): Bis zu 37 Stunden\nAktivitäts-Modus (maximale Genauigkeit): Bis zu 26 Stunden Expeditions-Modus: Bis zu 18 Tage"
     },
     "batterySmartwatchHours": {
       "kind": "number",
@@ -3161,5 +3152,5 @@
     }
   },
   "sourceUrl": "https://www.garmin.com/de-DE/p/1962389/",
-  "fetchedAt": "2026-10-13T11:47:26.117Z"
+  "fetchedAt": "2026-10-14T09:31:10.118Z"
 }
