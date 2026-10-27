@@ -835,28 +835,28 @@
     {
       "section": "Aktivitätsprofile",
       "label": "Multisport",
-      "value": "Triathlon, Schwimmen/Laufen",
+      "value": "Schwimmen/Laufen, Triathlon",
       "valueKind": "text",
       "order": 99
     },
     {
       "section": "Aktivitätsprofile",
       "label": "HEALTH",
-      "value": "Walken, Pilates, Yoga, Indoor-Gehen",
+      "value": "Gehen, Pilates, Yoga",
       "valueKind": "text",
       "order": 100
     },
     {
       "section": "Aktivitätsprofile",
       "label": "INDOOR-LAUFEN",
-      "value": "Laufband, Hallenbahn",
+      "value": "Laufband, Hallenbahn, Virtuelles Lauftraining",
       "valueKind": "text",
       "order": 101
     },
     {
       "section": "Aktivitätsprofile",
       "label": "Laufen im Freien",
-      "value": "Laufen, Laufbahn, Trailrunning, Ultra Run, Obstacle Course",
+      "value": "Laufen, Laufbahn, Trailrunning, Ultra Run",
       "valueKind": "text",
       "order": 102
     },
@@ -884,7 +884,7 @@
     {
       "section": "Aktivitätsprofile",
       "label": "Auf dem Wasser",
-      "value": "Stand-Up-Paddle, Rudern, Kajakfahren, Surfen, Kiteboarden, Windsurfen, Fischen, Motorboot, Segeln, Segelrennen, Wasserski, Wakeboarding, Wakesurfing, Tubing, Segelexpedition, Rafting, Schnorcheln",
+      "value": "Stand-Up-Paddle, Rudern, Kajakfahren, Surfen, Kiteboarden, Windsurfen, Fischen, Motorboot, Segeln, Segelrennen, Wasserski, Wakeboarding, Wakesurfing, Tubing, Schnorcheln, Segelexpedition, Rafting",
       "valueKind": "text",
       "order": 106
     },
@@ -898,7 +898,7 @@
     {
       "section": "Aktivitätsprofile",
       "label": "Schlägersportarten",
-      "value": "Tennis, Pickleball, Badminton, Squash, Tischtennis, Padel, Platform Tennis, Racquetball",
+      "value": "Tennis, Pickleball, Badminton, Squash, Tischtennis, Padel, Paddle-Tennis, Racquetball",
       "valueKind": "text",
       "order": 108
     },
@@ -919,21 +919,21 @@
     {
       "section": "Aktivitätsprofile",
       "label": "Im Ring",
-      "value": "Boxen, Mixed martial arts",
+      "value": "Boxen, Mixed Martial Arts",
       "valueKind": "text",
       "order": 111
     },
     {
       "section": "Aktivitätsprofile",
       "label": "Tauchen",
-      "value": "Diving",
+      "value": "Tauchen",
       "valueKind": "text",
       "order": 112
     },
     {
       "section": "Aktivitätsprofile",
       "label": "Andere Aktivitätsprofile",
-      "value": "Jumpmaster, Taktisch, Inlineskaten",
+      "value": "Jumpmaster, Taktisch",
       "valueKind": "text",
       "order": 113
     },
@@ -2941,5 +2941,5 @@
     }
   },
   "sourceUrl": "https://www.garmin.com/de-DE/p/852183/",
-  "fetchedAt": "2026-10-26T10:06:51.566Z"
+  "fetchedAt": "2026-10-27T09:49:17.207Z"
 }

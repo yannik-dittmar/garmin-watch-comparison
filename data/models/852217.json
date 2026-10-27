@@ -1291,7 +1291,7 @@
     {
       "section": "Aktivitätsprofile",
       "label": "Tauchen",
-      "value": "Diving",
+      "value": "Tauchen",
       "valueKind": "text",
       "order": 113
     },
@@ -3366,5 +3366,5 @@
     }
   },
   "sourceUrl": "https://www.garmin.com/de-DE/p/852183/",
-  "fetchedAt": "2026-10-26T10:06:51.590Z"
+  "fetchedAt": "2026-10-27T09:49:17.229Z"
 }

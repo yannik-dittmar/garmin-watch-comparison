@@ -250,7 +250,7 @@
     {
       "sku": "010-02752-08",
       "partNumber": "010-02752-08",
-      "name": "Titanium/Schwarz PVD Titan mit QuickFit-Silikon-Armband 26 mm Schwarz/Kieselgrau",
+      "name": "Silbernes und schwarzes PVD-Titan mit schwarzem/dunkelgrauem Silikonarmband",
       "price": {
         "amount": 1599.99,
         "currency": "EUR",
@@ -286,7 +286,7 @@
     {
       "sku": "010-02752-11",
       "partNumber": "010-02752-11",
-      "name": "Schwarz/Carbongrau Titan DLC mit QuickFit-Silikon-Armband 26 mm",
+      "name": "Graues DLC-Titan mit schwarzem Silikonarmband",
       "price": {
         "amount": 1549.99,
         "currency": "EUR",
@@ -350,7 +350,7 @@
     {
       "sku": "010-02752-14",
       "partNumber": "010-02752-14",
-      "name": "Schwarz/Carbongrau Titan DLC mit QuickFit-Titan-Armband 26 mm Carbongrau",
+      "name": "Graues DLC-Titan mit DLC-Titanarmband",
       "price": {
         "amount": 1749.99,
         "currency": "EUR",
@@ -670,7 +670,7 @@
     {
       "section": "Allgemein",
       "label": "Material der Lünette",
-      "value": "Schwarz/Carbongrau Titan DLC oder Titanium/Schwarz PVD Titan",
+      "value": "Titan mit PVD-Beschichtung",
       "valueKind": "text",
       "order": 15
     },
@@ -698,7 +698,7 @@
     {
       "section": "Allgemein",
       "label": "Gewicht",
-      "value": "Ohne Armbänder: 77,8 g\nSilikonarmband: 105,6 g\nTitanarmband: 165,9 g",
+      "value": "Ohne armbänder: 77,8 g\nSilikonarmband: 105,6 g\nTitanarmband: 165,9 g",
       "valueKind": "text",
       "order": 19
     },
@@ -1363,7 +1363,7 @@
     {
       "section": "Aktivitätsprofile",
       "label": "Tauchen",
-      "value": "Diving",
+      "value": "Tauchen",
       "valueKind": "text",
       "order": 114
     },
@@ -3021,7 +3021,7 @@
       "value": 77.8,
       "unit": "g",
       "bound": "exact",
-      "source": "Ohne Armbänder: 77,8 g\nSilikonarmband: 105,6 g\nTitanarmband: 165,9 g"
+      "source": "Ohne armbänder: 77,8 g\nSilikonarmband: 105,6 g\nTitanarmband: 165,9 g"
     },
     "wristRange": {
       "kind": "text",
@@ -3065,8 +3065,8 @@
     },
     "bezelMaterial": {
       "kind": "text",
-      "text": "Schwarz/Carbongrau Titan DLC oder Titanium/Schwarz PVD Titan",
-      "source": "Schwarz/Carbongrau Titan DLC oder Titanium/Schwarz PVD Titan"
+      "text": "Titan mit PVD-Beschichtung",
+      "source": "Titan mit PVD-Beschichtung"
     },
     "caseMaterial": {
       "kind": "text",
@@ -3440,5 +3440,5 @@
     }
   },
   "sourceUrl": "https://www.garmin.com/de-DE/p/852183/",
-  "fetchedAt": "2026-10-26T10:06:51.620Z"
+  "fetchedAt": "2026-10-27T09:49:17.257Z"
 }
