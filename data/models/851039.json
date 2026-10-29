@@ -941,7 +941,7 @@
     },
     {
       "section": "Aktivitätsprofile",
-      "label": "Teamsportarten",
+      "label": "Sport-Apps",
       "value": "Basketball, Volleyball, Feldhockey, Eishockey, Fußball, Football, Lacrosse, Rugby, Ultimate Frisbee, Cricket, Softball, Baseball",
       "valueKind": "text",
       "order": 127
@@ -1004,7 +1004,7 @@
     },
     {
       "section": "Marinefunktionen",
-      "label": "Tragbare Trolling Motor-Fernbedienung",
+      "label": "Tragbare Trolling Motor Fernbedienung",
       "value": "",
       "valueKind": "marker-yes",
       "order": 136
@@ -1410,7 +1410,7 @@
     },
     {
       "section": "Trainings-, Planungs- und Analysefunktionen",
-      "label": "Garmin-Live-Segmente",
+      "label": "Garmin Live Segmente",
       "value": "",
       "valueKind": "marker-yes",
       "order": 194
@@ -2681,5 +2681,5 @@
     }
   },
   "sourceUrl": "https://www.garmin.com/de-DE/p/851039/",
-  "fetchedAt": "2026-10-28T10:34:50.400Z"
+  "fetchedAt": "2026-10-29T10:54:12.410Z"
 }
