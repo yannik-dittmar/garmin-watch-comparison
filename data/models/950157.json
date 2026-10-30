@@ -144,13 +144,13 @@
   ],
   "variants": [
     {
-      "sku": "010-02839-02",
-      "partNumber": "010-02839-02",
+      "sku": "010-02839-72",
+      "partNumber": "010-02839-72",
       "name": "Coyote Tan/Cremegold mit Schnellwechsel-Leder-Armband",
       "price": {
-        "amount": 299.99,
+        "amount": 349.99,
         "currency": "EUR",
-        "formatted": "299,99 €"
+        "formatted": "349,99 €"
       },
       "images": [
         {
@@ -1246,5 +1246,5 @@
     }
   },
   "sourceUrl": "https://www.garmin.com/de-DE/p/950277/",
-  "fetchedAt": "2026-10-29T10:54:12.932Z"
+  "fetchedAt": "2026-10-30T10:52:37.279Z"
 }

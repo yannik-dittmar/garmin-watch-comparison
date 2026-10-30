@@ -867,7 +867,7 @@
     },
     {
       "section": "Tägliche Smart-Funktionen",
-      "label": "Red shift modus",
+      "label": "Red Shift Modus",
       "value": "",
       "valueKind": "marker-yes",
       "order": 77
@@ -1070,7 +1070,7 @@
     },
     {
       "section": "Aktivitätsprofile",
-      "label": "Teamsportarten",
+      "label": "Sport-Apps",
       "value": "Basketball, Volleyball, Feldhockey, Eishockey, Fußball, Football, Lacrosse, Rugby, Ultimate Frisbee, Cricket, Softball, Baseball",
       "valueKind": "text",
       "order": 106
@@ -2164,5 +2164,5 @@
     }
   },
   "sourceUrl": "https://www.garmin.com/de-DE/p/1915560/",
-  "fetchedAt": "2026-10-29T10:54:12.740Z"
+  "fetchedAt": "2026-10-30T10:52:37.021Z"
 }
