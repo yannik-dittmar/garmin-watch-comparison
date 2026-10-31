@@ -96,34 +96,6 @@
     {
       "full": "https://res.garmin.com/de_DE/products/010-02863-32/v/pd-04-lg.jpg",
       "thumb": "https://res.garmin.com/de_DE/products/010-02863-32/v/pd-04-sm.jpg"
-    },
-    {
-      "full": "https://res.garmin.com/de_DE/products/010-02863-33/v/cf-lg.jpg",
-      "thumb": "https://res.garmin.com/de_DE/products/010-02863-33/v/cf-sm.jpg"
-    },
-    {
-      "full": "https://res.garmin.com/de_DE/products/010-02863-33/v/rf-lg.jpg",
-      "thumb": "https://res.garmin.com/de_DE/products/010-02863-33/v/rf-sm.jpg"
-    },
-    {
-      "full": "https://res.garmin.com/de_DE/products/010-02863-33/v/lf-lg.jpg",
-      "thumb": "https://res.garmin.com/de_DE/products/010-02863-33/v/lf-sm.jpg"
-    },
-    {
-      "full": "https://res.garmin.com/de_DE/products/010-02863-33/v/pd-01-lg.jpg",
-      "thumb": "https://res.garmin.com/de_DE/products/010-02863-33/v/pd-01-sm.jpg"
-    },
-    {
-      "full": "https://res.garmin.com/de_DE/products/010-02863-33/v/pd-02-lg.jpg",
-      "thumb": "https://res.garmin.com/de_DE/products/010-02863-33/v/pd-02-sm.jpg"
-    },
-    {
-      "full": "https://res.garmin.com/de_DE/products/010-02863-33/v/pd-03-lg.jpg",
-      "thumb": "https://res.garmin.com/de_DE/products/010-02863-33/v/pd-03-sm.jpg"
-    },
-    {
-      "full": "https://res.garmin.com/de_DE/products/010-02863-33/v/pd-04-lg.jpg",
-      "thumb": "https://res.garmin.com/de_DE/products/010-02863-33/v/pd-04-sm.jpg"
     }
   ],
   "variants": [
@@ -244,46 +216,6 @@
         {
           "full": "https://res.garmin.com/de_DE/products/010-02863-32/v/pd-04-lg.jpg",
           "thumb": "https://res.garmin.com/de_DE/products/010-02863-32/v/pd-04-sm.jpg"
-        }
-      ]
-    },
-    {
-      "sku": "010-02863-33",
-      "partNumber": "010-02863-33",
-      "name": "Beere/Flieder",
-      "price": {
-        "amount": 279.99,
-        "currency": "EUR",
-        "formatted": "279,99 €"
-      },
-      "images": [
-        {
-          "full": "https://res.garmin.com/de_DE/products/010-02863-33/v/cf-lg.jpg",
-          "thumb": "https://res.garmin.com/de_DE/products/010-02863-33/v/cf-sm.jpg"
-        },
-        {
-          "full": "https://res.garmin.com/de_DE/products/010-02863-33/v/rf-lg.jpg",
-          "thumb": "https://res.garmin.com/de_DE/products/010-02863-33/v/rf-sm.jpg"
-        },
-        {
-          "full": "https://res.garmin.com/de_DE/products/010-02863-33/v/lf-lg.jpg",
-          "thumb": "https://res.garmin.com/de_DE/products/010-02863-33/v/lf-sm.jpg"
-        },
-        {
-          "full": "https://res.garmin.com/de_DE/products/010-02863-33/v/pd-01-lg.jpg",
-          "thumb": "https://res.garmin.com/de_DE/products/010-02863-33/v/pd-01-sm.jpg"
-        },
-        {
-          "full": "https://res.garmin.com/de_DE/products/010-02863-33/v/pd-02-lg.jpg",
-          "thumb": "https://res.garmin.com/de_DE/products/010-02863-33/v/pd-02-sm.jpg"
-        },
-        {
-          "full": "https://res.garmin.com/de_DE/products/010-02863-33/v/pd-03-lg.jpg",
-          "thumb": "https://res.garmin.com/de_DE/products/010-02863-33/v/pd-03-sm.jpg"
-        },
-        {
-          "full": "https://res.garmin.com/de_DE/products/010-02863-33/v/pd-04-lg.jpg",
-          "thumb": "https://res.garmin.com/de_DE/products/010-02863-33/v/pd-04-sm.jpg"
         }
       ]
     }
@@ -2008,5 +1940,5 @@
     }
   },
   "sourceUrl": "https://www.garmin.com/de-DE/p/1055469/",
-  "fetchedAt": "2026-10-30T10:52:36.941Z"
+  "fetchedAt": "2026-10-31T10:23:53.287Z"
 }

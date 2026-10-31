@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-30T10:52:38.612Z",
-  "oldestFetchAt": "2026-10-30T10:52:36.176Z",
+  "generatedAt": "2026-10-31T10:23:54.929Z",
+  "oldestFetchAt": "2026-10-31T10:23:52.532Z",
   "locale": "de-DE",
   "storeCode": "DE",
   "modelCount": 94,
-  "variantCount": 199,
+  "variantCount": 198,
   "sources": [
     "www.garmin.com",
     "res.garmin.com"
