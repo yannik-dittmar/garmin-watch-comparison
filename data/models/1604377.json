@@ -123,11 +123,7 @@
       "sku": "010-03010-00",
       "partNumber": "010-03010-00",
       "name": "Schwarz Aluminium mit Schnellwechsel-Nylon-Armband 20 mm",
-      "price": {
-        "amount": 399.99,
-        "currency": "EUR",
-        "formatted": "399,99 €"
-      },
+      "price": null,
       "images": [
         {
           "full": "https://res.garmin.com/en/products/010-03010-00/v/cf-lg.jpg",
@@ -1721,5 +1717,5 @@
     }
   },
   "sourceUrl": "https://www.garmin.com/de-DE/p/1604358/",
-  "fetchedAt": "2026-11-03T11:56:19.359Z"
+  "fetchedAt": "2026-11-04T12:07:28.498Z"
 }
