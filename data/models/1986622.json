@@ -1145,7 +1145,7 @@
     {
       "section": "Taucheigenschaften",
       "label": "Maximale Tauchtiefe",
-      "value": "40 meter",
+      "value": "40 Meter",
       "valueKind": "text",
       "order": 156
     },
@@ -3053,5 +3053,5 @@
     }
   },
   "sourceUrl": "https://www.garmin.com/de-DE/p/1908596/",
-  "fetchedAt": "2026-11-04T12:07:29.835Z"
+  "fetchedAt": "2026-11-05T12:19:10.513Z"
 }
