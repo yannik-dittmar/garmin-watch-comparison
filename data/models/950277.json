@@ -14,38 +14,6 @@
   },
   "images": [
     {
-      "full": "https://res.garmin.com/de_DE/products/010-02839-00/v/cf-lg.jpg",
-      "thumb": "https://res.garmin.com/de_DE/products/010-02839-00/v/cf-sm.jpg"
-    },
-    {
-      "full": "https://res.garmin.com/de_DE/products/010-02839-00/v/rf-lg.jpg",
-      "thumb": "https://res.garmin.com/de_DE/products/010-02839-00/v/rf-sm.jpg"
-    },
-    {
-      "full": "https://res.garmin.com/de_DE/products/010-02839-00/v/lf-lg.jpg",
-      "thumb": "https://res.garmin.com/de_DE/products/010-02839-00/v/lf-sm.jpg"
-    },
-    {
-      "full": "https://res.garmin.com/de_DE/products/010-02839-00/v/pd-01-lg.jpg",
-      "thumb": "https://res.garmin.com/de_DE/products/010-02839-00/v/pd-01-sm.jpg"
-    },
-    {
-      "full": "https://res.garmin.com/de_DE/products/010-02839-00/v/pd-02-lg.jpg",
-      "thumb": "https://res.garmin.com/de_DE/products/010-02839-00/v/pd-02-sm.jpg"
-    },
-    {
-      "full": "https://res.garmin.com/de_DE/products/010-02839-00/v/pd-03-lg.jpg",
-      "thumb": "https://res.garmin.com/de_DE/products/010-02839-00/v/pd-03-sm.jpg"
-    },
-    {
-      "full": "https://res.garmin.com/de_DE/products/010-02839-00/v/pd-04-lg.jpg",
-      "thumb": "https://res.garmin.com/de_DE/products/010-02839-00/v/pd-04-sm.jpg"
-    },
-    {
-      "full": "https://res.garmin.com/de_DE/products/010-02839-00/v/pd-05-lg.jpg",
-      "thumb": "https://res.garmin.com/de_DE/products/010-02839-00/v/pd-05-sm.jpg"
-    },
-    {
       "full": "https://res.garmin.com/de_DE/products/010-02839-01/v/cf-lg.jpg",
       "thumb": "https://res.garmin.com/de_DE/products/010-02839-01/v/cf-sm.jpg"
     },
@@ -76,53 +44,41 @@
     {
       "full": "https://res.garmin.com/de_DE/products/010-02839-01/v/pd-05-lg.jpg",
       "thumb": "https://res.garmin.com/de_DE/products/010-02839-01/v/pd-05-sm.jpg"
+    },
+    {
+      "full": "https://res.garmin.com/de_DE/products/010-02839-00/v/cf-lg.jpg",
+      "thumb": "https://res.garmin.com/de_DE/products/010-02839-00/v/cf-sm.jpg"
+    },
+    {
+      "full": "https://res.garmin.com/de_DE/products/010-02839-00/v/rf-lg.jpg",
+      "thumb": "https://res.garmin.com/de_DE/products/010-02839-00/v/rf-sm.jpg"
+    },
+    {
+      "full": "https://res.garmin.com/de_DE/products/010-02839-00/v/lf-lg.jpg",
+      "thumb": "https://res.garmin.com/de_DE/products/010-02839-00/v/lf-sm.jpg"
+    },
+    {
+      "full": "https://res.garmin.com/de_DE/products/010-02839-00/v/pd-01-lg.jpg",
+      "thumb": "https://res.garmin.com/de_DE/products/010-02839-00/v/pd-01-sm.jpg"
+    },
+    {
+      "full": "https://res.garmin.com/de_DE/products/010-02839-00/v/pd-02-lg.jpg",
+      "thumb": "https://res.garmin.com/de_DE/products/010-02839-00/v/pd-02-sm.jpg"
+    },
+    {
+      "full": "https://res.garmin.com/de_DE/products/010-02839-00/v/pd-03-lg.jpg",
+      "thumb": "https://res.garmin.com/de_DE/products/010-02839-00/v/pd-03-sm.jpg"
+    },
+    {
+      "full": "https://res.garmin.com/de_DE/products/010-02839-00/v/pd-04-lg.jpg",
+      "thumb": "https://res.garmin.com/de_DE/products/010-02839-00/v/pd-04-sm.jpg"
+    },
+    {
+      "full": "https://res.garmin.com/de_DE/products/010-02839-00/v/pd-05-lg.jpg",
+      "thumb": "https://res.garmin.com/de_DE/products/010-02839-00/v/pd-05-sm.jpg"
     }
   ],
   "variants": [
-    {
-      "sku": "010-02839-00",
-      "partNumber": "010-02839-00",
-      "name": "Kokosnuss/Cremegold mit Schnellwechsel-Silikon-Armband",
-      "price": {
-        "amount": 239.99,
-        "currency": "EUR",
-        "formatted": "239,99 €"
-      },
-      "images": [
-        {
-          "full": "https://res.garmin.com/de_DE/products/010-02839-00/v/cf-lg.jpg",
-          "thumb": "https://res.garmin.com/de_DE/products/010-02839-00/v/cf-sm.jpg"
-        },
-        {
-          "full": "https://res.garmin.com/de_DE/products/010-02839-00/v/rf-lg.jpg",
-          "thumb": "https://res.garmin.com/de_DE/products/010-02839-00/v/rf-sm.jpg"
-        },
-        {
-          "full": "https://res.garmin.com/de_DE/products/010-02839-00/v/lf-lg.jpg",
-          "thumb": "https://res.garmin.com/de_DE/products/010-02839-00/v/lf-sm.jpg"
-        },
-        {
-          "full": "https://res.garmin.com/de_DE/products/010-02839-00/v/pd-01-lg.jpg",
-          "thumb": "https://res.garmin.com/de_DE/products/010-02839-00/v/pd-01-sm.jpg"
-        },
-        {
-          "full": "https://res.garmin.com/de_DE/products/010-02839-00/v/pd-02-lg.jpg",
-          "thumb": "https://res.garmin.com/de_DE/products/010-02839-00/v/pd-02-sm.jpg"
-        },
-        {
-          "full": "https://res.garmin.com/de_DE/products/010-02839-00/v/pd-03-lg.jpg",
-          "thumb": "https://res.garmin.com/de_DE/products/010-02839-00/v/pd-03-sm.jpg"
-        },
-        {
-          "full": "https://res.garmin.com/de_DE/products/010-02839-00/v/pd-04-lg.jpg",
-          "thumb": "https://res.garmin.com/de_DE/products/010-02839-00/v/pd-04-sm.jpg"
-        },
-        {
-          "full": "https://res.garmin.com/de_DE/products/010-02839-00/v/pd-05-lg.jpg",
-          "thumb": "https://res.garmin.com/de_DE/products/010-02839-00/v/pd-05-sm.jpg"
-        }
-      ]
-    },
     {
       "sku": "010-02839-01",
       "partNumber": "010-02839-01",
@@ -164,6 +120,50 @@
         {
           "full": "https://res.garmin.com/de_DE/products/010-02839-01/v/pd-05-lg.jpg",
           "thumb": "https://res.garmin.com/de_DE/products/010-02839-01/v/pd-05-sm.jpg"
+        }
+      ]
+    },
+    {
+      "sku": "010-02839-70",
+      "partNumber": "010-02839-70",
+      "name": "Kokosnuss/Cremegold mit Schnellwechsel-Silikon-Armband",
+      "price": {
+        "amount": 279.99,
+        "currency": "EUR",
+        "formatted": "279,99 €"
+      },
+      "images": [
+        {
+          "full": "https://res.garmin.com/de_DE/products/010-02839-00/v/cf-lg.jpg",
+          "thumb": "https://res.garmin.com/de_DE/products/010-02839-00/v/cf-sm.jpg"
+        },
+        {
+          "full": "https://res.garmin.com/de_DE/products/010-02839-00/v/rf-lg.jpg",
+          "thumb": "https://res.garmin.com/de_DE/products/010-02839-00/v/rf-sm.jpg"
+        },
+        {
+          "full": "https://res.garmin.com/de_DE/products/010-02839-00/v/lf-lg.jpg",
+          "thumb": "https://res.garmin.com/de_DE/products/010-02839-00/v/lf-sm.jpg"
+        },
+        {
+          "full": "https://res.garmin.com/de_DE/products/010-02839-00/v/pd-01-lg.jpg",
+          "thumb": "https://res.garmin.com/de_DE/products/010-02839-00/v/pd-01-sm.jpg"
+        },
+        {
+          "full": "https://res.garmin.com/de_DE/products/010-02839-00/v/pd-02-lg.jpg",
+          "thumb": "https://res.garmin.com/de_DE/products/010-02839-00/v/pd-02-sm.jpg"
+        },
+        {
+          "full": "https://res.garmin.com/de_DE/products/010-02839-00/v/pd-03-lg.jpg",
+          "thumb": "https://res.garmin.com/de_DE/products/010-02839-00/v/pd-03-sm.jpg"
+        },
+        {
+          "full": "https://res.garmin.com/de_DE/products/010-02839-00/v/pd-04-lg.jpg",
+          "thumb": "https://res.garmin.com/de_DE/products/010-02839-00/v/pd-04-sm.jpg"
+        },
+        {
+          "full": "https://res.garmin.com/de_DE/products/010-02839-00/v/pd-05-lg.jpg",
+          "thumb": "https://res.garmin.com/de_DE/products/010-02839-00/v/pd-05-sm.jpg"
         }
       ]
     }
@@ -1085,5 +1085,5 @@
     }
   },
   "sourceUrl": "https://www.garmin.com/de-DE/p/950277/",
-  "fetchedAt": "2026-11-11T11:53:03.215Z"
+  "fetchedAt": "2026-11-12T12:42:53.415Z"
 }

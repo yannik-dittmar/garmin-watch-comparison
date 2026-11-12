@@ -88,50 +88,6 @@
     {
       "full": "https://res.garmin.com/en_GB/products/010-02934-00/v/sc-06-lg.jpg",
       "thumb": "https://res.garmin.com/en_GB/products/010-02934-00/v/sc-06-sm.jpg"
-    },
-    {
-      "full": "https://res.garmin.com/de_DE/products/010-02934-02/v/cf-lg.jpg",
-      "thumb": "https://res.garmin.com/de_DE/products/010-02934-02/v/cf-sm.jpg"
-    },
-    {
-      "full": "https://res.garmin.com/de_DE/products/010-02934-02/v/pd-01-lg.jpg",
-      "thumb": "https://res.garmin.com/de_DE/products/010-02934-02/v/pd-01-sm.jpg"
-    },
-    {
-      "full": "https://res.garmin.com/de_DE/products/010-02934-02/v/pd-03-lg.jpg",
-      "thumb": "https://res.garmin.com/de_DE/products/010-02934-02/v/pd-03-sm.jpg"
-    },
-    {
-      "full": "https://res.garmin.com/de_DE/products/010-02934-02/v/pd-05-lg.jpg",
-      "thumb": "https://res.garmin.com/de_DE/products/010-02934-02/v/pd-05-sm.jpg"
-    },
-    {
-      "full": "https://res.garmin.com/de_DE/products/010-02934-02/v/pd-07-lg.jpg",
-      "thumb": "https://res.garmin.com/de_DE/products/010-02934-02/v/pd-07-sm.jpg"
-    },
-    {
-      "full": "https://res.garmin.com/de_DE/products/010-02934-02/v/pd-08-lg.jpg",
-      "thumb": "https://res.garmin.com/de_DE/products/010-02934-02/v/pd-08-sm.jpg"
-    },
-    {
-      "full": "https://res.garmin.com/de_DE/products/010-02934-02/v/pd-09-lg.jpg",
-      "thumb": "https://res.garmin.com/de_DE/products/010-02934-02/v/pd-09-sm.jpg"
-    },
-    {
-      "full": "https://res.garmin.com/de_DE/products/010-02934-02/v/sc-02-lg.jpg",
-      "thumb": "https://res.garmin.com/de_DE/products/010-02934-02/v/sc-02-sm.jpg"
-    },
-    {
-      "full": "https://res.garmin.com/de_DE/products/010-02934-02/v/sc-04-lg.jpg",
-      "thumb": "https://res.garmin.com/de_DE/products/010-02934-02/v/sc-04-sm.jpg"
-    },
-    {
-      "full": "https://res.garmin.com/de_DE/products/010-02934-02/v/sc-05-lg.jpg",
-      "thumb": "https://res.garmin.com/de_DE/products/010-02934-02/v/sc-05-sm.jpg"
-    },
-    {
-      "full": "https://res.garmin.com/de_DE/products/010-02934-02/v/sc-06-lg.jpg",
-      "thumb": "https://res.garmin.com/de_DE/products/010-02934-02/v/sc-06-sm.jpg"
     }
   ],
   "variants": [
@@ -220,62 +176,6 @@
         {
           "full": "https://res.garmin.com/en_GB/products/010-02934-00/v/sc-06-lg.jpg",
           "thumb": "https://res.garmin.com/en_GB/products/010-02934-00/v/sc-06-sm.jpg"
-        }
-      ]
-    },
-    {
-      "sku": "010-02934-02",
-      "partNumber": "010-02934-02",
-      "name": "Grau/ Sunburst mit Silikon-Wechselarmband 22 mm Sunburst",
-      "price": {
-        "amount": 349.99,
-        "currency": "EUR",
-        "formatted": "349,99 €"
-      },
-      "images": [
-        {
-          "full": "https://res.garmin.com/de_DE/products/010-02934-02/v/cf-lg.jpg",
-          "thumb": "https://res.garmin.com/de_DE/products/010-02934-02/v/cf-sm.jpg"
-        },
-        {
-          "full": "https://res.garmin.com/de_DE/products/010-02934-02/v/pd-01-lg.jpg",
-          "thumb": "https://res.garmin.com/de_DE/products/010-02934-02/v/pd-01-sm.jpg"
-        },
-        {
-          "full": "https://res.garmin.com/de_DE/products/010-02934-02/v/pd-03-lg.jpg",
-          "thumb": "https://res.garmin.com/de_DE/products/010-02934-02/v/pd-03-sm.jpg"
-        },
-        {
-          "full": "https://res.garmin.com/de_DE/products/010-02934-02/v/pd-05-lg.jpg",
-          "thumb": "https://res.garmin.com/de_DE/products/010-02934-02/v/pd-05-sm.jpg"
-        },
-        {
-          "full": "https://res.garmin.com/de_DE/products/010-02934-02/v/pd-07-lg.jpg",
-          "thumb": "https://res.garmin.com/de_DE/products/010-02934-02/v/pd-07-sm.jpg"
-        },
-        {
-          "full": "https://res.garmin.com/de_DE/products/010-02934-02/v/pd-08-lg.jpg",
-          "thumb": "https://res.garmin.com/de_DE/products/010-02934-02/v/pd-08-sm.jpg"
-        },
-        {
-          "full": "https://res.garmin.com/de_DE/products/010-02934-02/v/pd-09-lg.jpg",
-          "thumb": "https://res.garmin.com/de_DE/products/010-02934-02/v/pd-09-sm.jpg"
-        },
-        {
-          "full": "https://res.garmin.com/de_DE/products/010-02934-02/v/sc-02-lg.jpg",
-          "thumb": "https://res.garmin.com/de_DE/products/010-02934-02/v/sc-02-sm.jpg"
-        },
-        {
-          "full": "https://res.garmin.com/de_DE/products/010-02934-02/v/sc-04-lg.jpg",
-          "thumb": "https://res.garmin.com/de_DE/products/010-02934-02/v/sc-04-sm.jpg"
-        },
-        {
-          "full": "https://res.garmin.com/de_DE/products/010-02934-02/v/sc-05-lg.jpg",
-          "thumb": "https://res.garmin.com/de_DE/products/010-02934-02/v/sc-05-sm.jpg"
-        },
-        {
-          "full": "https://res.garmin.com/de_DE/products/010-02934-02/v/sc-06-lg.jpg",
-          "thumb": "https://res.garmin.com/de_DE/products/010-02934-02/v/sc-06-sm.jpg"
         }
       ]
     }
@@ -2468,5 +2368,5 @@
     }
   },
   "sourceUrl": "https://www.garmin.com/de-DE/p/1316397/",
-  "fetchedAt": "2026-11-11T11:53:03.097Z"
+  "fetchedAt": "2026-11-12T12:42:53.251Z"
 }
