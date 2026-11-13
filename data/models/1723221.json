@@ -8,9 +8,9 @@
     "qualifier": "51 mm, MicroLED"
   },
   "price": {
-    "amount": 1599.99,
+    "amount": 1499.99,
     "currency": "EUR",
-    "formatted": "1.599,99 €"
+    "formatted": "1.499,99 €"
   },
   "images": [
     {
@@ -52,9 +52,9 @@
       "partNumber": "010-03380-01",
       "name": "Sapphire, Schwarz/Titan Carbongrau DLC Titan mit QuickFit-Silikon-Armband 26 mm",
       "price": {
-        "amount": 1599.99,
+        "amount": 1499.99,
         "currency": "EUR",
-        "formatted": "1.599,99 €"
+        "formatted": "1.499,99 €"
       },
       "images": [
         {
@@ -3066,5 +3066,5 @@
     }
   },
   "sourceUrl": "https://www.garmin.com/de-DE/p/1228493/",
-  "fetchedAt": "2026-11-12T12:42:52.924Z"
+  "fetchedAt": "2026-11-13T12:12:01.670Z"
 }

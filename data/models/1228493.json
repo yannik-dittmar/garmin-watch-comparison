@@ -8,9 +8,9 @@
     "qualifier": "43 mm, AMOLED"
   },
   "price": {
-    "amount": 799.99,
+    "amount": 649.99,
     "currency": "EUR",
-    "formatted": "799,99 €"
+    "formatted": "649,99 €"
   },
   "images": [
     {
@@ -40,9 +40,9 @@
       "partNumber": "010-02903-00",
       "name": "Steinweiss/Silber mit QuickFit-Silikon-Armband 20 mm",
       "price": {
-        "amount": 799.99,
+        "amount": 649.99,
         "currency": "EUR",
-        "formatted": "799,99 €"
+        "formatted": "649,99 €"
       },
       "images": [
         {
@@ -60,9 +60,9 @@
       "partNumber": "010-02903-11",
       "name": "Sapphire, Nebelgrau/Softgold mit QuickFit-Silikon-Armband 20 mm",
       "price": {
-        "amount": 899.99,
+        "amount": 749.99,
         "currency": "EUR",
-        "formatted": "899,99 €"
+        "formatted": "749,99 €"
       },
       "images": [
         {
@@ -80,9 +80,9 @@
       "partNumber": "010-02903-21",
       "name": "Sapphire, Schwarz/Titan Carbongrau DLC mit QuickFit-Silikon-Armband 20 mm",
       "price": {
-        "amount": 899.99,
+        "amount": 749.99,
         "currency": "EUR",
-        "formatted": "899,99 €"
+        "formatted": "749,99 €"
       },
       "images": [
         {
@@ -100,9 +100,9 @@
       "partNumber": "010-02903-40",
       "name": "Sapphire, Nebelgrau/Softgold mit QuickFit-Leder-Armband 20 mm Kalkstein",
       "price": {
-        "amount": 999.99,
+        "amount": 829.99,
         "currency": "EUR",
-        "formatted": "999,99 €"
+        "formatted": "829,99 €"
       },
       "images": [
         {
@@ -2991,5 +2991,5 @@
     }
   },
   "sourceUrl": "https://www.garmin.com/de-DE/p/1228493/",
-  "fetchedAt": "2026-11-12T12:42:52.780Z"
+  "fetchedAt": "2026-11-13T12:12:01.533Z"
 }

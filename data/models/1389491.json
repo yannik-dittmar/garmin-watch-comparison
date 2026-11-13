@@ -8,9 +8,9 @@
     "qualifier": "47 mm, Solar, Sapphire"
   },
   "price": {
-    "amount": 899.99,
+    "amount": 729.99,
     "currency": "EUR",
-    "formatted": "899,99 €"
+    "formatted": "729,99 €"
   },
   "images": [
     {
@@ -124,9 +124,9 @@
       "partNumber": "010-02906-11",
       "name": "Sapphire, Graphit/Titan Carbongrau DLC mit QuickFit-Silikon-Armband 22 mm",
       "price": {
-        "amount": 899.99,
+        "amount": 729.99,
         "currency": "EUR",
-        "formatted": "899,99 €"
+        "formatted": "729,99 €"
       },
       "images": [
         {
@@ -188,9 +188,9 @@
       "partNumber": "010-02906-21",
       "name": "Sapphire, Graphit/Titanium Titan mit QuickFit-Silikon-Armband 22 mm",
       "price": {
-        "amount": 899.99,
+        "amount": 729.99,
         "currency": "EUR",
-        "formatted": "899,99 €"
+        "formatted": "729,99 €"
       },
       "images": [
         {
@@ -3121,5 +3121,5 @@
     }
   },
   "sourceUrl": "https://www.garmin.com/de-DE/p/1228493/",
-  "fetchedAt": "2026-11-12T12:42:52.819Z"
+  "fetchedAt": "2026-11-13T12:12:01.569Z"
 }

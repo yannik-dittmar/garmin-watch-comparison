@@ -8,9 +8,9 @@
     "qualifier": "Active"
   },
   "price": {
-    "amount": 319.99,
+    "amount": 269.99,
     "currency": "EUR",
-    "formatted": "319,99 €"
+    "formatted": "269,99 €"
   },
   "images": [
     {
@@ -36,9 +36,9 @@
       "partNumber": "010-02891-00",
       "name": "Lunargold mit Schnellwechsel-Silikon-Armband",
       "price": {
-        "amount": 319.99,
+        "amount": 269.99,
         "currency": "EUR",
-        "formatted": "319,99 €"
+        "formatted": "269,99 €"
       },
       "images": [
         {
@@ -56,9 +56,9 @@
       "partNumber": "010-02891-01",
       "name": "Silber mit Schnellwechsel-Silikon-Armband",
       "price": {
-        "amount": 319.99,
+        "amount": 269.99,
         "currency": "EUR",
-        "formatted": "319,99 €"
+        "formatted": "269,99 €"
       },
       "images": [
         {
@@ -76,9 +76,9 @@
       "partNumber": "010-02891-02",
       "name": "Jaspisgrün mit Schnellwechsel-Silikon-Armband",
       "price": {
-        "amount": 319.99,
+        "amount": 269.99,
         "currency": "EUR",
-        "formatted": "319,99 €"
+        "formatted": "269,99 €"
       },
       "images": [
         {
@@ -1265,5 +1265,5 @@
     }
   },
   "sourceUrl": "https://www.garmin.com/de-DE/p/950277/",
-  "fetchedAt": "2026-11-12T12:42:53.419Z"
+  "fetchedAt": "2026-11-13T12:12:02.165Z"
 }

@@ -8,9 +8,9 @@
     "qualifier": null
   },
   "price": {
-    "amount": 399.99,
+    "amount": 349.99,
     "currency": "EUR",
-    "formatted": "399,99 €"
+    "formatted": "349,99 €"
   },
   "images": [
     {
@@ -124,9 +124,9 @@
       "partNumber": "010-03010-00",
       "name": "Schwarz Aluminium mit Schnellwechsel-Nylon-Armband 20 mm",
       "price": {
-        "amount": 399.99,
+        "amount": 349.99,
         "currency": "EUR",
-        "formatted": "399,99 €"
+        "formatted": "349,99 €"
       },
       "images": [
         {
@@ -188,9 +188,9 @@
       "partNumber": "010-03010-01",
       "name": "Elfenbein/Cremegold Aluminium mit Schnellwechsel-Nylon-Armband 20 mm",
       "price": {
-        "amount": 399.99,
+        "amount": 349.99,
         "currency": "EUR",
-        "formatted": "399,99 €"
+        "formatted": "349,99 €"
       },
       "images": [
         {
@@ -1721,5 +1721,5 @@
     }
   },
   "sourceUrl": "https://www.garmin.com/de-DE/p/1604358/",
-  "fetchedAt": "2026-11-12T12:42:52.375Z"
+  "fetchedAt": "2026-11-13T12:12:01.143Z"
 }

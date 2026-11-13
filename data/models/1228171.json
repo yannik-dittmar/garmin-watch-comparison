@@ -8,9 +8,9 @@
     "qualifier": "51 mm, AMOLED"
   },
   "price": {
-    "amount": 899.99,
+    "amount": 729.99,
     "currency": "EUR",
-    "formatted": "899,99 €"
+    "formatted": "729,99 €"
   },
   "images": [
     {
@@ -40,9 +40,9 @@
       "partNumber": "010-02905-00",
       "name": "Schwarz/Schiefergrau mit QuickFit-Silikon-Armband 26 mm",
       "price": {
-        "amount": 899.99,
+        "amount": 729.99,
         "currency": "EUR",
-        "formatted": "899,99 €"
+        "formatted": "729,99 €"
       },
       "images": [
         {
@@ -60,9 +60,9 @@
       "partNumber": "010-02905-11",
       "name": "Sapphire, Graphit/Titanium Titan mit QuickFit-Silikon-Armband 26 mm",
       "price": {
-        "amount": 999.99,
+        "amount": 829.99,
         "currency": "EUR",
-        "formatted": "999,99 €"
+        "formatted": "829,99 €"
       },
       "images": [
         {
@@ -80,9 +80,9 @@
       "partNumber": "010-02905-21",
       "name": "Sapphire, Schwarz/Carbongrau DLC Titan mit QuickFit-Silikon-Armband 26 mm",
       "price": {
-        "amount": 999.99,
+        "amount": 829.99,
         "currency": "EUR",
-        "formatted": "999,99 €"
+        "formatted": "829,99 €"
       },
       "images": [
         {
@@ -100,9 +100,9 @@
       "partNumber": "010-02905-40",
       "name": "Sapphire, Graphit/Titanium Titan mit QuickFit-Leder-Armband 26 mm Braun",
       "price": {
-        "amount": 1099.99,
+        "amount": 899.99,
         "currency": "EUR",
-        "formatted": "1.099,99 €"
+        "formatted": "899,99 €"
       },
       "images": [
         {
@@ -2991,5 +2991,5 @@
     }
   },
   "sourceUrl": "https://www.garmin.com/de-DE/p/1228493/",
-  "fetchedAt": "2026-11-12T12:42:52.839Z"
+  "fetchedAt": "2026-11-13T12:12:01.588Z"
 }

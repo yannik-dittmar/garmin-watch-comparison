@@ -8,9 +8,9 @@
     "qualifier": null
   },
   "price": {
-    "amount": 549.99,
+    "amount": 479.99,
     "currency": "EUR",
-    "formatted": "549,99 €"
+    "formatted": "479,99 €"
   },
   "images": [
     {
@@ -64,9 +64,9 @@
       "partNumber": "010-02809-10",
       "name": "Schwarz/Carbongrau DLC Titan mit Silikon-Wechselarmband 22 mm Schwarz/Hellgrau",
       "price": {
-        "amount": 549.99,
+        "amount": 479.99,
         "currency": "EUR",
-        "formatted": "549,99 €"
+        "formatted": "479,99 €"
       },
       "images": [
         {
@@ -112,9 +112,9 @@
       "partNumber": "010-02809-11",
       "name": "Steinweiss/Titanium Titan mit Silikon-Wechselarmband 22 mm Steinweiss/Hellgrau",
       "price": {
-        "amount": 549.99,
+        "amount": 479.99,
         "currency": "EUR",
-        "formatted": "549,99 €"
+        "formatted": "479,99 €"
       },
       "images": [
         {
@@ -160,9 +160,9 @@
       "partNumber": "010-02809-12",
       "name": "Schwarz/Carbongrau DLC Titan mit Silikon-Wechselarmband 22 mm Zitronengelb/Schwarz",
       "price": {
-        "amount": 549.99,
+        "amount": 479.99,
         "currency": "EUR",
-        "formatted": "549,99 €"
+        "formatted": "479,99 €"
       },
       "images": [
         {
@@ -2559,5 +2559,5 @@
     }
   },
   "sourceUrl": "https://www.garmin.com/de-DE/p/886725/",
-  "fetchedAt": "2026-11-12T12:42:53.211Z"
+  "fetchedAt": "2026-11-13T12:12:01.968Z"
 }
