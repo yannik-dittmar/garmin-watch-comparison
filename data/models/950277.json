@@ -128,9 +128,9 @@
       "partNumber": "010-02839-70",
       "name": "Kokosnuss/Cremegold mit Schnellwechsel-Silikon-Armband",
       "price": {
-        "amount": 279.99,
+        "amount": 239.99,
         "currency": "EUR",
-        "formatted": "279,99 €"
+        "formatted": "239,99 €"
       },
       "images": [
         {
@@ -1085,5 +1085,5 @@
     }
   },
   "sourceUrl": "https://www.garmin.com/de-DE/p/950277/",
-  "fetchedAt": "2026-11-13T12:12:02.159Z"
+  "fetchedAt": "2026-11-14T11:28:24.663Z"
 }

@@ -8,9 +8,9 @@
     "qualifier": "41 mm"
   },
   "price": {
-    "amount": 499.99,
+    "amount": 399.99,
     "currency": "EUR",
-    "formatted": "499,99 €"
+    "formatted": "399,99 €"
   },
   "images": [
     {
@@ -164,9 +164,9 @@
       "partNumber": "010-03013-00",
       "name": "Beige/Lunargold mit Schnellwechsel-Silikon-Armband 18 mm Bone",
       "price": {
-        "amount": 499.99,
+        "amount": 399.99,
         "currency": "EUR",
-        "formatted": "499,99 €"
+        "formatted": "399,99 €"
       },
       "images": [
         {
@@ -212,9 +212,9 @@
       "partNumber": "010-03013-01",
       "name": "Grau/Silber mit Schnellwechsel-Silikon-Armband 18 mm Lavendelblau",
       "price": {
-        "amount": 499.99,
+        "amount": 399.99,
         "currency": "EUR",
-        "formatted": "499,99 €"
+        "formatted": "399,99 €"
       },
       "images": [
         {
@@ -260,9 +260,9 @@
       "partNumber": "010-03013-02",
       "name": "Schwarz/Schiefergrau mit Schnellwechsel-Silikon-Armband 18 mm",
       "price": {
-        "amount": 499.99,
+        "amount": 399.99,
         "currency": "EUR",
-        "formatted": "499,99 €"
+        "formatted": "399,99 €"
       },
       "images": [
         {
@@ -2756,5 +2756,5 @@
     }
   },
   "sourceUrl": "https://www.garmin.com/de-DE/p/1613801/",
-  "fetchedAt": "2026-11-13T12:12:02.544Z"
+  "fetchedAt": "2026-11-14T11:28:24.960Z"
 }
