@@ -1383,7 +1383,7 @@
     },
     {
       "section": "Aktivitätsfunktionen",
-      "label": "Schübe",
+      "label": "Rollstuhl-Schübezähler",
       "value": "",
       "valueKind": "marker-yes",
       "order": 161
@@ -2694,5 +2694,5 @@
     }
   },
   "sourceUrl": "https://www.garmin.com/de-DE/p/1957609/",
-  "fetchedAt": "2026-11-16T12:44:27.455Z"
+  "fetchedAt": "2026-11-17T13:23:41.078Z"
 }
