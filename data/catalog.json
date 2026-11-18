@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generatedAt": "2026-11-17T13:23:43.000Z",
-    "oldestFetchAt": "2026-11-17T13:23:40.905Z",
+    "generatedAt": "2026-11-18T13:02:32.273Z",
+    "oldestFetchAt": "2026-11-18T13:02:30.784Z",
     "locale": "de-DE",
     "storeCode": "DE",
     "modelCount": 94,
@@ -320,7 +320,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/721216/",
-      "fetchedAt": "2026-11-17T13:23:40.905Z"
+      "fetchedAt": "2026-11-18T13:02:30.784Z"
     },
     {
       "id": "1604358",
@@ -657,7 +657,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1604358/",
-      "fetchedAt": "2026-11-17T13:23:40.936Z"
+      "fetchedAt": "2026-11-18T13:02:30.806Z"
     },
     {
       "id": "1604377",
@@ -1030,7 +1030,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1604358/",
-      "fetchedAt": "2026-11-17T13:23:40.956Z"
+      "fetchedAt": "2026-11-18T13:02:30.821Z"
     },
     {
       "id": "847697",
@@ -1402,7 +1402,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/847697/",
-      "fetchedAt": "2026-11-17T13:23:40.978Z"
+      "fetchedAt": "2026-11-18T13:02:30.838Z"
     },
     {
       "id": "847706",
@@ -1778,7 +1778,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/847697/",
-      "fetchedAt": "2026-11-17T13:23:41.003Z"
+      "fetchedAt": "2026-11-18T13:02:30.855Z"
     },
     {
       "id": "1937140",
@@ -2186,7 +2186,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1937140/",
-      "fetchedAt": "2026-11-17T13:23:41.021Z"
+      "fetchedAt": "2026-11-18T13:02:30.868Z"
     },
     {
       "id": "1937117",
@@ -2594,7 +2594,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1937140/",
-      "fetchedAt": "2026-11-17T13:23:41.049Z"
+      "fetchedAt": "2026-11-18T13:02:30.900Z"
     },
     {
       "id": "1957609",
@@ -3057,7 +3057,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1957609/",
-      "fetchedAt": "2026-11-17T13:23:41.078Z"
+      "fetchedAt": "2026-11-18T13:02:30.914Z"
     },
     {
       "id": "1388769",
@@ -3531,7 +3531,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1388769/",
-      "fetchedAt": "2026-11-17T13:23:41.101Z"
+      "fetchedAt": "2026-11-18T13:02:30.929Z"
     },
     {
       "id": "1373810",
@@ -4005,7 +4005,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1388769/",
-      "fetchedAt": "2026-11-17T13:23:41.132Z"
+      "fetchedAt": "2026-11-18T13:02:30.955Z"
     },
     {
       "id": "2010221",
@@ -4505,7 +4505,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1388769/",
-      "fetchedAt": "2026-11-17T13:23:41.148Z"
+      "fetchedAt": "2026-11-18T13:02:30.980Z"
     },
     {
       "id": "1558977",
@@ -4925,7 +4925,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1558977/",
-      "fetchedAt": "2026-11-17T13:23:41.168Z"
+      "fetchedAt": "2026-11-18T13:02:30.994Z"
     },
     {
       "id": "852183",
@@ -5388,7 +5388,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/852183/",
-      "fetchedAt": "2026-11-17T13:23:41.184Z"
+      "fetchedAt": "2026-11-18T13:02:31.005Z"
     },
     {
       "id": "852217",
@@ -5865,7 +5865,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/852183/",
-      "fetchedAt": "2026-11-17T13:23:41.210Z"
+      "fetchedAt": "2026-11-18T13:02:31.020Z"
     },
     {
       "id": "852159",
@@ -6345,7 +6345,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/852183/",
-      "fetchedAt": "2026-11-17T13:23:41.227Z"
+      "fetchedAt": "2026-11-18T13:02:31.032Z"
     },
     {
       "id": "851039",
@@ -6620,10 +6620,9 @@
             "Kompass",
             "Gyroskop",
             "Beschleunigungsmesser",
-            "Thermometer",
-            "Sensor für das Umgebungslicht"
+            "Thermometer"
           ],
-          "source": "Garmin Elevate™ -Technologie für die Herzfrequenzmessung am Handgelenk, Pulsoximeter-Akklimatisierung, Barometrischer Höhenmesser, Kompass, Gyroskop, Beschleunigungsmesser, Thermometer, Sensor für das Umgebungslicht"
+          "source": "Garmin Elevate™ -Technologie für die Herzfrequenzmessung am Handgelenk, Pulsoximeter-Akklimatisierung, Barometrischer Höhenmesser, Kompass, Gyroskop, Beschleunigungsmesser, Thermometer"
         },
         "barometricAltimeter": {
           "kind": "flag",
@@ -6810,7 +6809,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/851039/",
-      "fetchedAt": "2026-11-17T13:23:41.253Z"
+      "fetchedAt": "2026-11-18T13:02:31.044Z"
     },
     {
       "id": "2032078",
@@ -7083,10 +7082,9 @@
             "Kompass",
             "Gyroskop",
             "Beschleunigungsmesser",
-            "Thermometer",
-            "Sensor für das Umgebungslicht"
+            "Thermometer"
           ],
-          "source": "Garmin Elevate™ -Technologie für die Herzfrequenzmessung am Handgelenk, Pulsoximeter-Akklimatisierung, Barometrischer Höhenmesser, Kompass, Gyroskop, Beschleunigungsmesser, Thermometer, Sensor für das Umgebungslicht"
+          "source": "Garmin Elevate™ -Technologie für die Herzfrequenzmessung am Handgelenk, Pulsoximeter-Akklimatisierung, Barometrischer Höhenmesser, Kompass, Gyroskop, Beschleunigungsmesser, Thermometer"
         },
         "barometricAltimeter": {
           "kind": "flag",
@@ -7273,7 +7271,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/2032078/",
-      "fetchedAt": "2026-11-17T13:23:41.267Z"
+      "fetchedAt": "2026-11-18T13:02:31.063Z"
     },
     {
       "id": "1228493",
@@ -7753,7 +7751,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1228493/",
-      "fetchedAt": "2026-11-17T13:23:41.281Z"
+      "fetchedAt": "2026-11-18T13:02:31.076Z"
     },
     {
       "id": "1228429",
@@ -8233,7 +8231,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1228493/",
-      "fetchedAt": "2026-11-17T13:23:41.299Z"
+      "fetchedAt": "2026-11-18T13:02:31.087Z"
     },
     {
       "id": "1389491",
@@ -8519,10 +8517,9 @@
             "Gyroskop",
             "Beschleunigungsmesser",
             "Thermometer",
-            "Sensor für das Umgebungslicht",
             "Tiefenmesser"
           ],
-          "source": "Garmin Elevate™ -Technologie für die Herzfrequenzmessung am Handgelenk, Pulsoximeter-Akklimatisierung, Barometrischer Höhenmesser, Kompass, Gyroskop, Beschleunigungsmesser, Thermometer, Sensor für das Umgebungslicht, Tiefenmesser"
+          "source": "Garmin Elevate™ -Technologie für die Herzfrequenzmessung am Handgelenk, Pulsoximeter-Akklimatisierung, Barometrischer Höhenmesser, Kompass, Gyroskop, Beschleunigungsmesser, Thermometer, Tiefenmesser"
         },
         "barometricAltimeter": {
           "kind": "flag",
@@ -8713,7 +8710,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1228493/",
-      "fetchedAt": "2026-11-17T13:23:41.316Z"
+      "fetchedAt": "2026-11-18T13:02:31.102Z"
     },
     {
       "id": "1228171",
@@ -9193,7 +9190,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1228493/",
-      "fetchedAt": "2026-11-17T13:23:41.331Z"
+      "fetchedAt": "2026-11-18T13:02:31.113Z"
     },
     {
       "id": "1390829",
@@ -9479,10 +9476,9 @@
             "Gyroskop",
             "Beschleunigungsmesser",
             "Thermometer",
-            "Sensor für das Umgebungslicht",
             "Tiefenmesser"
           ],
-          "source": "Garmin Elevate™ -Technologie für die Herzfrequenzmessung am Handgelenk, Pulsoximeter-Akklimatisierung, Barometrischer Höhenmesser, Kompass, Gyroskop, Beschleunigungsmesser, Thermometer, Sensor für das Umgebungslicht, Tiefenmesser"
+          "source": "Garmin Elevate™ -Technologie für die Herzfrequenzmessung am Handgelenk, Pulsoximeter-Akklimatisierung, Barometrischer Höhenmesser, Kompass, Gyroskop, Beschleunigungsmesser, Thermometer, Tiefenmesser"
         },
         "barometricAltimeter": {
           "kind": "flag",
@@ -9673,7 +9669,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1228493/",
-      "fetchedAt": "2026-11-17T13:23:41.348Z"
+      "fetchedAt": "2026-11-18T13:02:31.124Z"
     },
     {
       "id": "1701921",
@@ -10178,7 +10174,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1228493/",
-      "fetchedAt": "2026-11-17T13:23:41.368Z"
+      "fetchedAt": "2026-11-18T13:02:31.136Z"
     },
     {
       "id": "1703902",
@@ -10683,7 +10679,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1228493/",
-      "fetchedAt": "2026-11-17T13:23:41.387Z"
+      "fetchedAt": "2026-11-18T13:02:31.146Z"
     },
     {
       "id": "1723221",
@@ -11186,7 +11182,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1228493/",
-      "fetchedAt": "2026-11-17T13:23:41.403Z"
+      "fetchedAt": "2026-11-18T13:02:31.158Z"
     },
     {
       "id": "2021177",
@@ -11659,7 +11655,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/2021177/",
-      "fetchedAt": "2026-11-17T13:23:41.422Z"
+      "fetchedAt": "2026-11-18T13:02:31.171Z"
     },
     {
       "id": "2021193",
@@ -12132,7 +12128,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/2021177/",
-      "fetchedAt": "2026-11-17T13:23:41.437Z"
+      "fetchedAt": "2026-11-18T13:02:31.182Z"
     },
     {
       "id": "2021175",
@@ -12605,7 +12601,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/2021177/",
-      "fetchedAt": "2026-11-17T13:23:41.451Z"
+      "fetchedAt": "2026-11-18T13:02:31.193Z"
     },
     {
       "id": "1962767",
@@ -13080,7 +13076,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/2021177/",
-      "fetchedAt": "2026-11-17T13:23:41.466Z"
+      "fetchedAt": "2026-11-18T13:02:31.203Z"
     },
     {
       "id": "1962732",
@@ -13554,7 +13550,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/2021177/",
-      "fetchedAt": "2026-11-17T13:23:41.480Z"
+      "fetchedAt": "2026-11-18T13:02:31.213Z"
     },
     {
       "id": "1962713",
@@ -14028,7 +14024,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/2021177/",
-      "fetchedAt": "2026-11-17T13:23:41.494Z"
+      "fetchedAt": "2026-11-18T13:02:31.224Z"
     },
     {
       "id": "1959805",
@@ -14308,10 +14304,9 @@
             "Gyroskop",
             "Beschleunigungsmesser",
             "Thermometer",
-            "Sensor für das Umgebungslicht",
             "Tiefenmesser"
           ],
-          "source": "Garmin Elevate™ -Technologie für die Herzfrequenzmessung am Handgelenk, Pulsoximeter-Akklimatisierung, Barometrischer Höhenmesser, Kompass, Gyroskop, Beschleunigungsmesser, Thermometer, Sensor für das Umgebungslicht, Tiefenmesser"
+          "source": "Garmin Elevate™ -Technologie für die Herzfrequenzmessung am Handgelenk, Pulsoximeter-Akklimatisierung, Barometrischer Höhenmesser, Kompass, Gyroskop, Beschleunigungsmesser, Thermometer, Tiefenmesser"
         },
         "barometricAltimeter": {
           "kind": "flag",
@@ -14502,7 +14497,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/2021177/",
-      "fetchedAt": "2026-11-17T13:23:41.508Z"
+      "fetchedAt": "2026-11-18T13:02:31.234Z"
     },
     {
       "id": "1959921",
@@ -14782,10 +14777,9 @@
             "Gyroskop",
             "Beschleunigungsmesser",
             "Thermometer",
-            "Sensor für das Umgebungslicht",
             "Tiefenmesser"
           ],
-          "source": "Garmin Elevate™ -Technologie für die Herzfrequenzmessung am Handgelenk, Pulsoximeter-Akklimatisierung, Barometrischer Höhenmesser, Kompass, Gyroskop, Beschleunigungsmesser, Thermometer, Sensor für das Umgebungslicht, Tiefenmesser"
+          "source": "Garmin Elevate™ -Technologie für die Herzfrequenzmessung am Handgelenk, Pulsoximeter-Akklimatisierung, Barometrischer Höhenmesser, Kompass, Gyroskop, Beschleunigungsmesser, Thermometer, Tiefenmesser"
         },
         "barometricAltimeter": {
           "kind": "flag",
@@ -14976,7 +14970,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/2021177/",
-      "fetchedAt": "2026-11-17T13:23:41.523Z"
+      "fetchedAt": "2026-11-18T13:02:31.245Z"
     },
     {
       "id": "1652337",
@@ -15430,7 +15424,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1228493/",
-      "fetchedAt": "2026-11-17T13:23:41.537Z"
+      "fetchedAt": "2026-11-18T13:02:31.255Z"
     },
     {
       "id": "1055469",
@@ -15827,7 +15821,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1055469/",
-      "fetchedAt": "2026-11-17T13:23:41.549Z"
+      "fetchedAt": "2026-11-18T13:02:31.264Z"
     },
     {
       "id": "1611937",
@@ -16251,7 +16245,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1055469/",
-      "fetchedAt": "2026-11-17T13:23:41.568Z"
+      "fetchedAt": "2026-11-18T13:02:31.273Z"
     },
     {
       "id": "1915560",
@@ -16660,7 +16654,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1915560/",
-      "fetchedAt": "2026-11-17T13:23:41.575Z"
+      "fetchedAt": "2026-11-18T13:02:31.278Z"
     },
     {
       "id": "2014513",
@@ -17096,7 +17090,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1915560/",
-      "fetchedAt": "2026-11-17T13:23:41.586Z"
+      "fetchedAt": "2026-11-18T13:02:31.286Z"
     },
     {
       "id": "886785",
@@ -17546,7 +17540,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/886785/",
-      "fetchedAt": "2026-11-17T13:23:41.596Z"
+      "fetchedAt": "2026-11-18T13:02:31.293Z"
     },
     {
       "id": "886689",
@@ -17996,7 +17990,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/886785/",
-      "fetchedAt": "2026-11-17T13:23:41.604Z"
+      "fetchedAt": "2026-11-18T13:02:31.298Z"
     },
     {
       "id": "1463821",
@@ -18456,7 +18450,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1463821/",
-      "fetchedAt": "2026-11-17T13:23:41.615Z"
+      "fetchedAt": "2026-11-18T13:02:31.305Z"
     },
     {
       "id": "1464001",
@@ -18916,7 +18910,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1463821/",
-      "fetchedAt": "2026-11-17T13:23:41.626Z"
+      "fetchedAt": "2026-11-18T13:02:31.313Z"
     },
     {
       "id": "1941179",
@@ -19313,7 +19307,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1915560/",
-      "fetchedAt": "2026-11-17T13:23:41.635Z"
+      "fetchedAt": "2026-11-18T13:02:31.320Z"
     },
     {
       "id": "777655",
@@ -19739,7 +19733,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/777655/",
-      "fetchedAt": "2026-11-17T13:23:41.645Z"
+      "fetchedAt": "2026-11-18T13:02:31.326Z"
     },
     {
       "id": "777730",
@@ -20167,7 +20161,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/777655/",
-      "fetchedAt": "2026-11-17T13:23:41.656Z"
+      "fetchedAt": "2026-11-18T13:02:31.334Z"
     },
     {
       "id": "886725",
@@ -20616,7 +20610,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/886725/",
-      "fetchedAt": "2026-11-17T13:23:41.666Z"
+      "fetchedAt": "2026-11-18T13:02:31.340Z"
     },
     {
       "id": "1462801",
@@ -21079,7 +21073,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1462801/",
-      "fetchedAt": "2026-11-17T13:23:41.678Z"
+      "fetchedAt": "2026-11-18T13:02:31.348Z"
     },
     {
       "id": "1316397",
@@ -21523,7 +21517,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1316397/",
-      "fetchedAt": "2026-11-17T13:23:41.691Z"
+      "fetchedAt": "2026-11-18T13:02:31.357Z"
     },
     {
       "id": "1315317",
@@ -21963,7 +21957,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1316397/",
-      "fetchedAt": "2026-11-17T13:23:41.702Z"
+      "fetchedAt": "2026-11-18T13:02:31.364Z"
     },
     {
       "id": "1705221",
@@ -22403,7 +22397,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1316397/",
-      "fetchedAt": "2026-11-17T13:23:41.711Z"
+      "fetchedAt": "2026-11-18T13:02:31.370Z"
     },
     {
       "id": "1622337",
@@ -22847,7 +22841,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1316397/",
-      "fetchedAt": "2026-11-17T13:23:41.723Z"
+      "fetchedAt": "2026-11-18T13:02:31.379Z"
     },
     {
       "id": "1718241",
@@ -23290,7 +23284,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1316397/",
-      "fetchedAt": "2026-11-17T13:23:41.735Z"
+      "fetchedAt": "2026-11-18T13:02:31.387Z"
     },
     {
       "id": "1316857",
@@ -23732,7 +23726,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1316397/",
-      "fetchedAt": "2026-11-17T13:23:41.744Z"
+      "fetchedAt": "2026-11-18T13:02:31.393Z"
     },
     {
       "id": "1476633",
@@ -24172,7 +24166,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1316397/",
-      "fetchedAt": "2026-11-17T13:23:41.756Z"
+      "fetchedAt": "2026-11-18T13:02:31.402Z"
     },
     {
       "id": "819761",
@@ -24573,7 +24567,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/819761/",
-      "fetchedAt": "2026-11-17T13:23:41.768Z"
+      "fetchedAt": "2026-11-18T13:02:31.410Z"
     },
     {
       "id": "1800201",
@@ -25016,7 +25010,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/819761/",
-      "fetchedAt": "2026-11-17T13:23:41.776Z"
+      "fetchedAt": "2026-11-18T13:02:31.415Z"
     },
     {
       "id": "1795741",
@@ -25458,7 +25452,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/819761/",
-      "fetchedAt": "2026-11-17T13:23:41.787Z"
+      "fetchedAt": "2026-11-18T13:02:31.423Z"
     },
     {
       "id": "819727",
@@ -25861,7 +25855,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/819761/",
-      "fetchedAt": "2026-11-17T13:23:41.798Z"
+      "fetchedAt": "2026-11-18T13:02:31.431Z"
     },
     {
       "id": "819546",
@@ -26263,7 +26257,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/819761/",
-      "fetchedAt": "2026-11-17T13:23:41.806Z"
+      "fetchedAt": "2026-11-18T13:02:31.437Z"
     },
     {
       "id": "1314137",
@@ -26669,7 +26663,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1316397/",
-      "fetchedAt": "2026-11-17T13:23:41.817Z"
+      "fetchedAt": "2026-11-18T13:02:31.444Z"
     },
     {
       "id": "1315817",
@@ -27076,7 +27070,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1316397/",
-      "fetchedAt": "2026-11-17T13:23:41.830Z"
+      "fetchedAt": "2026-11-18T13:02:31.452Z"
     },
     {
       "id": "950277",
@@ -27398,7 +27392,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/950277/",
-      "fetchedAt": "2026-11-17T13:23:41.845Z"
+      "fetchedAt": "2026-11-18T13:02:31.460Z"
     },
     {
       "id": "1196650",
@@ -27753,7 +27747,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/950277/",
-      "fetchedAt": "2026-11-17T13:23:41.852Z"
+      "fetchedAt": "2026-11-18T13:02:31.463Z"
     },
     {
       "id": "950157",
@@ -28079,7 +28073,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/950277/",
-      "fetchedAt": "2026-11-17T13:23:41.861Z"
+      "fetchedAt": "2026-11-18T13:02:31.467Z"
     },
     {
       "id": "783467",
@@ -28540,7 +28534,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/783467/",
-      "fetchedAt": "2026-11-17T13:23:41.867Z"
+      "fetchedAt": "2026-11-18T13:02:31.471Z"
     },
     {
       "id": "1765781",
@@ -29000,7 +28994,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/783467/",
-      "fetchedAt": "2026-11-17T13:23:41.879Z"
+      "fetchedAt": "2026-11-18T13:02:31.479Z"
     },
     {
       "id": "1962389",
@@ -29475,7 +29469,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1962389/",
-      "fetchedAt": "2026-11-17T13:23:41.893Z"
+      "fetchedAt": "2026-11-18T13:02:31.488Z"
     },
     {
       "id": "783448",
@@ -29936,7 +29930,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/783467/",
-      "fetchedAt": "2026-11-17T13:23:41.909Z"
+      "fetchedAt": "2026-11-18T13:02:31.500Z"
     },
     {
       "id": "815448",
@@ -30396,7 +30390,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/783467/",
-      "fetchedAt": "2026-11-17T13:23:41.922Z"
+      "fetchedAt": "2026-11-18T13:02:31.509Z"
     },
     {
       "id": "1323517",
@@ -30856,7 +30850,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/783467/",
-      "fetchedAt": "2026-11-17T13:23:41.935Z"
+      "fetchedAt": "2026-11-18T13:02:31.518Z"
     },
     {
       "id": "1963279",
@@ -31331,7 +31325,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1962389/",
-      "fetchedAt": "2026-11-17T13:23:41.946Z"
+      "fetchedAt": "2026-11-18T13:02:31.525Z"
     },
     {
       "id": "783461",
@@ -31792,7 +31786,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/783467/",
-      "fetchedAt": "2026-11-17T13:23:41.961Z"
+      "fetchedAt": "2026-11-18T13:02:31.538Z"
     },
     {
       "id": "1963375",
@@ -32267,7 +32261,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1962389/",
-      "fetchedAt": "2026-11-17T13:23:41.974Z"
+      "fetchedAt": "2026-11-18T13:02:31.546Z"
     },
     {
       "id": "783441",
@@ -32728,7 +32722,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/783467/",
-      "fetchedAt": "2026-11-17T13:23:41.990Z"
+      "fetchedAt": "2026-11-18T13:02:31.557Z"
     },
     {
       "id": "815582",
@@ -33184,7 +33178,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/783467/",
-      "fetchedAt": "2026-11-17T13:23:42.003Z"
+      "fetchedAt": "2026-11-18T13:02:31.566Z"
     },
     {
       "id": "1963306",
@@ -33659,7 +33653,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1962389/",
-      "fetchedAt": "2026-11-17T13:23:42.016Z"
+      "fetchedAt": "2026-11-18T13:02:31.576Z"
     },
     {
       "id": "1963317",
@@ -34134,7 +34128,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1962389/",
-      "fetchedAt": "2026-11-17T13:23:42.031Z"
+      "fetchedAt": "2026-11-18T13:02:31.586Z"
     },
     {
       "id": "783465",
@@ -34595,7 +34589,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/783467/",
-      "fetchedAt": "2026-11-17T13:23:42.047Z"
+      "fetchedAt": "2026-11-18T13:02:31.597Z"
     },
     {
       "id": "815409",
@@ -35051,7 +35045,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/783467/",
-      "fetchedAt": "2026-11-17T13:23:42.057Z"
+      "fetchedAt": "2026-11-18T13:02:31.606Z"
     },
     {
       "id": "1973515",
@@ -35526,7 +35520,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1962389/",
-      "fetchedAt": "2026-11-17T13:23:42.070Z"
+      "fetchedAt": "2026-11-18T13:02:31.613Z"
     },
     {
       "id": "1908596",
@@ -35994,7 +35988,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1908596/",
-      "fetchedAt": "2026-11-17T13:23:42.086Z"
+      "fetchedAt": "2026-11-18T13:02:31.624Z"
     },
     {
       "id": "1908580",
@@ -36462,7 +36456,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1908596/",
-      "fetchedAt": "2026-11-17T13:23:42.101Z"
+      "fetchedAt": "2026-11-18T13:02:31.635Z"
     },
     {
       "id": "1986622",
@@ -36956,7 +36950,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1908596/",
-      "fetchedAt": "2026-11-17T13:23:42.115Z"
+      "fetchedAt": "2026-11-18T13:02:31.644Z"
     },
     {
       "id": "1828661",
@@ -37427,7 +37421,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1828661/",
-      "fetchedAt": "2026-11-17T13:23:42.130Z"
+      "fetchedAt": "2026-11-18T13:02:31.655Z"
     },
     {
       "id": "1828641",
@@ -37898,7 +37892,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1828661/",
-      "fetchedAt": "2026-11-17T13:23:42.145Z"
+      "fetchedAt": "2026-11-18T13:02:31.665Z"
     },
     {
       "id": "1963258",
@@ -38368,7 +38362,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1828661/",
-      "fetchedAt": "2026-11-17T13:23:42.160Z"
+      "fetchedAt": "2026-11-18T13:02:31.675Z"
     },
     {
       "id": "1828741",
@@ -38647,10 +38641,9 @@
             "Gyroskop",
             "Beschleunigungsmesser",
             "Thermometer",
-            "Sensor für das Umgebungslicht",
             "Tiefenmesser"
           ],
-          "source": "Garmin Elevate™ -Technologie für die Herzfrequenzmessung am Handgelenk, Pulsoximeter-Akklimatisierung, Barometrischer Höhenmesser, Kompass, Gyroskop, Beschleunigungsmesser, Thermometer, Sensor für das Umgebungslicht, Tiefenmesser"
+          "source": "Garmin Elevate™ -Technologie für die Herzfrequenzmessung am Handgelenk, Pulsoximeter-Akklimatisierung, Barometrischer Höhenmesser, Kompass, Gyroskop, Beschleunigungsmesser, Thermometer, Tiefenmesser"
         },
         "barometricAltimeter": {
           "kind": "flag",
@@ -38841,7 +38834,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1828661/",
-      "fetchedAt": "2026-11-17T13:23:42.174Z"
+      "fetchedAt": "2026-11-18T13:02:31.686Z"
     },
     {
       "id": "1831081",
@@ -39120,10 +39113,9 @@
             "Gyroskop",
             "Beschleunigungsmesser",
             "Thermometer",
-            "Sensor für das Umgebungslicht",
             "Tiefenmesser"
           ],
-          "source": "Garmin Elevate™ -Technologie für die Herzfrequenzmessung am Handgelenk, Pulsoximeter-Akklimatisierung, Barometrischer Höhenmesser, Kompass, Gyroskop, Beschleunigungsmesser, Thermometer, Sensor für das Umgebungslicht, Tiefenmesser"
+          "source": "Garmin Elevate™ -Technologie für die Herzfrequenzmessung am Handgelenk, Pulsoximeter-Akklimatisierung, Barometrischer Höhenmesser, Kompass, Gyroskop, Beschleunigungsmesser, Thermometer, Tiefenmesser"
         },
         "barometricAltimeter": {
           "kind": "flag",
@@ -39314,7 +39306,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1828661/",
-      "fetchedAt": "2026-11-17T13:23:42.189Z"
+      "fetchedAt": "2026-11-18T13:02:31.696Z"
     },
     {
       "id": "1613801",
@@ -39781,7 +39773,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1613801/",
-      "fetchedAt": "2026-11-17T13:23:42.203Z"
+      "fetchedAt": "2026-11-18T13:02:31.706Z"
     },
     {
       "id": "1614061",
@@ -40248,7 +40240,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1613801/",
-      "fetchedAt": "2026-11-17T13:23:42.213Z"
+      "fetchedAt": "2026-11-18T13:02:31.713Z"
     },
     {
       "id": "1510465",
@@ -40685,7 +40677,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1510465/",
-      "fetchedAt": "2026-11-17T13:23:42.226Z"
+      "fetchedAt": "2026-11-18T13:02:31.722Z"
     },
     {
       "id": "1555457",
@@ -41100,7 +41092,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1555457/",
-      "fetchedAt": "2026-11-17T13:23:42.239Z"
+      "fetchedAt": "2026-11-18T13:02:31.731Z"
     },
     {
       "id": "742133",
@@ -41432,7 +41424,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/742133/",
-      "fetchedAt": "2026-11-17T13:23:42.246Z"
+      "fetchedAt": "2026-11-18T13:02:31.736Z"
     },
     {
       "id": "785411",
@@ -41771,7 +41763,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/742133/",
-      "fetchedAt": "2026-11-17T13:23:42.252Z"
+      "fetchedAt": "2026-11-18T13:02:31.740Z"
     }
   ]
 }
