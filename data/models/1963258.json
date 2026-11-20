@@ -8,9 +8,9 @@
     "qualifier": "51 mm, AMOLED, Cerakote-Beschichtung"
   },
   "price": {
-    "amount": 1599.99,
+    "amount": 1249.99,
     "currency": "EUR",
-    "formatted": "1.599,99 €"
+    "formatted": "1.249,99 €"
   },
   "images": [
     {
@@ -32,9 +32,9 @@
       "partNumber": "010-04553-01",
       "name": "Einschließlich Applied Ballistics Ultralight Rechner und Cerakote-Beschichtung Schiefergrau",
       "price": {
-        "amount": 1599.99,
+        "amount": 1249.99,
         "currency": "EUR",
-        "formatted": "1.599,99 €"
+        "formatted": "1.249,99 €"
       },
       "images": [
         {
@@ -52,9 +52,9 @@
       "partNumber": "010-04553-11",
       "name": "Einschließlich Applied Ballistics Ultralight Rechner und Cerakote-Beschichtung Olivgrün",
       "price": {
-        "amount": 1599.99,
+        "amount": 1249.99,
         "currency": "EUR",
-        "formatted": "1.599,99 €"
+        "formatted": "1.249,99 €"
       },
       "images": [
         {
@@ -3023,5 +3023,5 @@
     }
   },
   "sourceUrl": "https://www.garmin.com/de-DE/p/1828661/",
-  "fetchedAt": "2026-11-19T13:03:52.664Z"
+  "fetchedAt": "2026-11-20T12:53:32.332Z"
 }

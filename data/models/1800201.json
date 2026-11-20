@@ -8,9 +8,9 @@
     "qualifier": "AMOLED"
   },
   "price": {
-    "amount": 599.99,
+    "amount": 499.99,
     "currency": "EUR",
-    "formatted": "599,99 €"
+    "formatted": "499,99 €"
   },
   "images": [
     {
@@ -32,9 +32,9 @@
       "partNumber": "010-03398-00",
       "name": "Anthrazitgrau",
       "price": {
-        "amount": 599.99,
+        "amount": 499.99,
         "currency": "EUR",
-        "formatted": "599,99 €"
+        "formatted": "499,99 €"
       },
       "images": [
         {
@@ -52,9 +52,9 @@
       "partNumber": "010-03398-01",
       "name": "Bronze/Sunburst",
       "price": {
-        "amount": 599.99,
+        "amount": 499.99,
         "currency": "EUR",
-        "formatted": "599,99 €"
+        "formatted": "499,99 €"
       },
       "images": [
         {
@@ -2250,5 +2250,5 @@
     }
   },
   "sourceUrl": "https://www.garmin.com/de-DE/p/819761/",
-  "fetchedAt": "2026-11-19T13:03:52.244Z"
+  "fetchedAt": "2026-11-20T12:53:31.999Z"
 }

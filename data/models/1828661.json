@@ -8,9 +8,9 @@
     "qualifier": "47 mm, AMOLED"
   },
   "price": {
-    "amount": 1299.99,
+    "amount": 999.99,
     "currency": "EUR",
-    "formatted": "1.299,99 €"
+    "formatted": "999,99 €"
   },
   "images": [
     {
@@ -68,9 +68,9 @@
       "partNumber": "010-03405-01",
       "name": "Einschließlich Applied Ballistics Ultralight Rechner",
       "price": {
-        "amount": 1299.99,
+        "amount": 999.99,
         "currency": "EUR",
-        "formatted": "1.299,99 €"
+        "formatted": "999,99 €"
       },
       "images": [
         {
@@ -3087,5 +3087,5 @@
     }
   },
   "sourceUrl": "https://www.garmin.com/de-DE/p/1828661/",
-  "fetchedAt": "2026-11-19T13:03:52.633Z"
+  "fetchedAt": "2026-11-20T12:53:32.306Z"
 }

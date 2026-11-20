@@ -8,9 +8,9 @@
     "qualifier": "51 mm, Solar, Elite"
   },
   "price": {
-    "amount": 1549.99,
+    "amount": 1229.99,
     "currency": "EUR",
-    "formatted": "1.549,99 €"
+    "formatted": "1.229,99 €"
   },
   "images": [
     {
@@ -28,9 +28,9 @@
       "partNumber": "010-03407-11",
       "name": "Einschließlich Applied Ballistics Elite-Rechner",
       "price": {
-        "amount": 1549.99,
+        "amount": 1229.99,
         "currency": "EUR",
-        "formatted": "1.549,99 €"
+        "formatted": "1.229,99 €"
       },
       "images": [
         {
@@ -3002,5 +3002,5 @@
     }
   },
   "sourceUrl": "https://www.garmin.com/de-DE/p/1828661/",
-  "fetchedAt": "2026-11-19T13:03:52.695Z"
+  "fetchedAt": "2026-11-20T12:53:32.358Z"
 }
