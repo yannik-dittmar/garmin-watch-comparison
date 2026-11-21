@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generatedAt": "2026-11-20T12:53:33.068Z",
-    "oldestFetchAt": "2026-11-20T12:53:31.197Z",
+    "generatedAt": "2026-11-21T12:38:34.903Z",
+    "oldestFetchAt": "2026-11-21T12:38:32.904Z",
     "locale": "de-DE",
     "storeCode": "DE",
     "modelCount": 94,
@@ -320,7 +320,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/721216/",
-      "fetchedAt": "2026-11-20T12:53:31.197Z"
+      "fetchedAt": "2026-11-21T12:38:32.904Z"
     },
     {
       "id": "1604358",
@@ -657,7 +657,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1604358/",
-      "fetchedAt": "2026-11-20T12:53:31.217Z"
+      "fetchedAt": "2026-11-21T12:38:32.931Z"
     },
     {
       "id": "1604377",
@@ -1030,7 +1030,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1604358/",
-      "fetchedAt": "2026-11-20T12:53:31.235Z"
+      "fetchedAt": "2026-11-21T12:38:32.950Z"
     },
     {
       "id": "847697",
@@ -1402,7 +1402,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/847697/",
-      "fetchedAt": "2026-11-20T12:53:31.262Z"
+      "fetchedAt": "2026-11-21T12:38:32.976Z"
     },
     {
       "id": "847706",
@@ -1778,7 +1778,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/847697/",
-      "fetchedAt": "2026-11-20T12:53:31.283Z"
+      "fetchedAt": "2026-11-21T12:38:32.999Z"
     },
     {
       "id": "1937140",
@@ -2186,7 +2186,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1937140/",
-      "fetchedAt": "2026-11-20T12:53:31.304Z"
+      "fetchedAt": "2026-11-21T12:38:33.017Z"
     },
     {
       "id": "1937117",
@@ -2594,7 +2594,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1937140/",
-      "fetchedAt": "2026-11-20T12:53:31.341Z"
+      "fetchedAt": "2026-11-21T12:38:33.052Z"
     },
     {
       "id": "1957609",
@@ -3057,7 +3057,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1957609/",
-      "fetchedAt": "2026-11-20T12:53:31.373Z"
+      "fetchedAt": "2026-11-21T12:38:33.071Z"
     },
     {
       "id": "1388769",
@@ -3531,7 +3531,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1388769/",
-      "fetchedAt": "2026-11-20T12:53:31.390Z"
+      "fetchedAt": "2026-11-21T12:38:33.092Z"
     },
     {
       "id": "1373810",
@@ -4005,7 +4005,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1388769/",
-      "fetchedAt": "2026-11-20T12:53:31.410Z"
+      "fetchedAt": "2026-11-21T12:38:33.124Z"
     },
     {
       "id": "2010221",
@@ -4505,7 +4505,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1388769/",
-      "fetchedAt": "2026-11-20T12:53:31.429Z"
+      "fetchedAt": "2026-11-21T12:38:33.155Z"
     },
     {
       "id": "1558977",
@@ -4925,7 +4925,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1558977/",
-      "fetchedAt": "2026-11-20T12:53:31.447Z"
+      "fetchedAt": "2026-11-21T12:38:33.175Z"
     },
     {
       "id": "852183",
@@ -5388,7 +5388,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/852183/",
-      "fetchedAt": "2026-11-20T12:53:31.464Z"
+      "fetchedAt": "2026-11-21T12:38:33.189Z"
     },
     {
       "id": "852217",
@@ -5865,7 +5865,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/852183/",
-      "fetchedAt": "2026-11-20T12:53:31.492Z"
+      "fetchedAt": "2026-11-21T12:38:33.212Z"
     },
     {
       "id": "852159",
@@ -6345,7 +6345,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/852183/",
-      "fetchedAt": "2026-11-20T12:53:31.517Z"
+      "fetchedAt": "2026-11-21T12:38:33.227Z"
     },
     {
       "id": "851039",
@@ -6809,7 +6809,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/851039/",
-      "fetchedAt": "2026-11-20T12:53:31.535Z"
+      "fetchedAt": "2026-11-21T12:38:33.241Z"
     },
     {
       "id": "2032078",
@@ -7271,7 +7271,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/2032078/",
-      "fetchedAt": "2026-11-20T12:53:31.549Z"
+      "fetchedAt": "2026-11-21T12:38:33.264Z"
     },
     {
       "id": "1228493",
@@ -7751,7 +7751,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1228493/",
-      "fetchedAt": "2026-11-20T12:53:31.561Z"
+      "fetchedAt": "2026-11-21T12:38:33.278Z"
     },
     {
       "id": "1228429",
@@ -8231,7 +8231,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1228493/",
-      "fetchedAt": "2026-11-20T12:53:31.576Z"
+      "fetchedAt": "2026-11-21T12:38:33.292Z"
     },
     {
       "id": "1389491",
@@ -8710,7 +8710,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1228493/",
-      "fetchedAt": "2026-11-20T12:53:31.590Z"
+      "fetchedAt": "2026-11-21T12:38:33.309Z"
     },
     {
       "id": "1228171",
@@ -9190,7 +9190,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1228493/",
-      "fetchedAt": "2026-11-20T12:53:31.603Z"
+      "fetchedAt": "2026-11-21T12:38:33.323Z"
     },
     {
       "id": "1390829",
@@ -9669,7 +9669,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1228493/",
-      "fetchedAt": "2026-11-20T12:53:31.618Z"
+      "fetchedAt": "2026-11-21T12:38:33.340Z"
     },
     {
       "id": "1701921",
@@ -10174,7 +10174,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1228493/",
-      "fetchedAt": "2026-11-20T12:53:31.637Z"
+      "fetchedAt": "2026-11-21T12:38:33.357Z"
     },
     {
       "id": "1703902",
@@ -10679,7 +10679,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1228493/",
-      "fetchedAt": "2026-11-20T12:53:31.651Z"
+      "fetchedAt": "2026-11-21T12:38:33.372Z"
     },
     {
       "id": "1723221",
@@ -11182,7 +11182,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1228493/",
-      "fetchedAt": "2026-11-20T12:53:31.664Z"
+      "fetchedAt": "2026-11-21T12:38:33.386Z"
     },
     {
       "id": "2021177",
@@ -11655,7 +11655,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/2021177/",
-      "fetchedAt": "2026-11-20T12:53:31.681Z"
+      "fetchedAt": "2026-11-21T12:38:33.405Z"
     },
     {
       "id": "2021193",
@@ -12128,7 +12128,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/2021177/",
-      "fetchedAt": "2026-11-20T12:53:31.694Z"
+      "fetchedAt": "2026-11-21T12:38:33.420Z"
     },
     {
       "id": "2021175",
@@ -12601,7 +12601,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/2021177/",
-      "fetchedAt": "2026-11-20T12:53:31.707Z"
+      "fetchedAt": "2026-11-21T12:38:33.434Z"
     },
     {
       "id": "1962767",
@@ -13076,7 +13076,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/2021177/",
-      "fetchedAt": "2026-11-20T12:53:31.719Z"
+      "fetchedAt": "2026-11-21T12:38:33.448Z"
     },
     {
       "id": "1962732",
@@ -13550,7 +13550,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/2021177/",
-      "fetchedAt": "2026-11-20T12:53:31.733Z"
+      "fetchedAt": "2026-11-21T12:38:33.463Z"
     },
     {
       "id": "1962713",
@@ -14024,7 +14024,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/2021177/",
-      "fetchedAt": "2026-11-20T12:53:31.747Z"
+      "fetchedAt": "2026-11-21T12:38:33.477Z"
     },
     {
       "id": "1959805",
@@ -14497,7 +14497,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/2021177/",
-      "fetchedAt": "2026-11-20T12:53:31.760Z"
+      "fetchedAt": "2026-11-21T12:38:33.491Z"
     },
     {
       "id": "1959921",
@@ -14970,7 +14970,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/2021177/",
-      "fetchedAt": "2026-11-20T12:53:31.773Z"
+      "fetchedAt": "2026-11-21T12:38:33.507Z"
     },
     {
       "id": "1652337",
@@ -15424,7 +15424,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1228493/",
-      "fetchedAt": "2026-11-20T12:53:31.786Z"
+      "fetchedAt": "2026-11-21T12:38:33.521Z"
     },
     {
       "id": "1055469",
@@ -15821,7 +15821,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1055469/",
-      "fetchedAt": "2026-11-20T12:53:31.799Z"
+      "fetchedAt": "2026-11-21T12:38:33.534Z"
     },
     {
       "id": "1611937",
@@ -16245,7 +16245,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1055469/",
-      "fetchedAt": "2026-11-20T12:53:31.813Z"
+      "fetchedAt": "2026-11-21T12:38:33.547Z"
     },
     {
       "id": "1915560",
@@ -16654,7 +16654,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1915560/",
-      "fetchedAt": "2026-11-20T12:53:31.819Z"
+      "fetchedAt": "2026-11-21T12:38:33.554Z"
     },
     {
       "id": "2014513",
@@ -17090,7 +17090,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1915560/",
-      "fetchedAt": "2026-11-20T12:53:31.829Z"
+      "fetchedAt": "2026-11-21T12:38:33.564Z"
     },
     {
       "id": "886785",
@@ -17540,7 +17540,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/886785/",
-      "fetchedAt": "2026-11-20T12:53:31.837Z"
+      "fetchedAt": "2026-11-21T12:38:33.574Z"
     },
     {
       "id": "886689",
@@ -17990,7 +17990,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/886785/",
-      "fetchedAt": "2026-11-20T12:53:31.845Z"
+      "fetchedAt": "2026-11-21T12:38:33.582Z"
     },
     {
       "id": "1463821",
@@ -18450,7 +18450,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1463821/",
-      "fetchedAt": "2026-11-20T12:53:31.855Z"
+      "fetchedAt": "2026-11-21T12:38:33.593Z"
     },
     {
       "id": "1464001",
@@ -18910,7 +18910,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1463821/",
-      "fetchedAt": "2026-11-20T12:53:31.866Z"
+      "fetchedAt": "2026-11-21T12:38:33.604Z"
     },
     {
       "id": "1941179",
@@ -19307,7 +19307,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1915560/",
-      "fetchedAt": "2026-11-20T12:53:31.874Z"
+      "fetchedAt": "2026-11-21T12:38:33.613Z"
     },
     {
       "id": "777655",
@@ -19733,7 +19733,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/777655/",
-      "fetchedAt": "2026-11-20T12:53:31.883Z"
+      "fetchedAt": "2026-11-21T12:38:33.623Z"
     },
     {
       "id": "777730",
@@ -20161,7 +20161,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/777655/",
-      "fetchedAt": "2026-11-20T12:53:31.893Z"
+      "fetchedAt": "2026-11-21T12:38:33.634Z"
     },
     {
       "id": "886725",
@@ -20610,7 +20610,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/886725/",
-      "fetchedAt": "2026-11-20T12:53:31.901Z"
+      "fetchedAt": "2026-11-21T12:38:33.643Z"
     },
     {
       "id": "1462801",
@@ -21073,7 +21073,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1462801/",
-      "fetchedAt": "2026-11-20T12:53:31.912Z"
+      "fetchedAt": "2026-11-21T12:38:33.655Z"
     },
     {
       "id": "1316397",
@@ -21517,7 +21517,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1316397/",
-      "fetchedAt": "2026-11-20T12:53:31.923Z"
+      "fetchedAt": "2026-11-21T12:38:33.667Z"
     },
     {
       "id": "1315317",
@@ -21957,7 +21957,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1316397/",
-      "fetchedAt": "2026-11-20T12:53:31.933Z"
+      "fetchedAt": "2026-11-21T12:38:33.678Z"
     },
     {
       "id": "1705221",
@@ -22397,7 +22397,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1316397/",
-      "fetchedAt": "2026-11-20T12:53:31.941Z"
+      "fetchedAt": "2026-11-21T12:38:33.687Z"
     },
     {
       "id": "1622337",
@@ -22841,7 +22841,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1316397/",
-      "fetchedAt": "2026-11-20T12:53:31.952Z"
+      "fetchedAt": "2026-11-21T12:38:33.698Z"
     },
     {
       "id": "1718241",
@@ -23284,7 +23284,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1316397/",
-      "fetchedAt": "2026-11-20T12:53:31.962Z"
+      "fetchedAt": "2026-11-21T12:38:33.709Z"
     },
     {
       "id": "1316857",
@@ -23726,7 +23726,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1316397/",
-      "fetchedAt": "2026-11-20T12:53:31.971Z"
+      "fetchedAt": "2026-11-21T12:38:33.718Z"
     },
     {
       "id": "1476633",
@@ -24166,7 +24166,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1316397/",
-      "fetchedAt": "2026-11-20T12:53:31.981Z"
+      "fetchedAt": "2026-11-21T12:38:33.729Z"
     },
     {
       "id": "819761",
@@ -24567,7 +24567,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/819761/",
-      "fetchedAt": "2026-11-20T12:53:31.991Z"
+      "fetchedAt": "2026-11-21T12:38:33.740Z"
     },
     {
       "id": "1800201",
@@ -25010,7 +25010,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/819761/",
-      "fetchedAt": "2026-11-20T12:53:31.999Z"
+      "fetchedAt": "2026-11-21T12:38:33.748Z"
     },
     {
       "id": "1795741",
@@ -25452,7 +25452,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/819761/",
-      "fetchedAt": "2026-11-20T12:53:32.009Z"
+      "fetchedAt": "2026-11-21T12:38:33.759Z"
     },
     {
       "id": "819727",
@@ -25855,7 +25855,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/819761/",
-      "fetchedAt": "2026-11-20T12:53:32.018Z"
+      "fetchedAt": "2026-11-21T12:38:33.769Z"
     },
     {
       "id": "819546",
@@ -26257,7 +26257,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/819761/",
-      "fetchedAt": "2026-11-20T12:53:32.026Z"
+      "fetchedAt": "2026-11-21T12:38:33.777Z"
     },
     {
       "id": "1314137",
@@ -26663,7 +26663,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1316397/",
-      "fetchedAt": "2026-11-20T12:53:32.035Z"
+      "fetchedAt": "2026-11-21T12:38:33.787Z"
     },
     {
       "id": "1315817",
@@ -27070,7 +27070,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1316397/",
-      "fetchedAt": "2026-11-20T12:53:32.045Z"
+      "fetchedAt": "2026-11-21T12:38:33.798Z"
     },
     {
       "id": "950277",
@@ -27392,7 +27392,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/950277/",
-      "fetchedAt": "2026-11-20T12:53:32.055Z"
+      "fetchedAt": "2026-11-21T12:38:33.809Z"
     },
     {
       "id": "1196650",
@@ -27747,7 +27747,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/950277/",
-      "fetchedAt": "2026-11-20T12:53:32.060Z"
+      "fetchedAt": "2026-11-21T12:38:33.813Z"
     },
     {
       "id": "950157",
@@ -28073,7 +28073,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/950277/",
-      "fetchedAt": "2026-11-20T12:53:32.064Z"
+      "fetchedAt": "2026-11-21T12:38:33.818Z"
     },
     {
       "id": "783467",
@@ -28534,7 +28534,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/783467/",
-      "fetchedAt": "2026-11-20T12:53:32.070Z"
+      "fetchedAt": "2026-11-21T12:38:33.824Z"
     },
     {
       "id": "1765781",
@@ -28994,7 +28994,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/783467/",
-      "fetchedAt": "2026-11-20T12:53:32.083Z"
+      "fetchedAt": "2026-11-21T12:38:33.836Z"
     },
     {
       "id": "1962389",
@@ -29469,7 +29469,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1962389/",
-      "fetchedAt": "2026-11-20T12:53:32.095Z"
+      "fetchedAt": "2026-11-21T12:38:33.849Z"
     },
     {
       "id": "783448",
@@ -29930,7 +29930,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/783467/",
-      "fetchedAt": "2026-11-20T12:53:32.109Z"
+      "fetchedAt": "2026-11-21T12:38:33.865Z"
     },
     {
       "id": "815448",
@@ -30390,7 +30390,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/783467/",
-      "fetchedAt": "2026-11-20T12:53:32.120Z"
+      "fetchedAt": "2026-11-21T12:38:33.877Z"
     },
     {
       "id": "1323517",
@@ -30850,7 +30850,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/783467/",
-      "fetchedAt": "2026-11-20T12:53:32.132Z"
+      "fetchedAt": "2026-11-21T12:38:33.889Z"
     },
     {
       "id": "1963279",
@@ -31325,7 +31325,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1962389/",
-      "fetchedAt": "2026-11-20T12:53:32.141Z"
+      "fetchedAt": "2026-11-21T12:38:33.902Z"
     },
     {
       "id": "783461",
@@ -31786,7 +31786,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/783467/",
-      "fetchedAt": "2026-11-20T12:53:32.157Z"
+      "fetchedAt": "2026-11-21T12:38:33.918Z"
     },
     {
       "id": "1963375",
@@ -32261,7 +32261,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1962389/",
-      "fetchedAt": "2026-11-20T12:53:32.167Z"
+      "fetchedAt": "2026-11-21T12:38:33.929Z"
     },
     {
       "id": "783441",
@@ -32722,7 +32722,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/783467/",
-      "fetchedAt": "2026-11-20T12:53:32.181Z"
+      "fetchedAt": "2026-11-21T12:38:33.944Z"
     },
     {
       "id": "815582",
@@ -33178,7 +33178,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/783467/",
-      "fetchedAt": "2026-11-20T12:53:32.193Z"
+      "fetchedAt": "2026-11-21T12:38:33.957Z"
     },
     {
       "id": "1963306",
@@ -33653,7 +33653,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1962389/",
-      "fetchedAt": "2026-11-20T12:53:32.204Z"
+      "fetchedAt": "2026-11-21T12:38:33.970Z"
     },
     {
       "id": "1963317",
@@ -34128,7 +34128,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1962389/",
-      "fetchedAt": "2026-11-20T12:53:32.218Z"
+      "fetchedAt": "2026-11-21T12:38:33.984Z"
     },
     {
       "id": "783465",
@@ -34589,7 +34589,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/783467/",
-      "fetchedAt": "2026-11-20T12:53:32.231Z"
+      "fetchedAt": "2026-11-21T12:38:33.999Z"
     },
     {
       "id": "815409",
@@ -35045,7 +35045,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/783467/",
-      "fetchedAt": "2026-11-20T12:53:32.242Z"
+      "fetchedAt": "2026-11-21T12:38:34.012Z"
     },
     {
       "id": "1973515",
@@ -35520,7 +35520,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1962389/",
-      "fetchedAt": "2026-11-20T12:53:32.253Z"
+      "fetchedAt": "2026-11-21T12:38:34.022Z"
     },
     {
       "id": "1908596",
@@ -35988,7 +35988,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1908596/",
-      "fetchedAt": "2026-11-20T12:53:32.267Z"
+      "fetchedAt": "2026-11-21T12:38:34.037Z"
     },
     {
       "id": "1908580",
@@ -36456,7 +36456,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1908596/",
-      "fetchedAt": "2026-11-20T12:53:32.280Z"
+      "fetchedAt": "2026-11-21T12:38:34.051Z"
     },
     {
       "id": "1986622",
@@ -36950,7 +36950,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1908596/",
-      "fetchedAt": "2026-11-20T12:53:32.293Z"
+      "fetchedAt": "2026-11-21T12:38:34.066Z"
     },
     {
       "id": "1828661",
@@ -37421,7 +37421,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1828661/",
-      "fetchedAt": "2026-11-20T12:53:32.306Z"
+      "fetchedAt": "2026-11-21T12:38:34.080Z"
     },
     {
       "id": "1828641",
@@ -37892,7 +37892,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1828661/",
-      "fetchedAt": "2026-11-20T12:53:32.320Z"
+      "fetchedAt": "2026-11-21T12:38:34.095Z"
     },
     {
       "id": "1963258",
@@ -38362,7 +38362,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1828661/",
-      "fetchedAt": "2026-11-20T12:53:32.332Z"
+      "fetchedAt": "2026-11-21T12:38:34.109Z"
     },
     {
       "id": "1828741",
@@ -38834,7 +38834,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1828661/",
-      "fetchedAt": "2026-11-20T12:53:32.346Z"
+      "fetchedAt": "2026-11-21T12:38:34.123Z"
     },
     {
       "id": "1831081",
@@ -39306,7 +39306,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1828661/",
-      "fetchedAt": "2026-11-20T12:53:32.358Z"
+      "fetchedAt": "2026-11-21T12:38:34.137Z"
     },
     {
       "id": "1613801",
@@ -39773,7 +39773,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1613801/",
-      "fetchedAt": "2026-11-20T12:53:32.372Z"
+      "fetchedAt": "2026-11-21T12:38:34.151Z"
     },
     {
       "id": "1614061",
@@ -40240,7 +40240,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1613801/",
-      "fetchedAt": "2026-11-20T12:53:32.380Z"
+      "fetchedAt": "2026-11-21T12:38:34.161Z"
     },
     {
       "id": "1510465",
@@ -40677,7 +40677,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1510465/",
-      "fetchedAt": "2026-11-20T12:53:32.392Z"
+      "fetchedAt": "2026-11-21T12:38:34.173Z"
     },
     {
       "id": "1555457",
@@ -41092,7 +41092,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/1555457/",
-      "fetchedAt": "2026-11-20T12:53:32.403Z"
+      "fetchedAt": "2026-11-21T12:38:34.186Z"
     },
     {
       "id": "742133",
@@ -41424,7 +41424,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/742133/",
-      "fetchedAt": "2026-11-20T12:53:32.410Z"
+      "fetchedAt": "2026-11-21T12:38:34.193Z"
     },
     {
       "id": "785411",
@@ -41763,7 +41763,7 @@
         }
       },
       "sourceUrl": "https://www.garmin.com/de-DE/p/742133/",
-      "fetchedAt": "2026-11-20T12:53:32.415Z"
+      "fetchedAt": "2026-11-21T12:38:34.200Z"
     }
   ]
 }
